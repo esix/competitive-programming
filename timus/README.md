@@ -1,3 +1,21 @@
-Timus Online Judge
-http://acm.timus.ru/
+# [Timus Online Judge](http://acm.timus.ru/)
+
+Compilers:
+- FreePascal 2.6
+- Visual C 2010
+- Visual C++ 2010
+- GCC 4.9
+- G++ 4.9
+- GCC 4.9 C11
+- G++ 4.9 C++11
+- Clang 3.5 C++14
+- Java 1.8
+- Visual C# 2010
+- VB.NET 2010
+- Python 2.7
+- Python 3.4
+- Go 1.3
+- Ruby 1.9
+- Haskell 7.
+- Scala 2.11
 

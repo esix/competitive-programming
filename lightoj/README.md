@@ -1,10 +1,9 @@
-LightOJ
-
-http://www.lightoj.com/index.php
+# [LightOJ] (http://www.lightoj.com/index.php)
 
 
-Languages:
-c
-c++
-java
-pascal
+Compilers:
+- C
+- C++
+- JAVA
+- PASCAL
+
