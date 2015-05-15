@@ -5,8 +5,8 @@ http://uva.onlinejudge.org/
 
 Languages:
 
-C
-JAVA
-C++
-PASCAL
-C++11
+- C
+- JAVA
+- C++
+- PASCAL
+- C++11
