@@ -1,5 +1,4 @@
-# [1000 - Greetings from 
-LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1000)
+# [1000 - Greetings from LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1000)
 
 You are one of the most talented programmers and like to solve 
 challenging problems. And my task is to make your life a bit complex by 
