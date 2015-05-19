@@ -4,7 +4,6 @@
 Compilers:
 
 - C
-- C++
+- [C++](c++.md)
 - JAVA
 - [PASCAL](pascal.md)
-
