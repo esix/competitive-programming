@@ -6,5 +6,5 @@ Compilers:
 - C
 - C++
 - JAVA
-- [PASCAL](pascal)
+- [PASCAL](pascal.md)
 
