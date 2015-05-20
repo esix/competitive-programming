@@ -7,8 +7,8 @@ Compilers:
 - Assembler GC (g++ 4.9.2)
 - Awk (gawk-4.1.1)
 - Bash (bash-4.3.30)
-- Brainf**k (bff 1.0.5)</option>
-- C (gcc 4.9.2)</option>
+- Brainf**k (bff 1.0.5)
+- C (gcc 4.9.2)
 - C# (gmcs 3.10)
 - C++ (g++ 4.3.2)
 - C++ (g++ 4.9.2)
@@ -38,7 +38,7 @@ Compilers:
 - Node.js (0.10.35)
 - Ocaml (ocamlopt 4.01.0)
 - Pascal (fpc 2.6.4)
-- Pascal (gpc 20070904)
+- Pascal (gpc 2007.09.04)
 - Perl (perl 5.20.1)
 - Perl 6 (rakudo-2014-07)
 - PHP (php 5.6.4)
@@ -55,7 +55,7 @@ Compilers:
 - Scheme (stalin 0.11)
 - Sed (sed-4.2)
 - Smalltalk (gst 3.2.4)
-- Tcl (tclsh 8.6)</option>
+- Tcl (tclsh 8.6)
 - Text (plain text)
 - VB.net (vnbc 3.10)
 - Whitespace (wspace 0.3)
