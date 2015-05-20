@@ -4,7 +4,7 @@ Compilers:
 
 - Free Pascal 2.6.2
 - GNU C 4.9
-- GNU C++ 4.9
+- [GNU C++ 4.9](c++.md)
 - Borland Delphi 6 - 14.5
 - Java JDK 1.7
 - PHP 5.2.17
