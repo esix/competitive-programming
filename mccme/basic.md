@@ -1,4 +1,4 @@
 FreeBASIC solutions:
 
-- [224](224/solution.cpp) - Линейный поиск - 2
+- [224](224/solution.bas) - Линейный поиск - 2
 
