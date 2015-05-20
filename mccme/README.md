@@ -14,5 +14,5 @@ Compilers:
 - Ruby 1.8.7
 - Python 3.3
 - Haskell GHC 7.4.2
-- FreeBASIC 1.00.0
+- [FreeBASIC 1.00.0](basic.md)
 - PascalABC 1.8.0.496
