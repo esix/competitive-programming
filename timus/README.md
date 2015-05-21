@@ -5,7 +5,7 @@ Compilers:
 - [FreePascal 2.6](pascal.md)
 - Visual C 2010
 - Visual C++ 2010
-- GCC 4.9
+- [GCC 4.9](c++.md)
 - G++ 4.9
 - GCC 4.9 C11
 - G++ 4.9 C++11
