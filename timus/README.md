@@ -19,4 +19,3 @@ Compilers:
 - Ruby 1.9
 - Haskell 7.
 - Scala 2.11
-
