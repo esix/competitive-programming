@@ -1,12 +1,9 @@
-UVa Online Judge
-
-http://uva.onlinejudge.org/
-
+# [UVa Online Judge](http://uva.onlinejudge.org/)
 
 Languages:
 
 - C
 - JAVA
-- C++
-- PASCAL
+- [C++](c++.md)
+- [PASCAL](pascal.md)
 - C++11
