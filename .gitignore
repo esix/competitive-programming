@@ -4,7 +4,6 @@
 a.out
 *.ow
 *.filters
-*.md
 *.sdf
 *.sln
 *.suo
