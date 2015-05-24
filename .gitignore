@@ -9,5 +9,6 @@ a.out
 *.sln
 *.suo
 *.vcxproj
+*.vcxproj.user
 *.opensdf
 Debug
