@@ -3,3 +3,11 @@
 *.bak
 a.out
 *.ow
+*.filters
+*.md
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.opensdf
+Debug
