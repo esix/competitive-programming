@@ -11,7 +11,7 @@ Compilers:
 - C (gcc 4.9.2)
 - C# (gmcs 3.10)
 - C++ (g++ 4.3.2)
-- C++ (g++ 4.9.2)
+- [C++ (g++ 4.9.2)](c++.md)
 - C++14 (g++ 4.9.2)
 - C99 strict (gcc 4.9.2)
 - Clips (clips 6.24)
