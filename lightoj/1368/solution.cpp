@@ -30,6 +30,7 @@ struct Cell {
 		if(col < rhs.col) return true;
 		if(col > rhs.col) return false;
 		if(corner < rhs.corner) return true;
+		if(corner > rhs.corner) return false;
 		return false;
 	}
 	bool operator==(const Cell& rhs) const {
