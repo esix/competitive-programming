@@ -1,1 +1,1 @@
-http://acm.timus.ru/problem.aspx?space=1&num=1785
+# [1785. Трудности локализации](http://acm.timus.ru/problem.aspx?space=1&num=1785)
