@@ -1,0 +1,5 @@
+This is an example of a simple test. If you did not 
+understand the ciphering algorithm yet, then write the 
+letters of each word in the reverse order. By the way, 
+"reversing" the text twice restores the original text.
+1 12 123
