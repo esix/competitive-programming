@@ -12,7 +12,7 @@ a_prev = 0
 
 for a in as_:
     if a != a_prev:
-       
+
         free_cells = a - a_prev - 1
 
         for i in xrange(free_cells):
