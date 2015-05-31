@@ -8,7 +8,7 @@ Compilers:
 - Borland Delphi 6 - 14.5
 - Java JDK 1.7
 - PHP 5.2.17
-- Python 2.7
+- [Python 2.7](python.md)
 - Perl 5.10.1
 - Mono C# 2.10.8.0
 - Ruby 1.8.7

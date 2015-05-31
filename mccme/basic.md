@@ -1,4 +1,4 @@
-FreeBASIC solutions:
+FreeBASIC 1.00.0 solutions:
 
 - [224](224/solution.bas) - Линейный поиск - 2
 - [460](460/solution.bas) - Проверка на неориентированность
