@@ -3,17 +3,18 @@
 Languages:
 
 - C
+- C#
 - C++
 - Java
-- Pascal
-- Python
-- C#
-- PHP
 - JavaScript
-- Perl
-- Ruby
-- VB.NET
 - Lua
 - Objective-C
+- Pascal
+- Perl
+- PHP
+- Python
+- Ruby
 - Scala
+- SQL
+- VB.NET
 - Go
