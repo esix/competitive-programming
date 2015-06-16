@@ -4,3 +4,5 @@ C++ solutions:
 - [1002](1002/solution.cpp) - Country Roads
 - [1189](1189/solution.cpp) - Sum of Factorials
 - [1238](1238/solution.cpp) - Power Puff Girls
+- [722:C](_contest-722/c.cpp) - Lollipop
+- [722:F](_contest-722/f.cpp) - The Red Planet
