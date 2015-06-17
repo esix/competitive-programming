@@ -1,1 +1,1 @@
-# [Èãğà](http://acmp.ru/index.asp?main=task&id_task=4)
+# [Ğ˜Ğ³Ñ€Ğ°](http://acmp.ru/index.asp?main=task&id_task=4)

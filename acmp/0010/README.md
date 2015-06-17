@@ -1,1 +1,1 @@
-# [Уравнение](http://acmp.ru/index.asp?main=task&id_task=10)
+# [РЈСЂР°РІРЅРµРЅРёРµ](http://acmp.ru/index.asp?main=task&id_task=10)

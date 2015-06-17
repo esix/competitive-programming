@@ -1,1 +1,1 @@
-# [Статистика](http://acmp.ru/index.asp?main=task&id_task=5)
+# [РЎС‚Р°С‚РёСЃС‚РёРєР°](http://acmp.ru/index.asp?main=task&id_task=5)

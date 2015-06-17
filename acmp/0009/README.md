@@ -1,1 +1,1 @@
-# [Домашнее задание](http://acmp.ru/index.asp?main=task&id_task=9)
+# [Р”РѕРјР°С€РЅРµРµ Р·Р°РґР°РЅРёРµ](http://acmp.ru/index.asp?main=task&id_task=9)

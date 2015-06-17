@@ -1,1 +1,1 @@
-# [Пятью пять - двадцать пять!](http://acmp.ru/index.asp?main=task&id_task=3)
+# [РџСЏС‚СЊСЋ РїСЏС‚СЊ - РґРІР°РґС†Р°С‚СЊ РїСЏС‚СЊ!](http://acmp.ru/index.asp?main=task&id_task=3)
