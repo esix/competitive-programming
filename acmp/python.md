@@ -3,7 +3,8 @@ Python 3.4.3 solutions:
 - [0011](0011/solution.py) - Зайчик
 - [0012](0012/solution.py) - Дачники
 - [0013](0013/solution.py) - Быки и коровы
-- [0014](0013/solution.py) - НОК
+- [0014](0014/solution.py) - НОК
+- [0015](0015/solution.py) - Дороги
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
 - [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
