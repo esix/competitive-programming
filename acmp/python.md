@@ -9,6 +9,7 @@ Python 3.4.3 solutions:
 - [0018](0018/solution.py) - Факториал
 - [0019](0019/solution.py) - Ферзь, ладья и конь
 - [0020](0020/solution.py) - Пилообразная последовательность
+- [0021](0021/solution.py) - Зарплата
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
 - [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
