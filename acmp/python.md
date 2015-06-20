@@ -12,6 +12,7 @@ Python 3.4.3 solutions:
 - [0021](0021/solution.py) - Зарплата
 - [0022](0022/solution.py) - Единицы
 - [0023](0023/solution.py) - Гадание
+- [0024](0024/solution.py) - Вырубка деревьев
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
 - [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
