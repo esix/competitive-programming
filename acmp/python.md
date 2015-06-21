@@ -14,6 +14,7 @@ Python 3.4.3 solutions:
 - [0023](0023/solution.py) - Гадание
 - [0024](0024/solution.py) - Вырубка деревьев
 - [0025](0025/solution.py) - Больше-меньше
+- [0026](0026/solution.py) - Две окружности
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
 - [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
