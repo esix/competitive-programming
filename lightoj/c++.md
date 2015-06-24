@@ -8,5 +8,7 @@ C++ solutions:
 - [1015](1015/solution.cpp) - Brush (I)
 - [1189](1189/solution.cpp) - Sum of Factorials
 - [1238](1238/solution.cpp) - Power Puff Girls
+- [1042](1042/solution.cpp) - Secret Origins
+- [1045](1045/solution.cpp) - Digits of Factorial
 - [722:C](_contest-722/c.cpp) - Lollipop
 - [722:F](_contest-722/f.cpp) - The Red Planet

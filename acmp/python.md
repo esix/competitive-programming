@@ -16,8 +16,16 @@ Python 3.4.3 solutions:
 - [0025](0025/solution.py) - Больше-меньше
 - [0026](0026/solution.py) - Две окружности
 - [0028](0028/solution.py) - Симметрия
+- [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
 - [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
 - [40478:D](_contest-40478/D/solution.py) - Задача D. Номера автобусов
 - [40478:E](_contest-40478/E/solution.py) - Задача E. Упрощение номеров
+- [Тренировка №4](_contest-40480/)
+- [40480:A](_contest-40480/A/solution.py) - Задача A. Время года
+- [40480:B](_contest-40480/B/solution.py) - Задача B. Кольцо
+- [40480:C](_contest-40480/C/solution.py) - Задача C. Числа без одинаковых цифр
+- [40480:D](_contest-40480/D/solution.py) - Задача D. Игра со спичками
+- [40480:E](_contest-40480/E/solution.py) - Задача E. Закупка носков
+
