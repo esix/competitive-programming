@@ -1,8 +1,5 @@
-#include <iostream>
-#include <sstream>
-#include <vector>
-#include <set>
-#include <algorithm>
+#include <stdio.h>
+#include <queue>
 
 
 using namespace std;
@@ -12,211 +9,130 @@ using namespace std;
 #define SQ1 (M_PI / 4)
 #define SQ2 (2 - M_PI/4)
 
-enum Corner {
-	NW = 1,
-	NE = 2,
-	SW = 3,
-	SE = 4
-};
+#define MAX_SIZE 100
 
-struct Cell {
-	Cell(int r, int c, Corner cc) : row(r), col(c), corner(cc) {}
-	int row;
-	int col;
-	Corner corner;
-	bool operator<(const Cell& rhs) const {
-		if(row < rhs.row) return true;
-		if(row > rhs.row) return false;
-		if(col < rhs.col) return true;
-		if(col > rhs.col) return false;
-		if(corner < rhs.corner) return true;
-		if(corner > rhs.corner) return false;
-		return false;
-	}
-	bool operator==(const Cell& rhs) const {
-		return row == rhs.row && col == rhs.col && corner == rhs.corner;
-	}
-	string to_string() const {
-		stringstream ss;
-		string dir;
-		switch(corner) {
-			case NE: dir = "NE"; break;
-			case NW: dir = "NW"; break;
-			case SE: dir = "SE"; break;
-			case SW: dir = "SW"; break;
-		}
-		ss << "(" << row << "," << col << ":" << dir << ")";
-		return ss.str();
-	}
-};
 
 
 class TestCase {
 public:
-	TestCase(const vector<string>& lines, int rows, int cols) : m_lines(lines), m_rows(rows), m_cols(cols)
+	TestCase(const char (*lines)[MAX_SIZE], int rows, int cols) : m_lines(lines), m_rows(rows), m_cols(cols)
 	{
 	}
 
 	double solve_point(int y, int x) {
-		set<Cell> pending = get_cells(y, x, set<Cell>());
-		set<Cell> visited;
-
-		while(!pending.empty()) {
-			visited.insert(pending.begin(), pending.end());
-
-			/*set<Cell> adjacent = get_adjacent_cells_for_cells(pending);
-			pending.clear();
-			set_difference(adjacent.begin(), adjacent.end(),
-				visited.begin(), visited.end(),
-				std::inserter(pending, pending.begin()));*/
-			pending = get_adjacent_cells_for_cells(pending, visited);
+		if(y % 2 == 1 && x % 2 == 1) {					// center of cell
+			int row = y / 2, col = x / 2, cell_type = get_cell_type(row, col);
+			return cell_type == 0 ? solve_point(y + 1, x - 1) : solve_point(y - 1, x - 1);
+		}
+		if(y % 2 == 1 || x % 2 == 1) {          // border of curve
+			return 0;
 		}
 
-		double result = 0;
-		//cout << "Point " << y << "," << x << endl << "        ";
-		for(set<Cell>::const_iterator it = visited.begin(); it != visited.end(); it++) {
-			//cout << it->to_string();
-			Cell cell = *it;
-			int v = get_cell_type(cell.row, cell.col);
-			if(v == 0 && (cell.corner == NW || cell.corner == SE)) result += SQ1;
-			if(v == 0 && (cell.corner == SW || cell.corner == NE)) result += SQ2;
-			if(v == 1 && (cell.corner == NW || cell.corner == SE)) result += SQ2;
-			if(v == 1 && (cell.corner == SW || cell.corner == NE)) result += SQ1;
-		}
-		//cout << endl;
-		return result;
+		// x and y are even
+
+		int yy = y, xx = x;
+		if(yy >= 2 * m_rows) yy--;   // special case: bottom border points
+		if(xx >= 2 * m_cols) xx--;   // adn right border points
+
+		return solve_corner_point(yy, xx);
 	}
 
 private:
 	int m_rows, m_cols;
-	vector<string> m_lines;
+	const char (*m_lines)[MAX_SIZE];
+	double * m_results[MAX_SIZE][MAX_SIZE];
 
-	bool is_point_zero(int y, int x) {
-		return (y + x) % 2 == 1;
+	bool is_valid_corner(int y, int x) {
+		return (0 <= y) && (0 <= x) && (y < 2 * m_rows) && (x < 2 * m_cols);
 	}
+
+
+	double solve_corner_point(int y, int x) {
+		if(m_results[y][x]) {
+			return *m_results[y][x];
+		}
+		double *result = new double;
+		*result = 0;
+
+		queue< pair<int, int> > q;
+
+		q.push(make_pair(y, x));
+		m_results[y][x] = result;
+
+		while(!q.empty()){
+			pair<int, int> v = q.front();
+			q.pop();
+			y = v.first;
+			x = v.second;
+
+			//printf("Visiting: %d %d \n", y, x);
+
+			int cell_type = get_cell_type(y/2, x/2);
+
+			int yy = y + (y % 2 ? 1 : -1);   // ajacent point coords
+			int xx = x + (x % 2 ? 1 : -1);
+
+			if(is_valid_corner(y , xx) && !m_results[y ][xx]) { m_results[y ][xx] = result; q.push(make_pair(y , xx)); /*printf("+ Adding %d %d\n", y , xx); */ }
+			if(is_valid_corner(yy, x ) && !m_results[yy][x ]) { m_results[yy][x ] = result; q.push(make_pair(yy, x )); /*printf("+ Adding %d %d\n", yy, x ); */ }
+			if(is_valid_corner(yy, xx) && !m_results[yy][xx]) { m_results[yy][xx] = result; q.push(make_pair(yy, xx)); /*printf("+ Adding %d %d\n", yy, xx); */ }
+
+			if(cell_type == 0 && (x + y) % 2 == 1) {
+				yy = (y / 2) * 2 + x % 2;
+				xx = (x / 2) * 2 + y % 2;
+				if(is_valid_corner(yy, xx) && !m_results[yy][xx]) { m_results[yy][xx] = result; q.push(make_pair(yy, xx)); /*printf("+ Adding %d %d\n", yy, xx); */ }
+
+				(*result) += SQ2;
+			} else if(cell_type == 1 && (x + y) % 2 == 0) {
+				yy = (y / 2) * 2 + 1 - y % 2;
+				xx = (x / 2) * 2 + 1 - x % 2;
+				if(is_valid_corner(yy, xx) && !m_results[yy][xx]) { m_results[yy][xx] = result; q.push(make_pair(yy, xx)); /*printf("+ Adding %d %d\n", yy, xx); */ }
+
+				(*result) += SQ2;
+			} else {
+				(*result) += SQ1;
+			}
+		}
+
+		return *result;
+	}
+
 
 	int get_cell_type(int row, int col) {
 		if(0 <= row && row < m_rows && 0 <= col && col < m_cols) {
 			char c = m_lines[row][col];
 			if(c == '0') return 0;
 			else return 1;
-		} 
+		}
 		return -1;
 	}
 
-	set<Cell> get_cells(int y, int x, const set<Cell>& exclude) {
-		set<Cell> cells;
-
-		if(x % 2 == 1 && y % 2 == 1) {
-			int row = y / 2, col = x / 2;
-			int cell_type = get_cell_type(row, col);
-			if(cell_type == 0) {
-				Cell cellNE(row,col,NE);
-				if(exclude.find(cellNE) == exclude.end()) cells.insert(cellNE);
-				Cell cellSW(row,col,SW);
-				if(exclude.find(cellSW) == exclude.end()) cells.insert(Cell(row,col,SW));
-			} else if(cell_type == 1) {
-				Cell cellNW(row,col,NW);
-				if(exclude.find(cellNW) == exclude.end()) cells.insert(Cell(row,col,NW));
-				Cell cellSE(row,col,SE);
-				if(exclude.find(cellSE) == exclude.end()) cells.insert(Cell(row,col,SE));
-			}
-		} else if(x % 2 == 1 || y % 2 == 1) {
-			// none of cells here
-		} else {
-			int row = y / 2, col = x / 2;
-
-			if(get_cell_type(row-1, col-1) != -1) {
-				Cell cell(row-1, col-1, SE);
-				if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-			}
-
-			if(get_cell_type(row, col-1) != -1) {
-				Cell cell(row, col-1, NE);
-				if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-			}
-
-			if(get_cell_type(row-1, col) != -1) {
-				Cell cell(row-1, col, SW);
-				if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-			}
-
-			if(get_cell_type(row, col) != -1) {
-				Cell cell(row, col, NW);
-				if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-			}
-		}
-		return cells;
-	}
-
-	set<Cell> get_adjacent_cells(const Cell& cell, const set<Cell>& exclude) {
-		int row = cell.row, col = cell.col, y = row * 2, x = cell.col * 2;
-		switch(cell.corner) {
-			case NW: break;
-			case SW: y += 2; break;
-			case NE: x += 2; break;
-			case SE: x += 2; y += 2; break;
-		}
-		int v = get_cell_type(row, col);
-		set<Cell> cells = get_cells(y, x, exclude);
-		if(v == 0 && cell.corner == NE) { 
-			Cell cell(row, col, SW);
-			if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-		}
-		if(v == 0 && cell.corner == SW) { 
-			Cell cell(row, col, NE); 
-			if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-		}
-		if(v == 1 && cell.corner == NW) { 
-			Cell cell(row, col, SE); 
-			if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-		}
-		if(v == 1 && cell.corner == SE) { 
-			Cell cell(row, col, NW); 
-			if(exclude.find(cell) == exclude.end()) cells.insert(cell);
-		}
-		return cells;
-	}
-
-	set<Cell> get_adjacent_cells_for_cells(const set<Cell>& cells, const set<Cell>& exclude) {
-		set<Cell> result;
-		for(set<Cell>::const_iterator it = cells.begin(); it != cells.end(); ++it){
-			set<Cell> adjacent = get_adjacent_cells(*it, exclude);
-			result.insert(adjacent.begin(), adjacent.end());
-		}
-		return result;
-	}
 };
 
 
 
 int main() {
-	ios::sync_with_stdio(false);
-	cout.precision(11);
-
 	int T;
-	cin >> T;
+	scanf("%d\n", &T);
 
 	for(int t = 1; t <= T; t++) {
-		cout << "Case " << t << ":" << endl;
+		printf("Case %d:\n", t);
 		int R,C;
-		cin >> R >> C;
-		vector<string> lines;
+		scanf("%d %d", &R, &C);
+		char lines[MAX_SIZE][100];
 		for(int i = 0; i < R; i++) {
-			string line;
-			cin >> line;
-			lines.push_back(line);
+			scanf("%s", lines[i]);
 		}
 		TestCase tc(lines, R, C);
 		int Q;
-		cin >> Q;
+		scanf("%d", &Q);
+
 		for(int i = 0; i < Q; i++) {
 			int y, x;
-			cin >> y >> x;
-			cout << tc.solve_point(y, x) << endl;
+			scanf("%d %d", &y, &x);
+			printf("%0.10f\n", tc.solve_point(y, x));
 		}
 	}
 
 
-    return 0;
+  return 0;
 }
