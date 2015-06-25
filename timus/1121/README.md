@@ -1,4 +1,1 @@
-http://acm.timus.ru/problem.aspx?space=1&num=1121
-
-1121. Филиалы
-
+# [1121. Филиалы](http://acm.timus.ru/problem.aspx?space=1&num=1121)

@@ -1,0 +1,1 @@
+# [1025. Демократия в опасности](http://acm.timus.ru/problem.aspx?space=1&num=1025)

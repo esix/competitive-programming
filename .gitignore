@@ -11,3 +11,6 @@ a.out
 *.vcxproj.user
 *.opensdf
 Debug
+*.komodoproject
+.komodotools
+
