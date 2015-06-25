@@ -1,5 +1,10 @@
 #include <stdio.h>
+#include <iostream>
+#include <sstream>
+#include <vector>
+#include <set>
 #include <queue>
+#include <algorithm>
 
 
 using namespace std;
@@ -9,14 +14,15 @@ using namespace std;
 #define SQ1 (M_PI / 4)
 #define SQ2 (2 - M_PI/4)
 
-#define MAX_SIZE 100
+#define MAX_SIZE 101
 
 
 
 class TestCase {
 public:
-	TestCase(const char (*lines)[MAX_SIZE], int rows, int cols) : m_lines(lines), m_rows(rows), m_cols(cols)
+	TestCase(const char lines[][MAX_SIZE], int rows, int cols) : m_lines(lines), m_rows(rows), m_cols(cols), m_results{}
 	{
+		
 	}
 
 	double solve_point(int y, int x) {
@@ -36,11 +42,6 @@ public:
 
 		return solve_corner_point(yy, xx);
 	}
-
-private:
-	int m_rows, m_cols;
-	const char (*m_lines)[MAX_SIZE];
-	double * m_results[MAX_SIZE][MAX_SIZE];
 
 	bool is_valid_corner(int y, int x) {
 		return (0 <= y) && (0 <= x) && (y < 2 * m_rows) && (x < 2 * m_cols);
@@ -96,6 +97,12 @@ private:
 		return *result;
 	}
 
+private:
+	int m_rows, m_cols;
+	const char (*m_lines)[MAX_SIZE];
+	double * m_results[2*MAX_SIZE][2*MAX_SIZE];
+
+
 
 	int get_cell_type(int row, int col) {
 		if(0 <= row && row < m_rows && 0 <= col && col < m_cols) {
@@ -111,6 +118,8 @@ private:
 
 
 int main() {
+	ios::sync_with_stdio(false);
+
 	int T;
 	scanf("%d\n", &T);
 
@@ -118,7 +127,7 @@ int main() {
 		printf("Case %d:\n", t);
 		int R,C;
 		scanf("%d %d", &R, &C);
-		char lines[MAX_SIZE][100];
+		char lines[MAX_SIZE][MAX_SIZE];
 		for(int i = 0; i < R; i++) {
 			scanf("%s", lines[i]);
 		}
