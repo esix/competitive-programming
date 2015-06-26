@@ -3,5 +3,14 @@
 *.bak
 a.out
 *.ow
+*.filters
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.user
+*.opensdf
+Debug
 *.komodoproject
 .komodotools
+
