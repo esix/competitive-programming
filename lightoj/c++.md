@@ -10,6 +10,7 @@ C++ solutions:
 - [1045](1045/solution.cpp) - Digits of Factorial
 - [1053](1053/solution.cpp) - Higher Math
 - [1069](1069/solution.cpp) - Lift
+- [1072](1072/solution.cpp) - Calm Down
 - [1189](1189/solution.cpp) - Sum of Factorials
 - [1238](1238/solution.cpp) - Power Puff Girls
 - [1368](1368/solution.cpp) - Truchet Tiling
