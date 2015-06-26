@@ -4,7 +4,7 @@
 Compilers:
 
 - GNU C (MinGW, GCC 4)
-- GNU CPP (MinGW, GCC 4)
+- [GNU CPP (MinGW, GCC 4)](c++.md)
 - Visual Studio C++ 2010
 - C#
 - Visual Studio C 2010
