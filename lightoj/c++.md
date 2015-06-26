@@ -13,3 +13,5 @@ C++ solutions:
 - [1368](1368/solution.cpp) - Truchet Tiling
 - [722:C](_contest-722/c.cpp) - Lollipop
 - [722:F](_contest-722/f.cpp) - The Red Planet
+- [727:A](_contest-727/a.cpp) - Nabab Siraj-Ud-Dowla
+- [727:B](_contest-727/b.cpp) - Kukurer Voy
