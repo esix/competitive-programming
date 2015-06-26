@@ -8,6 +8,7 @@ C++ solutions:
 - [1015](1015/solution.cpp) - Brush (I)
 - [1042](1042/solution.cpp) - Secret Origins
 - [1045](1045/solution.cpp) - Digits of Factorial
+- [1053](1053/solution.cpp) - Higher Math
 - [1189](1189/solution.cpp) - Sum of Factorials
 - [1238](1238/solution.cpp) - Power Puff Girls
 - [1368](1368/solution.cpp) - Truchet Tiling
