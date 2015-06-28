@@ -10,3 +10,4 @@ Free Pascal 2.6.4 solutions:
 - [0009](0009/solution.pas) - Домашнее задание
 - [0010](0010/solution.pas) - Уравнение
 - [0027](0027/solution.pas) - Художник
+- [0029](0029/solution.pas) - Компьютерная игра
