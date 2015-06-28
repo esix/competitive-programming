@@ -16,6 +16,7 @@ Python 3.4.3 solutions:
 - [0025](0025/solution.py) - Больше-меньше
 - [0026](0026/solution.py) - Две окружности
 - [0028](0028/solution.py) - Симметрия
+- [0030](0030/solution.py) - Часы
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
