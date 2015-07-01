@@ -19,6 +19,7 @@ Python 3.4.3 solutions:
 - [0030](0030/solution.py) - Часы
 - [0031](0031/solution.py) - Неподвижные точки
 - [0032](0032/solution.py) - Годовой баланс
+- [0033](0033/solution.py) - Два бандита
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
