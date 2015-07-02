@@ -1,7 +1,11 @@
 #include <iostream>
+#include <set>
+#include <queue>
+#include <vector>
 
 using namespace std;
 
+#define INF 1000000
 
 
 enum Color {
@@ -26,6 +30,10 @@ struct Junction {
     else return t < tb ? Blue : Purple;
   }
 
+  int t0() const { return r; }
+  int t1() const { return r + (init_color == Blue ? tp : tb); }
+  int t2() const { return r + tp + tb; }
+
   Junction copyAtRelativeTime(int t) {
     if(t < r)
       return Junction(init_color, r - t, tb, tp);
@@ -44,27 +52,38 @@ struct Junction {
 struct Road {
   Road() : src(NULL), dst(NULL), len(0) {}
 
-  Road(Junction * p_src, Junction *p_dst, int p_len) : src(p_src), dst(p_dst), len(p_len) {
+  Road(Junction * js, int p_src_idx, int p_dst_idx, int p_len) {
+    src_idx = p_src_idx;
+    dst_idx = p_dst_idx;
+    src = js + src_idx;
+    dst = js + dst_idx;
+    len = p_len;
   }
 
   int getNextOpened(int t) {
     Junction j1 = src->copyAtRelativeTime(t);
     Junction j2 = dst->copyAtRelativeTime(t);
 
-    if(j1.getCurrentColor() == j2.getCurrentColor()) return 0;
+    set<int> ts;    // times to check
+    ts.insert(0);
+    ts.insert(j1.t0());
+    ts.insert(j1.t1());
+    ts.insert(j1.t2());
+    ts.insert(j2.t0());
+    ts.insert(j2.t1());
+    ts.insert(j2.t2());
 
-    if(j1.r < j2.r) {
-      j1 = j1.copyAtRelativeTime(j1.r);
-      j2 = j2.copyAtRelativeTime(j1.r);
-    } else {
-      Junction tmp = j1.copyAtRelativeTime(j2.r);
-      j1 = j2.copyAtRelativeTime(j2.r);
-      j2 = tmp;
+    for(set<int>::iterator it = ts.begin(); it != ts.end(); it++) {
+      if(j1.getColorAt(*it) == j2.getColorAt(*it)) {
+        return t + *it;
+      }
     }
 
-    return 0;
+    return INF;
   }
 
+  int src_idx;
+  int dst_idx;
   Junction *src;
   Junction *dst;
   int len;
@@ -97,13 +116,58 @@ int main() {
     int srcjid, dstjid, len;
     cin >> srcjid >> dstjid >> len;
     srcjid--; dstjid--;
-    rs[i] = Road(js + srcjid, js + dstjid, len);
+    rs[i] = Road(js, srcjid, dstjid, len);
   }
 
 
-  cout.width(4);
-  for(int i = 0; i < 200; i++) {
-    cout << i << ' ' << js[1].getColorAt(i) << ' ' << js[1].copyAtRelativeTime(i).getColorAt(0) << " -> " << js[1].copyAtRelativeTime(i).getColorAt(1)<< endl;;
+  int *dist = new int[N];
+  fill(dist, dist+N, INF);
+  dist[src] = 0;
+
+  int *prev = new int[N];
+  prev[src] = src;
+
+  priority_queue< pair<int, int>, vector< pair<int, int> >, greater< pair<int, int> > > q;
+  q.push(make_pair(0, src));
+
+  while(!q.empty()){
+    pair<int, int> u = q.top();
+    q.pop();
+
+    if(u.first > dist[u.second]) continue;
+
+    int current_id = u.second;
+    Junction *current = js + current_id;
+
+    for (int i = 0; i < M; i++) {
+      Road *r = rs + i;
+      if(r->src != current && r->dst != current) continue;
+      int next_id = (r->src == current ? r->dst_idx : r->src_idx);
+      Junction *next = js + next_id;
+      int len = r->getNextOpened(u.first);
+      if(len != INF) len += r->len;
+      if(dist[next_id] > len) {
+        prev[next_id] = u.second;
+        dist[next_id] = len;
+        q.push(make_pair(len, next_id));
+      }
+    }
+  }
+
+  if(dist[dst] == INF)
+    cout << 0;
+  else {
+    cout << dist[dst] << endl;
+    vector<int> path;
+    int i = dst;
+    while(src != i) {
+      i = prev[i];
+      path.push_back(i);
+    }
+    for(int i = path.size()-1; i >= 0; --i) {
+      cout << path[i] + 1 << ' ';
+    }
+    cout << dst+1 << endl;
   }
 
 
