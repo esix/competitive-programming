@@ -17,6 +17,9 @@ Python 3.4.3 solutions:
 - [0026](0026/solution.py) - Две окружности
 - [0028](0028/solution.py) - Симметрия
 - [0030](0030/solution.py) - Часы
+- [0031](0031/solution.py) - Неподвижные точки
+- [0032](0032/solution.py) - Годовой баланс
+- [0033](0033/solution.py) - Два бандита
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
@@ -29,4 +32,3 @@ Python 3.4.3 solutions:
 - [40480:C](_contest-40480/C/solution.py) - Задача C. Числа без одинаковых цифр
 - [40480:D](_contest-40480/D/solution.py) - Задача D. Игра со спичками
 - [40480:E](_contest-40480/E/solution.py) - Задача E. Закупка носков
-
