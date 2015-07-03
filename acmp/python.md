@@ -30,6 +30,7 @@ Python 3.4.3 solutions:
 - [0040](0040/solution.py) - 2^N
 - [0041](0041/solution.py) - Сортировка подсчетом
 - [0042](0042/solution.py) - Драконы
+- [0043](0043/solution.py) - Нули
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
