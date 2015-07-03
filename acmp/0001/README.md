@@ -1,1 +1,1 @@
-# [A+B](http://acmp.ru/index.asp?main=task&id_task=1)
+﻿# [A+B](http://acmp.ru/index.asp?main=task&id_task=1)
