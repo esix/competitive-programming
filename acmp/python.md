@@ -1,5 +1,6 @@
 Python 3.4.3 solutions:
 
+- [0001](0001/solution.py) - A+B
 - [0011](0011/solution.py) - Зайчик
 - [0012](0012/solution.py) - Дачники
 - [0013](0013/solution.py) - Быки и коровы
@@ -21,6 +22,7 @@ Python 3.4.3 solutions:
 - [0032](0032/solution.py) - Годовой баланс
 - [0033](0033/solution.py) - Два бандита
 - [0034](0034/solution.py) - Секретное сообщение
+- [0035](0035/solution.py) - Конечные автоматы
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
