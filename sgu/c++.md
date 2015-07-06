@@ -5,3 +5,4 @@ GNU CPP (MinGW, GCC 4) solutions:
 - [102](102/solution.cpp) - Coprimes
 - [103](103/solution.cpp) - Traffic Lights
 - [104](104/solution.cpp) - Little shop of flowers
+- [105](105/solution.cpp) - Div 3
