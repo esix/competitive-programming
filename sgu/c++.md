@@ -7,3 +7,4 @@ GNU CPP (MinGW, GCC 4) solutions:
 - [104](104/solution.cpp) - Little shop of flowers
 - [105](105/solution.cpp) - Div 3
 - [106](106/solution.cpp) - The equation
+- [107](107/solution.cpp) - 987654321 problem
