@@ -3,96 +3,78 @@
 
 using namespace std;
 
-#define ABS(x) ((x) >= 0 ? (x) : -(x))
-
-template <typename T>
-T GCD(T n1, T remainder) {
-	if(remainder==0)
-		return(n1);
-	else
-    return GCD(remainder, n1 % remainder);
-}
-
-
-template<typename T>
-T LCM(T a, T b) {
-  return ABS(a) * ABS(b) / GCD(a,b);
-}
-
-
-
-
-template<typename T>
-class Rational {
-public:
-
-  class ValueException: public exception {
-    virtual const char* what() const throw() {
-      return "Invalid denominator";
-    }
-  };
-
-  Rational()                     : n(0), d(static_cast<T>(1)) {}
-  Rational(T num)                : n(num), d(1) {}
-  Rational(const Rational<T>& r) : n(r.n), d(r.d) {}
-
-  Rational(T num, T denom) : n(num), d(denom){
-    if(d == 0) throw ValueException();
-    reduce();
-  }
-
-  T numerator()   const { return n; }
-  T denominator() const { return d; }
-  T floor()       const { return n / d; }
-
-  Rational<T> operator-() const { return Rational(-n, d); }
-
-  Rational operator+(const Rational<T>& r) const { return Rational((n * r.d) + (r.n * d), r.d * d); }
-  Rational operator-(const Rational<T>& r) const { return Rational((n * r.d) - (r.n * d), r.d * d); }
-  Rational operator*(const Rational<T>& r) const { return Rational(n * r.n, d * r.d); }
-
-  Rational operator*(const T v) const { return Rational(n * v, d); }
-  // TODO: right multiplication
-  bool operator < (const T v) const { return n <  d*v; }    // d > 0
-  bool operator <=(const T v) const { return n <= d*v; }
-  bool operator > (const T v) const { return n >  d*v; }
-  bool operator >=(const T v) const { return n >= d*v; }
-
-  bool is_integer() const { return d == static_cast<T>(1); }
-
-private:
-  T n, d;
-
-  void reduce() {
-	  T rdc;
-    if(d < 0) {
-      d = -d; n = -n;
-    }
-    if(d > ABS(n))
-      rdc = GCD<T>(d, ABS(n));
-    else
-      rdc = GCD<T>(ABS(n), d);
-
-    n /= rdc;
-    d /= rdc;
-  }
-
-  template <typename K>
-  friend ostream& operator<<(ostream& os, const Rational<K>& r);
-};
-
-template<typename T>
-ostream& operator<<(ostream& os, const Rational<T>& r)
-{
-    os << r.n;
-    if(r.d != 1) os << '/' << r.d;
-    return os;
-}
-
-
 typedef long long int INT;
-typedef Rational<INT> RAT;
 
+#define abs(x) ((x) >= 0 ? (x) : -(x))
+
+INT gcd (INT a, INT b, INT & x, INT & y) {
+	if (a == 0) {
+		x = 0; y = 1;
+		return b;
+	}
+	INT x1, y1;
+	INT d = gcd (b%a, a, x1, y1);
+	x = y1 - (b / a) * x1;
+	y = x1;
+	return d;
+}
+
+bool find_any_solution (INT a, INT b, INT c, INT & x0, INT & y0, INT & g) {
+	g = gcd (abs(a), abs(b), x0, y0);
+	if (c % g != 0)
+		return false;
+	x0 *= c / g;
+	y0 *= c / g;
+	if (a < 0)   x0 *= -1;
+	if (b < 0)   y0 *= -1;
+	return true;
+}
+
+void shift_solution (INT & x, INT & y, INT a, INT b, INT cnt) {
+	x += cnt * b;
+	y -= cnt * a;
+}
+
+INT find_all_solutions (INT a, INT b, INT c, INT minx, INT maxx, INT miny, INT maxy) {
+	INT x, y, g;
+	if (! find_any_solution (a, b, c, x, y, g))
+		return 0;
+	a /= g;  b /= g;
+
+	INT sign_a = a>0 ? +1 : -1;
+	INT sign_b = b>0 ? +1 : -1;
+
+	shift_solution (x, y, a, b, (minx - x) / b);
+	if (x < minx)
+		shift_solution (x, y, a, b, sign_b);
+	if (x > maxx)
+		return 0;
+	INT lx1 = x;
+
+	shift_solution (x, y, a, b, (maxx - x) / b);
+	if (x > maxx)
+		shift_solution (x, y, a, b, -sign_b);
+	INT rx1 = x;
+
+	shift_solution (x, y, a, b, - (miny - y) / a);
+	if (y < miny)
+		shift_solution (x, y, a, b, -sign_a);
+	if (y > maxy)
+		return 0;
+	INT lx2 = x;
+
+	shift_solution (x, y, a, b, - (maxy - y) / a);
+	if (y > maxy)
+		shift_solution (x, y, a, b, sign_a);
+	INT rx2 = x;
+
+	if (lx2 > rx2)
+		swap (lx2, rx2);
+	INT lx = max (lx1, lx2);
+	INT rx = min (rx1, rx2);
+
+	return (rx - lx) / abs(b) + 1;
+}
 
 
 int main() {
@@ -104,35 +86,32 @@ int main() {
   if(x2 < x1) swap(x1, x2);
   if(y2 < y1) swap(y2, y1);
 
-  if(ABS(A) > ABS(B)) {
-    swap(A,B);
-    swap(x1,y1);
-    swap(x2,y2);
-  }
-
-
   INT result;
 
   if(A == 0 && B == 0 && C == 0) {
     result = (x2-x1 + 1) * (y2 - y1 + 1);
-  } else if(A == 0 && B == 0 && C != 0) {
+  } else if(A == 0 && B == 0) {
     result = 0;
-  } else {
-    C = -C;   // Ax+By = C
-
-    INT gcdAB = GCD(A, B);
-    if (C % gcdAB != 0) {
-      result = 0;
+  } else if(A == 0) {
+    // By = C
+    INT y = C / B;
+    if(C % B == 0 && y1 <= y && y <= y2) {
+      result = x2 - x1 + 1;
     } else {
-      A /= gcdAB;
-      B /= gcdAB;
-      C /= gcdAB;
-      cout << A <<"x + " << B << " y + "<<C << " = 0"<< endl;
-
-
+      result = 0;
     }
+  } else if(B == 0) {
+    // AX = C
+    INT x = C / A;
+    if(C % A == 0 && x1 <= x && x <= x2) {
+      result = y2 - y1 + 1;
+    } else {
+      result = 0;
+    }
+  } else {
+    C = -C;
+    result = find_all_solutions(A, B, C, x1, x2, y1, y2);
   }
-
 
   cout << result;
 
