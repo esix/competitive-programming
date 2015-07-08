@@ -1,7 +1,8 @@
 C++ solutions:
 
-- [200](200/solution.cpp) - Rare Order 
+- [102](102/solution.cpp) - Ecological Bin Packing
+- [200](200/solution.cpp) - Rare Order
 - [300](300/solution.cpp) - Maya Calendar
-- [400](400/solution.cpp) - Unix ls 
+- [400](400/solution.cpp) - Unix ls
 - [601](601/solution.cpp) - The PATH
 - [700](700/solution.cpp) - Date Bugs
