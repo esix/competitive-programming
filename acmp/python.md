@@ -37,6 +37,7 @@ Python 3.4.3 solutions:
 - [0047](0047/solution.py) - Наилучший делитель
 - [0048](0048/solution.py) - Наихудший делитель
 - [0049](0049/solution.py) - Шаблоны
+- [0050](0050/solution.py) - Строки
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
