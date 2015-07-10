@@ -39,6 +39,7 @@ Python 3.4.3 solutions:
 - [0049](0049/solution.py) - Шаблоны
 - [0050](0050/solution.py) - Строки
 - [0051](0051/solution.py) - Факториалы!!!
+- [0052](0052/solution.py) - Счастливый билет
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
