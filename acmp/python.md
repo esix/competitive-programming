@@ -43,6 +43,7 @@ Python 3.4.3 solutions:
 - [0053](0053/solution.py) - Раскраска таблицы умножения
 - [0054](0054/solution.py) - Теория игр
 - [0055](0055/solution.py) - Фонарики
+- [0056](0056/solution.py) - Jивой Jурнал
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
