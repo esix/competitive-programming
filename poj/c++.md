@@ -8,4 +8,3 @@ GNU CPP (MinGW, GCC 4) solutions:
 - [105](105/solution.cpp) - Div 3
 - [106](106/solution.cpp) - The equation
 - [107](107/solution.cpp) - 987654321 problem
-- [108](108/solution.cpp) - Self-numbers 2
