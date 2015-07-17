@@ -55,6 +55,7 @@ Python 3.4.3 solutions:
 - [0066](0066/solution.py) - Клавиатура
 - [0067](0067/solution.py) - Маска подсетей
 - [0068](0068/solution.py) - Дом - Школа - Дом
+- [0069](0069/solution.py) - N-угольное колесо
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
