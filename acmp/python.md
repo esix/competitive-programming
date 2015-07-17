@@ -52,6 +52,7 @@ Python 3.4.3 solutions:
 - [0063](0063/solution.py) - Загадка
 - [0064](0064/solution.py) - Простой ряд
 - [0065](0065/solution.py) - Расстояние Хэмминга
+- [0066](0066/solution.py) - Клавиатура
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
