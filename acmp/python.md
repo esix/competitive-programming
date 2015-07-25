@@ -63,6 +63,7 @@ Python 3.4.3 solutions:
 - [0074](0074/solution.py) - Прыжки с шестом
 - [0075](0075/solution.py) - Сумма произведений
 - [0076](0076/solution.py) - Музей
+- [0077](0077/solution.py) - Нолики
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
