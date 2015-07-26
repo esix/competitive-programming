@@ -66,6 +66,7 @@ Python 3.4.3 solutions:
 - [0077](0077/solution.py) - Нолики
 - [0078](0078/solution.py) - Бутылки
 - [0079](0079/solution.py) - Последняя цифра A^B
+- [0080](0080/solution.py) - Тождество
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
