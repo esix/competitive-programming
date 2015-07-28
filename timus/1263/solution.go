@@ -23,6 +23,6 @@ func main() {
 	}
 
 	for i := 0; i < n; i++ {
-		fmt.Printf("%.2f%%\n", float64(voices[i]) * 100.0 / float64(m))
+		fmt.Printf("%.2f%%\n", float64(voices[i])*100.0/float64(m))
 	}
 }
