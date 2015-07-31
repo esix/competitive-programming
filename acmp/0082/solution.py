@@ -1,0 +1,5 @@
+I = open('input.txt', 'r')
+n, m = list(map(int, I.readline().split(' ')[0:2]))
+a = set(map(int, I.readline().split(' ')[0:n]))
+b = set(map(int, I.readline().split(' ')[0:m]))
+open('output.txt', 'w').write(' '.join(map(str, sorted(a.intersection(b)))))
