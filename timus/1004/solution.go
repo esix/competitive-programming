@@ -4,8 +4,6 @@ import (
 	"fmt"
 )
 
-const inf = 100000
-
 func min(a, b int64) int64 {
    if a < b {
       return a
@@ -15,6 +13,23 @@ func min(a, b int64) int64 {
 
 var w [][]int64
 var n int
+
+
+type graph struct {
+  name string // name of the object
+  value int // its value
+}
+
+
+func dijkstra(start int, end int, exclude int) (int, []int) {
+	return 0, make([]int, 2)
+}
+
+
+func solve(from int) []int {
+	res := make([]int, 2)
+	return res
+}
 
 
 
@@ -32,7 +47,7 @@ func main() {
     for i := 0; i < n; i++ {
       w[i] = make([]int64, n)
       for j := 0; j < n; j++ {
-        w[i][j] = inf
+        w[i][j] = -1
       }
     }
 
@@ -40,16 +55,10 @@ func main() {
       var a, b int
       var l int64
       fmt.Scan(&a, &b, &l)
-      w[a-1][b-1] = min(l, w[a-1][b-1])
-      w[b-1][a-1] = min(l, w[b-1][a-1])
-    }
-
-    for k := 0; k < n; k++ {
-      for i := 0; i < n; i++ {
-        for j := 0; j < n; j++ {
-          w[i][j] = min(w[i][j], w[i][k] + w[k][j])
-        }
-      }
+			if w[a-1][b-1] == -1 || l < w[a-1][b-1] {
+				w[a-1][b-1] = l
+	      w[b-1][a-1] = l
+			}
     }
 
     for i := 0; i < n; i++ {
