@@ -69,6 +69,7 @@ Python 3.4.3 solutions:
 - [0080](0080/solution.py) - Тождество
 - [0081](0081/solution.py) - Арбузы
 - [0082](0082/solution.py) - Пересечение множеств
+- [0083](0083/solution.py) - Симпатичные узоры
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
