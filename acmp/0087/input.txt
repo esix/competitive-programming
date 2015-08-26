@@ -1,0 +1,5 @@
+aa
+aaaa
+ab
+abaa
+ENDOFINPUT
