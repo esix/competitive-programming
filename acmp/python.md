@@ -76,6 +76,7 @@ Python 3.4.3 solutions:
 - [0087](0087/solution.py) - Строки - 2
 - [0088](0088/solution.py) - Судоку
 - [0089](0089/solution.py) - Быстрый поезд
+- [0090](0090/solution.py) - Треугольные страны
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
