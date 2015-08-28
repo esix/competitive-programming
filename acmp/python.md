@@ -79,6 +79,7 @@ Python 3.4.3 solutions:
 - [0090](0090/solution.py) - Треугольные страны
 - [0091](0091/solution.py) - Две последовательности
 - [0092](0092/solution.py) - Журавлики
+- [0093](0093/solution.py) - Боги
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
