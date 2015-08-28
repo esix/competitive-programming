@@ -13,4 +13,5 @@ a.out
 Debug
 *.komodoproject
 .komodotools
-
+solution
+*.hi
