@@ -83,6 +83,7 @@ Python 3.4.3 solutions:
 - [0094](0094/solution.py) - Принц и дракон
 - [0095](0095/solution.py) - Нумеролог
 - [0096](0096/solution.py) - Винни-пух
+- [0097](0097/solution.py) - Заповедники
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
