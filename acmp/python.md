@@ -85,6 +85,7 @@ Python 3.4.3 solutions:
 - [0096](0096/solution.py) - Винни-пух
 - [0097](0097/solution.py) - Заповедники
 - [0098](0098/solution.py) - Игра в числа
+- [0099](0099/solution.py) - Лабиринт
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
