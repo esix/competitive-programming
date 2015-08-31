@@ -87,6 +87,7 @@ Python 3.4.3 solutions:
 - [0098](0098/solution.py) - Игра в числа
 - [0099](0099/solution.py) - Лабиринт
 - [0100](0100/solution.py) - Счастливые билеты
+- [0101](0101/solution.py) - Магараджа
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
