@@ -89,7 +89,8 @@ Python 3.4.3 solutions:
 - [0100](0100/solution.py) - Счастливые билеты
 - [0101](0101/solution.py) - Магараджа
 - [0102](0102/solution.py) - Треугольник
-- [0102](0102/solution.py) - Снова A+B
+- [0103](0103/solution.py) - Снова A+B
+- [0104](0104/solution.py) - Шаблон
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
