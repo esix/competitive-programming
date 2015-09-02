@@ -91,6 +91,7 @@ Python 3.4.3 solutions:
 - [0102](0102/solution.py) - Треугольник
 - [0103](0103/solution.py) - Снова A+B
 - [0104](0104/solution.py) - Шаблон
+- [0105](0105/solution.py) - Раскопки
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
