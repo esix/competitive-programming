@@ -55,9 +55,11 @@ int main() {
     vector<int> l(n);
     for(int j = 0; j < n; j++) {
       cin >> l[j];
+      l[j]--;
     }
     int s = solve2(l);
     if(gt == -1 || gt < s) {
+      gt = s;
       res = i+1;
     }
   }
