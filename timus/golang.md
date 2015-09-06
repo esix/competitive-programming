@@ -29,6 +29,7 @@ Go 1.3 solutions:
 - [1585](1585/solution.go) - Пингвины
 - [1567](1567/solution.go) - SMS-спам
 - [1607](1607/solution.go) - Такси
+- [1617](1617/solution.go) - Ползуны
 - [1636](1636/solution.go) - Penalty Time
 - [1639](1639/solution.go) - Шоколад 2
 - [1787](1787/solution.go) - Поворот на МЕГУ
