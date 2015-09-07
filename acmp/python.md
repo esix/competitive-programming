@@ -98,6 +98,7 @@ Python 3.4.3 solutions:
 - [0109](0109/solution.py) - A / B
 - [0111](0111/solution.py) - Игра «Пуговицы»
 - [0114](0114/solution.py) - Без двух нулей подряд
+- [0115](0115/solution.py) - Прямоугольник
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
