@@ -20,7 +20,7 @@ Languages:
 - Perl 5.12
 - PHP 5.3
 - Python 2.7
-- Python 3.4
+- [Python 3.4](python34.md)
 - PyPy 2.5.0
 - PyPy 3.2.5
 - Ruby 2
