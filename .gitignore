@@ -16,3 +16,7 @@ Debug
 solution
 *.hi
 *.pyc
+
+# ocaml
+*.cmi
+*.cmo
