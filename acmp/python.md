@@ -111,6 +111,7 @@ Python 3.4.3 solutions:
 - [0126](0126/solution.py) - Издевательство
 - [0127](0127/solution.py) - Путь
 - [0128](0128/solution.py) - Один конь
+- [0129](0129/solution.py) - Табличка
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
