@@ -1,6 +1,5 @@
 open Char;;
 open String;;
-#load "str.cma";;
 
 let letters_of_num col =
   let rec letters_of_num' col =
