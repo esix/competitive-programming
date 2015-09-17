@@ -19,7 +19,7 @@ Languages:
 - Free Pascal 2
 - Perl 5.12
 - PHP 5.3
-- Python 2.7
+- [Python 2.7](python27.md)
 - [Python 3.4](python34.md)
 - PyPy 2.5.0
 - PyPy 3.2.5
