@@ -1,4 +1,4 @@
-Python 3.4] solutions:
+Python 3.4 solutions:
 
 - [557A](557A/solution.py) - Таблица умножения
 - [578A](578A/solution.py) - Задача про ломаную

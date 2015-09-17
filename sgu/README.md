@@ -1,4 +1,4 @@
-# [Saratov State University :: Online Contester](http://acm.sgu.ru/index.php))
+# [Saratov State University :: Online Contester](http://acm.sgu.ru/index.php)
 
 
 Compilers:
