@@ -114,6 +114,7 @@ Python 3.4.3 solutions:
 - [0129](0129/solution.py) - Табличка
 - [0130](0130/solution.py) - Два коня
 - [0131](0131/solution.py) - Перепись
+- [0132](0132/solution.py) - Алгоритм Дейкстры
 - [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
 - [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
