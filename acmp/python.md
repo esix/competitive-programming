@@ -1,4 +1,4 @@
-Python 3.4.3 solutions:
+# Python 3.4.3 solutions:
 
 - [0001](0001/solution.py) - A+B
 - [0011](0011/solution.py) - Зайчик
@@ -115,15 +115,20 @@ Python 3.4.3 solutions:
 - [0130](0130/solution.py) - Два коня
 - [0131](0131/solution.py) - Перепись
 - [0132](0132/solution.py) - Алгоритм Дейкстры
-- [Тренировка №2](_contest-40478/)
-- [40478:A](_contest-40478/A/solution.py) - Задача A. Мышка
-- [40478:B](_contest-40478/B/solution.py) - Задача B. Перевязь
-- [40478:C](_contest-40478/C/solution.py) - Задача C. Всем известно
-- [40478:D](_contest-40478/D/solution.py) - Задача D. Номера автобусов
-- [40478:E](_contest-40478/E/solution.py) - Задача E. Упрощение номеров
-- [Тренировка №4](_contest-40480/)
-- [40480:A](_contest-40480/A/solution.py) - Задача A. Время года
-- [40480:B](_contest-40480/B/solution.py) - Задача B. Кольцо
-- [40480:C](_contest-40480/C/solution.py) - Задача C. Числа без одинаковых цифр
-- [40480:D](_contest-40480/D/solution.py) - Задача D. Игра со спичками
-- [40480:E](_contest-40480/E/solution.py) - Задача E. Закупка носков
+### [Тренировка №2](_contest-40478/)
+- [40478:A](_contest-40478/A/solution.py) - Мышка
+- [40478:B](_contest-40478/B/solution.py) - Перевязь
+- [40478:C](_contest-40478/C/solution.py) - Всем известно
+- [40478:D](_contest-40478/D/solution.py) - Номера автобусов
+- [40478:E](_contest-40478/E/solution.py) - Упрощение номеров
+### [Тренировка №4](_contest-40480/)
+- [40480:A](_contest-40480/A/solution.py) - Время года
+- [40480:B](_contest-40480/B/solution.py) - Кольцо
+- [40480:C](_contest-40480/C/solution.py) - Числа без одинаковых цифр
+- [40480:D](_contest-40480/D/solution.py) - Игра со спичками
+- [40480:E](_contest-40480/E/solution.py) - Закупка носков
+### [Первая личная олимпида](_contest-40495/)
+- [40495:A](_contest-40495/A/solution.py) - Камень, ножницы, бумага
+- [40495:B](_contest-40495/B/solution.py) - В автобусе
+- [40495:C](_contest-40495/C/solution.py) - Шары
+- [40495:D](_contest-40495/D/solution.py) - Военная академия
