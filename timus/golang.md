@@ -33,6 +33,7 @@ Go 1.3 solutions:
 - [1636](1636/solution.go) - Penalty Time
 - [1639](1639/solution.go) - Шоколад 2
 - [1654](1654/solution.go) - Шифровка
+- [1723](1723/solution.go) - Книга Сандро
 - [1787](1787/solution.go) - Поворот на МЕГУ
 - [1820](1820/solution.go) - Уральские бифштексы
 - [1837](1837/solution.go) - Число Исенбаева
