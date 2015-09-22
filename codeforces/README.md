@@ -4,7 +4,7 @@ Languages:
 
 - GNU GCC 4.9.2
 - GNU GCC C11 4.9.2
-- GNU G++ 4.9.2
+- [GNU G++ 4.9.2](c++.md)
 - GNU G++11 4.9.2
 - Microsoft Visual C++ 2010
 - C# Mono 2.10
