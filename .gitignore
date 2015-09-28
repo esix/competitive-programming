@@ -20,3 +20,8 @@ solution
 # ocaml
 *.cmi
 *.cmo
+
+# tests
+_snippets/t/*
+!_snippets/t/*.cpp
+!_snippets/t/Makefile
