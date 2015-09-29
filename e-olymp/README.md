@@ -5,9 +5,8 @@ Compilers:
 - Judge Haskell
 - Judge C#
 - Judge Pascal
-- Judge C++
+- [Judge C++](c++.md)
 - Judge Java
 - Judge PHP
 - Judge Python
 - Judge Ruby
-
