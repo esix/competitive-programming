@@ -1,5 +1,10 @@
-// in case std::tuple not defined (C++11)
-// and necassary three values
+#include <iostream>
+#include <utility>
+#include <vector>
+#include <string>
+#include <sstream>
+#include <algorithm>
+#include <map>
 
 namespace std {
 
@@ -53,3 +58,43 @@ inline triple<_T1, _T2, _T3> make_triple(_T1 __x, _T2 __y, _T3 __z)
 { return triple<_T1, _T2, _T3>(__x, __y, __z); }
 
 }// namespace std
+
+
+
+using namespace std;
+
+
+int main() {
+  cin.tie(0);
+  ios::sync_with_stdio(false);
+
+  const int INF = 1000000000;
+
+  int T, n, m, a, b, cost;
+  cin >> T;
+
+  while(T--) {
+    cin >> n >> m;
+    vector< triple<int, int, int> > e(m);
+    vector<int> d(n);
+    for(int i = 0; i < m; i++) {
+      cin >> e[i].first >> e[i].second >> e[i].third;
+    }
+
+    bool possible;
+    for (int i=0; i<n; ++i) {
+      possible = false;
+      for (int j=0; j<m; ++j) {
+        e[j].populate(a, b, cost);
+        if (d[b] > d[a] + cost) {
+          d[b] = max(-INF, d[a] + cost);
+          possible = true;
+        }
+      }
+    }
+
+    cout << (possible ? "possible" : "not possible") << endl;
+  }
+
+  return 0;
+}
