@@ -10,3 +10,4 @@
 - [601](601/solution.cpp) - The PATH
 - [640](640/solution.cpp) - Self Numbers
 - [700](700/solution.cpp) - Date Bugs
+- [10099](10099/solution.cpp) - The Tourist Guide
