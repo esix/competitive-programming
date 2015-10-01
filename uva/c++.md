@@ -5,6 +5,7 @@
 - [300](300/solution.cpp) - Maya Calendar
 - [400](400/solution.cpp) - Unix ls
 - [423](423/solution.cpp) - MPI Maelstrom
+- [515](515/solution.cpp) - King
 - [534](534/solution.cpp) - Frogger
 - [558](558/solution.cpp) - Wormholes
 - [601](601/solution.cpp) - The PATH
