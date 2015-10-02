@@ -1,2 +1,2 @@
-# [1015 - Brush (I)](http://www.lightoj.com/volume_showproblem.php?problem=1015)
+# [Brush (I)](http://www.lightoj.com/volume_showproblem.php?problem=1015)
 
