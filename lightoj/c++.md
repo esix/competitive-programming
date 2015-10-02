@@ -15,6 +15,7 @@ C++ solutions:
 - [1109](1109/solution.cpp) - False Ordering
 - [1113](1113/solution.cpp) - Discover the Web
 - [1116](1116/solution.cpp) - Ekka Dokka
+- [1133](1133/solution.cpp) - Array Simulation
 - [1189](1189/solution.cpp) - Sum of Factorials
 - [1238](1238/solution.cpp) - Power Puff Girls
 - [1368](1368/solution.cpp) - Truchet Tiling
