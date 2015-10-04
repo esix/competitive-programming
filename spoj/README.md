@@ -2,7 +2,7 @@
 
 Compilers:
 
-- ADA 95 (gnat 4.9.2)
+- [ADA 95 (gnat 4.9.2)](ada.md)
 - Assembler (nasm 2.11.05)
 - Assembler GC (g++ 4.9.2)
 - Awk (gawk-4.1.1)
@@ -59,4 +59,3 @@ Compilers:
 - Text (plain text)
 - VB.net (vnbc 3.10)
 - Whitespace (wspace 0.3)
-

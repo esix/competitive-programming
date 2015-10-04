@@ -1,4 +1,4 @@
-# [MUL - Fast Multiplication](http://www.spoj.com/problems/MUL/)
+# [Fast Multiplication](http://www.spoj.com/problems/MUL/)
 Multiply the given numbers.
 
 
@@ -8,12 +8,12 @@ n [the number of multiplications <= 1000]
 l1 l2 [numbers to multiply (at most 10000 decimal digits each)]
 
 Text grouped in [ ] does not appear in the input file.
- 
+
 
 ## Output
 
 The results of multiplications.
- 
+
 
 ## Example
 

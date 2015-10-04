@@ -1,4 +1,4 @@
-Python (python 2.7.9) solutions:
+Python (python 2.7.9):
 
 - [FCTRL](FCTRL/solution.py) - Factorial
 - [FCTRL2](FCTRL2/solution.py) - Small factorials

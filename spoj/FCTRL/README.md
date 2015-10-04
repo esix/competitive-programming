@@ -1,1 +1,1 @@
-# [FCTRL - Factorial](http://www.spoj.com/problems/FCTRL/)
+# [Factorial](http://www.spoj.com/problems/FCTRL/)

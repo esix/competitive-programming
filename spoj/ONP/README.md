@@ -1,1 +1,1 @@
-# [ONP - Transform the Expression](http://www.spoj.com/problems/ONP/)
+# [Transform the Expression](http://www.spoj.com/problems/ONP/)
