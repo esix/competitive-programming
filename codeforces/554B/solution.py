@@ -1,5 +1,5 @@
 
-n = int(raw_input())
+n = int(input())
 
 
 ls = {}
@@ -7,7 +7,7 @@ m = 0
 
 
 for i in range(n):
-    s = raw_input()
+    s = input()
     if s not in ls:
         ls[s] = 0
     val = ls[s]
@@ -16,4 +16,4 @@ for i in range(n):
         m = val
     ls[s] = val
 
-print m
+print(m)

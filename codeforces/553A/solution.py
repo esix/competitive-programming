@@ -1,9 +1,9 @@
-k = int(raw_input())
+k = int(input())
 
 h = []
 
-for i in xrange(k):
-    h.append(int(raw_input()))
+for i in range(k):
+    h.append(int(input()))
 
 
 ffs = [1]
@@ -16,7 +16,7 @@ def f(n):
 
 
 def c(k, n):
-    return f(n) / (f(k) * f(n-k))
+    return f(n) // (f(k) * f(n-k))
 
 def cc(k, n):
     return c(n-1, n + k-1)
@@ -35,8 +35,5 @@ def solve(h):
 r = 1
 for i in range(len(h)):
     r *= cc(h[i] -1, sum(h[:i]) + 1)
-print r % 1000000007
 
-
-
-#print solve(h)  % 1000000007
+print(r % 1000000007)
