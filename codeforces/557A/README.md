@@ -1,1 +1,1 @@
-# [Таблица умножения](http://codeforces.com/problemset/problem/577/A)
+# [Илья и дипломы](http://codeforces.com/problemset/problem/557/A)
