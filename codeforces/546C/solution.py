@@ -1,9 +1,7 @@
-#!/usr/bin/env python
+n = int(input())
 
-n = int(raw_input())
-
-as_ = map(int, raw_input().split(' '))
-bs_ = map(int, raw_input().split(' '))
+as_ = list(map(int, input().split(' ')))
+bs_ = list(map(int, input().split(' ')))
 
 as_ = as_[1:]
 bs_ = bs_[1:]
@@ -20,7 +18,7 @@ def play_round():
     else:
         bs_.append(a)
         bs_.append(b)
-        
+
 
 has_played = set()
 n = 0
@@ -33,11 +31,11 @@ while(True):
     has_played.add(s)
     play_round()
     n += 1
-    
+
 
 if len(as_) == 0:
-    print n, 2
+    print(n, 2)
 elif len(bs_) == 0:
-    print n, 1
+    print(n, 1)
 else:
-    print -1
+    print(-1)
