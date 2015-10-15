@@ -24,6 +24,9 @@ solution
 # ada
 *.ali
 
+# java
+*.class
+
 # tests
 _snippets/t/*
 !_snippets/t/*.cpp

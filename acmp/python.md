@@ -121,6 +121,7 @@
 - [0138](0138/solution.py) - Алгоритм Форда-Беллмана
 - [0143](0143/solution.py) - A-B
 - [0144](0144/solution.py) - A*B
+- [0145](0145/solution.py) - A div B
 ### [Тренировка №2](_contest-40478/)
 - [40478:A](_contest-40478/A/solution.py) - Мышка
 - [40478:B](_contest-40478/B/solution.py) - Перевязь
