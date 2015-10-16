@@ -1,13 +1,13 @@
 import java.io.*;
 import java.util.*;
 
-public class T1001 {
+public class Main {
 
 	StreamTokenizer in;
 	PrintWriter out;
 
 	public static void main(String[] args) throws IOException {
-		new T1001().run();
+		new Main().run();
 	}
 	void run() throws IOException {
 		in = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
@@ -15,7 +15,7 @@ public class T1001 {
 		solve();
 		out.flush();
 	}
-	
+
 	void solve() throws IOException {
 		List<Double> results = new ArrayList<Double>();
 		while(in.nextToken()!= StreamTokenizer.TT_EOF) {

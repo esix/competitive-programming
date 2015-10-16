@@ -1,10 +1,10 @@
 import java.io.*;
 import java.util.*;
 
-public class T1002 {
+public class Main {
 
 	public static void main(String[] args) throws IOException {
-		new T1002().run();
+		new Main().run();
 	}
 
 	BufferedReader in;
@@ -77,7 +77,7 @@ public class T1002 {
 			String solution = findSolution(telephone);
 			if(solution.length() > 0)
 				out.println(solution);
-			else 
+			else
 				out.println("No solution.");
 		}
 	}
@@ -86,7 +86,7 @@ public class T1002 {
 		// words is backward sorted, so find largest strings first
 		if(solutions.containsKey(telephone))
 			return solutions.get(telephone);
-		
+
 		String result = "";
 		for (Map.Entry<String, String> entry: words.entrySet()) {
 		    String t = entry.getKey();
