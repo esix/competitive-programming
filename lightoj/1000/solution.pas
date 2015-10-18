@@ -1,6 +1,5 @@
 program lightoj1000(input, output);
 
-
 var
   n: Integer;
   a, b: Integer;
