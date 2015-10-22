@@ -31,4 +31,3 @@ solution
 _snippets/t/*
 !_snippets/t/*.cpp
 !_snippets/t/Makefile
-
