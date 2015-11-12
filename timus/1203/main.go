@@ -5,7 +5,9 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"os"
 	"sort"
 )
 
@@ -49,13 +51,16 @@ func max(a, b int) int {
 }
 
 func main() {
+	bi := bufio.NewReader(os.Stdin)
+	bo := bufio.NewWriter(os.Stdout)
+
 	var n int
-	fmt.Scanln(&n)
+	fmt.Fscanln(bi, &n)
 
 	ls := make(Lectures, n)
 
 	for i := 0; i < n; i++ {
-		fmt.Scanln(&ls[i].S, &ls[i].E)
+		fmt.Fscanln(bi, &ls[i].S, &ls[i].E)
 	}
 
 	sort.Sort(ls)
@@ -70,5 +75,6 @@ func main() {
 		}
 	}
 
-	fmt.Println(res)
+	fmt.Fprintln(bo, res)
+	bo.Flush()
 }
