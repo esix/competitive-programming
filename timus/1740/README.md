@@ -1,1 +1,1 @@
-# [I. А олени лучше!](http://acm.timus.ru/problem.aspx?space=76&num=9)
+# [Рђ РѕР»РµРЅРё Р»СѓС‡С€Рµ!](http://acm.timus.ru/problem.aspx?space=76&num=9)
