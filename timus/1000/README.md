@@ -1,4 +1,4 @@
-# [1000. A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)
+# [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)
 
 _Ограничение времени: 1.0 секунды_
 
@@ -19,7 +19,6 @@ a+b
 
 #####результат
     6
-    
+
 ###Замечания
 Используйте +
-

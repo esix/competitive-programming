@@ -1,111 +1,115 @@
-Go 1.3:
+# Go 1.3
 
-- [1000](1000/main.go) - A+B Problem
-- [1001](1001/main.go) - Обратный корень
-- [1005](1005/main.go) - Куча камней
-- [1014](1014/main.go) - Произведение цифр
-- [1020](1020/main.go) - Ниточка
-- [1023](1023/main.go) - Пуговицы
-- [1068](1068/main.go) - Сумма
-- [1079](1079/main.go) - Максимум
-- [1082](1082/main.go) - Иванушка-дурачок
-- [1083](1083/main.go) - Факториалы!!!
-- [1104](1104/main.go) - Не спрашивай даму о возрасте
-- [1106](1106/main.go) - Две команды
-- [1110](1110/main.go) - Степень
-- [1118](1118/main.go) - Нетривиальные числа
-- [1119](1119/main.go) - Метро
-- [1120](1120/main.go) - Сумма последовательных чисел
-- [1131](1131/main.go) - Копирование
-- [1136](1136/main.go) - Парламент
-- [1139](1139/main.go) - Городские кварталы
-- [1146](1146/main.go) - Maximum Sum
-- [1149](1149/main.go) - Танцы синуса
-- [1161](1161/main.go) - Stripies
-- [1180](1180/main.go) - Игра с камушками
-- [1192](1192/main.go) - Мячик во сне
-- [1194](1194/main.go) - Рукопожатия
-- [1197](1197/main.go) - Один в поле воин
-- [1203](1203/main.go) - Научная конференция
-- [1206](1206/main.go) - Сумма цифр суммы чисел
-- [1209](1209/main.go) - 1, 10, 100, 1000...
-- [1214](1214/main.go) - Странная процедура
-- [1224](1224/main.go) - Спираль
-- [1225](1225/main.go) - Флаги
-- [1228](1228/main.go) - Массив
-- [1243](1243/main.go) - Развод семи гномов
-- [1263](1263/main.go) - Выборы
-- [1264](1264/main.go) - Трудовые будни
-- [1287](1287/main.go) - Каналы на Марсе
-- [1290](1290/main.go) - Саботаж
-- [1293](1293/main.go) - Эния
-- [1296](1296/main.go) - Гиперпереход
-- [1297](1297/main.go) - Палиндромы
-- [1313](1313/main.go) - К вопросу о спорте
-- [1319](1319/main.go) - Отель
-- [1327](1327/main.go) - Предохранители
-- [1330](1330/main.go) - Интервалы
-- [1349](1349/main.go) - Ферма
-- [1354](1354/main.go) - Палиндром. Он же палиндром
-- [1370](1370/main.go) - Волшебник
-- [1404](1404/main.go) - Легко взломать!
-- [1409](1409/main.go) - Два бандита
-- [1446](1446/main.go) - Волшебная шляпа
-- [1457](1457/main.go) - Теплотрасса
-- [1493](1493/main.go) - В одном шаге от счастья
-- [1496](1496/main.go) - Спамер
-- [1502](1502/main.go) - Точки домино
-- [1510](1510/main.go) - Порядок
-- [1545](1545/main.go) - Иероглифы
-- [1563](1563/main.go) - Баяны
-- [1567](1567/main.go) - SMS-спам
-- [1573](1573/main.go) - Алхимия
-- [1581](1581/main.go) - Работа в команде
-- [1582](1582/main.go) - Букмекеры
-- [1585](1585/main.go) - Пингвины
-- [1601](1601/main.go) - АнтиКАПС
-- [1607](1607/main.go) - Такси
-- [1617](1617/main.go) - Ползуны
-- [1636](1636/main.go) - Penalty Time
-- [1638](1638/main.go) - Книжный червь
-- [1639](1639/main.go) - Шоколад 2
-- [1642](1642/main.go) - Одномерный лабиринт
-- [1644](1642/main.go) - Куча орехов
-- [1654](1654/main.go) - Шифровка
-- [1712](1712/main.go) - Шифровальная решётка
-- [1723](1723/main.go) - Книга Сандро
-- [1731](1731/main.go) - Укроп
-- [1777](1777/main.go) - Племя аниндилъяква
-- [1786](1786/main.go) - Биография Сандро
-- [1787](1787/main.go) - Поворот на МЕГУ
-- [1792](1792/main.go) - Код Хэмминга
-- [1796](1796/main.go) - Парк аттракционов
-- [1820](1820/main.go) - Уральские бифштексы
-- [1837](1837/main.go) - Число Исенбаева
-- [1873](1873/main.go) - Летопись GOV
-- [1876](1876/main.go) - Утро сороконожки
-- [1877](1877/main.go) - Велосипедные коды
-- [1880](1880/main.go) - Собственные числа Psych Up
-- [1881](1881/main.go) - Длинное условие задачи
-- [1893](1893/main.go) - A380
-- [1902](1902/main.go) - Нео-Венеция
-- [1910](1910/main.go) - Руины титанов: сокрытый вход
-- [1924](1924/main.go) - Четыре чертёнка
-- [1925](1925/main.go) - О заслуге британских учёных
-- [1935](1935/main.go) - Слёзы утопленников
-- [1991](1991/main.go) - Битва у болота
-- [2001](2001/main.go) - Математики и ягоды
-- [2002](2002/main.go) - Тестовое задание
-- [2005](2005/main.go) - Такси для программистов
-- [2010](2010/main.go) - Юный гроссмейстер Саша
-- [2011](2011/main.go) - Длинное условие
-- [2012](2012/main.go) - Про Гришу Н.
-- [2020](2020/main.go) - Пробка в Цветочном городе
-- [2023](2023/main.go) - Дональд-почтальон
-- [2025](2025/main.go) - Стенка на стенку
-- [2031](2031/main.go) - Числа-перевёртыши
-- [2033](2033/main.go) - Девайсы
-- [2035](2035/main.go) - Очередной пробный тур
-- [2056](2056/main.go) - Стипендия
-- [2066](2066/main.go) - Простое выражение
-- [2068](2068/main.go) - Игра с орехами
+| ID   | Problem statement                                                            | Solution                     |
+|:----:|:-----------------------------------------------------------------------------|:----------------------------:|
+| 1000 | [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)             | [1000/main.go](1000/main.go) |
+| 1001 | [Обратный корень](http://acm.timus.ru/problem.aspx?space=1&num=1001)         | [1001/main.go](1001/main.go) |
+| 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)             | [1005/main.go](1005/main.go) |
+| 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)       | [1014/main.go](1014/main.go) |
+| 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                 | [1020/main.go](1020/main.go) |
+| 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                | [1023/main.go](1023/main.go) |
+| 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)    | [1044/main.go](1044/main.go) |
+| 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                   | [1068/main.go](1068/main.go) |
+
+- 1079 [1079/main.go](1079/main.go) [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)
+- 1082 [1082/main.go](1082/main.go) [Иванушка-дурачок](http://acm.timus.ru/problem.aspx?space=1&num=1082)
+- 1083 [1083/main.go](1083/main.go) [Факториалы!!!](http://acm.timus.ru/problem.aspx?space=1&num=1083)
+- 1104 [1104/main.go](1104/main.go) [Не спрашивай даму о возрасте](http://acm.timus.ru/problem.aspx?space=1&num=1104)
+- 1106 [1106/main.go](1106/main.go) [Две команды](http://acm.timus.ru/problem.aspx?space=1&num=1106)
+- 1110 [1110/main.go](1110/main.go) [Степень](http://acm.timus.ru/problem.aspx?space=1&num=1110)
+- 1118 [1118/main.go](1118/main.go) [Нетривиальные числа](http://acm.timus.ru/problem.aspx?space=1&num=1118)
+- 1119 [1119/main.go](1119/main.go) [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119)
+- 1120 [1120/main.go](1120/main.go) [Сумма последовательных чисел](http://acm.timus.ru/problem.aspx?space=1&num=1120)
+- 1131 [1131/main.go](1131/main.go) [Копирование](http://acm.timus.ru/problem.aspx?space=1&num=1131)
+- 1136 [1136/main.go](1136/main.go) [Парламент](http://acm.timus.ru/problem.aspx?space=1&num=1136)
+- 1139 [1139/main.go](1139/main.go) [Городские кварталы](http://acm.timus.ru/problem.aspx?space=1&num=1139)
+- 1146 [1146/main.go](1146/main.go) [Maximum Sum](http://acm.timus.ru/problem.aspx?space=1&num=1146)
+- 1149 [1149/main.go](1149/main.go) [Танцы синуса](http://acm.timus.ru/problem.aspx?space=1&num=1149)
+- 1161 [1161/main.go](1161/main.go) [Stripies](http://acm.timus.ru/problem.aspx?space=1&num=1161)
+- 1180 [1180/main.go](1180/main.go) [Игра с камушками](http://acm.timus.ru/problem.aspx?space=1&num=1180)
+- 1192 [1192/main.go](1192/main.go) [Мячик во сне](http://acm.timus.ru/problem.aspx?space=1&num=1192)
+- 1194 [1194/main.go](1194/main.go) [Рукопожатия](http://acm.timus.ru/problem.aspx?space=1&num=1194)
+- 1197 [1197/main.go](1197/main.go) [Один в поле воин](http://acm.timus.ru/problem.aspx?space=1&num=1197)
+- 1203 [1203/main.go](1203/main.go) [Научная конференция](http://acm.timus.ru/problem.aspx?space=1&num=1203)
+- 1206 [1206/main.go](1206/main.go) [Сумма цифр суммы чисел](http://acm.timus.ru/problem.aspx?space=1&num=1206)
+- 1209 [1209/main.go](1209/main.go) [1, 10, 100, 1000...](http://acm.timus.ru/problem.aspx?space=1&num=1209)
+- 1214 [1214/main.go](1214/main.go) [Странная процедура](http://acm.timus.ru/problem.aspx?space=1&num=1214)
+- 1224 [1224/main.go](1224/main.go) [Спираль](http://acm.timus.ru/problem.aspx?space=1&num=1224)
+- 1225 [1225/main.go](1225/main.go) [Флаги](http://acm.timus.ru/problem.aspx?space=1&num=1225)
+- 1228 [1228/main.go](1228/main.go) [Массив](http://acm.timus.ru/problem.aspx?space=1&num=1228)
+- 1243 [1243/main.go](1243/main.go) [Развод семи гномов](http://acm.timus.ru/problem.aspx?space=1&num=1243)
+- 1263 [1263/main.go](1263/main.go) [Выборы](http://acm.timus.ru/problem.aspx?space=1&num=1263)
+- 1264 [1264/main.go](1264/main.go) [Трудовые будни](http://acm.timus.ru/problem.aspx?space=1&num=1264)
+- 1287 [1287/main.go](1287/main.go) [Каналы на Марсе](http://acm.timus.ru/problem.aspx?space=1&num=1287)
+- 1290 [1290/main.go](1290/main.go) [Саботаж](http://acm.timus.ru/problem.aspx?space=1&num=1290)
+- 1293 [1293/main.go](1293/main.go) [Эния](http://acm.timus.ru/problem.aspx?space=1&num=1293)
+- 1296 [1296/main.go](1296/main.go) [Гиперпереход](http://acm.timus.ru/problem.aspx?space=1&num=1296)
+- 1297 [1297/main.go](1297/main.go) [Палиндромы](http://acm.timus.ru/problem.aspx?space=1&num=1297)
+- 1313 [1313/main.go](1313/main.go) [К вопросу о спорте](http://acm.timus.ru/problem.aspx?space=1&num=1313)
+- 1319 [1319/main.go](1319/main.go) [Отель](http://acm.timus.ru/problem.aspx?space=1&num=1319)
+- 1327 [1327/main.go](1327/main.go) [Предохранители](http://acm.timus.ru/problem.aspx?space=1&num=1327)
+- 1330 [1330/main.go](1330/main.go) [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)
+- 1349 [1349/main.go](1349/main.go) [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)
+- 1354 [1354/main.go](1354/main.go) [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)
+- 1370 [1370/main.go](1370/main.go) [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)
+- 1404 [1404/main.go](1404/main.go) [Легко взломать!](http://acm.timus.ru/problem.aspx?space=1&num=1404)
+- 1409 [1409/main.go](1409/main.go) [Два бандита](http://acm.timus.ru/problem.aspx?space=1&num=1409)
+- 1446 [1446/main.go](1446/main.go) [Волшебная шляпа](http://acm.timus.ru/problem.aspx?space=1&num=1446)
+- 1457 [1457/main.go](1457/main.go) [Теплотрасса](http://acm.timus.ru/problem.aspx?space=1&num=1457)
+- 1493 [1493/main.go](1493/main.go) [В одном шаге от счастья](http://acm.timus.ru/problem.aspx?space=1&num=1493)
+- 1496 [1496/main.go](1496/main.go) [Спамер](http://acm.timus.ru/problem.aspx?space=1&num=1496)
+- 1502 [1502/main.go](1502/main.go) [Точки домино](http://acm.timus.ru/problem.aspx?space=1&num=1502)
+- 1510 [1510/main.go](1510/main.go) [Порядок](http://acm.timus.ru/problem.aspx?space=1&num=1510)
+- 1545 [1545/main.go](1545/main.go) [Иероглифы](http://acm.timus.ru/problem.aspx?space=1&num=1545)
+- 1563 [1563/main.go](1563/main.go) [Баяны](http://acm.timus.ru/problem.aspx?space=1&num=1563)
+- 1567 [1567/main.go](1567/main.go) [SMS-спам](http://acm.timus.ru/problem.aspx?space=1&num=1567)
+- 1573 [1573/main.go](1573/main.go) [Алхимия](http://acm.timus.ru/problem.aspx?space=1&num=1573)
+- 1581 [1581/main.go](1581/main.go) [Работа в команде](http://acm.timus.ru/problem.aspx?space=1&num=1581)
+- 1582 [1582/main.go](1582/main.go) [Букмекеры](http://acm.timus.ru/problem.aspx?space=1&num=1582)
+- 1585 [1585/main.go](1585/main.go) [Пингвины](http://acm.timus.ru/problem.aspx?space=1&num=1585)
+- 1601 [1601/main.go](1601/main.go) [АнтиКАПС](http://acm.timus.ru/problem.aspx?space=1&num=1601)
+- 1607 [1607/main.go](1607/main.go) [Такси](http://acm.timus.ru/problem.aspx?space=1&num=1607)
+- 1617 [1617/main.go](1617/main.go) [Ползуны](http://acm.timus.ru/problem.aspx?space=1&num=1617)
+- 1636 [1636/main.go](1636/main.go) [Penalty Time](http://acm.timus.ru/problem.aspx?space=1&num=1636)
+- 1638 [1638/main.go](1638/main.go) [Книжный червь](http://acm.timus.ru/problem.aspx?space=1&num=1638)
+- 1639 [1639/main.go](1639/main.go) [Шоколад 2](http://acm.timus.ru/problem.aspx?space=1&num=1639)
+- 1642 [1642/main.go](1642/main.go) [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)
+- 1644 [1644/main.go](1642/main.go) [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)
+- 1654 [1654/main.go](1654/main.go) [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)
+- 1712 [1712/main.go](1712/main.go) [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)
+- 1723 [1723/main.go](1723/main.go) [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)
+- 1731 [1731/main.go](1731/main.go) [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)
+- 1777 [1777/main.go](1777/main.go) [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)
+- 1786 [1786/main.go](1786/main.go) [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)
+- 1787 [1787/main.go](1787/main.go) [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)
+- 1792 [1792/main.go](1792/main.go) [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)
+- 1796 [1796/main.go](1796/main.go) [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)
+- 1820 [1820/main.go](1820/main.go) [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)
+- 1837 [1837/main.go](1837/main.go) [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)
+- 1873 [1873/main.go](1873/main.go) [Летопись GOV](http://acm.timus.ru/problem.aspx?space=1&num=1873)
+- 1876 [1876/main.go](1876/main.go) [Утро сороконожки](http://acm.timus.ru/problem.aspx?space=1&num=1876)
+- 1877 [1877/main.go](1877/main.go) [Велосипедные коды](http://acm.timus.ru/problem.aspx?space=1&num=1877)
+- 1880 [1880/main.go](1880/main.go) [Собственные числа Psych Up](http://acm.timus.ru/problem.aspx?space=1&num=1880)
+- 1881 [1881/main.go](1881/main.go) [Длинное условие задачи](http://acm.timus.ru/problem.aspx?space=1&num=1881)
+- 1893 [1893/main.go](1893/main.go) [A380](http://acm.timus.ru/problem.aspx?space=1&num=1893)
+- 1902 [1902/main.go](1902/main.go) [Нео-Венеция](http://acm.timus.ru/problem.aspx?space=1&num=1902)
+- 1910 [1910/main.go](1910/main.go) [Руины титанов: сокрытый вход](http://acm.timus.ru/problem.aspx?space=1&num=1910)
+- 1924 [1924/main.go](1924/main.go) [Четыре чертёнка](http://acm.timus.ru/problem.aspx?space=1&num=1924)
+- 1925 [1925/main.go](1925/main.go) [О заслуге британских учёных](http://acm.timus.ru/problem.aspx?space=1&num=1925)
+- 1935 [1935/main.go](1935/main.go) [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)
+- 1991 [1991/main.go](1991/main.go) [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)
+- 2001 [2001/main.go](2001/main.go) [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)
+- 2002 [2002/main.go](2002/main.go) [Тестовое задание](http://acm.timus.ru/problem.aspx?space=1&num=2002)
+- 2005 [2005/main.go](2005/main.go) [Такси для программистов](http://acm.timus.ru/problem.aspx?space=1&num=2005)
+- 2010 [2010/main.go](2010/main.go) [Юный гроссмейстер Саша](http://acm.timus.ru/problem.aspx?space=1&num=2010)
+- 2011 [2011/main.go](2011/main.go) [Длинное условие](http://acm.timus.ru/problem.aspx?space=1&num=2011)
+- 2012 [2012/main.go](2012/main.go) [Про Гришу Н.](http://acm.timus.ru/problem.aspx?space=1&num=2012)
+- 2020 [2020/main.go](2020/main.go) [Пробка в Цветочном городе](http://acm.timus.ru/problem.aspx?space=1&num=2020)
+- 2023 [2023/main.go](2023/main.go) [Дональд-почтальон](http://acm.timus.ru/problem.aspx?space=1&num=2023)
+- 2025 [2025/main.go](2025/main.go) [Стенка на стенку](http://acm.timus.ru/problem.aspx?space=1&num=2025)
+- 2031 [2031/main.go](2031/main.go) [Числа-перевёртыши](http://acm.timus.ru/problem.aspx?space=1&num=2031)
+- 2033 [2033/main.go](2033/main.go) [Девайсы](http://acm.timus.ru/problem.aspx?space=1&num=2033)
+- 2035 [2035/main.go](2035/main.go) [Очередной пробный тур](http://acm.timus.ru/problem.aspx?space=1&num=2035)
+- 2056 [2056/main.go](2056/main.go) [Стипендия](http://acm.timus.ru/problem.aspx?space=1&num=2056)
+- 2066 [2066/main.go](2066/main.go) [Простое выражение](http://acm.timus.ru/problem.aspx?space=1&num=2066)
+- 2068 [2068/main.go](2068/main.go) [Игра с орехами](http://acm.timus.ru/problem.aspx?space=1&num=2068)
