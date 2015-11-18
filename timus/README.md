@@ -13,7 +13,7 @@
 - VB.NET 2010
 - [Python 2.7](python.md)
 - Python 3.4
-- [Go 1.3](Go 1.3)
+- [Go 1.3](#Go 1.3)
 - Ruby 1.9
 - Haskell 7.6
 - Scala 2.11
