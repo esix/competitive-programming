@@ -1,18 +1,18 @@
 # Go 1.3
 
-| ID   | Problem statement                                                                      | Solution                     |
-|:----:|:---------------------------------------------------------------------------------------|:----------------------------:|
-| 1000 | [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)                       | [1000/main.go](1000/main.go) |
-| 1001 | [Обратный корень](http://acm.timus.ru/problem.aspx?space=1&num=1001)                   | [1001/main.go](1001/main.go) |
-| 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)                       | [1005/main.go](1005/main.go) |
-| 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)                 | [1014/main.go](1014/main.go) |
-| 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                           | [1020/main.go](1020/main.go) |
-| 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [1023/main.go](1023/main.go) |
-| 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [1044/main.go](1044/main.go) |
-| 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [1068/main.go](1068/main.go) |
-| 1079 | [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)                          | [1079/main.go](1079/main.go) |
-| 1082 | [Иванушка-дурачок](http://acm.timus.ru/problem.aspx?space=1&num=1082)                  | [1082/main.go](1082/main.go) |
-| 1083 | [Факториалы!!!](http://acm.timus.ru/problem.aspx?space=1&num=1083)                     | [1083/main.go](1083/main.go) |
+| ID   | Problem statement                                                                      | Solution                                               |
+|:----:|:---------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| 1000 | [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)                       | [volume-1/1000/solution.go](volume-1/1000/solution.go) |
+| 1001 | [Обратный корень](http://acm.timus.ru/problem.aspx?space=1&num=1001)                   | [volume-1/1001/solution.go](volume-1/1001/solution.go) |
+| 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)                       | [volume-1/1005/solution.go](volume-1/1005/solution.go) |
+| 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)                 | [volume-1/1014/solution.go](volume-1/1014/solution.go) |
+| 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                           | [volume-1/1020/solution.go](volume-1/1020/solution.go) |
+| 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [volume-1/1023/solution.go](volume-1/1023/solution.go) |
+| 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-1/1044/solution.go](volume-1/1044/solution.go) |
+| 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [volume-1/1068/solution.go](volume-1/1068/solution.go) |
+| 1079 | [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)                          | [volume-1/1079/solution.go](volume-1/1079/solution.go) |
+| 1082 | [Иванушка-дурачок](http://acm.timus.ru/problem.aspx?space=1&num=1082)                  | [volume-1/1082/solution.go](volume-1/1082/solution.go) |
+| 1083 | [Факториалы!!!](http://acm.timus.ru/problem.aspx?space=1&num=1083)                     | [volume-1/1083/solution.go](volume-1/1083/solution.go) |
 | 1104 | [Не спрашивай даму о возрасте](http://acm.timus.ru/problem.aspx?space=1&num=1104)      | [1104/main.go](1104/main.go) |
 | 1106 | [Две команды](http://acm.timus.ru/problem.aspx?space=1&num=1106)                       | [1106/main.go](1106/main.go) |
 | 1110 | [Степень](http://acm.timus.ru/problem.aspx?space=1&num=1110)                           | [1110/main.go](1110/main.go) |
