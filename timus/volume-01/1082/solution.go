@@ -10,9 +10,10 @@ func main() {
 	bi := bufio.NewReader(os.Stdin)
 	bo := bufio.NewWriter(os.Stdout)
 
-	var a, b int
-	fmt.Fscanln(bi, &a, &b)
-
-	fmt.Fprintln(bo, a+b)
+	var n int
+	fmt.Fscanln(bi, &n)
+	for i := 1; i <= n; i++ {
+		fmt.Fprint(bo, i, " ")
+	}
 	bo.Flush()
 }
