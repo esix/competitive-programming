@@ -1,0 +1,13 @@
+11
+cipher grille kamkohob
+names codenames codes
+newtests rejudge timus
+size volume summit
+watchmen braineater twosides
+solution random yesorno
+keywords subversion commands
+bosses shooting shaitan
+game strategy playgame
+mnemonic palindromes bestname
+eligibility rectangle rules
+2 1 7 10 9 6 11 3 8 4 5
