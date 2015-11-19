@@ -96,7 +96,7 @@
 | 1642 | [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)               | [volume-07/1642/main.go](volume-07/1642/main.go)   |
 | 1644 | [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)                       | [volume-07/1644/main.go](volume-07/1644/main.go)   |
 | 1654 | [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)                          | [volume-07/1654/main.go](volume-07/1654/main.go)   |
-| 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                    | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
+| 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                     | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
 | 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)   |
 | 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/solution.go](volume-08/1723/solution.go)   |
 | 1731 | [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)                             | [volume-08/1731/solution.go](volume-08/1731/solution.go)   |
@@ -119,18 +119,19 @@
 | 1925 | [О заслуге британских учёных](http://acm.timus.ru/problem.aspx?space=1&num=1925)       | [volume-10/1925/main.go](volume-10/1925/main.go)   |
 | 1935 | [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)                | [volume-10/1935/main.go](volume-10/1935/main.go)   |
 | 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/main.go](volume-10/1991/main.go)   |
-| 2001 | [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)                | [volume-11/2001/main.go](volume-11/2001/main.go)   |
-| 2002 | [Тестовое задание](http://acm.timus.ru/problem.aspx?space=1&num=2002)                  | [volume-11/2002/main.go](volume-11/2002/main.go)   |
-| 2005 | [Такси для программистов](http://acm.timus.ru/problem.aspx?space=1&num=2005)           | [volume-11/2005/main.go](volume-11/2005/main.go)   |
-| 2010 | [Юный гроссмейстер Саша](http://acm.timus.ru/problem.aspx?space=1&num=2010)            | [volume-11/2010/main.go](volume-11/2010/main.go)   |
-| 2011 | [Длинное условие](http://acm.timus.ru/problem.aspx?space=1&num=2011)                   | [volume-11/2011/main.go](volume-11/2011/main.go)   |
-| 2012 | [Про Гришу Н.](http://acm.timus.ru/problem.aspx?space=1&num=2012)                      | [volume-11/2012/main.go](volume-11/2012/main.go)   |
-| 2020 | [Пробка в Цветочном городе](http://acm.timus.ru/problem.aspx?space=1&num=2020)         | [volume-11/2020/main.go](volume-11/2020/main.go)   |
-| 2023 | [Дональд-почтальон](http://acm.timus.ru/problem.aspx?space=1&num=2023)                 | [volume-11/2023/main.go](volume-11/2023/main.go)   |
-| 2025 | [Стенка на стенку](http://acm.timus.ru/problem.aspx?space=1&num=2025)                  | [volume-11/2025/main.go](volume-11/2025/main.go)   |
-| 2031 | [Числа-перевёртыши](http://acm.timus.ru/problem.aspx?space=1&num=2031)                 | [volume-11/2031/main.go](volume-11/2031/main.go)   |
-| 2033 | [Девайсы](http://acm.timus.ru/problem.aspx?space=1&num=2033)                           | [volume-11/2033/main.go](volume-11/2033/main.go)   |
-| 2035 | [Очередной пробный тур](http://acm.timus.ru/problem.aspx?space=1&num=2035)             | [volume-11/2035/main.go](volume-11/2035/main.go)   |
-| 2056 | [Стипендия](http://acm.timus.ru/problem.aspx?space=1&num=2056)                         | [volume-11/2056/main.go](volume-11/2056/main.go)   |
-| 2066 | [Простое выражение](http://acm.timus.ru/problem.aspx?space=1&num=2066)                 | [volume-11/2066/main.go](volume-11/2066/main.go)   |
-| 2068 | [Игра с орехами](http://acm.timus.ru/problem.aspx?space=1&num=2068)                    | [volume-11/2068/main.go](volume-11/2068/main.go)   |
+| 2000 | [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)               | [volume-11/2000/solution.go](volume-11/2000/solution.go)   |
+| 2001 | [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)                | [volume-11/2001/solution.go](volume-11/2001/solution.go)   |
+| 2002 | [Тестовое задание](http://acm.timus.ru/problem.aspx?space=1&num=2002)                  | [volume-11/2002/solution.go](volume-11/2002/solution.go)   |
+| 2005 | [Такси для программистов](http://acm.timus.ru/problem.aspx?space=1&num=2005)           | [volume-11/2005/solution.go](volume-11/2005/solution.go)   |
+| 2010 | [Юный гроссмейстер Саша](http://acm.timus.ru/problem.aspx?space=1&num=2010)            | [volume-11/2010/solution.go](volume-11/2010/solution.go)   |
+| 2011 | [Длинное условие](http://acm.timus.ru/problem.aspx?space=1&num=2011)                   | [volume-11/2011/solution.go](volume-11/2011/solution.go)   |
+| 2012 | [Про Гришу Н.](http://acm.timus.ru/problem.aspx?space=1&num=2012)                      | [volume-11/2012/solution.go](volume-11/2012/solution.go)   |
+| 2020 | [Пробка в Цветочном городе](http://acm.timus.ru/problem.aspx?space=1&num=2020)         | [volume-11/2020/solution.go](volume-11/2020/solution.go)   |
+| 2023 | [Дональд-почтальон](http://acm.timus.ru/problem.aspx?space=1&num=2023)                 | [volume-11/2023/solution.go](volume-11/2023/solution.go)   |
+| 2025 | [Стенка на стенку](http://acm.timus.ru/problem.aspx?space=1&num=2025)                  | [volume-11/2025/solution.go](volume-11/2025/solution.go)   |
+| 2031 | [Числа-перевёртыши](http://acm.timus.ru/problem.aspx?space=1&num=2031)                 | [volume-11/2031/solution.go](volume-11/2031/solution.go)   |
+| 2033 | [Девайсы](http://acm.timus.ru/problem.aspx?space=1&num=2033)                           | [volume-11/2033/solution.go](volume-11/2033/solution.go)   |
+| 2035 | [Очередной пробный тур](http://acm.timus.ru/problem.aspx?space=1&num=2035)             | [volume-11/2035/solution.go](volume-11/2035/solution.go)   |
+| 2056 | [Стипендия](http://acm.timus.ru/problem.aspx?space=1&num=2056)                         | [volume-11/2056/solution.go](volume-11/2056/solution.go)   |
+| 2066 | [Простое выражение](http://acm.timus.ru/problem.aspx?space=1&num=2066)                 | [volume-11/2066/solution.go](volume-11/2066/solution.go)   |
+| 2068 | [Игра с орехами](http://acm.timus.ru/problem.aspx?space=1&num=2068)                    | [volume-11/2068/solution.go](volume-11/2068/solution.go)   |
