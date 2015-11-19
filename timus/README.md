@@ -96,14 +96,15 @@
 | 1642 | [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)               | [volume-07/1642/main.go](volume-07/1642/main.go)   |
 | 1644 | [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)                       | [volume-07/1644/main.go](volume-07/1644/main.go)   |
 | 1654 | [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)                          | [volume-07/1654/main.go](volume-07/1654/main.go)   |
-| 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/main.go](volume-08/1712/main.go)   |
-| 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/main.go](volume-08/1723/main.go)   |
-| 1731 | [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)                             | [volume-08/1731/main.go](volume-08/1731/main.go)   |
-| 1777 | [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)                | [volume-08/1777/main.go](volume-08/1777/main.go)   |
-| 1786 | [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [volume-08/1786/main.go](volume-08/1786/main.go)   |
-| 1787 | [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)                   | [volume-08/1787/main.go](volume-08/1787/main.go)   |
-| 1792 | [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)                      | [volume-08/1792/main.go](volume-08/1792/main.go)   |
-| 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/main.go](volume-08/1796/main.go)   |
+| 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                    | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
+| 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)   |
+| 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/solution.go](volume-08/1723/solution.go)   |
+| 1731 | [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)                             | [volume-08/1731/solution.go](volume-08/1731/solution.go)   |
+| 1777 | [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)                | [volume-08/1777/solution.go](volume-08/1777/solution.go)   |
+| 1786 | [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [volume-08/1786/solution.go](volume-08/1786/solution.go)   |
+| 1787 | [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)                   | [volume-08/1787/solution.go](volume-08/1787/solution.go)   |
+| 1792 | [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)                      | [volume-08/1792/solution.go](volume-08/1792/solution.go)   |
+| 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/solution.go](volume-08/1796/solution.go)   |
 | 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/main.go](volume-09/1820/main.go)   |
 | 1837 | [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [volume-09/1837/main.go](volume-09/1837/main.go)   |
 | 1873 | [Летопись GOV](http://acm.timus.ru/problem.aspx?space=1&num=1873)                      | [volume-09/1873/main.go](volume-09/1873/main.go)   |
