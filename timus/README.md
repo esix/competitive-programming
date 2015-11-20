@@ -54,7 +54,7 @@
 | 1206 | [Сумма цифр суммы чисел](http://acm.timus.ru/problem.aspx?space=1&num=1206)            | [volume-03/1206/solution.go](volume-03/1206/solution.go)   |
 | 1209 | [1, 10, 100, 1000...](http://acm.timus.ru/problem.aspx?space=1&num=1209)               | [volume-03/1209/solution.go](volume-03/1209/solution.go)   |
 | 1214 | [Странная процедура](http://acm.timus.ru/problem.aspx?space=1&num=1214)                | [volume-03/1214/solution.go](volume-03/1214/solution.go)   |
-| 1219 | [Symbolic Sequence](http://acm.timus.ru/problem.aspx?space=1&num=1219)                 | [](volume-03/1219/solution.go)   |
+| 1219 | [Symbolic Sequence](http://acm.timus.ru/problem.aspx?space=1&num=1219)                 | [volume-03/1219/solution.go](volume-03/1219/solution.go)   |
 | 1224 | [Спираль](http://acm.timus.ru/problem.aspx?space=1&num=1224)                           | [volume-03/1224/solution.go](volume-03/1224/solution.go)   |
 | 1225 | [Флаги](http://acm.timus.ru/problem.aspx?space=1&num=1225)                             | [volume-03/1225/solution.go](volume-03/1225/solution.go)   |
 | 1228 | [Массив](http://acm.timus.ru/problem.aspx?space=1&num=1228)                            | [volume-03/1228/solution.go](volume-03/1228/solution.go)   |
