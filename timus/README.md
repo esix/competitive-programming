@@ -41,6 +41,7 @@
 | 1118 | [Нетривиальные числа](http://acm.timus.ru/problem.aspx?space=1&num=1118)               | [volume-02/1118/solution.go](volume-02/1118/solution.go)   |
 | 1119 | [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119)                             | [volume-02/1119/solution.go](volume-02/1119/solution.go)   |
 | 1120 | [Сумма последовательных чисел](http://acm.timus.ru/problem.aspx?space=1&num=1120)      | [volume-02/1120/solution.go](volume-02/1120/solution.go)   |
+| 1123 | [Зарплата](http://acm.timus.ru/problem.aspx?space=1&num=1123)                          | [volume-02/1123/solution.go](volume-02/1123/solution.go)   |
 | 1131 | [Копирование](http://acm.timus.ru/problem.aspx?space=1&num=1131)                       | [volume-02/1131/solution.go](volume-02/1131/solution.go)   |
 | 1136 | [Парламент](http://acm.timus.ru/problem.aspx?space=1&num=1136)                         | [volume-02/1136/solution.go](volume-02/1136/solution.go)   |
 | 1139 | [Городские кварталы](http://acm.timus.ru/problem.aspx?space=1&num=1139)                | [volume-02/1139/solution.go](volume-02/1139/solution.go)   |
