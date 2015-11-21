@@ -73,6 +73,7 @@
 | 1327 | [Предохранители](http://acm.timus.ru/problem.aspx?space=1&num=1327)                    | [volume-04/1327/main.go](volume-04/1327/main.go)   |
 | 1330 | [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)                         | [volume-04/1330/main.go](volume-04/1330/main.go)   |
 | 1349 | [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)                             | [volume-04/1349/main.go](volume-04/1349/main.go)   |
+| 1353 | [Миллиардная Функция Васи](http://acm.timus.ru/problem.aspx?space=1&num=1353)          | [volume-04/1353/solution.go](volume-04/1353/solution.go)   |
 | 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/main.go](volume-04/1354/main.go)   |
 | 1370 | [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)                         | [volume-04/1370/main.go](volume-04/1370/main.go)   |
 | 1404 | [Легко взломать!](http://acm.timus.ru/problem.aspx?space=1&num=1404)                   | [volume-05/1404/main.go](volume-05/1404/main.go)   |
