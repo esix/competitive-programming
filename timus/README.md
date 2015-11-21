@@ -68,14 +68,14 @@
 | 1293 | [Эния](http://acm.timus.ru/problem.aspx?space=1&num=1293)                              | [volume-03/1293/solution.go](volume-03/1293/solution.go)   |
 | 1296 | [Гиперпереход](http://acm.timus.ru/problem.aspx?space=1&num=1296)                      | [volume-03/1296/solution.go](volume-03/1296/solution.go)   |
 | 1297 | [Палиндромы](http://acm.timus.ru/problem.aspx?space=1&num=1297)                        | [volume-03/1297/solution.go](volume-03/1297/solution.go)   |
-| 1313 | [К вопросу о спорте](http://acm.timus.ru/problem.aspx?space=1&num=1313)                | [volume-04/1313/main.go](volume-04/1313/main.go)   |
-| 1319 | [Отель](http://acm.timus.ru/problem.aspx?space=1&num=1319)                             | [volume-04/1319/main.go](volume-04/1319/main.go)   |
-| 1327 | [Предохранители](http://acm.timus.ru/problem.aspx?space=1&num=1327)                    | [volume-04/1327/main.go](volume-04/1327/main.go)   |
-| 1330 | [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)                         | [volume-04/1330/main.go](volume-04/1330/main.go)   |
-| 1349 | [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)                             | [volume-04/1349/main.go](volume-04/1349/main.go)   |
+| 1313 | [К вопросу о спорте](http://acm.timus.ru/problem.aspx?space=1&num=1313)                | [volume-04/1313/solution.go](volume-04/1313/solution.go)   |
+| 1319 | [Отель](http://acm.timus.ru/problem.aspx?space=1&num=1319)                             | [volume-04/1319/solution.go](volume-04/1319/solution.go)   |
+| 1327 | [Предохранители](http://acm.timus.ru/problem.aspx?space=1&num=1327)                    | [volume-04/1327/solution.go](volume-04/1327/solution.go)   |
+| 1330 | [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)                         | [volume-04/1330/solution.go](volume-04/1330/solution.go)   |
+| 1349 | [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)                             | [volume-04/1349/solution.go](volume-04/1349/solution.go)   |
 | 1353 | [Миллиардная Функция Васи](http://acm.timus.ru/problem.aspx?space=1&num=1353)          | [volume-04/1353/solution.go](volume-04/1353/solution.go)   |
-| 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/main.go](volume-04/1354/main.go)   |
-| 1370 | [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)                         | [volume-04/1370/main.go](volume-04/1370/main.go)   |
+| 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/solution.go](volume-04/1354/solution.go)   |
+| 1370 | [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)                         | [volume-04/1370/solution.go](volume-04/1370/solution.go)   |
 | 1404 | [Легко взломать!](http://acm.timus.ru/problem.aspx?space=1&num=1404)                   | [volume-05/1404/main.go](volume-05/1404/main.go)   |
 | 1409 | [Два бандита](http://acm.timus.ru/problem.aspx?space=1&num=1409)                       | [volume-05/1409/main.go](volume-05/1409/main.go)   |
 | 1446 | [Волшебная шляпа](http://acm.timus.ru/problem.aspx?space=1&num=1446)                   | [volume-05/1446/main.go](volume-05/1446/main.go)   |
