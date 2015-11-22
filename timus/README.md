@@ -109,15 +109,15 @@
 | 1787 | [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)                   | [volume-08/1787/solution.go](volume-08/1787/solution.go)   |
 | 1792 | [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)                      | [volume-08/1792/solution.go](volume-08/1792/solution.go)   |
 | 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/solution.go](volume-08/1796/solution.go)   |
-| 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/main.go](volume-09/1820/main.go)   |
-| 1837 | [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [volume-09/1837/main.go](volume-09/1837/main.go)   |
+| 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/solution.go](volume-09/1820/solution.go)   |
+| 1837 | [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [volume-09/1837/solution.go](volume-09/1837/solution.go)   |
 | 1868 | [Конкурс прогнозов](http://acm.timus.ru/problem.aspx?space=1&num=1868)                 | [volume-09/1868/solution.go](volume-09/1868/solution.go)   |
-| 1873 | [Летопись GOV](http://acm.timus.ru/problem.aspx?space=1&num=1873)                      | [volume-09/1873/main.go](volume-09/1873/main.go)   |
-| 1876 | [Утро сороконожки](http://acm.timus.ru/problem.aspx?space=1&num=1876)                  | [volume-09/1876/main.go](volume-09/1876/main.go)   |
-| 1877 | [Велосипедные коды](http://acm.timus.ru/problem.aspx?space=1&num=1877)                 | [volume-09/1877/main.go](volume-09/1877/main.go)   |
-| 1880 | [Собственные числа Psych Up](http://acm.timus.ru/problem.aspx?space=1&num=1880)        | [volume-09/1880/main.go](volume-09/1880/main.go)   |
-| 1881 | [Длинное условие задачи](http://acm.timus.ru/problem.aspx?space=1&num=1881)            | [volume-09/1881/main.go](volume-09/1881/main.go)   |
-| 1893 | [A380](http://acm.timus.ru/problem.aspx?space=1&num=1893)                              | [volume-09/1893/main.go](volume-09/1893/main.go)   |
+| 1873 | [Летопись GOV](http://acm.timus.ru/problem.aspx?space=1&num=1873)                      | [volume-09/1873/solution.go](volume-09/1873/solution.go)   |
+| 1876 | [Утро сороконожки](http://acm.timus.ru/problem.aspx?space=1&num=1876)                  | [volume-09/1876/solution.go](volume-09/1876/solution.go)   |
+| 1877 | [Велосипедные коды](http://acm.timus.ru/problem.aspx?space=1&num=1877)                 | [volume-09/1877/solution.go](volume-09/1877/solution.go)   |
+| 1880 | [Собственные числа Psych Up](http://acm.timus.ru/problem.aspx?space=1&num=1880)        | [volume-09/1880/solution.go](volume-09/1880/solution.go)   |
+| 1881 | [Длинное условие задачи](http://acm.timus.ru/problem.aspx?space=1&num=1881)            | [volume-09/1881/solution.go](volume-09/1881/solution.go)   |
+| 1893 | [A380](http://acm.timus.ru/problem.aspx?space=1&num=1893)                              | [volume-09/1893/solution.go](volume-09/1893/solution.go)   |
 | 1902 | [Нео-Венеция](http://acm.timus.ru/problem.aspx?space=1&num=1902)                       | [volume-10/1902/main.go](volume-10/1902/main.go)   |
 | 1910 | [Руины титанов: сокрытый вход](http://acm.timus.ru/problem.aspx?space=1&num=1910)      | [volume-10/1910/main.go](volume-10/1910/main.go)   |
 | 1924 | [Четыре чертёнка](http://acm.timus.ru/problem.aspx?space=1&num=1924)                   | [volume-10/1924/main.go](volume-10/1924/main.go)   |
