@@ -111,6 +111,7 @@
 | 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/solution.go](volume-08/1796/solution.go)   |
 | 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/main.go](volume-09/1820/main.go)   |
 | 1837 | [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [volume-09/1837/main.go](volume-09/1837/main.go)   |
+| 1868 | [Конкурс прогнозов](http://acm.timus.ru/problem.aspx?space=1&num=1868)                 | [volume-09/1868/solution.go](volume-09/1868/solution.go)   |
 | 1873 | [Летопись GOV](http://acm.timus.ru/problem.aspx?space=1&num=1873)                      | [volume-09/1873/main.go](volume-09/1873/main.go)   |
 | 1876 | [Утро сороконожки](http://acm.timus.ru/problem.aspx?space=1&num=1876)                  | [volume-09/1876/main.go](volume-09/1876/main.go)   |
 | 1877 | [Велосипедные коды](http://acm.timus.ru/problem.aspx?space=1&num=1877)                 | [volume-09/1877/main.go](volume-09/1877/main.go)   |

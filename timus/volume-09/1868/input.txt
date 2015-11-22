@@ -1,0 +1,34 @@
+Zhejiang_U
+U_of_Michigan_at_Ann_Arbor
+Tsinghua_U
+St._Petersburg_SU
+Nizhny_Novgorod_SU
+Saratov_SU
+Friedrich_Alexander_U
+Donetsk_National_U
+Jagiellonian_U_in_Krakow
+Moscow_SU
+Ural_SU
+U_of_Waterloo
+3
+6
+Moscow_SU : gold
+St._Petersburg_SU_of_ITMO : gold
+Warsaw_U : gold
+Tsinghua_U : gold
+Nizhny_Novgorod_SU : silver
+Saratov_SU : silver
+6
+Warsaw_U : gold
+Saratov_SU : gold
+Tsinghua_U : gold
+Donetsk_National_U : silver
+St._Petersburg_SU_of_ITMO : silver
+Ural_SU : bronze
+6
+Zhejiang_U : gold
+Tsinghua_U : gold
+Shanghai_Jiao_Tong_U : gold
+Fudan_U : gold
+Moscow_SU : silver
+Nizhny_Novgorod_SU : silver
