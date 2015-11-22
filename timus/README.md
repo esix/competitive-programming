@@ -63,6 +63,7 @@
 | 1243 | [Развод семи гномов](http://acm.timus.ru/problem.aspx?space=1&num=1243)                | [volume-03/1243/solution.go](volume-03/1243/solution.go)   |
 | 1263 | [Выборы](http://acm.timus.ru/problem.aspx?space=1&num=1263)                            | [volume-03/1263/solution.go](volume-03/1263/solution.go)   |
 | 1264 | [Трудовые будни](http://acm.timus.ru/problem.aspx?space=1&num=1264)                    | [volume-03/1264/solution.go](volume-03/1264/solution.go)   |
+| 1283 | [Гномик](http://acm.timus.ru/problem.aspx?space=1&num=1283)                            | [volume-03/1283/solution.go](volume-03/1283/solution.go)   |
 | 1287 | [Каналы на Марсе](http://acm.timus.ru/problem.aspx?space=1&num=1287)                   | [volume-03/1287/solution.go](volume-03/1287/solution.go)   |
 | 1290 | [Саботаж](http://acm.timus.ru/problem.aspx?space=1&num=1290)                           | [volume-03/1290/solution.go](volume-03/1290/solution.go)   |
 | 1293 | [Эния](http://acm.timus.ru/problem.aspx?space=1&num=1293)                              | [volume-03/1293/solution.go](volume-03/1293/solution.go)   |
