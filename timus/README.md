@@ -101,6 +101,7 @@
 | 1642 | [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)               | [volume-07/1642/main.go](volume-07/1642/main.go)   |
 | 1644 | [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)                       | [volume-07/1644/main.go](volume-07/1644/main.go)   |
 | 1654 | [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)                          | [volume-07/1654/main.go](volume-07/1654/main.go)   |
+| 1688 | [Team.GOV!](http://acm.timus.ru/problem.aspx?space=1&num=1688)                         | [volume-07/1688/solution.go](volume-07/1688/solution.go)   |
 | 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                     | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
 | 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)   |
 | 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/solution.go](volume-08/1723/solution.go)   |
