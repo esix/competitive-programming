@@ -92,15 +92,15 @@
 | 1581 | [Работа в команде](http://acm.timus.ru/problem.aspx?space=1&num=1581)                  | [volume-06/1581/main.go](volume-06/1581/main.go)   |
 | 1582 | [Букмекеры](http://acm.timus.ru/problem.aspx?space=1&num=1582)                         | [volume-06/1582/main.go](volume-06/1582/main.go)   |
 | 1585 | [Пингвины](http://acm.timus.ru/problem.aspx?space=1&num=1585)                          | [volume-06/1585/main.go](volume-06/1585/main.go)   |
-| 1601 | [АнтиКАПС](http://acm.timus.ru/problem.aspx?space=1&num=1601)                          | [volume-07/1601/main.go](volume-07/1601/main.go)   |
-| 1607 | [Такси](http://acm.timus.ru/problem.aspx?space=1&num=1607)                             | [volume-07/1607/main.go](volume-07/1607/main.go)   |
-| 1617 | [Ползуны](http://acm.timus.ru/problem.aspx?space=1&num=1617)                           | [volume-07/1617/main.go](volume-07/1617/main.go)   |
-| 1636 | [Penalty Time](http://acm.timus.ru/problem.aspx?space=1&num=1636)                      | [volume-07/1636/main.go](volume-07/1636/main.go)   |
-| 1638 | [Книжный червь](http://acm.timus.ru/problem.aspx?space=1&num=1638)                     | [volume-07/1638/main.go](volume-07/1638/main.go)   |
-| 1639 | [Шоколад 2](http://acm.timus.ru/problem.aspx?space=1&num=1639)                         | [volume-07/1639/main.go](volume-07/1639/main.go)   |
-| 1642 | [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)               | [volume-07/1642/main.go](volume-07/1642/main.go)   |
-| 1644 | [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)                       | [volume-07/1644/main.go](volume-07/1644/main.go)   |
-| 1654 | [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)                          | [volume-07/1654/main.go](volume-07/1654/main.go)   |
+| 1601 | [АнтиКАПС](http://acm.timus.ru/problem.aspx?space=1&num=1601)                          | [volume-07/1601/solution.go](volume-07/1601/solution.go)   |
+| 1607 | [Такси](http://acm.timus.ru/problem.aspx?space=1&num=1607)                             | [volume-07/1607/solution.go](volume-07/1607/solution.go)   |
+| 1617 | [Ползуны](http://acm.timus.ru/problem.aspx?space=1&num=1617)                           | [volume-07/1617/solution.go](volume-07/1617/solution.go)   |
+| 1636 | [Penalty Time](http://acm.timus.ru/problem.aspx?space=1&num=1636)                      | [volume-07/1636/solution.go](volume-07/1636/solution.go)   |
+| 1638 | [Книжный червь](http://acm.timus.ru/problem.aspx?space=1&num=1638)                     | [volume-07/1638/solution.go](volume-07/1638/solution.go)   |
+| 1639 | [Шоколад 2](http://acm.timus.ru/problem.aspx?space=1&num=1639)                         | [volume-07/1639/solution.go](volume-07/1639/solution.go)   |
+| 1642 | [Одномерный лабиринт](http://acm.timus.ru/problem.aspx?space=1&num=1642)               | [volume-07/1642/solution.go](volume-07/1642/solution.go)   |
+| 1644 | [Куча орехов](http://acm.timus.ru/problem.aspx?space=1&num=1644)                       | [volume-07/1644/solution.go](volume-07/1644/solution.go)   |
+| 1654 | [Шифровка](http://acm.timus.ru/problem.aspx?space=1&num=1654)                          | [volume-07/1654/solution.go](volume-07/1654/solution.go)   |
 | 1688 | [Team.GOV!](http://acm.timus.ru/problem.aspx?space=1&num=1688)                         | [volume-07/1688/solution.go](volume-07/1688/solution.go)   |
 | 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                     | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
 | 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)   |
