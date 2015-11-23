@@ -1,9 +1,9 @@
 CC=g++
 CFLAGS=-c -Wall -I/usr/local/include
 LDFLAGS=-lgtest -L/usr/local/lib
-SOURCES=triple_test.cpp
+SOURCES=test-all.cpp triple-test.cpp big-dec-test.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
-EXECUTABLE=triple_test
+EXECUTABLE=test-all
 
 all: $(SOURCES) $(EXECUTABLE)
 
@@ -14,4 +14,4 @@ $(EXECUTABLE): $(OBJECTS)
 	$(CC) $(CFLAGS) $< -o $@
 
 clean:
-	rm -f $(EXECUTABLE) *.o 
+	rm -f $(EXECUTABLE) *.o

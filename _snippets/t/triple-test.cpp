@@ -152,9 +152,3 @@ TEST(TestTriple, TestSet) {   // a == b
   ASSERT_EQ(v[2], std::make_triple(2, 0.0, std::string("a")));
   ASSERT_EQ(v[3], std::make_triple(2, 0.0, std::string("z")));
 }
-
-
-int main(int argc, char *argv[]) {
-  ::testing::InitGoogleTest(&argc, argv);
-  return RUN_ALL_TESTS();
-}
