@@ -133,6 +133,7 @@
 | 2010 | [Юный гроссмейстер Саша](http://acm.timus.ru/problem.aspx?space=1&num=2010)            | [volume-11/2010/solution.go](volume-11/2010/solution.go)   |
 | 2011 | [Длинное условие](http://acm.timus.ru/problem.aspx?space=1&num=2011)                   | [volume-11/2011/solution.go](volume-11/2011/solution.go)   |
 | 2012 | [Про Гришу Н.](http://acm.timus.ru/problem.aspx?space=1&num=2012)                      | [volume-11/2012/solution.go](volume-11/2012/solution.go)   |
+| 2018 | [Дебютный альбом](http://acm.timus.ru/problem.aspx?space=1&num=2018)                   | [volume-11/2018/solution.go](volume-11/2018/solution.go)   |
 | 2020 | [Пробка в Цветочном городе](http://acm.timus.ru/problem.aspx?space=1&num=2020)         | [volume-11/2020/solution.go](volume-11/2020/solution.go)   |
 | 2023 | [Дональд-почтальон](http://acm.timus.ru/problem.aspx?space=1&num=2023)                 | [volume-11/2023/solution.go](volume-11/2023/solution.go)   |
 | 2025 | [Стенка на стенку](http://acm.timus.ru/problem.aspx?space=1&num=2025)                  | [volume-11/2025/solution.go](volume-11/2025/solution.go)   |
