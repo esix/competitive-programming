@@ -61,6 +61,7 @@
 | 1225 | [Флаги](http://acm.timus.ru/problem.aspx?space=1&num=1225)                             | [volume-03/1225/solution.go](volume-03/1225/solution.go)   |
 | 1228 | [Массив](http://acm.timus.ru/problem.aspx?space=1&num=1228)                            | [volume-03/1228/solution.go](volume-03/1228/solution.go)   |
 | 1243 | [Развод семи гномов](http://acm.timus.ru/problem.aspx?space=1&num=1243)                | [volume-03/1243/solution.go](volume-03/1243/solution.go)   |
+| 1260 | [Фотограф-зануда](http://acm.timus.ru/problem.aspx?space=1&num=1260)                   | [volume-03/1260/solution.go](volume-03/1260/solution.go)   |
 | 1263 | [Выборы](http://acm.timus.ru/problem.aspx?space=1&num=1263)                            | [volume-03/1263/solution.go](volume-03/1263/solution.go)   |
 | 1264 | [Трудовые будни](http://acm.timus.ru/problem.aspx?space=1&num=1264)                    | [volume-03/1264/solution.go](volume-03/1264/solution.go)   |
 | 1283 | [Гномик](http://acm.timus.ru/problem.aspx?space=1&num=1283)                            | [volume-03/1283/solution.go](volume-03/1283/solution.go)   |
