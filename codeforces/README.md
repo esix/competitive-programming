@@ -39,22 +39,22 @@
   </tr>
   <tr>
     <td>600A</td>
-    <td>Выделение чисел</td>
+    <td><a href="http://codeforces.com/problemset/problem/600/A">Выделение чисел</a></td>
     <td><a href="600/A/solution.py">600/A/solution.py</a></td>
   </tr>
   <tr>
     <td>600B</td>
-    <td>Запросы о количестве не превосходящих элементов</td>
+    <td><a href="http://codeforces.com/problemset/problem/600/B">Запросы о количестве не превосходящих элементов</a></td>
     <td><a href="600/B/solution.cpp">600/B/solution.cpp</a></td>
   </tr>
   <tr>
     <td>600C</td>
-    <td>Сделай палиндром</td>
+    <td><a href="http://codeforces.com/problemset/problem/600/C">Сделай палиндром</a></td>
     <td><a href="600/C/solution.cpp">600/C/solution.cpp</a></td>
   </tr>
   <tr>
     <td>600D</td>
-    <td>Площадь пересечения двух кругов</td>
+    <td><a href="http://codeforces.com/problemset/problem/600/D">Площадь пересечения двух кругов</a></td>
     <td><a href="600/D/solution.cpp">600/D/solution.cpp</a></td>
   </tr>
   <tr>
