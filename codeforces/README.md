@@ -40,6 +40,24 @@
   <tr>
     <td>600A</td>
     <td>Выделение чисел</td>
-    <td><a href="600A/solution.py">600A/solution.py</a></td>
+    <td><a href="600/A/solution.py">600/A/solution.py</a></td>
+  </tr>
+  <tr>
+    <td>600B</td>
+    <td>Запросы о количестве не превосходящих элементов</td>
+    <td><a href="600/B/solution.cpp">600/B/solution.cpp</a></td>
+  </tr>
+  <tr>
+    <td>600C</td>
+    <td>Сделай палиндром</td>
+    <td><a href="600/C/solution.cpp">600/C/solution.cpp</a></td>
+  </tr>
+  <tr>
+    <td>600D</td>
+    <td>Площадь пересечения двух кругов</td>
+    <td><a href="600/D/solution.cpp">600/D/solution.cpp</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
   </tr>
 </table>
