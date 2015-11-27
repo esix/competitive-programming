@@ -61,6 +61,7 @@
 | 1225 | [Флаги](http://acm.timus.ru/problem.aspx?space=1&num=1225)                             | [volume-03/1225/solution.go](volume-03/1225/solution.go)   |
 | 1228 | [Массив](http://acm.timus.ru/problem.aspx?space=1&num=1228)                            | [volume-03/1228/solution.go](volume-03/1228/solution.go)   |
 | 1243 | [Развод семи гномов](http://acm.timus.ru/problem.aspx?space=1&num=1243)                | [volume-03/1243/solution.go](volume-03/1243/solution.go)   |
+| 1260 | [Фотограф-зануда](http://acm.timus.ru/problem.aspx?space=1&num=1260)                   | [volume-03/1260/solution.go](volume-03/1260/solution.go)   |
 | 1263 | [Выборы](http://acm.timus.ru/problem.aspx?space=1&num=1263)                            | [volume-03/1263/solution.go](volume-03/1263/solution.go)   |
 | 1264 | [Трудовые будни](http://acm.timus.ru/problem.aspx?space=1&num=1264)                    | [volume-03/1264/solution.go](volume-03/1264/solution.go)   |
 | 1283 | [Гномик](http://acm.timus.ru/problem.aspx?space=1&num=1283)                            | [volume-03/1283/solution.go](volume-03/1283/solution.go)   |
@@ -73,6 +74,7 @@
 | 1319 | [Отель](http://acm.timus.ru/problem.aspx?space=1&num=1319)                             | [volume-04/1319/solution.go](volume-04/1319/solution.go)   |
 | 1327 | [Предохранители](http://acm.timus.ru/problem.aspx?space=1&num=1327)                    | [volume-04/1327/solution.go](volume-04/1327/solution.go)   |
 | 1330 | [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)                         | [volume-04/1330/solution.go](volume-04/1330/solution.go)   |
+| 1336 | [Проблема Бен Бецалеля](http://acm.timus.ru/problem.aspx?space=1&num=1336)             | [volume-04/1336/solution.go](volume-04/1336/solution.go)   |
 | 1349 | [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)                             | [volume-04/1349/solution.go](volume-04/1349/solution.go)   |
 | 1353 | [Миллиардная Функция Васи](http://acm.timus.ru/problem.aspx?space=1&num=1353)          | [volume-04/1353/solution.go](volume-04/1353/solution.go)   |
 | 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/solution.go](volume-04/1354/solution.go)   |
