@@ -35,6 +35,11 @@
 </thead>
 <tbody>
   <tr>
-    <td colspan="3">[Educational Codeforces Round 2](http://codeforces.com/contest/600)</td>
+    <td colspan="3">Educational Codeforces Round 2 (http://codeforces.com/contest/600)</td>
+  </tr>
+  <tr>
+    <td>600A</td>
+    <td>Выделение чисел</td>
+    <td><a href="600A/solution.py">600A/solution.py</a></td>
   </tr>
 </table>
