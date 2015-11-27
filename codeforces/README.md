@@ -35,6 +35,6 @@
 </thead>
 <tbody>
   <tr>
-    <td colspan="3">Three</td>
+    <td colspan="3">[Educational Codeforces Round 2](http://codeforces.com/contest/600)</td>
   </tr>
 </table>
