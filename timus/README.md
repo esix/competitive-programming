@@ -28,6 +28,7 @@
 | 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)                       | [volume-01/1005/solution.go](volume-01/1005/solution.go)   |
 | 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)                 | [volume-01/1014/solution.go](volume-01/1014/solution.go)   |
 | 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                           | [volume-01/1020/solution.go](volume-01/1020/solution.go)   |
+| 1022 | [Генеалогическое дерево](http://acm.timus.ru/problem.aspx?space=1&num=1022)            | [volume-01/1022/solution.go](volume-01/1022/solution.go)   |
 | 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [volume-01/1023/solution.go](volume-01/1023/solution.go)   |
 | 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-01/1044/solution.go](volume-01/1044/solution.go)   |
 | 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [volume-01/1068/solution.go](volume-01/1068/solution.go)   |
