@@ -108,6 +108,7 @@
 | 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                     | [volume-08/1711/solution.go](volume-08/1711/solution.go)   |
 | 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)   |
 | 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/solution.go](volume-08/1723/solution.go)   |
+| 1725 | [Аншлаг, аншлаг!](http://acm.timus.ru/problem.aspx?space=1&num=1725)                   | [volume-08/1725/solution.go](volume-08/1725/solution.go)   |
 | 1731 | [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)                             | [volume-08/1731/solution.go](volume-08/1731/solution.go)   |
 | 1777 | [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)                | [volume-08/1777/solution.go](volume-08/1777/solution.go)   |
 | 1786 | [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [volume-08/1786/solution.go](volume-08/1786/solution.go)   |
