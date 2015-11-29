@@ -28,6 +28,7 @@
 | 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)                       | [volume-01/1005/solution.go](volume-01/1005/solution.go)   |
 | 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)                 | [volume-01/1014/solution.go](volume-01/1014/solution.go)   |
 | 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                           | [volume-01/1020/solution.go](volume-01/1020/solution.go)   |
+| 1022 | [Генеалогическое дерево](http://acm.timus.ru/problem.aspx?space=1&num=1022)            | [volume-01/1022/solution.go](volume-01/1022/solution.go)   |
 | 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [volume-01/1023/solution.go](volume-01/1023/solution.go)   |
 | 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-01/1044/solution.go](volume-01/1044/solution.go)   |
 | 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [volume-01/1068/solution.go](volume-01/1068/solution.go)   |
@@ -124,12 +125,13 @@
 | 1880 | [Собственные числа Psych Up](http://acm.timus.ru/problem.aspx?space=1&num=1880)        | [volume-09/1880/solution.go](volume-09/1880/solution.go)   |
 | 1881 | [Длинное условие задачи](http://acm.timus.ru/problem.aspx?space=1&num=1881)            | [volume-09/1881/solution.go](volume-09/1881/solution.go)   |
 | 1893 | [A380](http://acm.timus.ru/problem.aspx?space=1&num=1893)                              | [volume-09/1893/solution.go](volume-09/1893/solution.go)   |
-| 1902 | [Нео-Венеция](http://acm.timus.ru/problem.aspx?space=1&num=1902)                       | [volume-10/1902/main.go](volume-10/1902/main.go)   |
-| 1910 | [Руины титанов: сокрытый вход](http://acm.timus.ru/problem.aspx?space=1&num=1910)      | [volume-10/1910/main.go](volume-10/1910/main.go)   |
-| 1924 | [Четыре чертёнка](http://acm.timus.ru/problem.aspx?space=1&num=1924)                   | [volume-10/1924/main.go](volume-10/1924/main.go)   |
-| 1925 | [О заслуге британских учёных](http://acm.timus.ru/problem.aspx?space=1&num=1925)       | [volume-10/1925/main.go](volume-10/1925/main.go)   |
-| 1935 | [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)                | [volume-10/1935/main.go](volume-10/1935/main.go)   |
-| 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/main.go](volume-10/1991/main.go)   |
+| 1902 | [Нео-Венеция](http://acm.timus.ru/problem.aspx?space=1&num=1902)                       | [volume-10/1902/solution.go](volume-10/1902/solution.go)   |
+| 1910 | [Руины титанов: сокрытый вход](http://acm.timus.ru/problem.aspx?space=1&num=1910)      | [volume-10/1910/solution.go](volume-10/1910/solution.go)   |
+| 1924 | [Четыре чертёнка](http://acm.timus.ru/problem.aspx?space=1&num=1924)                   | [volume-10/1924/solution.go](volume-10/1924/solution.go)   |
+| 1925 | [О заслуге британских учёных](http://acm.timus.ru/problem.aspx?space=1&num=1925)       | [volume-10/1925/solution.go](volume-10/1925/solution.go)   |
+| 1931 | [Отличная команда](http://acm.timus.ru/problem.aspx?space=1&num=1931)                  | [volume-10/1931/solution.go](volume-10/1931/solution.go)   |
+| 1935 | [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)                | [volume-10/1935/solution.go](volume-10/1935/solution.go)   |
+| 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/solution.go](volume-10/1991/solution.go)   |
 | 2000 | [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)               | [volume-11/2000/solution.go](volume-11/2000/solution.go)   |
 | 2001 | [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)                | [volume-11/2001/solution.go](volume-11/2001/solution.go)   |
 | 2002 | [Тестовое задание](http://acm.timus.ru/problem.aspx?space=1&num=2002)                  | [volume-11/2002/solution.go](volume-11/2002/solution.go)   |
