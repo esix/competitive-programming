@@ -129,6 +129,7 @@
 | 1910 | [Руины титанов: сокрытый вход](http://acm.timus.ru/problem.aspx?space=1&num=1910)      | [volume-10/1910/main.go](volume-10/1910/main.go)   |
 | 1924 | [Четыре чертёнка](http://acm.timus.ru/problem.aspx?space=1&num=1924)                   | [volume-10/1924/main.go](volume-10/1924/main.go)   |
 | 1925 | [О заслуге британских учёных](http://acm.timus.ru/problem.aspx?space=1&num=1925)       | [volume-10/1925/main.go](volume-10/1925/main.go)   |
+| 1931 | [Отличная команда](http://acm.timus.ru/problem.aspx?space=1&num=1931)                  | [volume-10/1931/solution.go](volume-10/1931/solution.go)   |
 | 1935 | [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)                | [volume-10/1935/main.go](volume-10/1935/main.go)   |
 | 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/main.go](volume-10/1991/main.go)   |
 | 2000 | [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)               | [volume-11/2000/solution.go](volume-11/2000/solution.go)   |
