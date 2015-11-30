@@ -77,6 +77,7 @@
 | 1330 | [Интервалы](http://acm.timus.ru/problem.aspx?space=1&num=1330)                         | [volume-04/1330/solution.go](volume-04/1330/solution.go)   |
 | 1336 | [Проблема Бен Бецалеля](http://acm.timus.ru/problem.aspx?space=1&num=1336)             | [volume-04/1336/solution.go](volume-04/1336/solution.go)   |
 | 1349 | [Ферма](http://acm.timus.ru/problem.aspx?space=1&num=1349)                             | [volume-04/1349/solution.go](volume-04/1349/solution.go)   |
+| 1352 | [Простые числа Мерсенна](http://acm.timus.ru/problem.aspx?space=1&num=1352)            | [volume-04/1352/solution.go](volume-04/1352/solution.go)   |
 | 1353 | [Миллиардная Функция Васи](http://acm.timus.ru/problem.aspx?space=1&num=1353)          | [volume-04/1353/solution.go](volume-04/1353/solution.go)   |
 | 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/solution.go](volume-04/1354/solution.go)   |
 | 1370 | [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)                         | [volume-04/1370/solution.go](volume-04/1370/solution.go)   |
