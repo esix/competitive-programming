@@ -41,7 +41,7 @@ int main() {
   for(map<char, int>::iterator it = cnt.begin(); it != cnt.end(); ++it) {
     int num = it->second / 2;
     if(it->second % 2 != 0) {
-      num++;
+      res[n/2] = it->first;
     }
 
     for(int i = 0; i < num; i++) {
