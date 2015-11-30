@@ -155,8 +155,11 @@ Decimal& Decimal::_add(const Decimal& r, bool minus) {
   };
   std::cout << to_str() << (minus ? " - " : " + ") << r.to_str();
 
+  char r_sgn = minus ? -1 : 1;
+  if(is_negative() && r.is_positive() || is_positive() && r.is_negative()) r_sgn = -r_sgn;
 
-  char l_sgn = sign(), r_sgn = !minus ? r.sign() : -r.sign();
+  std::cout << "{ r_sgn=" << (int)r_sgn << "} ";
+
   _collection_t::iterator lit = _ds.begin();
   _collection_t::const_iterator rit = r._ds.cbegin();
 
@@ -167,7 +170,7 @@ Decimal& Decimal::_add(const Decimal& r, bool minus) {
   while(lit != _ds.end() || rit != r._ds.cend()) {
     char lc = (lit != _ds.end()) ? *lit : 0;
     char rc = (rit != r._ds.cend()) ? *rit : 0;
-    char new_c = l_sgn * lc + r_sgn * rc + carry;
+    char new_c = lc + r_sgn * rc + carry;
     if     (new_c < 0) { new_c += 10; carry = -1; }
     else if(new_c > 9) { new_c -= 10; carry =  1; }
 
