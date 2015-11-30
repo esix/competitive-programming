@@ -132,6 +132,7 @@
 | 1931 | [Отличная команда](http://acm.timus.ru/problem.aspx?space=1&num=1931)                  | [volume-10/1931/solution.go](volume-10/1931/solution.go)   |
 | 1935 | [Слёзы утопленников](http://acm.timus.ru/problem.aspx?space=1&num=1935)                | [volume-10/1935/solution.go](volume-10/1935/solution.go)   |
 | 1964 | [Китайский язык](http://acm.timus.ru/problem.aspx?space=1&num=1964)                    | [volume-10/1964/solution.go](volume-10/1964/solution.go)   |
+| 1982 | [План электрификации](http://acm.timus.ru/problem.aspx?space=1&num=1982)               | [volume-10/1982/solution.go](volume-10/1982/solution.go)   |
 | 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/solution.go](volume-10/1991/solution.go)   |
 | 2000 | [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)               | [volume-11/2000/solution.go](volume-11/2000/solution.go)   |
 | 2001 | [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)                | [volume-11/2001/solution.go](volume-11/2001/solution.go)   |

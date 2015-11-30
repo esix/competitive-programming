@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-// BellmanвЂ“Ford
+// Prim's algorithm
 
 func min(a, b int) int {
 	if a < b {
@@ -25,52 +25,67 @@ func main() {
 
 	const INF = 1000000000
 
-	d := make([]int, n)
-	for i := 0; i < n; i++ {
-		d[i] = INF
-	}
-	for i := 0; i < k; i++ {
-		var e int
-		fmt.Fscan(bi, &e)
-		d[e-1] = 0
-	}
-
-	a := make([][]int, n)
-	for i := 0; i < n; i++ {
-		a[i] = make([]int, n)
-		for j := 0; j < n; j++ {
-			fmt.Fscan(bi, &a[i][j])
+	// graph matrix (+special vertex 0)
+	g := make([][]int, n+1)
+	for i := range g {
+		g[i] = make([]int, n+1)
+		for j := range g[i] {
+			g[i][j] = INF
 		}
 	}
 
-	prev := make([]int, n)
-	for i := 0; i < n; i++ {
-		prev[i] = i
+	// read start nodes
+	for i := 0; i < k; i++ {
+		var s_node int
+		fmt.Fscan(bi, &s_node)
+		g[0][s_node] = 0
+		g[s_node][0] = 0
 	}
 
-	changed := true
+	// read weights
+	for i := 1; i <= n; i++ {
+		for j := 1; j <= n; j++ {
+			fmt.Fscan(bi, &g[i][j])
+			if i == j {
+				g[i][j] = INF
+			}
+		}
+	}
 
-	for changed {
-		changed = false
+	// start
+	used := make([]bool, n+1)
+	min_e := make([]int, n+1)
+	sel_e := make([]int, n+1)
+	res := 0
 
-		for i := 0; i < n; i++ {
-			for j := 0; j < n; j++ {
-				if d[i]+a[i][j] < d[j] {
-					d[j] = d[i] + a[i][j]
-					prev[j] = i
-					changed = true
-				}
+	for i := 0; i <= n; i++ {
+		min_e[i] = INF
+		sel_e[i] = -1
+	}
+
+	min_e[0] = 0
+	for i := 0; i <= n; i++ {
+		v := -1
+		for j := 0; j <= n; j++ {
+			if !used[j] && (v == -1 || min_e[j] < min_e[v]) {
+				v = j
 			}
 		}
 
+		used[v] = true
+
+		if sel_e[v] != -1 {
+			//fmt.Fprintln(bo, v, sel_e[v])
+			res += g[sel_e[v]][v]
+		}
+
+		for to := 0; to <= n; to++ {
+			if g[v][to] < min_e[to] {
+				min_e[to] = g[v][to]
+				sel_e[to] = v
+			}
+		}
 	}
 
-	res := 0
-	for i := 0; i < n; i++ {
-		res += a[prev[i]][i]
-	}
-	fmt.Fprintln(bo, "====")
-	fmt.Fprintln(bo, d)
-	fmt.Fprintln(bo, prev)
 	fmt.Fprintln(bo, res)
 }
