@@ -115,6 +115,7 @@
 | 1777 | [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)                | [volume-08/1777/solution.go](volume-08/1777/solution.go)   |
 | 1786 | [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [volume-08/1786/solution.go](volume-08/1786/solution.go)   |
 | 1787 | [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)                   | [volume-08/1787/solution.go](volume-08/1787/solution.go)   |
+| 1788 | [О пользе зонтов](http://acm.timus.ru/problem.aspx?space=1&num=1788)                   | [volume-08/1788/solution.go](volume-08/1788/solution.go)   |
 | 1792 | [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)                      | [volume-08/1792/solution.go](volume-08/1792/solution.go)   |
 | 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/solution.go](volume-08/1796/solution.go)   |
 | 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/solution.go](volume-09/1820/solution.go)   |
