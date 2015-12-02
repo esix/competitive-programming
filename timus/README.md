@@ -36,6 +36,7 @@
 | 1079 | [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)                          | [volume-01/1079/solution.go](volume-01/1079/solution.go)      |
 | 1082 | [Иванушка-дурачок](http://acm.timus.ru/problem.aspx?space=1&num=1082)                  | [volume-01/1082/solution.go](volume-01/1082/solution.go)      |
 | 1083 | [Факториалы!!!](http://acm.timus.ru/problem.aspx?space=1&num=1083)                     | [volume-01/1083/solution.go](volume-01/1083/solution.go)      |
+| 1084 | [Пусти козла в огород](http://acm.timus.ru/problem.aspx?space=1&num=1084)              | [volume-01/1084/solution.go](volume-01/1084/solution.go)      |
 | 1086 | [Криптография](http://acm.timus.ru/problem.aspx?space=1&num=1086)                      | [volume-01/1086/solution.go](volume-01/1086/solution.go)      |
 | 1104 | [Не спрашивай даму о возрасте](http://acm.timus.ru/problem.aspx?space=1&num=1104)      | [volume-02/1104/solution.go](volume-02/1104/solution.go)      |
 | 1106 | [Две команды](http://acm.timus.ru/problem.aspx?space=1&num=1106)                       | [volume-02/1106/solution.go](volume-02/1106/solution.go)      |
