@@ -90,6 +90,7 @@
 | 1354 | [Палиндром. Он же палиндром](http://acm.timus.ru/problem.aspx?space=1&num=1354)        | [volume-04/1354/solution.go](volume-04/1354/solution.go)      |
 | 1370 | [Волшебник](http://acm.timus.ru/problem.aspx?space=1&num=1370)                         | [volume-04/1370/solution.go](volume-04/1370/solution.go)      |
 |      | [Volume 5](http://acm.timus.ru/problemset.aspx?space=1&page=5)                         |                                                               |
+| 1402 | [Коктейли](http://acm.timus.ru/problem.aspx?space=1&num=1402)                          | [volume-05/1402/solution.go](volume-05/1402/solution.go)      |
 | 1404 | [Легко взломать!](http://acm.timus.ru/problem.aspx?space=1&num=1404)                   | [volume-05/1404/solution.go](volume-05/1404/solution.go)      |
 | 1409 | [Два бандита](http://acm.timus.ru/problem.aspx?space=1&num=1409)                       | [volume-05/1409/solution.go](volume-05/1409/solution.go)      |
 | 1446 | [Волшебная шляпа](http://acm.timus.ru/problem.aspx?space=1&num=1446)                   | [volume-05/1446/solution.go](volume-05/1446/solution.go)      |
