@@ -6,35 +6,48 @@ import (
 	"os"
 )
 
+var prev byte
+var num_of_9 int
+var bo *bufio.Writer
+
+func next(c byte) {
+	if c < 9 {
+		fmt.Fprint(bo, prev)
+		for i := 0; i < num_of_9; i++ {
+			fmt.Fprint(bo, 9)
+		}
+		num_of_9 = 0
+		prev = c
+	} else if c > 9 {
+		fmt.Fprint(bo, prev+1)
+		for i := 0; i < num_of_9; i++ {
+			fmt.Fprint(bo, 0)
+		}
+		num_of_9 = 0
+		prev = c - 10
+	} else {
+		num_of_9++
+	}
+}
+
 func main() {
 	bi := bufio.NewReader(os.Stdin)
-	bo := bufio.NewWriter(os.Stdout)
+	bo = bufio.NewWriter(os.Stdout)
 	defer bo.Flush()
 
 	var n int
 	fmt.Fscanln(bi, &n)
 
-	a := make([]byte, n)
-	b := make([]byte, n)
-	for i := 0; i < n; i++ {
-		fmt.Fscanln(bi, &a[i], &b[i])
-	}
+	var a, b byte
+	fmt.Fscanln(bi, &a, &b)
 
-	c := make([]byte, n)
-	carry := byte(0)
+	prev = (a + b) % 10
 
-	for i := n - 1; i >= 0; i-- {
-		x := a[i] + b[i] + carry
-		carry = 0
-		if x >= 10 {
-			x -= 10
-			carry = 1
-		}
-		c[i] = x
+	for i := 1; i < n; i++ {
+		fmt.Fscanln(bi, &a, &b)
+		next(a + b)
 	}
+	next(0)
 
-	for i := 0; i < n; i++ {
-		fmt.Fprint(bo, c[i])
-	}
 	fmt.Fprintln(bo)
 }
