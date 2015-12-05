@@ -110,6 +110,7 @@
 |      | [Volume 7](http://acm.timus.ru/problemset.aspx?space=1&page=7)                         |                                                               |
 | 1601 | [АнтиКАПС](http://acm.timus.ru/problem.aspx?space=1&num=1601)                          | [volume-07/1601/solution.go](volume-07/1601/solution.go)      |
 | 1607 | [Такси](http://acm.timus.ru/problem.aspx?space=1&num=1607)                             | [volume-07/1607/solution.go](volume-07/1607/solution.go)      |
+| 1612 | [Трамвайный форум](http://acm.timus.ru/problem.aspx?space=1&num=1612)                  | [volume-07/1612/solution.go](volume-07/1612/solution.go)      |
 | 1617 | [Ползуны](http://acm.timus.ru/problem.aspx?space=1&num=1617)                           | [volume-07/1617/solution.go](volume-07/1617/solution.go)      |
 | 1636 | [Penalty Time](http://acm.timus.ru/problem.aspx?space=1&num=1636)                      | [volume-07/1636/solution.go](volume-07/1636/solution.go)      |
 | 1638 | [Книжный червь](http://acm.timus.ru/problem.aspx?space=1&num=1638)                     | [volume-07/1638/solution.go](volume-07/1638/solution.go)      |
