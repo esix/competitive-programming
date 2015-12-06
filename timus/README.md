@@ -34,6 +34,7 @@
 | 1026 | [Вопросы и ответы](http://acm.timus.ru/problem.aspx?space=1&num=1026)                  | [volume-01/1026/solution.go](volume-01/1026/solution.go)      |
 | 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-01/1044/solution.go](volume-01/1044/solution.go)      |
 | 1048 | [Сверхдлинные суммы](http://acm.timus.ru/problem.aspx?space=1&num=1048)                | [volume-01/1048/solution.go](volume-01/1048/solution.go)      |
+| 1052 | [Охота на зайцев](http://acm.timus.ru/problem.aspx?space=1&num=1052)                   | [volume-01/1052/solution.go](volume-01/1052/solution.go)      |
 | 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [volume-01/1068/solution.go](volume-01/1068/solution.go)      |
 | 1073 | [Квадратная страна](http://acm.timus.ru/problem.aspx?space=1&num=1073)                 | [volume-01/1073/solution.go](volume-01/1073/solution.go)      |
 | 1079 | [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)                          | [volume-01/1079/solution.go](volume-01/1079/solution.go)      |
