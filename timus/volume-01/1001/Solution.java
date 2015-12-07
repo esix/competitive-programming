@@ -1,13 +1,13 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Solution {
 
 	StreamTokenizer in;
 	PrintWriter out;
 
 	public static void main(String[] args) throws IOException {
-		new Main().run();
+		new Solution().run();
 	}
 	void run() throws IOException {
 		in = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
