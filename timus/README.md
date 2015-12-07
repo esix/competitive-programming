@@ -30,6 +30,7 @@
 | 1003 | [Чётность                         ](http://acm.timus.ru/problem.aspx?space=1&num=1003) | [volume-01/1003/solution.py](volume-01/1003/solution.py)      |
 | 1005 | [Куча камней                      ](http://acm.timus.ru/problem.aspx?space=1&num=1005) | [volume-01/1005/solution.go](volume-01/1005/solution.go)      |
 | 1009 | [K-ичные числа                    ](http://acm.timus.ru/problem.aspx?space=1&num=1009) | [volume-01/1009/solution.py](volume-01/1009/solution.py)      |
+| 1011 | [Кондукторы                       ](http://acm.timus.ru/problem.aspx?space=1&num=1011) | [volume-01/1011/solution.go](volume-01/1011/solution.go)      |
 | 1012 | [K-ичные числа. Версия 2          ](http://acm.timus.ru/problem.aspx?space=1&num=1012) | [volume-01/1012/solution.py](volume-01/1012/solution.py)      |
 | 1014 | [Произведение цифр                ](http://acm.timus.ru/problem.aspx?space=1&num=1014) | [volume-01/1014/solution.pas](volume-01/1014/solution.pas)    |
 | 1014 | [Произведение цифр                ](http://acm.timus.ru/problem.aspx?space=1&num=1014) | [volume-01/1014/solution.go](volume-01/1014/solution.go)      |
