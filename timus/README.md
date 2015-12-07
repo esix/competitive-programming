@@ -12,26 +12,29 @@
 - Visual C# 2010
 - VB.NET 2010
 - Python 2.7
-- [Python 3.4](python.md)
-- [Go 1.3](#go-13)
+- Python 3.4
+- Go 1.3
 - Ruby 1.9
 - Haskell 7.6
 - Scala 2.11
 
-
-## Go 1.3
 
 | ID   | Problem statement                                                                      | Solution                                                      |
 |:----:|:---------------------------------------------------------------------------------------|:-------------------------------------------------------------:|
 |      | [Volume 1](http://acm.timus.ru/problemset.aspx?space=1&page=1)                         |                                                               |
 | 1000 | [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)                       | [volume-01/1000/solution.go](volume-01/1000/solution.go)      |
 | 1001 | [Обратный корень](http://acm.timus.ru/problem.aspx?space=1&num=1001)                   | [volume-01/1001/solution.go](volume-01/1001/solution.go)      |
+| 1003 | [Чётность](http://acm.timus.ru/problem.aspx?space=1&num=1003)                          | [volume-01/1003/solution.py](volume-01/1003/solution.py)      |
 | 1005 | [Куча камней](http://acm.timus.ru/problem.aspx?space=1&num=1005)                       | [volume-01/1005/solution.go](volume-01/1005/solution.go)      |
+| 1009 | [K-ичные числа](http://acm.timus.ru/problem.aspx?space=1&num=1009)                     | [volume-01/1009/solution.py](volume-01/1009/solution.py)      |
+| 1012 | [K-ичные числа. Версия 2](http://acm.timus.ru/problem.aspx?space=1&num=1012)           | [volume-01/1012/solution.py](volume-01/1012/solution.py)      |
 | 1014 | [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)                 | [volume-01/1014/solution.go](volume-01/1014/solution.go)      |
 | 1017 | [Лестницы](http://acm.timus.ru/problem.aspx?space=1&num=1017)                          | [volume-01/1017/solution.go](volume-01/1017/solution.go)      |
 | 1020 | [Ниточка](http://acm.timus.ru/problem.aspx?space=1&num=1020)                           | [volume-01/1020/solution.go](volume-01/1020/solution.go)      |
+| 1021 | [Таинство суммы](http://acm.timus.ru/problem.aspx?space=1&num=1021)                    | [volume-01/1021/solution.py](volume-01/1021/solution.py)      |
 | 1022 | [Генеалогическое дерево](http://acm.timus.ru/problem.aspx?space=1&num=1022)            | [volume-01/1022/solution.go](volume-01/1022/solution.go)      |
 | 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [volume-01/1023/solution.go](volume-01/1023/solution.go)      |
+| 1025 | [Демократия в опасности](http://acm.timus.ru/problem.aspx?space=1&num=1025)            | [volume-01/1025/solution.py](volume-01/1025/solution.py)      |
 | 1026 | [Вопросы и ответы](http://acm.timus.ru/problem.aspx?space=1&num=1026)                  | [volume-01/1026/solution.go](volume-01/1026/solution.go)      |
 | 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-01/1044/solution.go](volume-01/1044/solution.go)      |
 | 1048 | [Сверхдлинные суммы](http://acm.timus.ru/problem.aspx?space=1&num=1048)                | [volume-01/1048/solution.go](volume-01/1048/solution.go)      |
@@ -70,6 +73,7 @@
 | 1222 | [Chernobyl’ Eagles](http://acm.timus.ru/problem.aspx?space=1&num=1222)                 | [volume-03/1222/solution.go](volume-03/1222/solution.go)      |
 | 1224 | [Спираль](http://acm.timus.ru/problem.aspx?space=1&num=1224)                           | [volume-03/1224/solution.go](volume-03/1224/solution.go)      |
 | 1225 | [Флаги](http://acm.timus.ru/problem.aspx?space=1&num=1225)                             | [volume-03/1225/solution.go](volume-03/1225/solution.go)      |
+| 1226 | [йынтарбО кодяроп                 ](http://acm.timus.ru/problem.aspx?space=1&num=1226) | [volume-03/1226/solution.py](volume-03/1226/solution.py)      |
 | 1228 | [Массив](http://acm.timus.ru/problem.aspx?space=1&num=1228)                            | [volume-03/1228/solution.go](volume-03/1228/solution.go)      |
 | 1243 | [Развод семи гномов](http://acm.timus.ru/problem.aspx?space=1&num=1243)                | [volume-03/1243/solution.go](volume-03/1243/solution.go)      |
 | 1260 | [Фотограф-зануда](http://acm.timus.ru/problem.aspx?space=1&num=1260)                   | [volume-03/1260/solution.go](volume-03/1260/solution.go)      |
@@ -124,17 +128,18 @@
 | 1683 | [Холодильник](http://acm.timus.ru/problem.aspx?space=1&num=1683)                       | [volume-07/1683/solution.go](volume-07/1683/solution.go)      |
 | 1688 | [Team.GOV!](http://acm.timus.ru/problem.aspx?space=1&num=1688)                         | [volume-07/1688/solution.go](volume-07/1688/solution.go)      |
 |      | [Volume 8](http://acm.timus.ru/problemset.aspx?space=1&page=8)                         |                                                               |
-| 1711 | [Кодовые имена](http://acm.timus.ru/problem.aspx?space=1&num=1711)                     | [volume-08/1711/solution.go](volume-08/1711/solution.go)      |
-| 1712 | [Шифровальная решётка](http://acm.timus.ru/problem.aspx?space=1&num=1712)              | [volume-08/1712/solution.go](volume-08/1712/solution.go)      |
-| 1723 | [Книга Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1723)                      | [volume-08/1723/solution.go](volume-08/1723/solution.go)      |
-| 1725 | [Аншлаг, аншлаг!](http://acm.timus.ru/problem.aspx?space=1&num=1725)                   | [volume-08/1725/solution.go](volume-08/1725/solution.go)      |
-| 1731 | [Укроп](http://acm.timus.ru/problem.aspx?space=1&num=1731)                             | [volume-08/1731/solution.go](volume-08/1731/solution.go)      |
-| 1777 | [Племя аниндилъяква](http://acm.timus.ru/problem.aspx?space=1&num=1777)                | [volume-08/1777/solution.go](volume-08/1777/solution.go)      |
-| 1786 | [Биография Сандро](http://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [volume-08/1786/solution.go](volume-08/1786/solution.go)      |
-| 1787 | [Поворот на МЕГУ](http://acm.timus.ru/problem.aspx?space=1&num=1787)                   | [volume-08/1787/solution.go](volume-08/1787/solution.go)      |
-| 1788 | [О пользе зонтов](http://acm.timus.ru/problem.aspx?space=1&num=1788)                   | [volume-08/1788/solution.go](volume-08/1788/solution.go)      |
-| 1792 | [Код Хэмминга](http://acm.timus.ru/problem.aspx?space=1&num=1792)                      | [volume-08/1792/solution.go](volume-08/1792/solution.go)      |
-| 1796 | [Парк аттракционов](http://acm.timus.ru/problem.aspx?space=1&num=1796)                 | [volume-08/1796/solution.go](volume-08/1796/solution.go)      |
+| 1711 | [Кодовые имена                    ](http://acm.timus.ru/problem.aspx?space=1&num=1711) | [volume-08/1711/solution.go](volume-08/1711/solution.go)      |
+| 1712 | [Шифровальная решётка             ](http://acm.timus.ru/problem.aspx?space=1&num=1712) | [volume-08/1712/solution.go](volume-08/1712/solution.go)      |
+| 1723 | [Книга Сандро                     ](http://acm.timus.ru/problem.aspx?space=1&num=1723) | [volume-08/1723/solution.go](volume-08/1723/solution.go)      |
+| 1725 | [Аншлаг, аншлаг!                  ](http://acm.timus.ru/problem.aspx?space=1&num=1725) | [volume-08/1725/solution.go](volume-08/1725/solution.go)      |
+| 1731 | [Укроп                            ](http://acm.timus.ru/problem.aspx?space=1&num=1731) | [volume-08/1731/solution.go](volume-08/1731/solution.go)      |
+| 1777 | [Племя аниндилъяква               ](http://acm.timus.ru/problem.aspx?space=1&num=1777) | [volume-08/1777/solution.go](volume-08/1777/solution.go)      |
+| 1785 | [Трудности локализации            ](http://acm.timus.ru/problem.aspx?space=1&num=1785) | [volume-08/1785/solution.py](volume-08/1785/solution.py)      |
+| 1786 | [Биография Сандро                 ](http://acm.timus.ru/problem.aspx?space=1&num=1786) | [volume-08/1786/solution.go](volume-08/1786/solution.go)      |
+| 1787 | [Поворот на МЕГУ                  ](http://acm.timus.ru/problem.aspx?space=1&num=1787) | [volume-08/1787/solution.go](volume-08/1787/solution.go)      |
+| 1788 | [О пользе зонтов                  ](http://acm.timus.ru/problem.aspx?space=1&num=1788) | [volume-08/1788/solution.go](volume-08/1788/solution.go)      |
+| 1792 | [Код Хэмминга                     ](http://acm.timus.ru/problem.aspx?space=1&num=1792) | [volume-08/1792/solution.go](volume-08/1792/solution.go)      |
+| 1796 | [Парк аттракционов                ](http://acm.timus.ru/problem.aspx?space=1&num=1796) | [volume-08/1796/solution.go](volume-08/1796/solution.go)      |
 |      | [Volume 9](http://acm.timus.ru/problemset.aspx?space=1&page=9)                         |                                                               |
 | 1820 | [Уральские бифштексы](http://acm.timus.ru/problem.aspx?space=1&num=1820)               | [volume-09/1820/solution.go](volume-09/1820/solution.go)      |
 | 1837 | [Число Исенбаева](http://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [volume-09/1837/solution.go](volume-09/1837/solution.go)      |
