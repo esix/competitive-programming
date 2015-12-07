@@ -34,6 +34,8 @@
 | 1023 | [Пуговицы](http://acm.timus.ru/problem.aspx?space=1&num=1023)                          | [volume-01/1023/solution.go](volume-01/1023/solution.go)      |
 | 1026 | [Вопросы и ответы](http://acm.timus.ru/problem.aspx?space=1&num=1026)                  | [volume-01/1026/solution.go](volume-01/1026/solution.go)      |
 | 1044 | [Lucky Tickets. Easy!](http://acm.timus.ru/problem.aspx?space=1&num=1044)              | [volume-01/1044/solution.go](volume-01/1044/solution.go)      |
+| 1048 | [Сверхдлинные суммы](http://acm.timus.ru/problem.aspx?space=1&num=1048)                | [volume-01/1048/solution.go](volume-01/1048/solution.go)      |
+| 1052 | [Охота на зайцев](http://acm.timus.ru/problem.aspx?space=1&num=1052)                   | [volume-01/1052/solution.go](volume-01/1052/solution.go)      |
 | 1068 | [Сумма](http://acm.timus.ru/problem.aspx?space=1&num=1068)                             | [volume-01/1068/solution.go](volume-01/1068/solution.go)      |
 | 1073 | [Квадратная страна](http://acm.timus.ru/problem.aspx?space=1&num=1073)                 | [volume-01/1073/solution.go](volume-01/1073/solution.go)      |
 | 1079 | [Максимум](http://acm.timus.ru/problem.aspx?space=1&num=1079)                          | [volume-01/1079/solution.go](volume-01/1079/solution.go)      |
@@ -111,6 +113,7 @@
 |      | [Volume 7](http://acm.timus.ru/problemset.aspx?space=1&page=7)                         |                                                               |
 | 1601 | [АнтиКАПС](http://acm.timus.ru/problem.aspx?space=1&num=1601)                          | [volume-07/1601/solution.go](volume-07/1601/solution.go)      |
 | 1607 | [Такси](http://acm.timus.ru/problem.aspx?space=1&num=1607)                             | [volume-07/1607/solution.go](volume-07/1607/solution.go)      |
+| 1612 | [Трамвайный форум](http://acm.timus.ru/problem.aspx?space=1&num=1612)                  | [volume-07/1612/solution.go](volume-07/1612/solution.go)      |
 | 1617 | [Ползуны](http://acm.timus.ru/problem.aspx?space=1&num=1617)                           | [volume-07/1617/solution.go](volume-07/1617/solution.go)      |
 | 1636 | [Penalty Time](http://acm.timus.ru/problem.aspx?space=1&num=1636)                      | [volume-07/1636/solution.go](volume-07/1636/solution.go)      |
 | 1638 | [Книжный червь](http://acm.timus.ru/problem.aspx?space=1&num=1638)                     | [volume-07/1638/solution.go](volume-07/1638/solution.go)      |
@@ -153,6 +156,7 @@
 | 1982 | [План электрификации](http://acm.timus.ru/problem.aspx?space=1&num=1982)               | [volume-10/1982/solution.go](volume-10/1982/solution.go)      |
 | 1984 | [Охранник компота](http://acm.timus.ru/problem.aspx?space=1&num=1984)                  | [volume-10/1984/solution.go](volume-10/1984/solution.go)      |
 | 1991 | [Битва у болота](http://acm.timus.ru/problem.aspx?space=1&num=1991)                    | [volume-10/1991/solution.go](volume-10/1991/solution.go)      |
+| 1993 | [Чизбургер этот не нужен тебе](http://acm.timus.ru/problem.aspx?space=1&num=1993)      | [volume-10/1993/solution.go](volume-10/1993/solution.go)      |
 |      | [Volume 11](http://acm.timus.ru/problemset.aspx?space=1&page=11)                       |                                                               |
 | 2000 | [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)               | [volume-11/2000/solution.go](volume-11/2000/solution.go)      |
 | 2001 | [Математики и ягоды](http://acm.timus.ru/problem.aspx?space=1&num=2001)                | [volume-11/2001/solution.go](volume-11/2001/solution.go)      |
