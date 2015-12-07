@@ -47,23 +47,24 @@
 | 1084 | [Пусти козла в огород](http://acm.timus.ru/problem.aspx?space=1&num=1084)              | [volume-01/1084/solution.go](volume-01/1084/solution.go)      |
 | 1086 | [Криптография](http://acm.timus.ru/problem.aspx?space=1&num=1086)                      | [volume-01/1086/solution.go](volume-01/1086/solution.go)      |
 |      | [Volume 2](http://acm.timus.ru/problemset.aspx?space=1&page=2)                         |                                                               |
-| 1104 | [Не спрашивай даму о возрасте](http://acm.timus.ru/problem.aspx?space=1&num=1104)      | [volume-02/1104/solution.go](volume-02/1104/solution.go)      |
-| 1106 | [Две команды](http://acm.timus.ru/problem.aspx?space=1&num=1106)                       | [volume-02/1106/solution.go](volume-02/1106/solution.go)      |
-| 1110 | [Степень](http://acm.timus.ru/problem.aspx?space=1&num=1110)                           | [volume-02/1110/solution.go](volume-02/1110/solution.go)      |
-| 1118 | [Нетривиальные числа](http://acm.timus.ru/problem.aspx?space=1&num=1118)               | [volume-02/1118/solution.go](volume-02/1118/solution.go)      |
-| 1119 | [Метро](http://acm.timus.ru/problem.aspx?space=1&num=1119)                             | [volume-02/1119/solution.go](volume-02/1119/solution.go)      |
-| 1120 | [Сумма последовательных чисел](http://acm.timus.ru/problem.aspx?space=1&num=1120)      | [volume-02/1120/solution.go](volume-02/1120/solution.go)      |
-| 1123 | [Зарплата](http://acm.timus.ru/problem.aspx?space=1&num=1123)                          | [volume-02/1123/solution.go](volume-02/1123/solution.go)      |
-| 1131 | [Копирование](http://acm.timus.ru/problem.aspx?space=1&num=1131)                       | [volume-02/1131/solution.go](volume-02/1131/solution.go)      |
-| 1136 | [Парламент](http://acm.timus.ru/problem.aspx?space=1&num=1136)                         | [volume-02/1136/solution.go](volume-02/1136/solution.go)      |
-| 1139 | [Городские кварталы](http://acm.timus.ru/problem.aspx?space=1&num=1139)                | [volume-02/1139/solution.go](volume-02/1139/solution.go)      |
-| 1146 | [Maximum Sum](http://acm.timus.ru/problem.aspx?space=1&num=1146)                       | [volume-02/1146/solution.go](volume-02/1146/solution.go)      |
-| 1149 | [Танцы синуса](http://acm.timus.ru/problem.aspx?space=1&num=1149)                      | [volume-02/1149/solution.go](volume-02/1149/solution.go)      |
-| 1161 | [Stripies](http://acm.timus.ru/problem.aspx?space=1&num=1161)                          | [volume-02/1161/solution.go](volume-02/1161/solution.go)      |
-| 1180 | [Игра с камушками](http://acm.timus.ru/problem.aspx?space=1&num=1180)                  | [volume-02/1180/solution.go](volume-02/1180/solution.go)      |
-| 1192 | [Мячик во сне](http://acm.timus.ru/problem.aspx?space=1&num=1192)                      | [volume-02/1192/solution.go](volume-02/1192/solution.go)      |
-| 1194 | [Рукопожатия](http://acm.timus.ru/problem.aspx?space=1&num=1194)                       | [volume-02/1194/solution.go](volume-02/1194/solution.go)      |
-| 1197 | [Один в поле воин](http://acm.timus.ru/problem.aspx?space=1&num=1197)                  | [volume-02/1197/solution.go](volume-02/1197/solution.go)      |
+| 1104 | [Не спрашивай даму о возрасте     ](http://acm.timus.ru/problem.aspx?space=1&num=1104) | [volume-02/1104/solution.go](volume-02/1104/solution.go)      |
+| 1106 | [Две команды                      ](http://acm.timus.ru/problem.aspx?space=1&num=1106) | [volume-02/1106/solution.go](volume-02/1106/solution.go)      |
+| 1110 | [Степень                          ](http://acm.timus.ru/problem.aspx?space=1&num=1110) | [volume-02/1110/solution.go](volume-02/1110/solution.go)      |
+| 1118 | [Нетривиальные числа              ](http://acm.timus.ru/problem.aspx?space=1&num=1118) | [volume-02/1118/solution.go](volume-02/1118/solution.go)      |
+| 1119 | [Метро                            ](http://acm.timus.ru/problem.aspx?space=1&num=1119) | [volume-02/1119/solution.go](volume-02/1119/solution.go)      |
+| 1120 | [Сумма последовательных чисел     ](http://acm.timus.ru/problem.aspx?space=1&num=1120) | [volume-02/1120/solution.go](volume-02/1120/solution.go)      |
+| 1123 | [Зарплата                         ](http://acm.timus.ru/problem.aspx?space=1&num=1123) | [volume-02/1123/solution.go](volume-02/1123/solution.go)      |
+| 1131 | [Копирование                      ](http://acm.timus.ru/problem.aspx?space=1&num=1131) | [volume-02/1131/solution.go](volume-02/1131/solution.go)      |
+| 1136 | [Парламент                        ](http://acm.timus.ru/problem.aspx?space=1&num=1136) | [volume-02/1136/solution.go](volume-02/1136/solution.go)      |
+| 1139 | [Городские кварталы               ](http://acm.timus.ru/problem.aspx?space=1&num=1139) | [volume-02/1139/solution.go](volume-02/1139/solution.go)      |
+| 1142 | [Отношения                        ](http://acm.timus.ru/problem.aspx?space=1&num=1142) | [volume-02/1142/solution.go](volume-02/1142/solution.go)      |
+| 1146 | [Maximum Sum                      ](http://acm.timus.ru/problem.aspx?space=1&num=1146) | [volume-02/1146/solution.go](volume-02/1146/solution.go)      |
+| 1149 | [Танцы синуса                     ](http://acm.timus.ru/problem.aspx?space=1&num=1149) | [volume-02/1149/solution.go](volume-02/1149/solution.go)      |
+| 1161 | [Stripies                         ](http://acm.timus.ru/problem.aspx?space=1&num=1161) | [volume-02/1161/solution.go](volume-02/1161/solution.go)      |
+| 1180 | [Игра с камушками                 ](http://acm.timus.ru/problem.aspx?space=1&num=1180) | [volume-02/1180/solution.go](volume-02/1180/solution.go)      |
+| 1192 | [Мячик во сне                     ](http://acm.timus.ru/problem.aspx?space=1&num=1192) | [volume-02/1192/solution.go](volume-02/1192/solution.go)      |
+| 1194 | [Рукопожатия                      ](http://acm.timus.ru/problem.aspx?space=1&num=1194) | [volume-02/1194/solution.go](volume-02/1194/solution.go)      |
+| 1197 | [Один в поле воин                 ](http://acm.timus.ru/problem.aspx?space=1&num=1197) | [volume-02/1197/solution.go](volume-02/1197/solution.go)      |
 |      | [Volume 3](http://acm.timus.ru/problemset.aspx?space=1&page=3)                         |                                                               |
 | 1203 | [Научная конференция](http://acm.timus.ru/problem.aspx?space=1&num=1203)               | [volume-03/1203/solution.go](volume-03/1203/solution.go)      |
 | 1206 | [Сумма цифр суммы чисел](http://acm.timus.ru/problem.aspx?space=1&num=1206)            | [volume-03/1206/solution.go](volume-03/1206/solution.go)      |
