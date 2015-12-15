@@ -158,6 +158,7 @@
 |      | [Volume 9](http://acm.timus.ru/problemset.aspx?space=1&page=9)                         |                                                               |
 | 1820 | [Уральские бифштексы              ](http://acm.timus.ru/problem.aspx?space=1&num=1820) | [volume-09/1820/solution.go](volume-09/1820/solution.go)      |
 | 1837 | [Число Исенбаева                  ](http://acm.timus.ru/problem.aspx?space=1&num=1837) | [volume-09/1837/solution.go](volume-09/1837/solution.go)      |
+| 1864 | [Посиделки у Дена                 ](http://acm.timus.ru/problem.aspx?space=1&num=1864) | [volume-09/1864/solution.go](volume-09/1864/solution.go)      |
 | 1868 | [Конкурс прогнозов                ](http://acm.timus.ru/problem.aspx?space=1&num=1868) | [volume-09/1868/solution.go](volume-09/1868/solution.go)      |
 | 1873 | [Летопись GOV                     ](http://acm.timus.ru/problem.aspx?space=1&num=1873) | [volume-09/1873/solution.go](volume-09/1873/solution.go)      |
 | 1876 | [Утро сороконожки                 ](http://acm.timus.ru/problem.aspx?space=1&num=1876) | [volume-09/1876/solution.go](volume-09/1876/solution.go)      |
