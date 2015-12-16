@@ -158,6 +158,7 @@
 | 1796 | [Парк аттракционов                ](http://acm.timus.ru/problem.aspx?space=1&num=1796) | [volume-08/1796/solution.go](volume-08/1796/solution.go)      |
 |      | [Volume 9](http://acm.timus.ru/problemset.aspx?space=1&page=9)                         |                                                               |
 | 1820 | [Уральские бифштексы              ](http://acm.timus.ru/problem.aspx?space=1&num=1820) | [volume-09/1820/solution.go](volume-09/1820/solution.go)      |
+| 1821 | [Биатлон                          ](http://acm.timus.ru/problem.aspx?space=1&num=1821) | [volume-09/1821/solution.go](volume-09/1821/solution.go)      |
 | 1837 | [Число Исенбаева                  ](http://acm.timus.ru/problem.aspx?space=1&num=1837) | [volume-09/1837/solution.go](volume-09/1837/solution.go)      |
 | 1864 | [Посиделки у Дена                 ](http://acm.timus.ru/problem.aspx?space=1&num=1864) | [volume-09/1864/solution.go](volume-09/1864/solution.go)      |
 | 1868 | [Конкурс прогнозов                ](http://acm.timus.ru/problem.aspx?space=1&num=1868) | [volume-09/1868/solution.go](volume-09/1868/solution.go)      |
