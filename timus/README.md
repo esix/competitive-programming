@@ -72,6 +72,7 @@
 | 1146 | [Maximum Sum                      ](http://acm.timus.ru/problem.aspx?space=1&num=1146) | [volume-02/1146/solution.go](volume-02/1146/solution.go)      |
 | 1149 | [Танцы синуса                     ](http://acm.timus.ru/problem.aspx?space=1&num=1149) | [volume-02/1149/solution.go](volume-02/1149/solution.go)      |
 | 1161 | [Stripies                         ](http://acm.timus.ru/problem.aspx?space=1&num=1161) | [volume-02/1161/solution.go](volume-02/1161/solution.go)      |
+| 1178 | [Дороги Акбардина                 ](http://acm.timus.ru/problem.aspx?space=1&num=1178) | [volume-02/1178/solution.go](volume-02/1178/solution.go)      |
 | 1180 | [Игра с камушками                 ](http://acm.timus.ru/problem.aspx?space=1&num=1180) | [volume-02/1180/solution.go](volume-02/1180/solution.go)      |
 | 1192 | [Мячик во сне                     ](http://acm.timus.ru/problem.aspx?space=1&num=1192) | [volume-02/1192/solution.go](volume-02/1192/solution.go)      |
 | 1194 | [Рукопожатия                      ](http://acm.timus.ru/problem.aspx?space=1&num=1194) | [volume-02/1194/solution.go](volume-02/1194/solution.go)      |
