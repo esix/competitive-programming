@@ -50,6 +50,7 @@
 | 1068 | [Сумма                            ](http://acm.timus.ru/problem.aspx?space=1&num=1068) | [volume-01/1068/solution.go](volume-01/1068/solution.go)      |
 | 1073 | [Квадратная страна                ](http://acm.timus.ru/problem.aspx?space=1&num=1073) | [volume-01/1073/solution.go](volume-01/1073/solution.go)      |
 | 1079 | [Максимум                         ](http://acm.timus.ru/problem.aspx?space=1&num=1079) | [volume-01/1079/solution.go](volume-01/1079/solution.go)      |
+| 1081 | [Двоичная последовательность      ](http://acm.timus.ru/problem.aspx?space=1&num=1081) | [volume-01/1081/solution.go](volume-01/1081/solution.go)      |
 | 1082 | [Иванушка-дурачок                 ](http://acm.timus.ru/problem.aspx?space=1&num=1082) | [volume-01/1082/solution.go](volume-01/1082/solution.go)      |
 | 1083 | [Факториалы!!!                    ](http://acm.timus.ru/problem.aspx?space=1&num=1083) | [volume-01/1083/solution.go](volume-01/1083/solution.go)      |
 | 1084 | [Пусти козла в огород             ](http://acm.timus.ru/problem.aspx?space=1&num=1084) | [volume-01/1084/solution.go](volume-01/1084/solution.go)      |
