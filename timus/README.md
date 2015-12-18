@@ -128,6 +128,7 @@
 | 1563 | [Баяны                            ](http://acm.timus.ru/problem.aspx?space=1&num=1563) | [volume-06/1563/solution.go](volume-06/1563/solution.go)      |
 | 1567 | [SMS-спам                         ](http://acm.timus.ru/problem.aspx?space=1&num=1567) | [volume-06/1567/solution.go](volume-06/1567/solution.go)      |
 | 1573 | [Алхимия                          ](http://acm.timus.ru/problem.aspx?space=1&num=1573) | [volume-06/1573/solution.go](volume-06/1573/solution.go)      |
+| 1576 | [Телефонные тарифы                ](http://acm.timus.ru/problem.aspx?space=1&num=1576) | [volume-06/1576/solution.go](volume-06/1576/solution.go)      |
 | 1581 | [Работа в команде                 ](http://acm.timus.ru/problem.aspx?space=1&num=1581) | [volume-06/1581/solution.go](volume-06/1581/solution.go)      |
 | 1582 | [Букмекеры                        ](http://acm.timus.ru/problem.aspx?space=1&num=1582) | [volume-06/1582/solution.go](volume-06/1582/solution.go)      |
 | 1585 | [Пингвины                         ](http://acm.timus.ru/problem.aspx?space=1&num=1585) | [volume-06/1585/solution.go](volume-06/1585/solution.go)      |
