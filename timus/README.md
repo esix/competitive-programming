@@ -104,6 +104,7 @@
 | 1296 | [Гиперпереход                     ](http://acm.timus.ru/problem.aspx?space=1&num=1296) | [volume-03/1296/solution.go](volume-03/1296/solution.go)      |
 | 1297 | [Палиндромы                       ](http://acm.timus.ru/problem.aspx?space=1&num=1297) | [volume-03/1297/solution.go](volume-03/1297/solution.go)      |
 |      | [Volume 4](http://acm.timus.ru/problemset.aspx?space=1&page=4)                         | [volume-04/](volume-04/)                                      |
+| 1306 | [Медиана последовательности       ](http://acm.timus.ru/problem.aspx?space=1&num=1306) | [volume-04/1306/solution.cpp](volume-04/1306/solution.cpp)    |
 | 1313 | [К вопросу о спорте               ](http://acm.timus.ru/problem.aspx?space=1&num=1313) | [volume-04/1313/solution.go](volume-04/1313/solution.go)      |
 | 1319 | [Отель                            ](http://acm.timus.ru/problem.aspx?space=1&num=1319) | [volume-04/1319/solution.go](volume-04/1319/solution.go)      |
 | 1327 | [Предохранители                   ](http://acm.timus.ru/problem.aspx?space=1&num=1327) | [volume-04/1327/solution.go](volume-04/1327/solution.go)      |
