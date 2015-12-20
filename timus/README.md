@@ -86,6 +86,7 @@
 | 1203 | [Научная конференция              ](http://acm.timus.ru/problem.aspx?space=1&num=1203) | [volume-03/1203/solution.go](volume-03/1203/solution.go)      |
 | 1206 | [Сумма цифр суммы чисел           ](http://acm.timus.ru/problem.aspx?space=1&num=1206) | [volume-03/1206/solution.go](volume-03/1206/solution.go)      |
 | 1209 | [1, 10, 100, 1000...              ](http://acm.timus.ru/problem.aspx?space=1&num=1209) | [volume-03/1209/solution.go](volume-03/1209/solution.go)      |
+| 1210 | [Добрые духи                      ](http://acm.timus.ru/problem.aspx?space=1&num=1210) | [volume-03/1210/solution.go](volume-03/1210/solution.go)      |
 | 1214 | [Странная процедура               ](http://acm.timus.ru/problem.aspx?space=1&num=1214) | [volume-03/1214/solution.go](volume-03/1214/solution.go)      |
 | 1219 | [Symbolic Sequence                ](http://acm.timus.ru/problem.aspx?space=1&num=1219) | [volume-03/1219/solution.go](volume-03/1219/solution.go)      |
 | 1222 | [Chernobyl’ Eagles                ](http://acm.timus.ru/problem.aspx?space=1&num=1222) | [volume-03/1222/solution.go](volume-03/1222/solution.go)      |
