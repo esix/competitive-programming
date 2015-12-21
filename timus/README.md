@@ -42,6 +42,7 @@
 | 1023 | [Пуговицы                         ](http://acm.timus.ru/problem.aspx?space=1&num=1023) | [volume-01/1023/solution.go](volume-01/1023/solution.go)      |
 | 1025 | [Демократия в опасности           ](http://acm.timus.ru/problem.aspx?space=1&num=1025) | [volume-01/1025/solution.py](volume-01/1025/solution.py)      |
 | 1026 | [Вопросы и ответы                 ](http://acm.timus.ru/problem.aspx?space=1&num=1026) | [volume-01/1026/solution.go](volume-01/1026/solution.go)      |
+| 1028 | [Stars                            ](http://acm.timus.ru/problem.aspx?space=1&num=1028) | [volume-01/1028/solution.go](volume-01/1028/solution.go)      |
 | 1033 | [Labyrinth                        ](http://acm.timus.ru/problem.aspx?space=1&num=1033) | [volume-01/1033/solution.go](volume-01/1033/solution.go)      |
 | 1044 | [Lucky Tickets. Easy!             ](http://acm.timus.ru/problem.aspx?space=1&num=1044) | [volume-01/1044/solution.go](volume-01/1044/solution.go)      |
 | 1048 | [Сверхдлинные суммы               ](http://acm.timus.ru/problem.aspx?space=1&num=1048) | [volume-01/1048/solution.go](volume-01/1048/solution.go)      |
