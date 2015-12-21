@@ -154,6 +154,7 @@
 | 1731 | [Укроп                            ](http://acm.timus.ru/problem.aspx?space=1&num=1731) | [volume-08/1731/solution.go](volume-08/1731/solution.go)      |
 | 1737 | [Мнемоника и палиндромы 3         ](http://acm.timus.ru/problem.aspx?space=1&num=1737) | [volume-08/1737/solution.pas](volume-08/1737/solution.pas)    |
 | 1740 | [А олени лучше!                   ](http://acm.timus.ru/problem.aspx?space=1&num=1740) | [volume-08/1740/solution.pas](volume-08/1740/solution.pas)    |
+| 1756 | [Полтора землекопа                ](http://acm.timus.ru/problem.aspx?space=1&num=1756) | [volume-08/1756/solution.go](volume-08/1756/solution.go)      |
 | 1777 | [Племя аниндилъяква               ](http://acm.timus.ru/problem.aspx?space=1&num=1777) | [volume-08/1777/solution.go](volume-08/1777/solution.go)      |
 | 1785 | [Трудности локализации            ](http://acm.timus.ru/problem.aspx?space=1&num=1785) | [volume-08/1785/solution.py](volume-08/1785/solution.py)      |
 | 1786 | [Биография Сандро                 ](http://acm.timus.ru/problem.aspx?space=1&num=1786) | [volume-08/1786/solution.go](volume-08/1786/solution.go)      |
