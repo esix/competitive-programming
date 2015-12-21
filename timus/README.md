@@ -50,6 +50,7 @@
 | 1068 | [Сумма                            ](http://acm.timus.ru/problem.aspx?space=1&num=1068) | [volume-01/1068/solution.go](volume-01/1068/solution.go)      |
 | 1073 | [Квадратная страна                ](http://acm.timus.ru/problem.aspx?space=1&num=1073) | [volume-01/1073/solution.go](volume-01/1073/solution.go)      |
 | 1079 | [Максимум                         ](http://acm.timus.ru/problem.aspx?space=1&num=1079) | [volume-01/1079/solution.go](volume-01/1079/solution.go)      |
+| 1080 | [Раскраска карты                  ](http://acm.timus.ru/problem.aspx?space=1&num=1080) | [volume-01/1080/solution.go](volume-01/1080/solution.go)      |
 | 1081 | [Двоичная последовательность      ](http://acm.timus.ru/problem.aspx?space=1&num=1081) | [volume-01/1081/solution.go](volume-01/1081/solution.go)      |
 | 1082 | [Иванушка-дурачок                 ](http://acm.timus.ru/problem.aspx?space=1&num=1082) | [volume-01/1082/solution.go](volume-01/1082/solution.go)      |
 | 1083 | [Факториалы!!!                    ](http://acm.timus.ru/problem.aspx?space=1&num=1083) | [volume-01/1083/solution.go](volume-01/1083/solution.go)      |
@@ -85,6 +86,7 @@
 | 1203 | [Научная конференция              ](http://acm.timus.ru/problem.aspx?space=1&num=1203) | [volume-03/1203/solution.go](volume-03/1203/solution.go)      |
 | 1206 | [Сумма цифр суммы чисел           ](http://acm.timus.ru/problem.aspx?space=1&num=1206) | [volume-03/1206/solution.go](volume-03/1206/solution.go)      |
 | 1209 | [1, 10, 100, 1000...              ](http://acm.timus.ru/problem.aspx?space=1&num=1209) | [volume-03/1209/solution.go](volume-03/1209/solution.go)      |
+| 1210 | [Добрые духи                      ](http://acm.timus.ru/problem.aspx?space=1&num=1210) | [volume-03/1210/solution.go](volume-03/1210/solution.go)      |
 | 1214 | [Странная процедура               ](http://acm.timus.ru/problem.aspx?space=1&num=1214) | [volume-03/1214/solution.go](volume-03/1214/solution.go)      |
 | 1219 | [Symbolic Sequence                ](http://acm.timus.ru/problem.aspx?space=1&num=1219) | [volume-03/1219/solution.go](volume-03/1219/solution.go)      |
 | 1222 | [Chernobyl’ Eagles                ](http://acm.timus.ru/problem.aspx?space=1&num=1222) | [volume-03/1222/solution.go](volume-03/1222/solution.go)      |
@@ -104,6 +106,7 @@
 | 1296 | [Гиперпереход                     ](http://acm.timus.ru/problem.aspx?space=1&num=1296) | [volume-03/1296/solution.go](volume-03/1296/solution.go)      |
 | 1297 | [Палиндромы                       ](http://acm.timus.ru/problem.aspx?space=1&num=1297) | [volume-03/1297/solution.go](volume-03/1297/solution.go)      |
 |      | [Volume 4](http://acm.timus.ru/problemset.aspx?space=1&page=4)                         | [volume-04/](volume-04/)                                      |
+| 1306 | [Медиана последовательности       ](http://acm.timus.ru/problem.aspx?space=1&num=1306) | [volume-04/1306/solution.cpp](volume-04/1306/solution.cpp)    |
 | 1313 | [К вопросу о спорте               ](http://acm.timus.ru/problem.aspx?space=1&num=1313) | [volume-04/1313/solution.go](volume-04/1313/solution.go)      |
 | 1319 | [Отель                            ](http://acm.timus.ru/problem.aspx?space=1&num=1319) | [volume-04/1319/solution.go](volume-04/1319/solution.go)      |
 | 1327 | [Предохранители                   ](http://acm.timus.ru/problem.aspx?space=1&num=1327) | [volume-04/1327/solution.go](volume-04/1327/solution.go)      |
@@ -128,6 +131,7 @@
 | 1545 | [Иероглифы                        ](http://acm.timus.ru/problem.aspx?space=1&num=1545) | [volume-06/1545/solution.go](volume-06/1545/solution.go)      |
 | 1563 | [Баяны                            ](http://acm.timus.ru/problem.aspx?space=1&num=1563) | [volume-06/1563/solution.go](volume-06/1563/solution.go)      |
 | 1567 | [SMS-спам                         ](http://acm.timus.ru/problem.aspx?space=1&num=1567) | [volume-06/1567/solution.go](volume-06/1567/solution.go)      |
+| 1572 | [Екатеринозаводский колодец       ](http://acm.timus.ru/problem.aspx?space=1&num=1572) | [volume-06/1572/solution.go](volume-06/1572/solution.go)      |
 | 1573 | [Алхимия                          ](http://acm.timus.ru/problem.aspx?space=1&num=1573) | [volume-06/1573/solution.go](volume-06/1573/solution.go)      |
 | 1576 | [Телефонные тарифы                ](http://acm.timus.ru/problem.aspx?space=1&num=1576) | [volume-06/1576/solution.go](volume-06/1576/solution.go)      |
 | 1581 | [Работа в команде                 ](http://acm.timus.ru/problem.aspx?space=1&num=1581) | [volume-06/1581/solution.go](volume-06/1581/solution.go)      |
