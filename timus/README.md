@@ -57,6 +57,7 @@
 | 1083 | [Факториалы!!!                    ](http://acm.timus.ru/problem.aspx?space=1&num=1083) | [volume-01/1083/solution.go](volume-01/1083/solution.go)      |
 | 1084 | [Пусти козла в огород             ](http://acm.timus.ru/problem.aspx?space=1&num=1084) | [volume-01/1084/solution.go](volume-01/1084/solution.go)      |
 | 1086 | [Криптография                     ](http://acm.timus.ru/problem.aspx?space=1&num=1086) | [volume-01/1086/solution.go](volume-01/1086/solution.go)      |
+| 1087 | [Время забирать камни             ](http://acm.timus.ru/problem.aspx?space=1&num=1087) | [volume-01/1087/solution.go](volume-01/1087/solution.go)      |
 | 1090 | [In the Army Now                  ](http://acm.timus.ru/problem.aspx?space=1&num=1090) | [volume-01/1090/solution.cpp](volume-01/1090/solution.cpp)    |
 |      | [Volume 2](http://acm.timus.ru/problemset.aspx?space=1&page=2)                         | [volume-02/](volume-02/)                                      |
 | 1100 | [Таблица результатов              ](http://acm.timus.ru/problem.aspx?space=1&num=1100) | [volume-02/1100/solution.cpp](volume-02/1100/solution.cpp)    |
