@@ -34,7 +34,7 @@
 | 600D | [Площадь пересечения двух кругов                   ](http://codeforces.com/contest/600/problem/D) | [600/D/solution.cpp](600/D/solution.cpp)   |
 | 600E | [Lomsat gelral                                     ](http://codeforces.com/contest/600/problem/E) | [600/E/solution.cpp](600/E/solution.cpp)   |
 |      |                                                                                                   |                                            |
-|      | [Codeforces Round #333 (Div. 2)](http://codeforces.com/contest/602)                               | [608/](602/)                               |
+|      | [Codeforces Round #333 (Div. 2)](http://codeforces.com/contest/602)                               | [602/](602/)                               |
 | 602A | [Два основания                                     ](http://codeforces.com/contest/602/problem/A) | [602/A/solution.py](602/A/solution.py)     |
 | 602B | [Аппроксимизация постоянного диапазона             ](http://codeforces.com/contest/602/problem/B) | [602/B/solution.cpp](602/B/solution.cpp)   |
 |      |                                                                                                   |                                            |
