@@ -27,6 +27,12 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Codeforces Round #327 (Div. 2)](http://codeforces.com/contest/591)                               | [591/](591/)                               |
+| 591A | [Поединок волшебников                              ](http://codeforces.com/contest/591/problem/A) | [591/A/solution.py](591/A/solution.py)     |
+| 591B | [Ребрендинг                                        ](http://codeforces.com/contest/591/problem/B) | [591/B/solution.py](591/B/solution.py)     |
+| 591C | [Медианное сглаживание                             ](http://codeforces.com/contest/591/problem/C) | [591/C/solution.cpp](591/C/solution.cpp)   |
+| 591D | [Чип и Дейл спешат на помощь                       ](http://codeforces.com/contest/591/problem/D) | [591/D/solution.py](591/D/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Educational Codeforces Round 1](http://codeforces.com/contest/598)                               | [598/](598/)                               |
 | 598A | [Хитрая сумма                                      ](http://codeforces.com/contest/598/problem/A) | [598/A/solution.py](598/A/solution.py)     |
 | 598B | [Запросы на строке                                 ](http://codeforces.com/contest/598/problem/B) | [598/B/solution.cpp](598/B/solution.cpp)   |
