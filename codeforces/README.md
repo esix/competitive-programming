@@ -27,6 +27,11 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #311 (Div. 2)](http://codeforces.com/contest/557)                               | [557/](557/)                               |
+| 557A | [Илья и дипломы                                    ](http://codeforces.com/contest/557/problem/A) | [557/A/solution.py](557/A/solution.py)     |
+| 557B | [Паша и чай                                        ](http://codeforces.com/contest/557/problem/B) | [557/B/solution.py](557/B/solution.py)     |
+| 557C | [Артур и стол                                      ](http://codeforces.com/contest/557/problem/C) | [557/C/solution.cpp](557/C/solution.cpp)   |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #319 (Div. 2)](http://codeforces.com/contest/577)                               | [577/](577/)                               |
 | 577A | [Таблица умножения                                 ](http://codeforces.com/contest/577/problem/A) | [577/A/solution.py](577/A/solution.py)     |
 |      |                                                                                                   |                                            |
