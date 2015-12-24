@@ -27,6 +27,10 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #305 (Div. 2)](http://codeforces.com/contest/548)                               | [548/](548/)                               |
+| 548A | [Майк и факс                                       ](http://codeforces.com/contest/548/problem/A) | [548/A/solution.py](548/A/solution.py)     |
+| 548B | [Майк и весёлая игра                               ](http://codeforces.com/contest/548/problem/B) | [548/B/solution.py](548/B/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #309 (Div. 2)](http://codeforces.com/contest/554)                               | [554/](554/)                               |
 | 554A | [Кёя и фотокниги                                   ](http://codeforces.com/contest/554/problem/A) | [554/A/solution.py](554/A/solution.py)     |
 | 554B | [Охана прибирается в комнате                       ](http://codeforces.com/contest/554/problem/B) | [554/B/solution.py](554/B/solution.py)     |
