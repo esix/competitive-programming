@@ -2,7 +2,7 @@
 
 - GNU GCC 5.1.0
 - GNU GCC C11 5.1.0
-- [GNU G++ 5.1.0](c++.md)
+- GNU G++ 5.1.0
 - GNU G++11 5.1.0
 - Microsoft Visual C++ 2010
 - C# Mono 3.12.1.0
@@ -12,13 +12,13 @@
 - Haskell GHC 7.8.3
 - Java 1.7.0_80
 - Java 1.8.0_66
-- [OCaml 4.02.1](ocaml.md)
+- OCaml 4.02.1
 - Delphi 7
 - Free Pascal 2.6.4
 - Perl 5.20.1
 - PHP 5.4.42
 - Python 2.7.10
-- [Python 3.5.0](python.md)
+- Python 3.5.0
 - PyPy 2.7.10 (2.6.1)
 - PyPy 3.2.5 (2.4.0)
 - Ruby 2.0.0p645
