@@ -25,39 +25,16 @@
 - Scala 2.11.7
 - JavaScript V8 4.8.0
 
-<table>
-<thead>
-  <tr>
-    <td>ID</td>
-    <td>Problem statement</td>
-    <td>Solution</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="3">Educational Codeforces Round 2 (http://codeforces.com/contest/600)</td>
-  </tr>
-  <tr>
-    <td>600A</td>
-    <td><a href="http://codeforces.com/problemset/problem/600/A">Выделение чисел</a></td>
-    <td><a href="600/A/solution.py">600/A/solution.py</a></td>
-  </tr>
-  <tr>
-    <td>600B</td>
-    <td><a href="http://codeforces.com/problemset/problem/600/B">Запросы о количестве не превосходящих элементов</a></td>
-    <td><a href="600/B/solution.cpp">600/B/solution.cpp</a></td>
-  </tr>
-  <tr>
-    <td>600C</td>
-    <td><a href="http://codeforces.com/problemset/problem/600/C">Сделай палиндром</a></td>
-    <td><a href="600/C/solution.cpp">600/C/solution.cpp</a></td>
-  </tr>
-  <tr>
-    <td>600D</td>
-    <td><a href="http://codeforces.com/problemset/problem/600/D">Площадь пересечения двух кругов</a></td>
-    <td><a href="600/D/solution.cpp">600/D/solution.cpp</a></td>
-  </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-</table>
+| ID   | Problem statement                                                                                 | Solution                                   |
+|:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Educational Codeforces Round 2](http://codeforces.com/contest/600)                               | [600/](600/)                               |
+| 600A | [Выделение чисел                                   ](http://codeforces.com/contest/600/problem/A) | [600/A/solution.py](600/A/solution.py)     |
+| 600B | [Запросы о количестве не превосходящих элементов   ](http://codeforces.com/contest/600/problem/B) | [600/B/solution.cpp](600/B/solution.cpp)   |
+| 600C | [Сделай палиндром                                  ](http://codeforces.com/contest/600/problem/C) | [600/C/solution.cpp](600/C/solution.cpp)   |
+| 600D | [Площадь пересечения двух кругов                   ](http://codeforces.com/contest/600/problem/D) | [600/D/solution.cpp](600/D/solution.cpp)   |
+| 600E | [Lomsat gelral                                     ](http://codeforces.com/contest/600/problem/E) | [600/E/solution.cpp](600/E/solution.cpp)   |
+|      |                                                                                                   |                                            |
+|      | [Codeforces Round #336 (Div. 2)](http://codeforces.com/contest/608)                               | [608/](608/)                               |
+| 608A | [Выделение чисел                                   ](http://codeforces.com/contest/608/problem/A) | [608/A/solution.py](608/A/solution.py)     |
+| 608B | [Запросы о количестве не превосходящих элементов   ](http://codeforces.com/contest/608/problem/B) | [608/B/solution.cpp](608/B/solution.cpp)   |
+|      |                                                                                                   |                                            |
