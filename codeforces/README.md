@@ -27,6 +27,9 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #319 (Div. 2)](http://codeforces.com/contest/577)                               | [577/](577/)                               |
+| 577A | [Таблица умножения                                 ](http://codeforces.com/contest/577/problem/A) | [577/A/solution.py](577/A/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/579)                               | [579/](579/)                               |
 | 579A | [Выращиваем бактерии                               ](http://codeforces.com/contest/579/problem/A) | [579/A/solution.py](579/A/solution.py)     |
 | 579C | [Задача про ломаную                                ](http://codeforces.com/contest/579/problem/C) | [579/C/solution.py](579/C/solution.py)     |
