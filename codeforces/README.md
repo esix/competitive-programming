@@ -27,6 +27,10 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/579)                               | [579/](579/)                               |
+| 579A | [Выращиваем бактерии                               ](http://codeforces.com/contest/579/problem/A) | [579/A/solution.py](579/A/solution.py)     |
+| 579C | [Задача про ломаную                                ](http://codeforces.com/contest/579/problem/C) | [579/C/solution.py](579/C/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #321 (Div. 2)](http://codeforces.com/contest/580)                               | [580/](580/)                               |
 | 580A | [Кефа и первые шаги                                ](http://codeforces.com/contest/580/problem/A) | [580/A/solution.cpp](580/A/solution.cpp)   |
 | 580C | [Кефа и парк                                       ](http://codeforces.com/contest/580/problem/C) | [580/C/solution.cpp](580/C/solution.cpp)   |
