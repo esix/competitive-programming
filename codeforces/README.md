@@ -27,6 +27,12 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Educational Codeforces Round 1](http://codeforces.com/contest/598)                               | [598/](598/)                               |
+| 598A | [Хитрая сумма                                      ](http://codeforces.com/contest/598/problem/A) | [598/A/solution.py](598/A/solution.py)     |
+| 598B | [Запросы на строке                                 ](http://codeforces.com/contest/598/problem/B) | [598/B/solution.cpp](598/B/solution.cpp)   |
+| 598C | [Ближайшие вектора                                 ](http://codeforces.com/contest/598/problem/C) | [598/C/solution.cpp](598/C/solution.cpp)   |
+| 598D | [Игорь в музее                                     ](http://codeforces.com/contest/598/problem/D) | [598/D/solution.cpp](598/D/solution.cpp)   |
+|      |                                                                                                   |                                            |
 |      | [Educational Codeforces Round 2](http://codeforces.com/contest/600)                               | [600/](600/)                               |
 | 600A | [Выделение чисел                                   ](http://codeforces.com/contest/600/problem/A) | [600/A/solution.py](600/A/solution.py)     |
 | 600B | [Запросы о количестве не превосходящих элементов   ](http://codeforces.com/contest/600/problem/B) | [600/B/solution.cpp](600/B/solution.cpp)   |
