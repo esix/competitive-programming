@@ -26,7 +26,11 @@
 - JavaScript V8 4.8.0
 
 | ID   | Problem statement                                                                                 | Solution                                   |
-|:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #321 (Div. 2)](http://codeforces.com/contest/580)                               | [580/](580/)                               |
+| 580A | [Кефа и первые шаги                                ](http://codeforces.com/contest/580/problem/A) | [580/A/solution.cpp](580/A/solution.cpp)   |
+| 580C | [Кефа и парк                                       ](http://codeforces.com/contest/580/problem/C) | [580/C/solution.cpp](580/C/solution.cpp)   |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #322 (Div. 2)](http://codeforces.com/contest/581)                               | [581/](581/)                               |
 | 581A | [Хипстер Вася                                      ](http://codeforces.com/contest/581/problem/A) | [581/A/solution.py](581/A/solution.py)     |
 | 581B | [Элитные дома                                      ](http://codeforces.com/contest/581/problem/B) | [581/B/solution.py](581/B/solution.py)     |
