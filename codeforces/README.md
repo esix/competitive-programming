@@ -27,6 +27,10 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #304 (Div. 2)](http://codeforces.com/contest/546)                               | [546/](546/)                               |
+| 546A | [Солдат и бананы                                   ](http://codeforces.com/contest/546/problem/A) | [546/A/solution.py](546/A/solution.py)     |
+| 546C | [Солдат и карты                                    ](http://codeforces.com/contest/546/problem/C) | [546/C/solution.py](546/C/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #305 (Div. 2)](http://codeforces.com/contest/548)                               | [548/](548/)                               |
 | 548A | [Майк и факс                                       ](http://codeforces.com/contest/548/problem/A) | [548/A/solution.py](548/A/solution.py)     |
 | 548B | [Майк и весёлая игра                               ](http://codeforces.com/contest/548/problem/B) | [548/B/solution.py](548/B/solution.py)     |
