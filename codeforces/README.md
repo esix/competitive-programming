@@ -27,6 +27,11 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Round #309 (Div. 2)](http://codeforces.com/contest/554)                               | [554/](554/)                               |
+| 554A | [Кёя и фотокниги                                   ](http://codeforces.com/contest/554/problem/A) | [554/A/solution.py](554/A/solution.py)     |
+| 554B | [Охана прибирается в комнате                       ](http://codeforces.com/contest/554/problem/B) | [554/B/solution.py](554/B/solution.py)     |
+| 554C | [Кёя и цветные мячи                                ](http://codeforces.com/contest/554/problem/C) | [554/C/solution.py](554/C/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #311 (Div. 2)](http://codeforces.com/contest/557)                               | [557/](557/)                               |
 | 557A | [Илья и дипломы                                    ](http://codeforces.com/contest/557/problem/A) | [557/A/solution.py](557/A/solution.py)     |
 | 557B | [Паша и чай                                        ](http://codeforces.com/contest/557/problem/B) | [557/B/solution.py](557/B/solution.py)     |
