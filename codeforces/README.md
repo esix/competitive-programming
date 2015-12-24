@@ -27,6 +27,10 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/583)                               | [583/](583/)                               |
+| 583A | [Асфальтирование дорог                             ](http://codeforces.com/contest/583/problem/A) | [583/A/solution.py](583/A/solution.py)     |
+| 583B | [Задача робота                                     ](http://codeforces.com/contest/583/problem/B) | [583/B/solution.py](583/B/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #325 (Div. 2)](http://codeforces.com/contest/586)                               | [586/](586/)                               |
 | 586A | [Расписание Алёны                                  ](http://codeforces.com/contest/586/problem/A) | [586/A/solution.py](586/A/solution.py)     |
 | 586B | [Лаврентий и магазин                               ](http://codeforces.com/contest/586/problem/B) | [586/B/solution.py](586/B/solution.py)     |
