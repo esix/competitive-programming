@@ -75,6 +75,6 @@
 | 602B | [Аппроксимизация постоянного диапазона             ](http://codeforces.com/contest/602/problem/B) | [602/B/solution.cpp](602/B/solution.cpp)   |
 |      |                                                                                                   |                                            |
 |      | [Codeforces Round #336 (Div. 2)](http://codeforces.com/contest/608)                               | [608/](608/)                               |
-| 608A | [Выделение чисел                                   ](http://codeforces.com/contest/608/problem/A) | [608/A/solution.py](608/A/solution.py)     |
-| 608B | [Запросы о количестве не превосходящих элементов   ](http://codeforces.com/contest/608/problem/B) | [608/B/solution.cpp](608/B/solution.cpp)   |
+| 608A | [Сайтама громит гостиницу                          ](http://codeforces.com/contest/608/problem/A) | [608/A/solution.py](608/A/solution.py)     |
+| 608B | [Сумма расстояний Хэмминга                         ](http://codeforces.com/contest/608/problem/B) | [608/B/solution.cpp](608/B/solution.cpp)   |
 |      |                                                                                                   |                                            |
