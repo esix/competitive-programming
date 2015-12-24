@@ -27,6 +27,11 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|      | [Codeforces Beta Round #1](http://codeforces.com/contest/1)                                       | [001/](001/)                               |
+| 1A   | [Театральная площадь                               ](http://codeforces.com/contest/1/problem/A)   | [001/A/solution.ml](001/A/solution.ml)     |
+| 1B   | [Электронные таблицы                               ](http://codeforces.com/contest/1/problem/B)   | [001/B/solution.ml](001/B/solution.ml)     |
+| 1C   | [Древнеберляндский цирк                            ](http://codeforces.com/contest/1/problem/C)   | [001/C/solution.ml](001/C/solution.ml)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #304 (Div. 2)](http://codeforces.com/contest/546)                               | [546/](546/)                               |
 | 546A | [Солдат и бананы                                   ](http://codeforces.com/contest/546/problem/A) | [546/A/solution.py](546/A/solution.py)     |
 | 546C | [Солдат и карты                                    ](http://codeforces.com/contest/546/problem/C) | [546/C/solution.py](546/C/solution.py)     |
