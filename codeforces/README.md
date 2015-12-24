@@ -27,6 +27,12 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Codeforces Round #325 (Div. 2)](http://codeforces.com/contest/586)                               | [586/](586/)                               |
+| 586A | [Расписание Алёны                                  ](http://codeforces.com/contest/586/problem/A) | [586/A/solution.py](586/A/solution.py)     |
+| 586B | [Лаврентий и магазин                               ](http://codeforces.com/contest/586/problem/B) | [586/B/solution.py](586/B/solution.py)     |
+| 586C | [Стоматолог Геннадий                               ](http://codeforces.com/contest/586/problem/C) | [586/C/solution.cpp](586/C/solution.cpp)   |
+| 586D | [Филипп и поезда                                   ](http://codeforces.com/contest/586/problem/D) | [586/D/solution.py](586/D/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #327 (Div. 2)](http://codeforces.com/contest/591)                               | [591/](591/)                               |
 | 591A | [Поединок волшебников                              ](http://codeforces.com/contest/591/problem/A) | [591/A/solution.py](591/A/solution.py)     |
 | 591B | [Ребрендинг                                        ](http://codeforces.com/contest/591/problem/B) | [591/B/solution.py](591/B/solution.py)     |
