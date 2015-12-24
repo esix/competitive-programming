@@ -27,6 +27,12 @@
 
 | ID   | Problem statement                                                                                 | Solution                                   |
 |:----:|:--------------------------------------------------------------------------------------------------|:------------------------------------------:|
+|      | [Codeforces Round #322 (Div. 2)](http://codeforces.com/contest/581)                               | [581/](581/)                               |
+| 581A | [Хипстер Вася                                      ](http://codeforces.com/contest/581/problem/A) | [581/A/solution.py](581/A/solution.py)     |
+| 581B | [Элитные дома                                      ](http://codeforces.com/contest/581/problem/B) | [581/B/solution.py](581/B/solution.py)     |
+| 581C | [Развитие навыков                                  ](http://codeforces.com/contest/581/problem/C) | [581/C/solution.py](581/C/solution.py)     |
+| 581D | [Три логотипа                                      ](http://codeforces.com/contest/581/problem/D) | [581/D/solution.py](581/D/solution.py)     |
+|      |                                                                                                   |                                            |
 |      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/583)                               | [583/](583/)                               |
 | 583A | [Асфальтирование дорог                             ](http://codeforces.com/contest/583/problem/A) | [583/A/solution.py](583/A/solution.py)     |
 | 583B | [Задача робота                                     ](http://codeforces.com/contest/583/problem/B) | [583/B/solution.py](583/B/solution.py)     |
