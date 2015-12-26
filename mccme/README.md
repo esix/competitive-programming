@@ -18,8 +18,9 @@ Compilers:
 - PascalABC 1.8.0.496
 
 
-| ID   | Problem statement                                                                                             | Solution                                 |
-|:----:|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
-| 480  | [Транзитивность ориентированного графа](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=480)   | [480/solution.py](480/solution.py)       |
-| 1884 | [Корень из перестановки               ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=1884)  | [1884/solution.cpp](1884/solution.cpp)   |
-|111539| [Обрати меня!                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539)| [111539/solution.py](111539/solution.py) |
+| ID   | Problem statement                                                                                              | Solution                                 |
+|:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 479  | [Транзитивность неориентированного графа ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=479) | [479/solution.py](479/solution.py)       |
+| 480  | [Транзитивность ориентированного графа   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=480) | [480/solution.py](480/solution.py)       |
+| 1884 | [Корень из перестановки                 ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=1884) | [1884/solution.cpp](1884/solution.cpp)   |
+|111539| [Обрати меня!                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539) | [111539/solution.py](111539/solution.py) |
