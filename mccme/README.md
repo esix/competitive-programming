@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 176  | [Цветной дождь                           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=176) | [176/solution.cpp](176/solution.cpp)     |
 | 177  | [Издевательство                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=177) | [177/solution.cpp](177/solution.cpp)     |
 | 224  | [Линейный поиск - 2                      ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=224) | [224/solution.bas](224/solution.bas)     |
 | 460  | [Проверка на неориентированность         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=460) | [460/solution.bas](460/solution.bas)     |
