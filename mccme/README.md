@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 462  | [Подсчет количества ребер неориентированного графа                ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=462) | [462/solution.bas](462/solution.bas)     |
 | 463  | [Подсчет количества ребер ориентированного графа                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=463) | [463/solution.bas](463/solution.bas)     |
 | 464  | [От матрицы смежности к списку ребер, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=464) | [464/solution.bas](464/solution.bas)     |
 | 465  | [От списка ребер к матрице смежности, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=465) | [465/solution.bas](465/solution.bas)     |
