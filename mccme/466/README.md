@@ -1,1 +1,1 @@
-# [Задача №466. От матрицы смежности к списку ребер, ориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=466#1)
+# [РћС‚ РјР°С‚СЂРёС†С‹ СЃРјРµР¶РЅРѕСЃС‚Рё Рє СЃРїРёСЃРєСѓ СЂРµР±РµСЂ, РѕСЂРёРµРЅС‚РёСЂРѕРІР°РЅРЅС‹Р№ РІР°СЂРёР°РЅС‚](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=466)
