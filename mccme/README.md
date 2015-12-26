@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 465  | [От списка ребер к матрице смежности, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=465) | [465/solution.bas](465/solution.bas)     |
 | 466  | [От матрицы смежности к списку ребер, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=466) | [466/solution.bas](466/solution.bas)     |
 | 467  | [От списка ребер к матрице смежности, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467) | [467/solution.bas](467/solution.bas)     |
 | 468  | [Проверка на наличие параллельных ребер, неориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=468) | [468/solution.py](468/solution.py)       |
