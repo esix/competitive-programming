@@ -1,1 +1,1 @@
-# [Задача №470. Степени вершин](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=470#1)
+# [РЎС‚РµРїРµРЅРё РІРµСЂС€РёРЅ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=470)
