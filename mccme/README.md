@@ -16,3 +16,8 @@ Compilers:
 - Haskell GHC 7.4.2
 - [FreeBASIC 1.00.0](basic.md)
 - PascalABC 1.8.0.496
+
+
+| ID   | Problem statement                                                                                        | Solution                                 |
+|:----:|:---------------------------------------------------------------------------------------------------------|:-------------------- -------------------:|
+| 1884 | [Корень из перестановки           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=1884) | [1884/solution.cpp](1884/solution.cpp)   |
