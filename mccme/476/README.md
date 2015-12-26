@@ -1,1 +1,1 @@
-# [Задача №476. Полный граф](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=476#1)
+# [РџРѕР»РЅС‹Р№ РіСЂР°С„](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=476)

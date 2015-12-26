@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 476  | [Полный граф                             ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=476) | [476/solution.py](476/solution.py)       |
 | 477  | [Полуполный граф                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=477) | [477/solution.py](477/solution.py)       |
 | 478  | [Турнир                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=478) | [478/solution.py](478/solution.py)       |
 | 479  | [Транзитивность неориентированного графа ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=479) | [479/solution.py](479/solution.py)       |
