@@ -1,1 +1,1 @@
-# [Задача №477. Полуполный граф](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=477#1)
+# [РџРѕР»СѓРїРѕР»РЅС‹Р№ РіСЂР°С„](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=477)
