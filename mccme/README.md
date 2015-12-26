@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 467  | [От списка ребер к матрице смежности, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467) | [467/solution.py](467/solution.py)       |
 | 468  | [Проверка на наличие параллельных ребер, неориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=468) | [468/solution.py](468/solution.py)       |
 | 469  | [Проверка на наличие параллельных ребер, ориентированный вариант  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=469) | [469/solution.py](469/solution.py)       |
 | 470  | [Степени вершин                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=470) | [470/solution.py](470/solution.py)       |

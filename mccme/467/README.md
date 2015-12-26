@@ -1,1 +1,1 @@
-# [От списка ребер к матрице смежности, ориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=467#1)
+# [РћС‚ СЃРїРёСЃРєР° СЂРµР±РµСЂ Рє РјР°С‚СЂРёС†Рµ СЃРјРµР¶РЅРѕСЃС‚Рё, РѕСЂРёРµРЅС‚РёСЂРѕРІР°РЅРЅС‹Р№ РІР°СЂРёР°РЅС‚](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467)
