@@ -1,1 +1,1 @@
-# [Задача №475. Регулярный граф](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=475)
+# [Р РµРіСѓР»СЏСЂРЅС‹Р№ РіСЂР°С„](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=475)
