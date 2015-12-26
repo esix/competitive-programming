@@ -4,22 +4,23 @@ Compilers:
 
 - Free Pascal 2.6.2
 - GNU C 4.9
-- [GNU C++ 4.9](c++.md)
+- GNU C++ 4.9
 - Borland Delphi 6 - 14.5
 - Java JDK 1.7
 - PHP 5.2.17
-- [Python 2.7](python.md)
+- Python 2.7
 - Perl 5.10.1
 - Mono C# 2.10.8.0
 - Ruby 1.8.7
 - Python 3.3
 - Haskell GHC 7.4.2
-- [FreeBASIC 1.00.0](basic.md)
+- FreeBASIC 1.00.0
 - PascalABC 1.8.0.496
 
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 174  | [Города и дороги                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=174) | [174/solution.cpp](174/solution.cpp)     |
 | 175  | [Светофорчики                            ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=175) | [175/solution.cpp](175/solution.cpp)     |
 | 176  | [Цветной дождь                           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=176) | [176/solution.cpp](176/solution.cpp)     |
 | 177  | [Издевательство                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=177) | [177/solution.cpp](177/solution.cpp)     |
