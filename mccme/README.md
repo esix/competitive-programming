@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 472  | [Полустепени вершин                      ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=472) | [472/solution.py](472/solution.py)       |
 | 473  | [Полустепени вершин по спискам ребер     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=473) | [473/solution.py](473/solution.py)       |
 | 474  | [Истоки и стоки                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=474) | [474/solution.py](474/solution.py)       |
 | 475  | [Регулярный граф                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=475) | [475/solution.py](475/solution.py)       |

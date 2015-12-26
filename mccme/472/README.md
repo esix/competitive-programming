@@ -1,1 +1,1 @@
-# [Задача №472. Полустепени вершин](http://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=472#1)
+# [РџРѕР»СѓСЃС‚РµРїРµРЅРё РІРµСЂС€РёРЅ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=472)
