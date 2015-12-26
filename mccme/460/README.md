@@ -1,1 +1,1 @@
-# [Задача №460. Проверка на неориентированность](http://informatics.mccme.ru/mod/statements/view.php?id=359#1)
+# [РџСЂРѕРІРµСЂРєР° РЅР° РЅРµРѕСЂРёРµРЅС‚РёСЂРѕРІР°РЅРЅРѕСЃС‚СЊ](http://informatics.mccme.ru/mod/statements/view.php?chapterid=460)
