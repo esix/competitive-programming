@@ -20,6 +20,7 @@ Compilers:
 
 | ID   | Problem statement                                                                                              | Solution                                 |
 |:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 464  | [От матрицы смежности к списку ребер, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=464) | [464/solution.bas](464/solution.bas)     |
 | 465  | [От списка ребер к матрице смежности, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=465) | [465/solution.bas](465/solution.bas)     |
 | 466  | [От матрицы смежности к списку ребер, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=466) | [466/solution.bas](466/solution.bas)     |
 | 467  | [От списка ребер к матрице смежности, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467) | [467/solution.bas](467/solution.bas)     |
