@@ -27,6 +27,8 @@ solution
 # java
 *.class
 
+*.1
+
 # tests
 _snippets/t/*
 !_snippets/t/*.cpp
