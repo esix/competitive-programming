@@ -105,9 +105,15 @@
 | 608B | [Сумма расстояний Хэмминга                               ](http://codeforces.com/contest/608/problem/B) | [608/B/solution.cpp](608/B/solution.cpp)   |
 |      |                                                                                                         |                                            |
 |      | [Educational Codeforces Round 4](http://codeforces.com/contest/612)                                     | [612/](612/)                               |
-| 612A | [Разбиение текста                                        ](http://codeforces.com/contest/608/problem/A) | [612/A/solution.py](612/A/solution.py)     |
-| 612B | [HDD - устаревшая технология                             ](http://codeforces.com/contest/608/problem/B) | [612/B/solution.cpp](612/B/solution.cpp)   |
-| 612C | [Заменить до правильной скобочной последовательности     ](http://codeforces.com/contest/608/problem/C) | [612/C/solution.cpp](612/C/solution.cpp)   |
-| 612D | [Объединение k-подотрезков                               ](http://codeforces.com/contest/608/problem/D) | [612/D/solution.cpp](612/D/solution.cpp)   |
-| 612E | [Корень квадратный из перестановки                       ](http://codeforces.com/contest/608/problem/E) | [612/E/solution.cpp](612/E/solution.cpp)   |
+| 612A | [Разбиение текста                                        ](http://codeforces.com/contest/612/problem/A) | [612/A/solution.py](612/A/solution.py)     |
+| 612B | [HDD - устаревшая технология                             ](http://codeforces.com/contest/612/problem/B) | [612/B/solution.cpp](612/B/solution.cpp)   |
+| 612C | [Заменить до правильной скобочной последовательности     ](http://codeforces.com/contest/612/problem/C) | [612/C/solution.cpp](612/C/solution.cpp)   |
+| 612D | [Объединение k-подотрезков                               ](http://codeforces.com/contest/612/problem/D) | [612/D/solution.cpp](612/D/solution.cpp)   |
+| 612E | [Корень квадратный из перестановки                       ](http://codeforces.com/contest/612/problem/E) | [612/E/solution.cpp](612/E/solution.cpp)   |
+|      |                                                                                                         |                                            |
+|      | [Educational Codeforces Round 5](http://codeforces.com/contests/616)                                    | [616/](616/)                               |
+| 616A | [Сравнение длинных чисел                                 ](http://codeforces.com/contest/616/problem/A) | [616/A/solution.c  ](616/A/solution.c  )   |
+| 616B | [Ужин с Наташей                                          ](http://codeforces.com/contest/616/problem/B) | [616/B/solution.py ](616/B/solution.py )   |
+| 616C | [Лабиринт                                                ](http://codeforces.com/contest/616/problem/C) | [616/C/solution.cpp](616/C/solution.cpp)   |
+| 616E | [Сумма остатков                                          ](http://codeforces.com/contest/616/problem/E) | [616/E/solution.py ](616/E/solution.py )   |
 |      |                                                                                                         |                                            |
