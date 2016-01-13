@@ -119,3 +119,4 @@ Compilers:
 |      | [0101-0150](http://acmp.ru/index.asp?main=tasks&str=%20&page=2&id_type=0)                            | [03/](03/)                                   |
 | 0146 | [Длинный корень                                    ](http://acmp.ru/index.asp?main=task&id_task=146) | [03/0146/Main.java   ](03/0146/Main.java)    |
 | 0147 | [Числа Фибоначчи                                   ](http://acmp.ru/index.asp?main=task&id_task=147) | [03/0147/solution.py ](03/0147/solution.py ) |
+| 0148 | [НОД                                               ](http://acmp.ru/index.asp?main=task&id_task=148) | [03/0148/solution.py ](03/0148/solution.py ) |
