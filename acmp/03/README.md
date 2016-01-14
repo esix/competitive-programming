@@ -1,1 +1,48 @@
 # [0101-0150](http://acmp.ru/index.asp?main=tasks&str=%20&page=2&id_type=0)
+
+| ID   | Problem statement                                                                                    | Solution                               |
+|:----:|:-----------------------------------------------------------------------------------------------------|:---------------------------------------|
+| 0101 | [Магараджа                                         ](http://acmp.ru/index.asp?main=task&id_task=101) | [0101/solution.py ](0101/solution.py ) |
+| 0102 | [Треугольник                                       ](http://acmp.ru/index.asp?main=task&id_task=102) | [0102/solution.py ](0102/solution.py ) |
+| 0103 | [Снова A+B                                         ](http://acmp.ru/index.asp?main=task&id_task=103) | [0103/solution.py ](0103/solution.py ) |
+| 0104 | [Шаблон                                            ](http://acmp.ru/index.asp?main=task&id_task=104) | [0104/solution.py ](0104/solution.py ) |
+| 0105 | [Раскопки                                          ](http://acmp.ru/index.asp?main=task&id_task=105) | [0105/solution.py ](0105/solution.py ) |
+| 0106 | [Монетки                                           ](http://acmp.ru/index.asp?main=task&id_task=106) | [0106/solution.py ](0106/solution.py ) |
+| 0107 | [Красивые номера                                   ](http://acmp.ru/index.asp?main=task&id_task=107) | [0107/solution.py ](0107/solution.py ) |
+| 0108 | [Неглухой телефон                                  ](http://acmp.ru/index.asp?main=task&id_task=108) | [0108/solution.py ](0108/solution.py ) |
+| 0109 | [A / B                                             ](http://acmp.ru/index.asp?main=task&id_task=109) | [0109/solution.py ](0109/solution.py ) |
+| 0111 | [Игра «Пуговицы»                                   ](http://acmp.ru/index.asp?main=task&id_task=111) | [0111/solution.py ](0111/solution.py ) |
+| 0112 | [Армия                                             ](http://acmp.ru/index.asp?main=task&id_task=112) | [0112/solution.cpp](0112/solution.cpp) |
+| 0113 | [Фермер                                            ](http://acmp.ru/index.asp?main=task&id_task=113) | [0113/solution.cpp](0113/solution.cpp) |
+| 0114 | [Без двух нулей подряд                             ](http://acmp.ru/index.asp?main=task&id_task=114) | [0114/solution.py ](0114/solution.py ) |
+| 0115 | [Прямоугольник                                     ](http://acmp.ru/index.asp?main=task&id_task=115) | [0115/solution.py ](0115/solution.py ) |
+| 0116 | [Фермер - 2                                        ](http://acmp.ru/index.asp?main=task&id_task=116) | [0116/solution.cpp](0116/solution.cpp) |
+| 0117 | [Опасная зона                                      ](http://acmp.ru/index.asp?main=task&id_task=117) | [0117/solution.py ](0117/solution.py ) |
+| 0118 | [Задача Иосифа Флавия                              ](http://acmp.ru/index.asp?main=task&id_task=118) | [0118/solution.py ](0118/solution.py ) |
+| 0119 | [Сортировка времени                                ](http://acmp.ru/index.asp?main=task&id_task=119) | [0119/solution.py ](0119/solution.py ) |
+| 0120 | [Минимальный путь в таблице                        ](http://acmp.ru/index.asp?main=task&id_task=120) | [0120/solution.py ](0120/solution.py ) |
+| 0121 | [Гвоздики                                          ](http://acmp.ru/index.asp?main=task&id_task=121) | [0121/solution.py ](0121/solution.py ) |
+| 0122 | [Максимальная подпоследовательность                ](http://acmp.ru/index.asp?main=task&id_task=122) | [0122/solution.py ](0122/solution.py ) |
+| 0123 | [Восстановление скобок                             ](http://acmp.ru/index.asp?main=task&id_task=123) | [0123/solution.py ](0123/solution.py ) |
+| 0124 | [Светофорчики                                      ](http://acmp.ru/index.asp?main=task&id_task=124) | [0124/solution.py ](0124/solution.py ) |
+| 0125 | [Цветной дождь                                     ](http://acmp.ru/index.asp?main=task&id_task=125) | [0125/solution.py ](0125/solution.py ) |
+| 0126 | [Издевательство                                    ](http://acmp.ru/index.asp?main=task&id_task=126) | [0126/solution.py ](0126/solution.py ) |
+| 0127 | [Путь                                              ](http://acmp.ru/index.asp?main=task&id_task=127) | [0127/solution.py ](0127/solution.py ) |
+| 0128 | [Один конь                                         ](http://acmp.ru/index.asp?main=task&id_task=128) | [0128/solution.py ](0128/solution.py ) |
+| 0129 | [Табличка                                          ](http://acmp.ru/index.asp?main=task&id_task=129) | [0129/solution.py ](0129/solution.py ) |
+| 0130 | [Два коня                                          ](http://acmp.ru/index.asp?main=task&id_task=130) | [0130/solution.py ](0130/solution.py ) |
+| 0131 | [Перепись                                          ](http://acmp.ru/index.asp?main=task&id_task=131) | [0131/solution.py ](0131/solution.py ) |
+| 0132 | [Алгоритм Дейкстры                                 ](http://acmp.ru/index.asp?main=task&id_task=132) | [0132/solution.py ](0132/solution.py ) |
+| 0133 | [Заправки                                          ](http://acmp.ru/index.asp?main=task&id_task=133) | [0133/solution.py ](0133/solution.py ) |
+| 0134 | [Автобусы                                          ](http://acmp.ru/index.asp?main=task&id_task=134) | [0134/solution.py ](0134/solution.py ) |
+| 0135 | [Алгоритм Флойда                                   ](http://acmp.ru/index.asp?main=task&id_task=135) | [0135/solution.py ](0135/solution.py ) |
+| 0136 | [Алгоритм Флойда - 2                               ](http://acmp.ru/index.asp?main=task&id_task=136) | [0136/solution.cpp](0136/solution.cpp) |
+| 0137 | [Существование пути                                ](http://acmp.ru/index.asp?main=task&id_task=137) | [0137/solution.cpp](0137/solution.cpp) |
+| 0138 | [Алгоритм Форда-Беллмана                           ](http://acmp.ru/index.asp?main=task&id_task=138) | [0138/solution.py ](0138/solution.py ) |
+| 0143 | [A-B                                               ](http://acmp.ru/index.asp?main=task&id_task=143) | [0143/solution.py ](0143/solution.py ) |
+| 0144 | [A*B                                               ](http://acmp.ru/index.asp?main=task&id_task=144) | [0144/solution.py ](0144/solution.py ) |
+| 0145 | [A div B                                           ](http://acmp.ru/index.asp?main=task&id_task=145) | [0145/solution.py ](0145/solution.py ) |
+| 0146 | [Длинный корень                                    ](http://acmp.ru/index.asp?main=task&id_task=146) | [0146/Main.java   ](0146/Main.java   ) |
+| 0147 | [Числа Фибоначчи                                   ](http://acmp.ru/index.asp?main=task&id_task=147) | [0147/solution.py ](0147/solution.py ) |
+| 0148 | [НОД                                               ](http://acmp.ru/index.asp?main=task&id_task=148) | [0148/solution.py ](0148/solution.py ) |
+| 0149 | [Разворот                                          ](http://acmp.ru/index.asp?main=task&id_task=149) | [0149/solution.py ](0149/solution.py ) |

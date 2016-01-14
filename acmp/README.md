@@ -160,6 +160,7 @@ Compilers:
 | 0146 | [Длинный корень                                    ](http://acmp.ru/index.asp?main=task&id_task=146) | [03/0146/Main.java   ](03/0146/Main.java   ) |
 | 0147 | [Числа Фибоначчи                                   ](http://acmp.ru/index.asp?main=task&id_task=147) | [03/0147/solution.py ](03/0147/solution.py ) |
 | 0148 | [НОД                                               ](http://acmp.ru/index.asp?main=task&id_task=148) | [03/0148/solution.py ](03/0148/solution.py ) |
+| 0149 | [Разворот                                          ](http://acmp.ru/index.asp?main=task&id_task=149) | [03/0149/solution.py ](03/0149/solution.py ) |
 |      |                                                                                                      |                                              |
 |      | [Тренировка №2](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40478)        | [contest-40478/](contest-40478/)                             |
 |  A   | Мышка                                                                                | [contest-40478/A/solution.py ](contest-40478/A/solution.py ) |
