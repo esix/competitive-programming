@@ -1,55 +1,58 @@
 #include <iostream>
+#include <utility>
 #include <vector>
-#include <fstream>
+#include <string>
+#include <sstream>
+#include <algorithm>
+#include <map>
 
 using namespace std;
-
 
 #define MIN(a, b) ((a) < (b) ? (a) : (b))
 
 
-bool eq_0(const vector<int>& ls, int start, int len) {
-    for(int i = 0; i < len; i++) {
-        if(ls[i] != ls[start + i])
-            return false;
+int solve(const vector<int>& a) {
+  int len = a.size();
+
+  for(int result = 1; result < len; result++) {
+    if(len % result != 0) {
+      continue;
     }
-    return true;
+
+    int n = len / result;
+
+    for(int j = 0; j < n; j++) {
+      for(int k = 0; k < result; k++) {
+        if(a[j*result + k] != a[k])
+          goto outer;
+      }
+    }
+
+    return result;
+
+    outer:
+    {}
+  }
+  return a.size();
 }
 
+
+
 int main() {
-    ios::sync_with_stdio(false);
-    fstream inp, out;
-    inp.open("input.txt", fstream::in);
-    out.open("output.txt", fstream::out);
-    
-    int N;
-    inp >> N;
-    
-    vector<int> ls(N);
-    
-    for(int i = 0; i < N; i++)
-        inp >> ls[i];
-        
-    int answer;
+  cin.tie(0);
+  ios::sync_with_stdio(false);
 
-    for(int i = 1; i <= N; i++) {
-        bool can_be_answer = true;
-        int j = i;
-        while(j < N) {
-            int rest = MIN(i, N - j);
-            if(!eq_0(ls, j, rest)) {
-                can_be_answer = false;
-                break;
-            }
-            j += i;
-        }
-        if(can_be_answer) {
-            answer = i;
-            break;
-        }
-    }
-    cout << answer;
-    out << answer;
+  int N, i;
+  cin >> N;
+  N--;
 
-    return 0;
+  vector<int> a(N);
+
+  for(int i = 0; i < N; i++) {
+    cin >> a[i];
+  }
+
+  cout << solve(a) << endl;
+
+  return 0;
 }
