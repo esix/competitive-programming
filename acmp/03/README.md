@@ -39,6 +39,7 @@
 | 0136 | [Алгоритм Флойда - 2                               ](http://acmp.ru/index.asp?main=task&id_task=136) | [0136/solution.cpp](0136/solution.cpp) |
 | 0137 | [Существование пути                                ](http://acmp.ru/index.asp?main=task&id_task=137) | [0137/solution.cpp](0137/solution.cpp) |
 | 0138 | [Алгоритм Форда-Беллмана                           ](http://acmp.ru/index.asp?main=task&id_task=138) | [0138/solution.py ](0138/solution.py ) |
+| 0141 | [Дерево                                            ](http://acmp.ru/index.asp?main=task&id_task=141) | [0141/solution.py ](0141/solution.py ) |
 | 0143 | [A-B                                               ](http://acmp.ru/index.asp?main=task&id_task=143) | [0143/solution.py ](0143/solution.py ) |
 | 0144 | [A*B                                               ](http://acmp.ru/index.asp?main=task&id_task=144) | [0144/solution.py ](0144/solution.py ) |
 | 0145 | [A div B                                           ](http://acmp.ru/index.asp?main=task&id_task=145) | [0145/solution.py ](0145/solution.py ) |
