@@ -46,3 +46,4 @@
 | 0147 | [Числа Фибоначчи                                   ](http://acmp.ru/index.asp?main=task&id_task=147) | [0147/solution.py ](0147/solution.py ) |
 | 0148 | [НОД                                               ](http://acmp.ru/index.asp?main=task&id_task=148) | [0148/solution.py ](0148/solution.py ) |
 | 0149 | [Разворот                                          ](http://acmp.ru/index.asp?main=task&id_task=149) | [0149/solution.py ](0149/solution.py ) |
+| 0150 | [Друзья                                            ](http://acmp.ru/index.asp?main=task&id_task=150) | [0150/solution.py ](0150/solution.py ) |
