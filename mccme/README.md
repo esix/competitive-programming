@@ -18,33 +18,33 @@ Compilers:
 - PascalABC 1.8.0.496
 
 
-| ID   | Problem statement                                                                                              | Solution                                 |
-|:----:|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
-| 174  | [Города и дороги                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=174) | [174/solution.cpp](174/solution.cpp)     |
-| 175  | [Светофорчики                            ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=175) | [175/solution.cpp](175/solution.cpp)     |
-| 176  | [Цветной дождь                           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=176) | [176/solution.cpp](176/solution.cpp)     |
-| 177  | [Издевательство                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=177) | [177/solution.cpp](177/solution.cpp)     |
-| 224  | [Линейный поиск - 2                      ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=224) | [224/solution.bas](224/solution.bas)     |
-| 460  | [Проверка на неориентированность         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=460) | [460/solution.bas](460/solution.bas)     |
-| 461  | [Петли                                   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=461) | [461/solution.bas](461/solution.bas)     |
-| 462  | [Подсчет количества ребер неориентированного графа                ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=462) | [462/solution.bas](462/solution.bas)     |
-| 463  | [Подсчет количества ребер ориентированного графа                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=463) | [463/solution.bas](463/solution.bas)     |
-| 464  | [От матрицы смежности к списку ребер, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=464) | [464/solution.bas](464/solution.bas)     |
-| 465  | [От списка ребер к матрице смежности, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=465) | [465/solution.bas](465/solution.bas)     |
-| 466  | [От матрицы смежности к списку ребер, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=466) | [466/solution.bas](466/solution.bas)     |
-| 467  | [От списка ребер к матрице смежности, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467) | [467/solution.bas](467/solution.bas)     |
-| 468  | [Проверка на наличие параллельных ребер, неориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=468) | [468/solution.py](468/solution.py)       |
-| 469  | [Проверка на наличие параллельных ребер, ориентированный вариант  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=469) | [469/solution.py](469/solution.py)       |
-| 470  | [Степени вершин                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=470) | [470/solution.py](470/solution.py)       |
-| 471  | [Степени вершин по спискам ребер         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=471) | [471/solution.py](471/solution.py)       |
-| 472  | [Полустепени вершин                      ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=472) | [472/solution.py](472/solution.py)       |
-| 473  | [Полустепени вершин по спискам ребер     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=473) | [473/solution.py](473/solution.py)       |
-| 474  | [Истоки и стоки                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=474) | [474/solution.py](474/solution.py)       |
-| 475  | [Регулярный граф                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=475) | [475/solution.py](475/solution.py)       |
-| 476  | [Полный граф                             ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=476) | [476/solution.py](476/solution.py)       |
-| 477  | [Полуполный граф                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=477) | [477/solution.py](477/solution.py)       |
-| 478  | [Турнир                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=478) | [478/solution.py](478/solution.py)       |
-| 479  | [Транзитивность неориентированного графа ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=479) | [479/solution.py](479/solution.py)       |
-| 480  | [Транзитивность ориентированного графа   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=480) | [480/solution.py](480/solution.py)       |
-| 1884 | [Корень из перестановки                 ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=1884) | [1884/solution.cpp](1884/solution.cpp)   |
-|111539| [Обрати меня!                         ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539) | [111539/solution.py](111539/solution.py) |
+| ID   | Problem statement                                                                                                                          | Solution                                 |
+|:----:|:-------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| 174  | [Города и дороги                                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=174)    | [174/solution.cpp](174/solution.cpp)     |
+| 175  | [Светофорчики                                                     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=175)    | [175/solution.cpp](175/solution.cpp)     |
+| 176  | [Цветной дождь                                                    ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=176)    | [176/solution.cpp](176/solution.cpp)     |
+| 177  | [Издевательство                                                   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=177)    | [177/solution.cpp](177/solution.cpp)     |
+| 224  | [Линейный поиск - 2                                               ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=224)    | [224/solution.bas](224/solution.bas)     |
+| 460  | [Проверка на неориентированность                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=460)    | [460/solution.bas](460/solution.bas)     |
+| 461  | [Петли                                                            ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=461)    | [461/solution.bas](461/solution.bas)     |
+| 462  | [Подсчет количества ребер неориентированного графа                ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=462)    | [462/solution.bas](462/solution.bas)     |
+| 463  | [Подсчет количества ребер ориентированного графа                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=463)    | [463/solution.bas](463/solution.bas)     |
+| 464  | [От матрицы смежности к списку ребер, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=464)    | [464/solution.bas](464/solution.bas)     |
+| 465  | [От списка ребер к матрице смежности, неориентированный вариант   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=465)    | [465/solution.bas](465/solution.bas)     |
+| 466  | [От матрицы смежности к списку ребер, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=466)    | [466/solution.bas](466/solution.bas)     |
+| 467  | [От списка ребер к матрице смежности, ориентированный вариант     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=467)    | [467/solution.bas](467/solution.bas)     |
+| 468  | [Проверка на наличие параллельных ребер, неориентированный вариант](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=468)    | [468/solution.py](468/solution.py)       |
+| 469  | [Проверка на наличие параллельных ребер, ориентированный вариант  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=469)    | [469/solution.py](469/solution.py)       |
+| 470  | [Степени вершин                                                   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=470)    | [470/solution.py](470/solution.py)       |
+| 471  | [Степени вершин по спискам ребер                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=471)    | [471/solution.py](471/solution.py)       |
+| 472  | [Полустепени вершин                                               ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=472)    | [472/solution.py](472/solution.py)       |
+| 473  | [Полустепени вершин по спискам ребер                              ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=473)    | [473/solution.py](473/solution.py)       |
+| 474  | [Истоки и стоки                                                   ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=474)    | [474/solution.py](474/solution.py)       |
+| 475  | [Регулярный граф                                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=475)    | [475/solution.py](475/solution.py)       |
+| 476  | [Полный граф                                                      ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=476)    | [476/solution.py](476/solution.py)       |
+| 477  | [Полуполный граф                                                  ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=477)    | [477/solution.py](477/solution.py)       |
+| 478  | [Турнир                                                           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=478)    | [478/solution.py](478/solution.py)       |
+| 479  | [Транзитивность неориентированного графа                          ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=479)    | [479/solution.py](479/solution.py)       |
+| 480  | [Транзитивность ориентированного графа                            ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=480)    | [480/solution.py](480/solution.py)       |
+| 1884 | [Корень из перестановки                                           ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=1884)   | [1884/solution.cpp](1884/solution.cpp)   |
+|111539| [Обрати меня!                                                     ](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539) | [111539/solution.py](111539/solution.py) |
