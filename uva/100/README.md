@@ -47,13 +47,15 @@ same order in which they appeared in the input and should be followed by the max
 line).
 
 
-#####Sample Input:
+## Sample Input:
+
     1 10
     100 200
     201 210
     900 1000
 
-#####Output for Sample Input:
+## Output for Sample Input:
+
     1 10 20
     100 200 125
     201 210 89
