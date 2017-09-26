@@ -25,11 +25,11 @@ Languages
 |    7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | [007/main.js](007/main.js)        |
 |    8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | [008/main.js](008/main.js)        |
 |    9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [009/main.js](009/main.js)        |
-|   10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                       | (010/main.js)(010/main.js)        |
-|   12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | (012/main.js)(012/main.js)        |
-|   13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | (013/main.js)(013/main.js)        |
-|   14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | (014/main.js)(014/main.js)        |
-|   15 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | (015/main.js)(015/main.js)        |
-|   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | (020/main.js)(020/main.js)        |
-|   21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | (021/main.js)(021/main.js)        |
+|   10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                       | [010/main.js](010/main.js)        |
+|   12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | [012/main.js](012/main.js)        |
+|   13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [013/main.js](013/main.js)        |
+|   14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [014/main.js](014/main.js)        |
+|   15 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [015/main.js](015/main.js)        |
+|   20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [020/main.js](020/main.js)        |
+|   21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [021/main.js](021/main.js)        |
 |  373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [373/main.cpp](373/main.cpp)      |
