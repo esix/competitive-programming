@@ -22,5 +22,5 @@ Compilers:
 |:---:|:--------------------------------------------------------------------------------------|:--------------------------------------|
 | 000 | [Сумма двух целых чисел           ](http://acm.mipt.ru/judge/problems.pl?problem=000) | [000/solution.rkt](000/solution.rkt)  |
 | 000 | [Сумма двух целых чисел           ](http://acm.mipt.ru/judge/problems.pl?problem=000) | [000/solution.cpp](000/solution.cpp)  |
-| 000 | [Максимум                         ](http://acm.mipt.ru/judge/problems.pl?problem=001) | [001/solution.rkt](001/solution.rkt)  |
+| 001 | [Максимум                         ](http://acm.mipt.ru/judge/problems.pl?problem=001) | [001/solution.rkt](001/solution.rkt)  |
 | 070 | [Корень из перестановки           ](http://acm.mipt.ru/judge/problems.pl?problem=070) | [070/solution.cpp](070/solution.cpp)  |
