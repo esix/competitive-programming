@@ -60,8 +60,8 @@ Compilers:
 - VB.net (vnbc 3.10)
 - Whitespace (wspace 0.3)
 
-| ID   | Problem statement                                                         | Solution                            |
-|:----:|:--------------------------------------------------------------------------|:-----------------------------------:|
+| ID    | Problem statement                                                        | Solution                            |
+|:-----:|:-------------------------------------------------------------------------|:------------------------------------|
 |BAISED | [Biased Standings](http://www.spoj.com/problems/BAISED/)                 | [BAISED/main.cpp](BAISED/main.cpp)  |
 |FCTR   | [Factorial](http://www.spoj.com/problems/FCTR/)                          | [FCTRL/main.py](FCTRL/main.py)      |
 |FCTRL2 | [Small factorials](http://www.spoj.com/problems/FCTRL2/)                 | [FCTRL2/main.py](FCTRL2/main.py)    |
