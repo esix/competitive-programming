@@ -1,6 +1,6 @@
-# [El Judge](http://acm.mipt.ru/judge/problems.pl)
+# [El Judge](http://acm.mipt.ru/judge/problems.pl?lang=en)
 
-Online соревнование по программированию в МФТИ
+Online MIPT programming contest	
 
 Compilers:
 
@@ -18,11 +18,11 @@ Compilers:
 - mzScheme 301 Swindle
 
 
-| ID  | Problem statement                                                                     | Solution                              |
-|:---:|:--------------------------------------------------------------------------------------|:--------------------------------------|
-| 000 | [Сумма двух целых чисел           ](http://acm.mipt.ru/judge/problems.pl?problem=000) | [000/solution.rkt](000/solution.rkt)  |
-| 000 | [Сумма двух целых чисел           ](http://acm.mipt.ru/judge/problems.pl?problem=000) | [000/solution.cpp](000/solution.cpp)  |
-| 001 | [Максимум                         ](http://acm.mipt.ru/judge/problems.pl?problem=001) | [001/solution.rkt](001/solution.rkt)  |
-| 002 | [Пересечение множеств             ](http://acm.mipt.ru/judge/problems.pl?problem=002) | [002/solution.cpp](002/solution.cpp)  |
-| 003 | [Турнирная таблица                ](http://acm.mipt.ru/judge/problems.pl?problem=003) | [003/solution.cpp](003/solution.cpp)  |
-| 070 | [Корень из перестановки           ](http://acm.mipt.ru/judge/problems.pl?problem=070) | [070/solution.cpp](070/solution.cpp)  |
+| ID  | Problem statement                                                                         | Solution                              |
+|:---:|:------------------------------------------------------------------------------------------|:--------------------------------------|
+| 000 | [Sum of two integers          ](http://acm.mipt.ru/judge/problems.pl?problem=000&lang=en) | [000/solution.rkt](000/solution.rkt)  |
+| 000 | [Sum of two integers          ](http://acm.mipt.ru/judge/problems.pl?problem=000&lang=en) | [000/solution.cpp](000/solution.cpp)  |
+| 001 | [Max of Integers              ](http://acm.mipt.ru/judge/problems.pl?problem=001&lang=en) | [001/solution.rkt](001/solution.rkt)  |
+| 002 | [Set Intersection             ](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en) | [002/solution.cpp](002/solution.cpp)  |
+| 003 | [	Contest Table             ](http://acm.mipt.ru/judge/problems.pl?problem=003&lang=en) | [003/solution.cpp](003/solution.cpp)  |
+| 070 | [Square root of permutation   ](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en) | [070/solution.cpp](070/solution.cpp)  |
