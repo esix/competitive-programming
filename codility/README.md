@@ -1,4 +1,4 @@
-# [Codility](https://codility.com/)
+# [Codility](https://codility.com/programmers/)
 
 Languages:
 
