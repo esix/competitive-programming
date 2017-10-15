@@ -41,7 +41,6 @@ bool lookup_path(int from, vector<int>& s) {
 }
 
 
-
 int main() {
   cin.tie(0);
   ios::sync_with_stdio(false);
