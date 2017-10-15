@@ -4,7 +4,7 @@ _Time limit = 5 second(s)_
 
 _Memory limit = 33000 Kb_
 
-Find the maximum element in a set of integers. List of integers ends with EOF. Intergers are separated by whitespace characters (SPACE, TAB, NEWLINE). There are at most 10000 integers in the list, their modulii being less than 230.
+Find the maximum element in a set of integers. List of integers ends with EOF. Intergers are separated by whitespace characters (SPACE, TAB, NEWLINE). There are at most 10000 integers in the list, their modulii being less than 2³⁰.
 
 
 | Input#1     | Output#1|
