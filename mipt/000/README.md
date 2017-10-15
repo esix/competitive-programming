@@ -12,3 +12,4 @@ Both A and B do not exceed 1 000 000 000 by their absolute value.
 | Input#1  | Output#1 |
 |----------|----------|
 | 2 2      | 4        |
+
