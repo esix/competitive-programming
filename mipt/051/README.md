@@ -19,11 +19,11 @@ The tower is provided with lift. But inhabitants enconter the following problem:
 | 1        | 1 1      |
 
 
-| Input#1  | Output#1 |
+| Input#2  | Output#2 |
 |----------|----------|
 | 5        | 3 2      |
 
-| Input#1  | Output#1 |
+| Input#3  | Output#3 |
 |----------|----------|
 | 8        | 4 3      |
 
