@@ -14,9 +14,7 @@ Find the maximum element in a set of integers. List of integers ends with EOF. I
 
 | Input#2     | Output#2|
 |-------------|---------|
-| 23          | 1000    |
-| 100 1000    |         |
-| 12 34 45    |         |
+| 23<br/>100 1000<br/>12 34 45 | 1000    |
 
 
 
