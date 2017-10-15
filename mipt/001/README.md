@@ -1,21 +1,18 @@
-# [Максимум](http://acm.mipt.ru/judge/problems.pl?problem=001)
+# [Max of Integers](http://acm.mipt.ru/judge/problems.pl?problem=001&lang=en)
 
-_Time limit = 5 секунд(ы)_
+_Time limit = 5 second(s)_
 
 _Memory limit = 33000 Kb_
 
-Дано множество целых чисел по модулю меньше 230. Найдите максимум.
+Find the maximum element in a set of integers. List of integers ends with EOF. Intergers are separated by whitespace characters (SPACE, TAB, NEWLINE). There are at most 10000 integers in the list, their modulii being less than 230.
 
-**Вход.** Целые числа разделены пробельными символами (SPACE, TAB, NEWLINE). Список целых чисел заканчивается символом конца файла EOF. Количество чисел меньше 10000.
 
-**Выход.** Одно число равное максимуму из данных чисел.
-
-| Вход#1      | Выход#1 |
+| Input#1     | Output#1|
 |-------------|---------|
 |1 2 3 4 5 1  | 5       |
 
 
-| Вход#2      | Выход#2 |
+| Input#2     | Output#2|
 |-------------|---------|
 | 23          | 1000    |
 | 100 1000    |         |

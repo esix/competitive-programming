@@ -1,6 +1,6 @@
-# [Пересечение множеств](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en)
+# [Set Intersection](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en)
 
-_Time limit = 5 секунд(ы)_
+_Time limit = 5 second(s)_
 
 _Memory limit = 33000 Kb_
 
