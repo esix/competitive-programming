@@ -27,5 +27,3 @@ The tower is provided with lift. But inhabitants enconter the following problem:
 |----------|----------|
 | 8        | 4 3      |
 
-
-
