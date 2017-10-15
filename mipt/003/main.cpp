@@ -11,7 +11,6 @@ using namespace std;
 int n;
 string table[200];
 
-
 bool is_linked(int from, int to) {
   if (from < to) {
     return table[to][from] == '-';
@@ -19,7 +18,6 @@ bool is_linked(int from, int to) {
     return table[from][to] == '+';
   }
 }
-
 
 bool lookup_path(int from, vector<int>& s) {
   s.push_back(from);
@@ -39,7 +37,6 @@ bool lookup_path(int from, vector<int>& s) {
   s.pop_back();
   return false;
 }
-
 
 int main() {
   cin.tie(0);
