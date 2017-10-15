@@ -6,7 +6,9 @@ Permutation of numbers 1,2 ... N is given. Please found out any permutation X th
 
 *X &ast; X = A*
 
+
 **Input**  In the first line N is given, 0 < N < 10001. In the second line permutation A is given. Permutation "4 1 2 3" means the number 4 from 4th place goes to the first, 1 goes to the second place, 2 goes to the third place, 3 goes to the fourth place.
+
 
 **Output.** If there is no proper X then output 0. Otherwise output N numbers describing permutaion X (one of the possible).
 
@@ -21,5 +23,4 @@ Permutation of numbers 1,2 ... N is given. Please found out any permutation X th
 |----------|----------|
 | 4        | 2 3 4 1  |
 | 3 4 1 2  |          |
-
 
