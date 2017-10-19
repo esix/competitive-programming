@@ -12,16 +12,12 @@ Input consists of a single positive integer n<10000.
 | SAMPLE INPUT #1: |
 |------------------|
 | 10               |
-|------------------|
 |SAMPLE OUTPUT #1: |
-|------------------|
 | 1                |
 
 
 | SAMPLE INPUT #1: |
 |------------------|
 | 100              |
-|------------------|
 |SAMPLE OUTPUT #1: |
-|------------------|
 | 15               |
