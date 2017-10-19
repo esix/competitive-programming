@@ -16,8 +16,8 @@ Input consists of a single positive integer n<10000.
 | 1                |
 
 
-| SAMPLE INPUT #1: |
+| SAMPLE INPUT #2: |
 |------------------|
 | 100              |
-|SAMPLE OUTPUT #1: |
+|SAMPLE OUTPUT #2: |
 | 15               |
