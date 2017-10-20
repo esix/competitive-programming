@@ -1,4 +1,4 @@
-# [Problems page 058](https://www.e-olymp.com/en/problems?page=58/)
+# [Problems page 058](https://www.e-olymp.com/en/problems?page=58)
 
 
 | ID | Problem statement                                     | Solution                     |
