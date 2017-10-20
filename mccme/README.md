@@ -1,5 +1,7 @@
 # [mcme](http://informatics.mccme.ru/)
 
+Mirror: [http://informatics.msk.ru/](http://informatics.msk.ru/)
+
 Compilers:
 
 - Free Pascal 2.6.2
