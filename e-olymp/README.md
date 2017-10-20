@@ -14,7 +14,7 @@ Compilers:
 
 | ID | Problem statement                                                   | Solution                                       |
 |:--:|:--------------------------------------------------------------------|:-----------------------------------------------|
-|    |[Problems page 000 ](https://www.e-olymp.com/en/problems?page=0)     |[page-000/](page-001/)                          |
+|    |[Problems page 000 ](https://www.e-olymp.com/en/problems?page=0)     |[page-000/](page-000/)                          |
 |0001|[Simple problem?   ](https://www.e-olymp.com/en/problems/1)          |[page-000/0001/main.py ](page-000/0001/main.py )|
 |0002|[Digits            ](https://www.e-olymp.com/en/problems/2)          |[page-000/0002/main.py ](page-000/0002/main.py )|
 |0003|[Match’s model     ](https://www.e-olymp.com/en/problems/3)          |[page-000/0003/main.py ](page-000/0003/main.py )|
