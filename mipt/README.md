@@ -26,6 +26,7 @@ Compilers:
 | 002 | [Set Intersection             ](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en) | [002/main.cpp](002/main.cpp)  |
 | 003 | [Contest Table                ](http://acm.mipt.ru/judge/problems.pl?problem=003&lang=en) | [003/main.cpp](003/main.cpp)  |
 | 006 | [Three squares                ](http://acm.mipt.ru/judge/problems.pl?problem=006&lang=en) | [006/main.scm](006/main.scm)  |
+| 008 | [Brackets                     ](http://acm.mipt.ru/judge/problems.pl?problem=008&lang=en) | [008/main.scm](008/main.scm)  |
 | 027 | [Odd number                   ](http://acm.mipt.ru/judge/problems.pl?problem=027&lang=en) | [027/main.scm](027/main.scm)  |
 | 051 | [Strange Tower                ](http://acm.mipt.ru/judge/problems.pl?problem=051&lang=en) | [051/main.scm](051/main.scm)  |
 | 070 | [Square root of permutation   ](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en) | [070/main.cpp](070/main.cpp)  |
