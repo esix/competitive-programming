@@ -11,3 +11,5 @@
 - [http://olymp.karelia.ru/z.htm](http://olymp.karelia.ru/z.htm)
 
 - [https://imcs.dvfu.ru/cats/main.pl?f=contests;cid=500001;sid=](https://imcs.dvfu.ru/cats/main.pl?f=contests;cid=500001;sid=)
+
+- [http://poj.org/problemlist](http://poj.org/problemlist) - closed
