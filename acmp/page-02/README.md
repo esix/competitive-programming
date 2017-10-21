@@ -25,7 +25,7 @@
 | 0071 | [Две кучки камней](http://acmp.ru/index.asp?main=task&id_task=71)            | [0071/main.py](0071/main.py)   |
 | 0072 | [Анаграмма](http://acmp.ru/index.asp?main=task&id_task=72)                   | [0072/main.py](0072/main.py)   |
 | 0073 | [Расшифровка](http://acmp.ru/index.asp?main=task&id_task=73)                 | [0073/main.py](0073/main.py)   |
-| 0074 | []Прыжки с шестом](http://acmp.ru/index.asp?main=task&id_task=74)            | [0074/main.py](0074/main.py)   |
+| 0074 | [Прыжки с шестом](http://acmp.ru/index.asp?main=task&id_task=74)             | [0074/main.py](0074/main.py)   |
 | 0075 | [Сумма произведений](http://acmp.ru/index.asp?main=task&id_task=75)          | [0075/main.py](0075/main.py)   |
 | 0076 | [Музей](http://acmp.ru/index.asp?main=task&id_task=76)                       | [0076/main.py](0076/main.py)   |
 | 0077 | [Нолики](http://acmp.ru/index.asp?main=task&id_task=77)                      | [0077/main.py](0077/main.py)   |

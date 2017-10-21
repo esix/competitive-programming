@@ -89,7 +89,7 @@ Compilers:
 | 0071 | [Две кучки камней](http://acmp.ru/index.asp?main=task&id_task=71)                      | [page-02/0071/main.py](page-02/0071/main.py)         |
 | 0072 | [Анаграмма](http://acmp.ru/index.asp?main=task&id_task=72)                             | [page-02/0072/main.py](page-02/0072/main.py)         |
 | 0073 | [Расшифровка](http://acmp.ru/index.asp?main=task&id_task=73)                           | [page-02/0073/main.py](page-02/0073/main.py)         |
-| 0074 | []Прыжки с шестом](http://acmp.ru/index.asp?main=task&id_task=74)                      | [page-02/0074/main.py](page-02/0074/main.py)         |
+| 0074 | [Прыжки с шестом](http://acmp.ru/index.asp?main=task&id_task=74)                       | [page-02/0074/main.py](page-02/0074/main.py)         |
 | 0075 | [Сумма произведений](http://acmp.ru/index.asp?main=task&id_task=75)                    | [page-02/0075/main.py](page-02/0075/main.py)         |
 | 0076 | [Музей](http://acmp.ru/index.asp?main=task&id_task=76)                                 | [page-02/0076/main.py](page-02/0076/main.py)         |
 | 0077 | [Нолики](http://acmp.ru/index.asp?main=task&id_task=77)                                | [page-02/0077/main.py](page-02/0077/main.py)         |
