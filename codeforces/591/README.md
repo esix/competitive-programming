@@ -1,8 +1,9 @@
 # [Codeforces Round #327 (Div. 2)](http://codeforces.com/contest/591)
 
-| ID  | Problem statement                                                                                 | Solution                           |
-|:---:|:--------------------------------------------------------------------------------------------------|:----------------------------------:|
-|  A  | [Поединок волшебников                              ](http://codeforces.com/contest/591/problem/A) | [A/solution.py](A/solution.py)     |
-|  B  | [Ребрендинг                                        ](http://codeforces.com/contest/591/problem/B) | [B/solution.py](B/solution.py)     |
-|  C  | [Медианное сглаживание                             ](http://codeforces.com/contest/591/problem/C) | [C/solution.cpp](C/solution.cpp)   |
-|  D  | [Чип и Дейл спешат на помощь                       ](http://codeforces.com/contest/591/problem/D) | [D/solution.py](D/solution.py)     |
+| ID | Problem statement                                                             | Solution                 |
+|----|-------------------------------------------------------------------------------|--------------------------|
+| A  | [Поединок волшебников](http://codeforces.com/problemset/problem/591/A)        | [A/main.py](A/main.py)   |
+| B  | [Ребрендинг](http://codeforces.com/problemset/problem/591/B)                  | [B/main.py](B/main.py)   |
+| C  | [Медианное сглаживание](http://codeforces.com/problemset/problem/590/A)       | [C/main.cpp](C/main.cpp) |
+| D  | [Чип и Дейл спешат на помощь](http://codeforces.com/problemset/problem/590/B) | [D/main.py](D/main.py)   |
+

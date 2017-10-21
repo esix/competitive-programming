@@ -25,95 +25,78 @@
 - Scala 2.11.7
 - JavaScript V8 4.8.0
 
-| ID   | Problem statement                                                                                       | Solution                                   |
-|:----:|:--------------------------------------------------------------------------------------------------------|:-------------------------------------------|
-|      | [Codeforces Beta Round #1](http://codeforces.com/contest/1)                                             | [001/](001/)                               |
-| 1A   | [Театральная площадь                                     ](http://codeforces.com/contest/1/problem/A)   | [001/A/solution.ml](001/A/solution.ml)     |
-| 1B   | [Электронные таблицы                                     ](http://codeforces.com/contest/1/problem/B)   | [001/B/solution.ml](001/B/solution.ml)     |
-| 1C   | [Древнеберляндский цирк                                  ](http://codeforces.com/contest/1/problem/C)   | [001/C/solution.ml](001/C/solution.ml)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #304 (Div. 2)](http://codeforces.com/contest/546)                                     | [546/](546/)                               |
-| 546A | [Солдат и бананы                                         ](http://codeforces.com/contest/546/problem/A) | [546/A/solution.py](546/A/solution.py)     |
-| 546C | [Солдат и карты                                          ](http://codeforces.com/contest/546/problem/C) | [546/C/solution.py](546/C/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #305 (Div. 2)](http://codeforces.com/contest/548)                                     | [548/](548/)                               |
-| 548A | [Майк и факс                                             ](http://codeforces.com/contest/548/problem/A) | [548/A/solution.py](548/A/solution.py)     |
-| 548B | [Майк и весёлая игра                                     ](http://codeforces.com/contest/548/problem/B) | [548/B/solution.py](548/B/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #309 (Div. 2)](http://codeforces.com/contest/554)                                     | [554/](554/)                               |
-| 554A | [Кёя и фотокниги                                         ](http://codeforces.com/contest/554/problem/A) | [554/A/solution.py](554/A/solution.py)     |
-| 554B | [Охана прибирается в комнате                             ](http://codeforces.com/contest/554/problem/B) | [554/B/solution.py](554/B/solution.py)     |
-| 554C | [Кёя и цветные мячи                                      ](http://codeforces.com/contest/554/problem/C) | [554/C/solution.py](554/C/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #311 (Div. 2)](http://codeforces.com/contest/557)                                     | [557/](557/)                               |
-| 557A | [Илья и дипломы                                          ](http://codeforces.com/contest/557/problem/A) | [557/A/solution.py](557/A/solution.py)     |
-| 557B | [Паша и чай                                              ](http://codeforces.com/contest/557/problem/B) | [557/B/solution.py](557/B/solution.py)     |
-| 557C | [Артур и стол                                            ](http://codeforces.com/contest/557/problem/C) | [557/C/solution.cpp](557/C/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #319 (Div. 2)](http://codeforces.com/contest/577)                                     | [577/](577/)                               |
-| 577A | [Таблица умножения                                       ](http://codeforces.com/contest/577/problem/A) | [577/A/solution.py](577/A/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/579)                                     | [579/](579/)                               |
-| 579A | [Выращиваем бактерии                                     ](http://codeforces.com/contest/579/problem/A) | [579/A/solution.py](579/A/solution.py)     |
-| 579C | [Задача про ломаную                                      ](http://codeforces.com/contest/579/problem/C) | [579/C/solution.py](579/C/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #321 (Div. 2)](http://codeforces.com/contest/580)                                     | [580/](580/)                               |
-| 580A | [Кефа и первые шаги                                      ](http://codeforces.com/contest/580/problem/A) | [580/A/solution.cpp](580/A/solution.cpp)   |
-| 580C | [Кефа и парк                                             ](http://codeforces.com/contest/580/problem/C) | [580/C/solution.cpp](580/C/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #322 (Div. 2)](http://codeforces.com/contest/581)                                     | [581/](581/)                               |
-| 581A | [Хипстер Вася                                            ](http://codeforces.com/contest/581/problem/A) | [581/A/solution.py](581/A/solution.py)     |
-| 581B | [Элитные дома                                            ](http://codeforces.com/contest/581/problem/B) | [581/B/solution.py](581/B/solution.py)     |
-| 581C | [Развитие навыков                                        ](http://codeforces.com/contest/581/problem/C) | [581/C/solution.py](581/C/solution.py)     |
-| 581D | [Три логотипа                                            ](http://codeforces.com/contest/581/problem/D) | [581/D/solution.py](581/D/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/583)                                     | [583/](583/)                               |
-| 583A | [Асфальтирование дорог                                   ](http://codeforces.com/contest/583/problem/A) | [583/A/solution.py](583/A/solution.py)     |
-| 583B | [Задача робота                                           ](http://codeforces.com/contest/583/problem/B) | [583/B/solution.py](583/B/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #325 (Div. 2)](http://codeforces.com/contest/586)                                     | [586/](586/)                               |
-| 586A | [Расписание Алёны                                        ](http://codeforces.com/contest/586/problem/A) | [586/A/solution.py](586/A/solution.py)     |
-| 586B | [Лаврентий и магазин                                     ](http://codeforces.com/contest/586/problem/B) | [586/B/solution.py](586/B/solution.py)     |
-| 586C | [Стоматолог Геннадий                                     ](http://codeforces.com/contest/586/problem/C) | [586/C/solution.cpp](586/C/solution.cpp)   |
-| 586D | [Филипп и поезда                                         ](http://codeforces.com/contest/586/problem/D) | [586/D/solution.py](586/D/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #327 (Div. 2)](http://codeforces.com/contest/591)                                     | [591/](591/)                               |
-| 591A | [Поединок волшебников                                    ](http://codeforces.com/contest/591/problem/A) | [591/A/solution.py](591/A/solution.py)     |
-| 591B | [Ребрендинг                                              ](http://codeforces.com/contest/591/problem/B) | [591/B/solution.py](591/B/solution.py)     |
-| 591C | [Медианное сглаживание                                   ](http://codeforces.com/contest/591/problem/C) | [591/C/solution.cpp](591/C/solution.cpp)   |
-| 591D | [Чип и Дейл спешат на помощь                             ](http://codeforces.com/contest/591/problem/D) | [591/D/solution.py](591/D/solution.py)     |
-|      |                                                                                                         |                                            |
-|      | [Educational Codeforces Round 1](http://codeforces.com/contest/598)                                     | [598/](598/)                               |
-| 598A | [Хитрая сумма                                            ](http://codeforces.com/contest/598/problem/A) | [598/A/solution.py](598/A/solution.py)     |
-| 598B | [Запросы на строке                                       ](http://codeforces.com/contest/598/problem/B) | [598/B/solution.cpp](598/B/solution.cpp)   |
-| 598C | [Ближайшие вектора                                       ](http://codeforces.com/contest/598/problem/C) | [598/C/solution.cpp](598/C/solution.cpp)   |
-| 598D | [Игорь в музее                                           ](http://codeforces.com/contest/598/problem/D) | [598/D/solution.cpp](598/D/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Educational Codeforces Round 2](http://codeforces.com/contest/600)                                     | [600/](600/)                               |
-| 600A | [Выделение чисел                                         ](http://codeforces.com/contest/600/problem/A) | [600/A/solution.py](600/A/solution.py)     |
-| 600B | [Запросы о количестве не превосходящих элементов         ](http://codeforces.com/contest/600/problem/B) | [600/B/solution.cpp](600/B/solution.cpp)   |
-| 600C | [Сделай палиндром                                        ](http://codeforces.com/contest/600/problem/C) | [600/C/solution.cpp](600/C/solution.cpp)   |
-| 600D | [Площадь пересечения двух кругов                         ](http://codeforces.com/contest/600/problem/D) | [600/D/solution.cpp](600/D/solution.cpp)   |
-| 600E | [Lomsat gelral                                           ](http://codeforces.com/contest/600/problem/E) | [600/E/solution.cpp](600/E/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #333 (Div. 2)](http://codeforces.com/contest/602)                                     | [602/](602/)                               |
-| 602A | [Два основания                                           ](http://codeforces.com/contest/602/problem/A) | [602/A/solution.py](602/A/solution.py)     |
-| 602B | [Аппроксимизация постоянного диапазона                   ](http://codeforces.com/contest/602/problem/B) | [602/B/solution.cpp](602/B/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Codeforces Round #336 (Div. 2)](http://codeforces.com/contest/608)                                     | [608/](608/)                               |
-| 608A | [Сайтама громит гостиницу                                ](http://codeforces.com/contest/608/problem/A) | [608/A/solution.py](608/A/solution.py)     |
-| 608B | [Сумма расстояний Хэмминга                               ](http://codeforces.com/contest/608/problem/B) | [608/B/solution.cpp](608/B/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Educational Codeforces Round 4](http://codeforces.com/contest/612)                                     | [612/](612/)                               |
-| 612A | [Разбиение текста                                        ](http://codeforces.com/contest/612/problem/A) | [612/A/solution.py](612/A/solution.py)     |
-| 612B | [HDD - устаревшая технология                             ](http://codeforces.com/contest/612/problem/B) | [612/B/solution.cpp](612/B/solution.cpp)   |
-| 612C | [Заменить до правильной скобочной последовательности     ](http://codeforces.com/contest/612/problem/C) | [612/C/solution.cpp](612/C/solution.cpp)   |
-| 612D | [Объединение k-подотрезков                               ](http://codeforces.com/contest/612/problem/D) | [612/D/solution.cpp](612/D/solution.cpp)   |
-| 612E | [Корень квадратный из перестановки                       ](http://codeforces.com/contest/612/problem/E) | [612/E/solution.cpp](612/E/solution.cpp)   |
-|      |                                                                                                         |                                            |
-|      | [Educational Codeforces Round 5](http://codeforces.com/contests/616)                                    | [616/](616/)                               |
-| 616A | [Сравнение длинных чисел                                 ](http://codeforces.com/contest/616/problem/A) | [616/A/solution.c  ](616/A/solution.c  )   |
-| 616B | [Ужин с Наташей                                          ](http://codeforces.com/contest/616/problem/B) | [616/B/solution.py ](616/B/solution.py )   |
-| 616C | [Лабиринт                                                ](http://codeforces.com/contest/616/problem/C) | [616/C/solution.cpp](616/C/solution.cpp)   |
-| 616E | [Сумма остатков                                          ](http://codeforces.com/contest/616/problem/E) | [616/E/solution.py ](616/E/solution.py )   |
-|      |                                                                                                         |                                            |
+| ID | Problem statement                                                                                  | Solution                         |
+|----|----------------------------------------------------------------------------------------------------|----------------------------------|
+|    | [Codeforces Beta Round #1](http://codeforces.com/contest/1)                                        | [001/](001/)                     |
+| A  | [Театральная площадь](http://codeforces.com/problemset/problem/1/A)                                | [001/A/main.ml](001/A/main.ml)   |
+| B  | [Электронные таблицы](http://codeforces.com/problemset/problem/1/B)                                | [001/B/main.ml](001/B/main.ml)   |
+| C  | [Древнеберляндский цирк](http://codeforces.com/problemset/problem/1/C)                             | [001/C/main.ml](001/C/main.ml)   |
+|    | [Codeforces Round #304 (Div. 2)](http://codeforces.com/contest/546)                                | [546/](546/)                     |
+| A  | [Солдат и бананы](http://codeforces.com/problemset/problem/546/A)                                  | [546/A/main.py](546/A/main.py)   |
+| C  | [Солдат и карты](http://codeforces.com/problemset/problem/546/C)                                   | [546/C/main.py](546/C/main.py)   |
+|    | [Codeforces Round #305 (Div. 2)](http://codeforces.com/contest/548)                                | [548/](548/)                     |
+| A  | [Майк и факс](http://codeforces.com/problemset/problem/548/A)                                      | [548/A/main.py](548/A/main.py)   |
+| B  | [Майк и весёлая игра](http://codeforces.com/problemset/problem/548/B)                              | [548/B/main.py](548/B/main.py)   |
+|    | [Codeforces Round #309 (Div. 2)](http://codeforces.com/contest/554)                                | [554/](554/)                     |
+| A  | [Кёя и фотокниги](http://codeforces.com/problemset/problem/554/A)                                  | [554/A/main.py](554/A/main.py)   |
+| B  | [Охана прибирается в комнате](http://codeforces.com/problemset/problem/554B)                       | [554/B/main.py](554/B/main.py)   |
+| C  | [Кёя и цветные мячи](http://codeforces.com/problemset/problem/553/A)                               | [554/C/main.py](554/C/main.py)   |
+|    | [Codeforces Round #311 (Div. 2)](http://codeforces.com/contest/557)                                | [557/](557/)                     |
+| A  | [Илья и дипломы](http://codeforces.com/problemset/problem/557/A)                                   | [557/A/main.py](557/A/main.py)   |
+| B  | [Паша и чай](http://codeforces.com/problemset/problem/557/B)                                       | [557/B/main.py](557/B/main.py)   |
+| C  | [Артур и стол](http://codeforces.com/problemset/problem/557/C)                                     | [557/C/main.cpp](557/C/main.cpp) |
+|    | [Codeforces Round #319 (Div. 2)](http://codeforces.com/contest/577)                                | [577/](577/)                     |
+| A  | [Таблица умножения](http://codeforces.com/problemset/problem/577/A)                                | [577/A/main.py](577/A/main.py)   |
+|    | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/579)                                | [579/](579/)                     |
+| A  | [Выращиваем бактерии](http://codeforces.com/problemset/problem/579/A)                              | [579/A/main.py](579/A/main.py)   |
+| C  | [Задача про ломаную](http://codeforces.com/problemset/problem/578/A)                               | [579/C/main.py](579/C/main.py)   |
+|    | [Codeforces Round #321 (Div. 2)](http://codeforces.com/contest/580)                                | [580/](580/)                     |
+| A  | [Кефа и первые шаги](http://codeforces.com/problemset/problem/580/A)                               | [580/A/main.cpp](580/A/main.cpp) |
+| C  | [Кефа и парк](http://codeforces.com/problemset/problem/580/C)                                      | [580/C/main.cpp](580/C/main.cpp) |
+|    | [Codeforces Round #322 (Div. 2)](http://codeforces.com/contest/581)                                | [581/](581/)                     |
+| A  | [Хипстер Вася](http://codeforces.com/problemset/problem/581/A)                                     | [581/A/main.py](581/A/main.py)   |
+| B  | [Элитные дома](http://codeforces.com/problemset/problem/581/B)                                     | [581/B/main.py](581/B/main.py)   |
+| C  | [Развитие навыков](http://codeforces.com/problemset/problem/581/C)                                 | [581/C/main.py](581/C/main.py)   |
+| D  | [Три логотипа](http://codeforces.com/problemset/problem/581/D)                                     | [581/D/main.py](581/D/main.py)   |
+|    | [Codeforces Round #323 (Div. 2)](http://codeforces.com/contest/583                                 | [583/](583/)                     |
+| A  | [Асфальтирование дорог](http://codeforces.com/problemset/problem/583/A)                            | [583/A/main.py](583/A/main.py)   |
+| B  | [Задача робота](http://codeforces.com/problemset/problem/583/B)                                    | [583/B/main.py](583/B/main.py)   |
+|    | [Codeforces Round #325 (Div. 2)](http://codeforces.com/contest/586)                                | [586/](586/)                     |
+| A  | [Расписание Алёны](http://codeforces.com/problemset/problem/586/A)                                 | [586/A/main.py](586/A/main.py)   |
+| B  | [Лаврентий и магазин](http://codeforces.com/problemset/problem/586/B)                              | [586/B/main.py](586/B/main.py)   |
+| C  | [Стоматолог Геннадий](http://codeforces.com/problemset/problem/585/A)                              | [586/C/main.cpp](586/C/main.cpp) |
+| D  | [Филипп и поезда](http://codeforces.com/problemset/problem/585/B)                                  | [586/D/main.py](586/D/main.py)   |
+|    | [Codeforces Round #327 (Div. 2)](http://codeforces.com/contest/591)                                | [591/](591/)                     |
+| A  | [Поединок волшебников](http://codeforces.com/problemset/problem/591/A)                             | [591/A/main.py](591/A/main.py)   |
+| B  | [Ребрендинг](http://codeforces.com/problemset/problem/591/B)                                       | [591/B/main.py](591/B/main.py)   |
+| C  | [Медианное сглаживание](http://codeforces.com/problemset/problem/590/A)                            | [591/C/main.cpp](591/C/main.cpp) |
+| D  | [Чип и Дейл спешат на помощь](http://codeforces.com/problemset/problem/590/B)                      | [591/D/main.py](591/D/main.py)   |
+|    | [Educational Codeforces Round 1](http://codeforces.com/contest/598)                                | [598/](598/)                     |
+| A  | [Хитрая сумма](http://codeforces.com/problemset/problem/598/A)                                     | [598/A/main.py](598/A/main.py)   |
+| B  | [Запросы на строке](http://codeforces.com/problemset/problem/598/B)                                | [598/B/main.cpp](598/B/main.cpp) |
+| C  | [Ближайшие вектора](http://codeforces.com/problemset/problem/598/C)                                | [598/C/main.cpp](598/C/main.cpp) |
+| D  | [Игорь в музее](http://codeforces.com/problemset/problem/598/D)                                    | [598/D/main.cpp](598/D/main.cpp) |
+|    | [Educational Codeforces Round 2](http://codeforces.com/contest/600)                                | [600/](600/)                     |
+| A  | [Выделение чисел](http://codeforces.com/problemset/problem/600/A)                                  | [600/A/main.py](600/A/main.py)   |
+| B  | [Запросы о количестве не превосходящих элементов](http://codeforces.com/problemset/problem/600/B)  | [600/B/main.cpp](600/B/main.cpp) |
+| C  | [Сделай палиндром](http://codeforces.com/problemset/problem/600/C)                                 | [600/C/main.cpp](600/C/main.cpp) |
+| D  | [Площадь пересечения двух кругов](http://codeforces.com/problemset/problem/600/D)                  | [600/D/main.cpp](600/D/main.cpp) |
+| E  | [Lomsat gelral](http://codeforces.com/problemset/problem/600/E)                                    | [600/E/main.cpp](600/E/main.cpp) |
+|    | [Codeforces Round #333 (Div. 2)](http://codeforces.com/contest/602)                                | [602/](602/)                     |
+| A  | [Два основания](http://codeforces.com/problemset/problem/602/A)                                    | [602/A/main.py](602/A/main.py)   |
+| B  | [Аппроксимизация постоянного диапазона](http://codeforces.com/problemset/problem/602/B)            | [602/B/main.cpp](602/B/main.cpp) |
+|    | [Codeforces Round #336 (Div. 2)](http://codeforces.com/contest/608)                                | [608/](608/)                     |
+| A  | [Сайтама громит гостиницу](http://codeforces.com/contest/608/problem/A)                            | [608/A/main.py](608/A/main.py)   |
+| B  | [Сумма расстояний Хэмминга](http://codeforces.com/contest/608/problem/B)                           | [608/B/main.cpp](608/B/main.cpp) |
+|    | [Educational Codeforces Round 4](http://codeforces.com/contest/612)                                | [612/](612/)                     |
+| A  | [Разбиение текста](http://codeforces.com/contest/612/problem/A)                                    | [612/A/main.py](612/A/main.py)   |
+| B  | [HDD - устаревшая технология](http://codeforces.com/contest/612/problem/B)                         | [612/B/main.cpp](612/B/main.cpp) |
+| C  | [Заменить до правильной скобочной последовательности](http://codeforces.com/contest/612/problem/C) | [612/C/main.cpp](612/C/main.cpp) |
+| D  | [Объединение k-подотрезков](http://codeforces.com/contest/612/problem/D)                           | [612/D/main.cpp](612/D/main.cpp) |
+| E  | [Корень квадратный из перестановки](http://codeforces.com/contest/612/problem/E)                   | [612/E/main.cpp](612/E/main.cpp) |
+|    | [Educational Codeforces Round 5](http://codeforces.com/contests/616)                               | [616/](616/)                     |
+| A  | [Сравнение длинных чисел](http://codeforces.com/contest/616/problem/A)                             | [616/A/main.c](616/A/main.c)     |
+| B  | [Ужин с Наташей](http://codeforces.com/contest/616/problem/B)                                      | [616/B/main.py](616/B/main.py)   |
+| C  | [Лабиринт](http://codeforces.com/contest/616/problem/C)                                            | [616/C/main.cpp](616/C/main.cpp) |
+| E  | [Сумма остатков](http://codeforces.com/contest/616/problem/E)                                      | [616/E/main.py](616/E/main.py)   |
+

@@ -1,8 +1,9 @@
 # [Codeforces Round #322 (Div. 2)](http://codeforces.com/contest/581)
 
-| ID  | Problem statement                                                                                 | Solution                           |
-|:---:|:--------------------------------------------------------------------------------------------------|:----------------------------------:|
-|  A  | [Хипстер Вася                                      ](http://codeforces.com/contest/581/problem/A) | [A/solution.py](A/solution.py)     |
-|  B  | [Элитные дома                                      ](http://codeforces.com/contest/581/problem/B) | [B/solution.py](B/solution.py)     |
-|  C  | [Развитие навыков                                  ](http://codeforces.com/contest/581/problem/C) | [C/solution.py](C/solution.py)     |
-|  D  | [Три логотипа                                      ](http://codeforces.com/contest/581/problem/D) | [D/solution.py](D/solution.py)     |
+| ID | Problem statement                                                  | Solution               |
+|----|--------------------------------------------------------------------|------------------------|
+| A  | [Хипстер Вася](http://codeforces.com/problemset/problem/581/A)     | [A/main.py](A/main.py) |
+| B  | [Элитные дома](http://codeforces.com/problemset/problem/581/B)     | [B/main.py](B/main.py) |
+| C  | [Развитие навыков](http://codeforces.com/problemset/problem/581/C) | [C/main.py](C/main.py) |
+| D  | [Три логотипа](http://codeforces.com/problemset/problem/581/D)     | [D/main.py](D/main.py) |
+
