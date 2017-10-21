@@ -15,8 +15,8 @@ function loadMainReadmeFileLines() {
 
 
 function getSolutionFiles(dir) {
-  const solutions = fs.readdirSync(dir).filter(file => file.match(/^main/));   // only files name `main.ext'
-  return solutions;
+  const solutions = fs.readdirSync(dir).filter(file => file.match(/^[Mm]ain/));   // only files name `main.ext'
+  return solutions.sort();
 }
 
 function isSolutionDir(dir) {
@@ -51,20 +51,22 @@ function recursiveDirWalk(dir, process) {
 
 function processSolution(dir) {
   try {
-    const readme = fs.readFileSync(`${dir}/README.md`, 'utf8');
-    if (!readme.match(/^\#\s\[(.+?)\]\((.+?)\)/)) {                  // # [title](url)
+    let readme = fs.readFileSync(`${dir}/README.md`, 'utf8');
+    readme = readme.replace(/^\uFEFF/, '');                         // bom
+    if (!readme.match(/^\#\s\[(.+?)\]\((.+?)\)/) &&                  // # [title](url)
+        !readme.match(/^\#\s(.+)\n?/)) {
         console.error('File: ', `${dir}/README.md`, 'has invalid first line in README.md');
         console.error(readme)
         throw new Error('Invalid readme');
     }
 
     const taskTitle = RegExp.$1;
-    const taskUrl = RegExp.$2;
+    const taskUrl = RegExp.$2 || '';
 
     let solutions = [];
 
     if (isSolutionDir(dir)) {
-      let mainFiles = fs.readdirSync(dir).filter(file => file.match(/^main/));   // only files name `main.ext'
+      let mainFiles = getSolutionFiles(dir);
 
       solutions = solutions.concat(mainFiles.map(mainFile => ({
         taskId: path.basename(dir),
@@ -100,7 +102,7 @@ recursiveDirWalk('.', (dir) => {
 });
   
 
-const makeProblemLink = (s) => `[${s.taskTitle}](${s.taskUrl})`;
+const makeProblemLink = (s) => s.taskUrl ? `[${s.taskTitle}](${s.taskUrl})` : s.taskTitle;
 
 const makeSolutionLink = (s) => `[${s.solutionFile}](${s.solutionFile})`;
 
