@@ -43,4 +43,5 @@ Compilers:
 | D    | [Circle of choirs](https://www.e-olymp.com/en/contests/8860/problems/76521)            | [~contest-8860/D/main.cpp](~contest-8860/D/main.cpp) |
 | E    | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)             | [~contest-8860/E/main.cpp](~contest-8860/E/main.cpp) |
 | F    | [LCM two natural numbers](https://www.e-olymp.com/en/contests/8860/problems/76523)     | [~contest-8860/F/main.cpp](~contest-8860/F/main.cpp) |
+| G    | [Function 9](https://www.e-olymp.com/en/contests/8860/problems/76524)                  | [~contest-8860/G/main.py](~contest-8860/G/main.py)   |
 
