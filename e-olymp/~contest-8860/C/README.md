@@ -4,7 +4,7 @@ n natural numbers are given. Write a program that calculates the greatest common
 
 ## Input
 
-In the first line there is a natural number n (n ≤ 1000) - the quantity of numbers. Next n natural numbers are contained, each of which does not exceed 2 * 109.
+In the first line there is a natural number n (n ≤ 1000) - the quantity of numbers. Next n natural numbers are contained, each of which does not exceed 2 * 10⁹.
 
 ## Output
 
