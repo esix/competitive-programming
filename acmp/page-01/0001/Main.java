@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             new Main().run();
-        }catch(IOException e) {
+        } catch(IOException e) {
  
         }
     }
@@ -20,5 +20,4 @@ public class Main {
         pw.print(a+b);
         pw.close();
     }
- 
 }
