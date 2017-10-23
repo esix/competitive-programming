@@ -37,4 +37,5 @@ Compilers:
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)      | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
 | C    | [The greatest common divisor](https://www.e-olymp.com/en/contests/8860/problems/76520) | [~contest-8860/C/main.cpp](~contest-8860/C/main.cpp) |
 | D    | [Circle of choirs](https://www.e-olymp.com/en/contests/8860/problems/76521)            | [~contest-8860/D/main.cpp](~contest-8860/D/main.cpp) |
+| E    | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)             | [~contest-8860/E/main.cpp](~contest-8860/E/main.cpp) |
 
