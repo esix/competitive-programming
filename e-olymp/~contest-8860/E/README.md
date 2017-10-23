@@ -4,7 +4,7 @@ Find the GCD (greatest common divisor) of two nonnegative integers.
 
 ## Input
 
-Two integers a and b (a, b < 2∙109).
+Two integers a and b (a, b < 2∙10⁹).
 
 ## Output
 
