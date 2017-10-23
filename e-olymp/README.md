@@ -49,4 +49,5 @@ Compilers:
 | F    | [LCM two natural numbers](https://www.e-olymp.com/en/contests/8860/problems/76523)     | [~contest-8860/F/main.cpp](~contest-8860/F/main.cpp) |
 | G    | [Function 9](https://www.e-olymp.com/en/contests/8860/problems/76524)                  | [~contest-8860/G/main.py](~contest-8860/G/main.py)   |
 | H    | [MegaGCD](https://www.e-olymp.com/en/contests/8860/problems/76525)                     | [~contest-8860/H/main.cpp](~contest-8860/H/main.cpp) |
+| I    | [Sum of fractions](https://www.e-olymp.com/en/contests/8860/problems/76526)            | [~contest-8860/I/main.cpp](~contest-8860/I/main.cpp) |
 
