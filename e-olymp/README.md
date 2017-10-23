@@ -29,6 +29,8 @@ Compilers:
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                      | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                 | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
+|      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                       | [page-041/](page-041/)                               |
+| 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                            | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 |      | [Problems page 046](https://www.e-olymp.com/en/problems?page=46)                       | [page-046/](page-046/)                               |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                           | [page-046/1154/main.cpp](page-046/1154/main.cpp)     |
 |      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                       | [page-058/](page-058/)                               |
