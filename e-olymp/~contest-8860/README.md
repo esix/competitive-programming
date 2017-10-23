@@ -12,4 +12,5 @@
 | G  | [Function 9](https://www.e-olymp.com/en/contests/8860/problems/76524)                  | [G/main.py](G/main.py)   |
 | H  | [MegaGCD](https://www.e-olymp.com/en/contests/8860/problems/76525)                     | [H/main.cpp](H/main.cpp) |
 | I  | [Sum of fractions](https://www.e-olymp.com/en/contests/8860/problems/76526)            | [I/main.cpp](I/main.cpp) |
+| J  | [The Segment](https://www.e-olymp.com/en/contests/8860/problems/76527)                 | [J/main.cpp](J/main.cpp) |
 

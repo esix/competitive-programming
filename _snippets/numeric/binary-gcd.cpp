@@ -1,0 +1,22 @@
+template <typename INT> 
+INT gcd(INT m, INT n) {
+  if (m == 0) return n;
+  if (n == 0) return m;
+  if (m == n) return m;
+  if (m == 1) return (INT)1;
+  if (n == 1) return (INT)1;
+
+  bool m_even = ((m & 1) == 0);
+  bool n_even = ((n & 1) == 0);
+
+  if (m_even) {
+    return n_even ? 2 * gcd(m >> 1, n >> 1) : gcd(m >> 1, n);
+  }
+  // ! m_even
+  if (n_even) {
+    return gcd(m, n >> 1);
+  }
+
+  // !n_even && !m_even
+  return (n > m) ? gcd(m, (n - m) >> 1) : gcd((m - n) >> 1, n);
+}
