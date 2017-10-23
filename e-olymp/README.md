@@ -38,6 +38,8 @@ Compilers:
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                    | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
 |      | [Problems page 088](https://www.e-olymp.com/en/problems?page=88)                       | [page-088/](page-088/)                               |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [page-088/2214/main.py](page-088/2214/main.py)       |
+|      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                      | [page-156/](page-156/)                               |
+| 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                    | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                     | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                         | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)      | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
