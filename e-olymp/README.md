@@ -40,6 +40,8 @@ Compilers:
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [page-088/2214/main.py](page-088/2214/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                      | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                    | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
+|      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                      | [page-294/](page-294/)                               |
+| 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                           | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                     | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                         | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)      | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
