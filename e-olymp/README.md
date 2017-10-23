@@ -24,6 +24,8 @@ Compilers:
 | 0051 | [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)                   | [page-002/0051/main.py](page-002/0051/main.py)       |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                       | [page-011/](page-011/)                               |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                      | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
+|      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
+| 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                 | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
 |      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                       | [page-058/](page-058/)                               |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                         | [page-058/0137/main.cpp](page-058/0137/main.cpp)     |
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                    | [page-058/1452/main.cpp](page-058/1452/main.cpp)     |
