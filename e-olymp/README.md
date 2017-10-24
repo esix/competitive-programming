@@ -27,6 +27,8 @@ Compilers:
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                         | [page-005/0137/main.cpp](page-005/0137/main.cpp)     |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                       | [page-011/](page-011/)                               |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                      | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
+|      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                       | [page-016/](page-016/)                               |
+| 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                            | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                 | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                       | [page-041/](page-041/)                               |
