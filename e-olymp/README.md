@@ -56,5 +56,6 @@ Compilers:
 | H    | [MegaGCD](https://www.e-olymp.com/en/contests/8860/problems/76525)                     | [~contest-8860/H/main.cpp](~contest-8860/H/main.cpp) |
 | I    | [Sum of fractions](https://www.e-olymp.com/en/contests/8860/problems/76526)            | [~contest-8860/I/main.cpp](~contest-8860/I/main.cpp) |
 | J    | [The Segment](https://www.e-olymp.com/en/contests/8860/problems/76527)                 | [~contest-8860/J/main.cpp](~contest-8860/J/main.cpp) |
+| K    | [Euclid algorithm](https://www.e-olymp.com/en/contests/8860/problems/76528)            | [~contest-8860/K/main.cpp](~contest-8860/K/main.cpp) |
 | L    | [Cake from Tolya](https://www.e-olymp.com/en/contests/8860/problems/76529)             | [~contest-8860/L/main.cpp](~contest-8860/L/main.cpp) |
 
