@@ -60,4 +60,6 @@ Compilers:
 | J    | [The Segment](https://www.e-olymp.com/en/contests/8860/problems/76527)                 | [~contest-8860/J/main.cpp](~contest-8860/J/main.cpp) |
 | K    | [Euclid algorithm](https://www.e-olymp.com/en/contests/8860/problems/76528)            | [~contest-8860/K/main.cpp](~contest-8860/K/main.cpp) |
 | L    | [Cake from Tolya](https://www.e-olymp.com/en/contests/8860/problems/76529)             | [~contest-8860/L/main.cpp](~contest-8860/L/main.cpp) |
+|      | [Greater Common Divisor - 2](https://www.e-olymp.com/en/contests/8903)                 | [~contest-8903/](~contest-8903/)                     |
+| A    | [Mint](https://www.e-olymp.com/en/contests/8903/problems/76949)                        | [~contest-8903/A/main.cpp](~contest-8903/A/main.cpp) |
 
