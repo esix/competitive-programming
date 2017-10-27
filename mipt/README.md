@@ -31,6 +31,7 @@ Compilers:
 | 008 | [Brackets](http://acm.mipt.ru/judge/problems.pl?problem=008&lang=en)                       | [008/main.scm](008/main.scm) |
 | 027 | [Odd number](http://acm.mipt.ru/judge/problems.pl?problem=027&lang=en)                     | [027/main.scm](027/main.scm) |
 | 051 | [Strange Tower](http://acm.mipt.ru/judge/problems.pl?problem=051&lang=en)                  | [051/main.scm](051/main.scm) |
+| 059 | [CD](http://acm.mipt.ru/judge/problems.pl?problem=059)                                     | [059/main.cpp](059/main.cpp) |
 | 070 | [Square root of permutation](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en)     | [070/main.cpp](070/main.cpp) |
 | 100 | [Nim Game -- who is the winner?](http://acm.mipt.ru/judge/problems.pl?problem=100&lang=en) | [100/main.scm](100/main.scm) |
 | 201 | [Number of solutions](http://acm.mipt.ru/judge/problems.pl?problem=201&lang=en)            | [201/main.scm](201/main.scm) |
