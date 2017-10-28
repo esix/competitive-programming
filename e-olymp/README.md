@@ -68,4 +68,5 @@ Compilers:
 | A    | [Mint](https://www.e-olymp.com/en/contests/8903/problems/76949)                        | [~contest-8903/A/main.cpp](~contest-8903/A/main.cpp) |
 | B    | [Simple division](https://www.e-olymp.com/en/contests/8903/problems/76950)             | [~contest-8903/B/main.py](~contest-8903/B/main.py)   |
 | C    | [Boxes](https://www.e-olymp.com/en/contests/8903/problems/76951)                       | [~contest-8903/C/main.cpp](~contest-8903/C/main.cpp) |
+| D    | [Least Common Multiple](https://www.e-olymp.com/en/contests/8903/problems/76952)       | [~contest-8903/D/main.py](~contest-8903/D/main.py)   |
 
