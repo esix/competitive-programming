@@ -64,4 +64,5 @@ Compilers:
 | L    | [Cake from Tolya](https://www.e-olymp.com/en/contests/8860/problems/76529)             | [~contest-8860/L/main.cpp](~contest-8860/L/main.cpp) |
 |      | [Greater Common Divisor - 2](https://www.e-olymp.com/en/contests/8903)                 | [~contest-8903/](~contest-8903/)                     |
 | A    | [Mint](https://www.e-olymp.com/en/contests/8903/problems/76949)                        | [~contest-8903/A/main.cpp](~contest-8903/A/main.cpp) |
+| B    | [Simple division](https://www.e-olymp.com/en/contests/8903/problems/76950)             | [~contest-8903/B/main.py](~contest-8903/B/main.py)   |
 
