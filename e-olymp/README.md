@@ -38,6 +38,7 @@ Compilers:
 |      | [Problems page 047](https://www.e-olymp.com/en/problems?page=47)                       | [page-047/](page-047/)                               |
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                       | [page-047/1181/main.cpp](page-047/1181/main.cpp)     |
 | 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                            | [page-047/1182/main.py](page-047/1182/main.py)       |
+| 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                      | [page-047/1183/main.cpp](page-047/1183/main.cpp)     |
 |      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                       | [page-058/](page-058/)                               |
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                    | [page-058/1452/main.cpp](page-058/1452/main.cpp)     |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                               | [page-058/1453/main.cpp](page-058/1453/main.cpp)     |
