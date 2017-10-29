@@ -35,4 +35,5 @@ Compilers:
 | 070 | [Square root of permutation](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en)     | [070/main.cpp](070/main.cpp) |
 | 100 | [Nim Game -- who is the winner?](http://acm.mipt.ru/judge/problems.pl?problem=100&lang=en) | [100/main.scm](100/main.scm) |
 | 201 | [Number of solutions](http://acm.mipt.ru/judge/problems.pl?problem=201&lang=en)            | [201/main.scm](201/main.scm) |
+| 202 | [Pete in love](http://acm.mipt.ru/judge/problems.pl?problem=202&lang=en)                   | [202/main.cpp](202/main.cpp) |
 
