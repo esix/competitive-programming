@@ -1,0 +1,13 @@
+2
+
+3 3
+BBB
+BBB
+BBB
+
+5 5
+T.BBB
+TBBBB
+.BBBB
+TBBBB
+.BBBB
