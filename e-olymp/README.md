@@ -92,4 +92,5 @@ Compilers:
 | J    | [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958)    | [~contest-8903/J/main.py](~contest-8903/J/main.py)   |
 | K    | [Garland](https://www.e-olymp.com/en/contests/8903/problems/76959)                     | [~contest-8903/K/main.py](~contest-8903/K/main.py)   |
 | L    | [Sum of GCD](https://www.e-olymp.com/en/contests/8903/problems/76960)                  | [~contest-8903/L/main.cpp](~contest-8903/L/main.cpp) |
+| M    | [Testing](https://www.e-olymp.com/en/contests/8903/problems/76961)                     | [~contest-8903/M/main.py](~contest-8903/M/main.py)   |
 
