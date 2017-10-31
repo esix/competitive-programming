@@ -55,6 +55,8 @@ Compilers:
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                 | [page-101/2549/main.py](page-101/2549/main.py)       |
 |      | [Problems page 105](https://www.e-olymp.com/en/problems?page=105)                      | [page-105/](page-105/)                               |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                | [page-105/2631/main.cpp](page-105/2631/main.cpp)     |
+|      | [Problems page 106](https://www.e-olymp.com/en/problems?page=106)                      | [page-106/](page-106/)                               |
+| 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                          | [page-106/2674/main.py](page-106/2674/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                      | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                    | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                      | [page-294/](page-294/)                               |
