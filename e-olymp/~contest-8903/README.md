@@ -10,4 +10,5 @@
 | E  | [Камешки](https://www.e-olymp.com/en/contests/8903/problems/76953)               | [E/main.cpp](E/main.cpp) |
 | G  | [Papa Carlo](https://www.e-olymp.com/en/contests/8903/problems/76955)            | [G/main.py](G/main.py)   |
 | H  | [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)           | [H/main.cpp](H/main.cpp) |
+| I  | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)     | [I/main.py](I/main.py)   |
 
