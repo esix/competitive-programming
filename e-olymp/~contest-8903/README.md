@@ -12,4 +12,5 @@
 | H  | [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)              | [H/main.cpp](H/main.cpp) |
 | I  | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)        | [I/main.py](I/main.py)   |
 | J  | [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958) | [J/main.py](J/main.py)   |
+| K  | [Garland](https://www.e-olymp.com/en/contests/8903/problems/76959)                  | [K/main.py](K/main.py)   |
 
