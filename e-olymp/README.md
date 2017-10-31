@@ -89,4 +89,5 @@ Compilers:
 | I    | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)           | [~contest-8903/I/main.py](~contest-8903/I/main.py)   |
 | J    | [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958)    | [~contest-8903/J/main.py](~contest-8903/J/main.py)   |
 | K    | [Garland](https://www.e-olymp.com/en/contests/8903/problems/76959)                     | [~contest-8903/K/main.py](~contest-8903/K/main.py)   |
+| L    | [Sum of GCD](https://www.e-olymp.com/en/contests/8903/problems/76960)                  | [~contest-8903/L/main.cpp](~contest-8903/L/main.cpp) |
 

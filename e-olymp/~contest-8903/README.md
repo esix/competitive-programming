@@ -13,4 +13,5 @@
 | I  | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)        | [I/main.py](I/main.py)   |
 | J  | [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958) | [J/main.py](J/main.py)   |
 | K  | [Garland](https://www.e-olymp.com/en/contests/8903/problems/76959)                  | [K/main.py](K/main.py)   |
+| L  | [Sum of GCD](https://www.e-olymp.com/en/contests/8903/problems/76960)               | [L/main.cpp](L/main.cpp) |
 
