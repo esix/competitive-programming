@@ -63,6 +63,8 @@ Compilers:
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                   | [page-226/5669/main.py](page-226/5669/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                      | [page-252/](page-252/)                               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                    | [page-252/6302/main.py](page-252/6302/main.py)       |
+|      | [Problems page 277](https://www.e-olymp.com/en/problems?page=277)                      | [page-277/](page-277/)                               |
+| 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                 | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                      | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                           | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                     | [~contest-8860/](~contest-8860/)                     |
