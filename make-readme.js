@@ -13,6 +13,21 @@ function loadMainReadmeFileLines() {
   return lines;
 }
 
+function comparator(a, b) {
+  const aNum = parseInt(a), bNum = parseInt(b);
+  if (isNaN(aNum) && isNaN(bNum)) {
+    return a.localeCompare(b);
+  }
+  if (isNaN(aNum)) {
+    return 1;
+  }
+  if (isNaN(bNum)) {
+    return -1;
+  }
+
+  return aNum - bNum;
+}
+
 
 function getSolutionFiles(dir) {
   const solutions = fs.readdirSync(dir).filter(file => file.match(/^[Mm]ain/));   // only files name `main.ext'
@@ -38,6 +53,9 @@ function hasSolutionSubDirs(dir) {
 
 function recursiveDirWalk(dir, process) {
   const files = fs.readdirSync(dir);
+
+  files.sort(comparator);
+
     
   for (let file of files) {
     const fullPath = `${dir}/${file}`;
