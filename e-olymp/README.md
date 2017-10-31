@@ -53,6 +53,8 @@ Compilers:
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [page-088/2214/main.py](page-088/2214/main.py)       |
 |      | [Problems page 101](https://www.e-olymp.com/en/problems?page=101)                      | [page-101/](page-101/)                               |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                 | [page-101/2549/main.py](page-101/2549/main.py)       |
+|      | [Problems page 105](https://www.e-olymp.com/en/problems?page=105)                      | [page-105/](page-105/)                               |
+| 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                | [page-105/2631/main.cpp](page-105/2631/main.cpp)     |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                      | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                    | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                      | [page-294/](page-294/)                               |
