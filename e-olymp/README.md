@@ -77,4 +77,5 @@ Compilers:
 | D    | [Least Common Multiple](https://www.e-olymp.com/en/contests/8903/problems/76952)       | [~contest-8903/D/main.py](~contest-8903/D/main.py)   |
 | E    | [Камешки](https://www.e-olymp.com/en/contests/8903/problems/76953)                     | [~contest-8903/E/main.cpp](~contest-8903/E/main.cpp) |
 | G    | [Papa Carlo](https://www.e-olymp.com/en/contests/8903/problems/76955)                  | [~contest-8903/G/main.py](~contest-8903/G/main.py)   |
+| H    | [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)                 | [~contest-8903/H/main.cpp](~contest-8903/H/main.cpp) |
 
