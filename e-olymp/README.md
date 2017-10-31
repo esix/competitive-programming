@@ -59,6 +59,8 @@ Compilers:
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                          | [page-106/2674/main.py](page-106/2674/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                      | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                    | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
+|      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                      | [page-226/](page-226/)                               |
+| 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                   | [page-226/5669/main.py](page-226/5669/main.py)       |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                      | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                           | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                     | [~contest-8860/](~contest-8860/)                     |
