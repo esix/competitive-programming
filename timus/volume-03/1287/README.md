@@ -1,1 +1,1 @@
-# [1287. Κΰνΰλϋ νΰ Μΰπρε](http://acm.timus.ru/problem.aspx?space=1&num=1287)
+ο»Ώ# [ΠΠ°Π½Π°Π»Ρ‹ Π½Π° ΠΠ°Ρ€ΡΠµ](http://acm.timus.ru/problem.aspx?space=1&num=1287)
