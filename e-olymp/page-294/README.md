@@ -4,4 +4,5 @@
 | ID   | Problem statement                                            | Solution                       |
 |------|--------------------------------------------------------------|--------------------------------|
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363) | [7363/main.cpp](7363/main.cpp) |
+| 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)          | [7371/main.py](7371/main.py)   |
 
