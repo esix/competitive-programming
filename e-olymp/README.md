@@ -83,4 +83,5 @@ Compilers:
 | G    | [Papa Carlo](https://www.e-olymp.com/en/contests/8903/problems/76955)                  | [~contest-8903/G/main.py](~contest-8903/G/main.py)   |
 | H    | [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)                 | [~contest-8903/H/main.cpp](~contest-8903/H/main.cpp) |
 | I    | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)           | [~contest-8903/I/main.py](~contest-8903/I/main.py)   |
+| J    | [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958)    | [~contest-8903/J/main.py](~contest-8903/J/main.py)   |
 
