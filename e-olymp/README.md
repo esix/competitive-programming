@@ -36,6 +36,7 @@ Compilers:
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                         | [page-014/0359/main.cpp](page-014/0359/main.cpp)     |
 |      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                       | [page-016/](page-016/)                               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                            | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
+| 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                    | [page-016/0418/main.py](page-016/0418/main.py)       |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                 | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                       | [page-041/](page-041/)                               |
