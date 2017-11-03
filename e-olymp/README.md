@@ -41,6 +41,7 @@ Compilers:
 | 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                      | [page-047/1183/main.cpp](page-047/1183/main.cpp)     |
 |      | [Problems page 049](https://www.e-olymp.com/en/problems?page=49)                       | [page-049/](page-049/)                               |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                      | [page-049/1243/main.py](page-049/1243/main.py)       |
+| 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                            | [page-049/1246/main.cpp](page-049/1246/main.cpp)     |
 |      | [Problems page 056](https://www.e-olymp.com/en/problems?page=56)                       | [page-056/](page-056/)                               |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                    | [page-056/1414/main.cpp](page-056/1414/main.cpp)     |
 |      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                       | [page-058/](page-058/)                               |
