@@ -18,6 +18,7 @@ Compilers:
 | 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                               | [page-000/0001/main.py](page-000/0001/main.py)       |
 | 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                        | [page-000/0002/main.py](page-000/0002/main.py)       |
 | 0003 | [Match’s model](https://www.e-olymp.com/en/problems/3)                                 | [page-000/0003/main.py](page-000/0003/main.py)       |
+| 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)                                   | [page-000/0004/main.cpp](page-000/0004/main.cpp)     |
 |      | [Problems page 001](https://www.e-olymp.com/en/problems?page=1)                        | [page-001/](page-001/)                               |
 | 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                                 | [page-001/0027/main.py](page-001/0027/main.py)       |
 |      | [Problems page 002](https://www.e-olymp.com/en/problems?page=2)                        | [page-002/](page-002/)                               |

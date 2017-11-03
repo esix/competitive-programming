@@ -59,10 +59,7 @@ function hasSolutionSubDirs(dir) {
 function recursiveDirWalk(dir, process) {
   const files = fs.readdirSync(dir);
 
-  console.log("Sorting", files);
   files.sort(comparator);
-  console.log("Sorted", files);
-
     
   for (let file of files) {
     const fullPath = `${dir}/${file}`;
