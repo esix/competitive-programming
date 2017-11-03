@@ -32,6 +32,8 @@ Compilers:
 | 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                               | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                       | [page-011/](page-011/)                               |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                      | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
+|      | [Problems page 014](https://www.e-olymp.com/en/problems?page=14)                       | [page-014/](page-014/)                               |
+| 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                         | [page-014/0359/main.cpp](page-014/0359/main.cpp)     |
 |      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                       | [page-016/](page-016/)                               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                            | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
