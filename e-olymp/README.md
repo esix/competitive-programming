@@ -43,6 +43,7 @@ Compilers:
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                | [page-026/0653/main.py](page-026/0653/main.py)       |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                       | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                            | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
+| 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                           | [page-041/1043/main.py](page-041/1043/main.py)       |
 |      | [Problems page 046](https://www.e-olymp.com/en/problems?page=46)                       | [page-046/](page-046/)                               |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                           | [page-046/1154/main.cpp](page-046/1154/main.cpp)     |
 |      | [Problems page 047](https://www.e-olymp.com/en/problems?page=47)                       | [page-047/](page-047/)                               |
