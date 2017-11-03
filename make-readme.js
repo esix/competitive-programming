@@ -15,6 +15,11 @@ function loadMainReadmeFileLines() {
 
 function comparator(a, b) {
   const aNum = parseInt(a), bNum = parseInt(b);
+  
+  // contests - at the end
+  if (a[0] == '~' && b[0] != '~') return 1;
+  if (a[0] != '~' && b[0] == '~') return -1;
+
   if (isNaN(aNum) && isNaN(bNum)) {
     return a.localeCompare(b);
   }
@@ -54,7 +59,9 @@ function hasSolutionSubDirs(dir) {
 function recursiveDirWalk(dir, process) {
   const files = fs.readdirSync(dir);
 
+  console.log("Sorting", files);
   files.sort(comparator);
+  console.log("Sorted", files);
 
     
   for (let file of files) {

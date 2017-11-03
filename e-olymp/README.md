@@ -87,6 +87,7 @@ Compilers:
 | C    | [Boxes](https://www.e-olymp.com/en/contests/8903/problems/76951)                       | [~contest-8903/C/main.cpp](~contest-8903/C/main.cpp) |
 | D    | [Least Common Multiple](https://www.e-olymp.com/en/contests/8903/problems/76952)       | [~contest-8903/D/main.py](~contest-8903/D/main.py)   |
 | E    | [Камешки](https://www.e-olymp.com/en/contests/8903/problems/76953)                     | [~contest-8903/E/main.cpp](~contest-8903/E/main.cpp) |
+| F    | [Minimum Sum LCM](https://www.e-olymp.com/en/contests/8903/problems/76954)             | [~contest-8903/F/main.cpp](~contest-8903/F/main.cpp) |
 | G    | [Papa Carlo](https://www.e-olymp.com/en/contests/8903/problems/76955)                  | [~contest-8903/G/main.py](~contest-8903/G/main.py)   |
 | H    | [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)                 | [~contest-8903/H/main.cpp](~contest-8903/H/main.cpp) |
 | I    | [Reduce a fraction](https://www.e-olymp.com/en/contests/8903/problems/76957)           | [~contest-8903/I/main.py](~contest-8903/I/main.py)   |
@@ -94,4 +95,13 @@ Compilers:
 | K    | [Garland](https://www.e-olymp.com/en/contests/8903/problems/76959)                     | [~contest-8903/K/main.py](~contest-8903/K/main.py)   |
 | L    | [Sum of GCD](https://www.e-olymp.com/en/contests/8903/problems/76960)                  | [~contest-8903/L/main.cpp](~contest-8903/L/main.cpp) |
 | M    | [Testing](https://www.e-olymp.com/en/contests/8903/problems/76961)                     | [~contest-8903/M/main.py](~contest-8903/M/main.py)   |
+|      | [Intro to geometry - 1](https://www.e-olymp.com/ru/contests/8947)                      | [~contest-8947/](~contest-8947/)                     |
+| A    | [Two circles](https://www.e-olymp.com/en/contests/8947/problems/77331)                 | [~contest-8947/A/main.cpp](~contest-8947/A/main.cpp) |
+| B    | [The Segments](https://www.e-olymp.com/en/contests/8947/problems/77332)                | [~contest-8947/B/main.py](~contest-8947/B/main.py)   |
+| C    | [Square](https://www.e-olymp.com/en/contests/8947/problems/77333)                      | [~contest-8947/C/main.cpp](~contest-8947/C/main.cpp) |
+| D    | [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77334)               | [~contest-8947/D/main.cpp](~contest-8947/D/main.cpp) |
+| E    | [The circle and line](https://www.e-olymp.com/ru/contests/8947/problems/77335)         | [~contest-8947/E/main.cpp](~contest-8947/E/main.cpp) |
+| F    | [Triangle](https://www.e-olymp.com/en/contests/8947/problems/77336)                    | [~contest-8947/F/main.py](~contest-8947/F/main.py)   |
+| G    | [The triangle](https://www.e-olymp.com/en/contests/8947/problems/77337)                | [~contest-8947/G/main.py](~contest-8947/G/main.py)   |
+| H    | [Geometry Paradox](https://www.e-olymp.com/en/contests/8947/problems/77338)            | [~contest-8947/H/main.py](~contest-8947/H/main.py)   |
 
