@@ -39,6 +39,8 @@ Compilers:
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                    | [page-016/0418/main.py](page-016/0418/main.py)       |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                       | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                 | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
+|      | [Problems page 026](https://www.e-olymp.com/en/problems?page=26)                       | [page-026/](page-026/)                               |
+| 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                | [page-026/0653/main.py](page-026/0653/main.py)       |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                       | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                            | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 |      | [Problems page 046](https://www.e-olymp.com/en/problems?page=46)                       | [page-046/](page-046/)                               |
