@@ -129,4 +129,5 @@ Compilers:
 | K    | [Equilateral triangle](https://www.e-olymp.com/en/contests/8947/problems/77341)           | [~contest-8947/K/main.py](~contest-8947/K/main.py)   |
 | L    | [Ring](https://www.e-olymp.com/en/contests/8947/problems/77342)                           | [~contest-8947/L/main.py](~contest-8947/L/main.py)   |
 | M    | [Perimeter and area of triangle](https://www.e-olymp.com/en/contests/8947/problems/77343) | [~contest-8947/M/main.cpp](~contest-8947/M/main.cpp) |
+| N    | [Heron](https://www.e-olymp.com/en/contests/8947/problems/77344)                          | [~contest-8947/N/main.py](~contest-8947/N/main.py)   |
 

@@ -17,4 +17,5 @@
 | K  | [Equilateral triangle](https://www.e-olymp.com/en/contests/8947/problems/77341)           | [K/main.py](K/main.py)   |
 | L  | [Ring](https://www.e-olymp.com/en/contests/8947/problems/77342)                           | [L/main.py](L/main.py)   |
 | M  | [Perimeter and area of triangle](https://www.e-olymp.com/en/contests/8947/problems/77343) | [M/main.cpp](M/main.cpp) |
+| N  | [Heron](https://www.e-olymp.com/en/contests/8947/problems/77344)                          | [N/main.py](N/main.py)   |
 
