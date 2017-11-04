@@ -13,4 +13,5 @@
 | G  | [The triangle](https://www.e-olymp.com/en/contests/8947/problems/77337)        | [G/main.py](G/main.py)   |
 | H  | [Geometry Paradox](https://www.e-olymp.com/en/contests/8947/problems/77338)    | [H/main.py](H/main.py)   |
 | I  | [Area Ratio](https://www.e-olymp.com/en/contests/8947/problems/77339)          | [I/main.cpp](I/main.cpp) |
+| J  | [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77340)       | [J/main.cpp](J/main.cpp) |
 

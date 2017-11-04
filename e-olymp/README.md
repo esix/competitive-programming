@@ -119,4 +119,5 @@ Compilers:
 | G    | [The triangle](https://www.e-olymp.com/en/contests/8947/problems/77337)                | [~contest-8947/G/main.py](~contest-8947/G/main.py)   |
 | H    | [Geometry Paradox](https://www.e-olymp.com/en/contests/8947/problems/77338)            | [~contest-8947/H/main.py](~contest-8947/H/main.py)   |
 | I    | [Area Ratio](https://www.e-olymp.com/en/contests/8947/problems/77339)                  | [~contest-8947/I/main.cpp](~contest-8947/I/main.cpp) |
+| J    | [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77340)               | [~contest-8947/J/main.cpp](~contest-8947/J/main.cpp) |
 
