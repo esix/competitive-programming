@@ -1,28 +1,47 @@
 #include <math.h>
 
 
-template<typename NUMBER>
+template<typename N>
 class Vector2D {
 public:
-  NUMBER x;
-  NUMBER y;
+  N x;
+  N y;
 
   Vector2D(): x(0), y(0) {}
-  Vector2D(T xx, T yy): x(xx), y(yy) {};
+  Vector2D(N xx, N yy): x(xx), y(yy) {};
+
+  Vector2D<N> operator-(const Vector2D<N>& v) {
+    return Vector2D<N>(x - v.x, y - v.y);
+  }
+
+  double len() const {
+    return sqrt(x * x + y * y);
+  }
 
   template <typename T>
-  friend std::ostream& operator<<(std::ostream& os, const Rational<T>& r);
+  friend std::istream& operator>>(std::istream& is, Vector2D<T>& v);
 
+  template <typename T>
+  friend std::ostream& operator<<(std::ostream& os, const Vector2D<T>& v);
 };
 
-
-template<typename INT>
-std::ostream& operator<<(std::ostream& os, const Rational<INT>& r)
+template<typename T>
+std::istream& operator>>(std::istream& is, Vector2D<T>& v)
 {
-    os << r.n;
-    if(r.d != Rational<INT>::E) os << '/' << r.d;
-    return os;
+  return is >> v.x >> v.y;
 }
+
+template<typename T>
+std::ostream& operator<<(std::ostream& os, const Vector2D<T>& v)
+{
+  return os << '(' << v.x << ',' << v.y << ')';
+}
+
+template<typename N>
+double dot(Vector2D<N> a, Vector2D<N> b) {
+  return a.x * b.x + a.y * b.y;
+}
+
 
 
 
