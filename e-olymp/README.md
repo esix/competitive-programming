@@ -42,7 +42,8 @@ Compilers:
 |      | [Problems page 026](https://www.e-olymp.com/en/problems?page=26)                          | [page-026/](page-026/)                               |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                   | [page-026/0653/main.py](page-026/0653/main.py)       |
 |      | [Problems page 036](https://www.e-olymp.com/en/problems?page=36)                          | [page-036/](page-036/)                               |
-| 924  | [Ring](https://www.e-olymp.com/en/problems/924)                                           | [page-036/924/main.py](page-036/924/main.py)         |
+| 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                           | [page-036/0924/main.py](page-036/0924/main.py)       |
+| 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                 | [page-036/0925/main.cpp](page-036/0925/main.cpp)     |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                          | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                               | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                              | [page-041/1043/main.py](page-041/1043/main.py)       |
