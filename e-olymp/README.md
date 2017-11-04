@@ -134,4 +134,5 @@ Compilers:
 | M    | [Perimeter and area of triangle](https://www.e-olymp.com/en/contests/8947/problems/77343) | [~contest-8947/M/main.cpp](~contest-8947/M/main.cpp) |
 | N    | [Heron](https://www.e-olymp.com/en/contests/8947/problems/77344)                          | [~contest-8947/N/main.py](~contest-8947/N/main.py)   |
 | O    | [Parallelogram](https://www.e-olymp.com/en/contests/8947/problems/77345)                  | [~contest-8947/O/main.py](~contest-8947/O/main.py)   |
+| P    | [The height of the triangle](https://www.e-olymp.com/en/contests/8947/problems/77346)     | [~contest-8947/P/main.py](~contest-8947/P/main.py)   |
 

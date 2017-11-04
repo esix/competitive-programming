@@ -19,4 +19,5 @@
 | M  | [Perimeter and area of triangle](https://www.e-olymp.com/en/contests/8947/problems/77343) | [M/main.cpp](M/main.cpp) |
 | N  | [Heron](https://www.e-olymp.com/en/contests/8947/problems/77344)                          | [N/main.py](N/main.py)   |
 | O  | [Parallelogram](https://www.e-olymp.com/en/contests/8947/problems/77345)                  | [O/main.py](O/main.py)   |
+| P  | [The height of the triangle](https://www.e-olymp.com/en/contests/8947/problems/77346)     | [P/main.py](P/main.py)   |
 
