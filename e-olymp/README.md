@@ -46,6 +46,7 @@ Compilers:
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                           | [page-041/1043/main.py](page-041/1043/main.py)       |
 |      | [Problems page 044](https://www.e-olymp.com/en/problems?page=44)                       | [page-044/](page-044/)                               |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                 | [page-044/1115/main.cpp](page-044/1115/main.cpp)     |
+| 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                              | [page-044/1120/main.cpp](page-044/1120/main.cpp)     |
 |      | [Problems page 046](https://www.e-olymp.com/en/problems?page=46)                       | [page-046/](page-046/)                               |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                           | [page-046/1154/main.cpp](page-046/1154/main.cpp)     |
 |      | [Problems page 047](https://www.e-olymp.com/en/problems?page=47)                       | [page-047/](page-047/)                               |
