@@ -15,4 +15,5 @@
 | I  | [Area Ratio](https://www.e-olymp.com/en/contests/8947/problems/77339)           | [I/main.cpp](I/main.cpp) |
 | J  | [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77340)        | [J/main.cpp](J/main.cpp) |
 | K  | [Equilateral triangle](https://www.e-olymp.com/en/contests/8947/problems/77341) | [K/main.py](K/main.py)   |
+| L  | [Ring](https://www.e-olymp.com/en/contests/8947/problems/77342)                 | [L/main.py](L/main.py)   |
 

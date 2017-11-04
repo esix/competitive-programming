@@ -124,4 +124,5 @@ Compilers:
 | I    | [Area Ratio](https://www.e-olymp.com/en/contests/8947/problems/77339)                  | [~contest-8947/I/main.cpp](~contest-8947/I/main.cpp) |
 | J    | [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77340)               | [~contest-8947/J/main.cpp](~contest-8947/J/main.cpp) |
 | K    | [Equilateral triangle](https://www.e-olymp.com/en/contests/8947/problems/77341)        | [~contest-8947/K/main.py](~contest-8947/K/main.py)   |
+| L    | [Ring](https://www.e-olymp.com/en/contests/8947/problems/77342)                        | [~contest-8947/L/main.py](~contest-8947/L/main.py)   |
 
