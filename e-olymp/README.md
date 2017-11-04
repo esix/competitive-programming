@@ -47,6 +47,7 @@ Compilers:
 |      | [Problems page 037](https://www.e-olymp.com/en/problems?page=37)                          | [page-037/](page-037/)                               |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                          | [page-037/0926/main.py](page-037/0926/main.py)       |
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                  | [page-037/0929/main.py](page-037/0929/main.py)       |
+| 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                     | [page-037/0932/main.py](page-037/0932/main.py)       |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                          | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                               | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                              | [page-041/1043/main.py](page-041/1043/main.py)       |
