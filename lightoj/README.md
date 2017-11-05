@@ -33,7 +33,7 @@
 | D    | [Longest Prime Sequences](http://www.lightoj.com/practice_contest_showproblem.php?contest_id=722&problem=D) | [~contest-722/D/main.cpp](~contest-722/D/main.cpp) |
 | E    | [Tamim Got Worried](http://www.lightoj.com/practice_contest_showproblem.php?contest_id=722&problem=E)       | [~contest-722/E/main.cpp](~contest-722/E/main.cpp) |
 | F    | [The Red Planet](http://www.lightoj.com/practice_contest_showproblem.php?contest_id=722&problem=F)          | [~contest-722/F/main.cpp](~contest-722/F/main.cpp) |
-|      | [Warm-Up Contest](http://lightoj.com/practice_contest_problemset.php?contest_id=727                         | [~contest-727/](~contest-727/)                     |
+|      | [Warm-Up Contest](http://lightoj.com/practice_contest_problemset.php?contest_id=727)                        | [~contest-727/](~contest-727/)                     |
 | A    | [Nabab Siraj-Ud-Dowla](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=A)        | [~contest-727/A/main.cpp](~contest-727/A/main.cpp) |
 | B    | [Kukurer Voy](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=B)                 | [~contest-727/B/main.cpp](~contest-727/B/main.cpp) |
 
