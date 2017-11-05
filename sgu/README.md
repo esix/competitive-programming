@@ -1,7 +1,8 @@
 # [Saratov State University :: Online Contester](http://acm.sgu.ru/index.php)
 
-- GNU C (MinGW, GCC 4)
-- GNU CPP (MinGW, GCC 4)
+- GNU C (MinGW, GCC 5)
+- GNU CPP (MinGW, GCC 5)
+- GNU CPP 14 (MinGW, GCC 5)
 - Visual Studio C++ 2010
 - C#
 - Visual Studio C 2010
@@ -23,4 +24,6 @@
 | 108 | [Self-numbers 2](http://acm.sgu.ru/problem.php?contest=0&problem=108)                | [volume-1/108/main.cpp](volume-1/108/main.cpp) |
 | 109 | [Magic of David Copperfield II](http://acm.sgu.ru/problem.php?contest=0&problem=109) | [volume-1/109/main.cpp](volume-1/109/main.cpp) |
 | 110 | [Dungeon](http://acm.sgu.ru/problem.php?contest=0&problem=110)                       | [volume-1/110/main.cpp](volume-1/110/main.cpp) |
+|     | [Volume (200 - 299)](http://acm.sgu.ru/problemset.php?contest=0&volume=2)            | [volume-2/](volume-2/)                         |
+| 222 | [Little Rooks](http://acm.sgu.ru/problem.php?contest=0&problem=222)                  | [volume-2/222/main.cpp](volume-2/222/main.cpp) |
 
