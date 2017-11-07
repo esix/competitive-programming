@@ -1,14 +1,14 @@
-# [A square from squares](https://www.e-olymp.com/en/problems/2133)
+# [Point on a ray](https://www.e-olymp.com/en/problems/2133)
 
-Find the integer side length of the largest square, that can be obtained from three squares with sides a, b and c, cutting them into rectangles and then putting together to form a square.
+Determine whether a given point belongs to the ray.
 
 ## Input
 
-Three positive integers a, b and c, not greater than 1000.
+6 numbers are given - the coordinates of the point and the coordinates of the beginning and end of the vector. All input data are integers not exceeding 10000 by absolute value.
 
 ## Output
 
-Print the integer side length of the largest square.
+Print YES if the point belongs to the ray, and NO otherwise.
 
 _Time limit 1 second_
 
@@ -16,10 +16,10 @@ _Memory limit 122.17 MiB_
 
 ## Input example #1
 ```
-2 3 4
+1 6 3 7 5 8
 ```
 
 ## Output example #1
 ```
-5
+NO
 ```
