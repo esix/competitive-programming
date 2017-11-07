@@ -93,6 +93,8 @@ Compilers:
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                       | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                         | [page-192/](page-192/)                               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                          | [page-192/4805/main.py](page-192/4805/main.py)       |
+|      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                         | [page-205/](page-205/)                               |
+| 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                     | [page-205/5134/main.py](page-205/5134/main.py)       |
 |      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                         | [page-226/](page-226/)                               |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                      | [page-226/5669/main.py](page-226/5669/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                         | [page-252/](page-252/)                               |
