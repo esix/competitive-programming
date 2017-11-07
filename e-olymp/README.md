@@ -99,6 +99,8 @@ Compilers:
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                               | [page-209/5235/main.py](page-209/5235/main.py)       |
 |      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                         | [page-226/](page-226/)                               |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                      | [page-226/5669/main.py](page-226/5669/main.py)       |
+|      | [Problems page 250](https://www.e-olymp.com/en/problems?page=250)                         | [page-250/](page-250/)                               |
+| 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                         | [page-250/6273/main.py](page-250/6273/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                         | [page-252/](page-252/)                               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                       | [page-252/6302/main.py](page-252/6302/main.py)       |
 |      | [Problems page 277](https://www.e-olymp.com/en/problems?page=277)                         | [page-277/](page-277/)                               |
