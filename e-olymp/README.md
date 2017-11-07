@@ -48,6 +48,7 @@ Compilers:
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                          | [page-037/0926/main.py](page-037/0926/main.py)       |
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                  | [page-037/0929/main.py](page-037/0929/main.py)       |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                     | [page-037/0932/main.py](page-037/0932/main.py)       |
+| 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                      | [page-037/0938/main.py](page-037/0938/main.py)       |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                          | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                               | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                              | [page-041/1043/main.py](page-041/1043/main.py)       |
@@ -71,6 +72,13 @@ Compilers:
 |      | [Problems page 064](https://www.e-olymp.com/en/problems?page=64)                          | [page-064/](page-064/)                               |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)                | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                       | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
+|      | [Problems page 085](https://www.e-olymp.com/en/problems?page=85)                          | [page-085/](page-085/)                               |
+| 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                          | [page-085/2129/main.py](page-085/2129/main.py)       |
+| 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                 | [page-085/2130/main.py](page-085/2130/main.py)       |
+| 2131 | [Vector length](https://www.e-olymp.com/en/problems/2131)                                 | [page-085/2131/main.py](page-085/2131/main.py)       |
+| 2132 | [Point on a line](https://www.e-olymp.com/en/problems/2132)                               | [page-085/2132/main.py](page-085/2132/main.py)       |
+| 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                                | [page-085/2133/main.py](page-085/2133/main.py)       |
+| 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                            | [page-085/2134/main.py](page-085/2134/main.py)       |
 |      | [Problems page 088](https://www.e-olymp.com/en/problems?page=88)                          | [page-088/](page-088/)                               |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                    | [page-088/2214/main.py](page-088/2214/main.py)       |
 |      | [Problems page 101](https://www.e-olymp.com/en/problems?page=101)                         | [page-101/](page-101/)                               |
@@ -79,6 +87,8 @@ Compilers:
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                   | [page-105/2631/main.cpp](page-105/2631/main.cpp)     |
 |      | [Problems page 106](https://www.e-olymp.com/en/problems?page=106)                         | [page-106/](page-106/)                               |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                             | [page-106/2674/main.py](page-106/2674/main.py)       |
+|      | [Problems page 126](https://www.e-olymp.com/en/problems?page=126)                         | [page-126/](page-126/)                               |
+| 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                         | [page-126/3171/main.py](page-126/3171/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                         | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                       | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                         | [page-192/](page-192/)                               |
@@ -136,4 +146,16 @@ Compilers:
 | N    | [Heron](https://www.e-olymp.com/en/contests/8947/problems/77344)                          | [~contest-8947/N/main.py](~contest-8947/N/main.py)   |
 | O    | [Parallelogram](https://www.e-olymp.com/en/contests/8947/problems/77345)                  | [~contest-8947/O/main.py](~contest-8947/O/main.py)   |
 | P    | [The height of the triangle](https://www.e-olymp.com/en/contests/8947/problems/77346)     | [~contest-8947/P/main.py](~contest-8947/P/main.py)   |
+|      | [Intro to geometry - 2](https://www.e-olymp.com/en/contests/9009)                         | [~contest-9009/](~contest-9009/)                     |
+| A    | [The point on the interval](https://www.e-olymp.com/en/contests/9009/problems/78057)      | [~contest-9009/A/main.py](~contest-9009/A/main.py)   |
+| B    | [Polar angle of point](https://www.e-olymp.com/en/contests/9009/problems/78058)           | [~contest-9009/B/main.py](~contest-9009/B/main.py)   |
+| C    | [The angle between the vectors](https://www.e-olymp.com/en/contests/9009/problems/78059)  | [~contest-9009/C/main.py](~contest-9009/C/main.py)   |
+| D    | [Vector length](https://www.e-olymp.com/en/contests/9009/problems/78060)                  | [~contest-9009/D/main.py](~contest-9009/D/main.py)   |
+| E    | [Point on a line](https://www.e-olymp.com/en/contests/9009/problems/78061)                | [~contest-9009/E/main.py](~contest-9009/E/main.py)   |
+| F    | [Point on a ray](https://www.e-olymp.com/en/contests/9009/problems/78062)                 | [~contest-9009/F/main.py](~contest-9009/F/main.py)   |
+| G    | [Point on a segment](https://www.e-olymp.com/en/contests/9009/problems/78063)             | [~contest-9009/G/main.py](~contest-9009/G/main.py)   |
+| H    | [Point within a circle](https://www.e-olymp.com/en/contests/9009/problems/78064)          | [~contest-9009/H/main.py](~contest-9009/H/main.py)   |
+| I    | [Intersection of two lines](https://www.e-olymp.com/en/contests/9009/problems/78065)      | [~contest-9009/I/main.py](~contest-9009/I/main.py)   |
+| J    | [Two flower beds](https://www.e-olymp.com/en/contests/9009/problems/78066)                | [~contest-9009/J/main.py](~contest-9009/J/main.py)   |
+| K    | [A square from squares](https://www.e-olymp.com/en/contests/9009/problems/78067)          | [~contest-9009/K/main.py](~contest-9009/K/main.py)   |
 
