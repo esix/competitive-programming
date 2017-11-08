@@ -23,6 +23,7 @@ solution
 
 # ada
 *.ali
+main
 
 # java
 *.class
