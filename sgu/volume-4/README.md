@@ -2,7 +2,7 @@
 
 
 
-| ID  | Problem statement  | Solution                     |
-|-----|--------------------|------------------------------|
-| 403 | Scientific Problem | [403/main.cpp](403/main.cpp) |
+| ID  | Problem statement                                                         | Solution                     |
+|-----|---------------------------------------------------------------------------|------------------------------|
+| 403 | [Scientific Problem](http://acm.sgu.ru/problem.php?contest=0&problem=403) | [403/main.cpp](403/main.cpp) |
 

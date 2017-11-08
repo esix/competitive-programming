@@ -29,5 +29,5 @@
 |     | [Volume (300 - 399)](http://acm.sgu.ru/problemset.php?contest=0&volume=3)            | [volume-3/](volume-3/)                         |
 | 302 | [BHTML 1.0](http://acm.sgu.ru/problem.php?contest=0&problem=302)                     | [volume-3/302/main.cpp](volume-3/302/main.cpp) |
 |     | [Volume (400 - 499)](http://acm.sgu.ru/problemset.php?contest=0&volume=4)            | [volume-4/](volume-4/)                         |
-| 403 | Scientific Problem                                                                   | [volume-4/403/main.cpp](volume-4/403/main.cpp) |
+| 403 | [Scientific Problem](http://acm.sgu.ru/problem.php?contest=0&problem=403)            | [volume-4/403/main.cpp](volume-4/403/main.cpp) |
 
