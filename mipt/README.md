@@ -30,6 +30,7 @@ Compilers:
 | 006 | [Three squares](http://acm.mipt.ru/judge/problems.pl?problem=006&lang=en)                  | [006/main.scm](006/main.scm) |
 | 008 | [Brackets](http://acm.mipt.ru/judge/problems.pl?problem=008&lang=en)                       | [008/main.scm](008/main.scm) |
 | 009 | [Fibonacci numbers](http://acm.mipt.ru/judge/problems.pl?problem=009&lang=en)              | [009/main.scm](009/main.scm) |
+| 026 | [Operations](http://acm.mipt.ru/judge/problems.pl?problem=026&lang=en)                     | [026/main.cpp](026/main.cpp) |
 | 027 | [Odd number](http://acm.mipt.ru/judge/problems.pl?problem=027&lang=en)                     | [027/main.scm](027/main.scm) |
 | 051 | [Strange Tower](http://acm.mipt.ru/judge/problems.pl?problem=051&lang=en)                  | [051/main.scm](051/main.scm) |
 | 059 | [CD](http://acm.mipt.ru/judge/problems.pl?problem=059)                                     | [059/main.cpp](059/main.cpp) |
