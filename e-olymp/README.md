@@ -19,6 +19,7 @@ Compilers:
 | 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                           | [page-000/0002/main.py](page-000/0002/main.py)       |
 | 0003 | [Match’s model](https://www.e-olymp.com/en/problems/3)                                    | [page-000/0003/main.py](page-000/0003/main.py)       |
 | 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)                                      | [page-000/0004/main.cpp](page-000/0004/main.cpp)     |
+| 0019 | [Degree of symmetry](https://www.e-olymp.com/en/problems/19)                              | [page-000/0019/main.py](page-000/0019/main.py)       |
 |      | [Problems page 001](https://www.e-olymp.com/en/problems?page=1)                           | [page-001/](page-001/)                               |
 | 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                                    | [page-001/0027/main.py](page-001/0027/main.py)       |
 | 0046 | [The Segments](https://www.e-olymp.com/en/problems/46)                                    | [page-001/0046/main.py](page-001/0046/main.py)       |
