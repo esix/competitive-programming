@@ -23,6 +23,7 @@ Compilers:
 |      | [Problems page 001](https://www.e-olymp.com/en/problems?page=1)                           | [page-001/](page-001/)                               |
 | 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                                    | [page-001/0027/main.py](page-001/0027/main.py)       |
 | 0031 | [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31)                       | [page-001/0031/main.py](page-001/0031/main.py)       |
+| 0041 | [Command of the Mayor](https://www.e-olymp.com/en/problems/41)                            | [page-001/0041/main.py](page-001/0041/main.py)       |
 | 0046 | [The Segments](https://www.e-olymp.com/en/problems/46)                                    | [page-001/0046/main.py](page-001/0046/main.py)       |
 |      | [Problems page 002](https://www.e-olymp.com/en/problems?page=2)                           | [page-002/](page-002/)                               |
 | 0051 | [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)                      | [page-002/0051/main.py](page-002/0051/main.py)       |

@@ -5,5 +5,6 @@
 |------|---------------------------------------------------------------------|------------------------------|
 | 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)              | [0027/main.py](0027/main.py) |
 | 0031 | [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31) | [0031/main.py](0031/main.py) |
+| 0041 | [Command of the Mayor](https://www.e-olymp.com/en/problems/41)      | [0041/main.py](0041/main.py) |
 | 0046 | [The Segments](https://www.e-olymp.com/en/problems/46)              | [0046/main.py](0046/main.py) |
 
