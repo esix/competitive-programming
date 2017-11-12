@@ -112,6 +112,8 @@ Compilers:
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                         | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                              | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                       | [page-294/7371/main.py](page-294/7371/main.py)       |
+|      | [Problems page 329](https://www.e-olymp.com/en/problems?page=329)                         | [page-329/](page-329/)                               |
+| 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                    | [page-329/8254/main.py](page-329/8254/main.py)       |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                        | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                            | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)         | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
