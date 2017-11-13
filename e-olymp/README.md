@@ -28,6 +28,7 @@ Compilers:
 |      | [Problems page 002](https://www.e-olymp.com/en/problems?page=2)                           | [page-002/](page-002/)                               |
 | 0051 | [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)                      | [page-002/0051/main.py](page-002/0051/main.py)       |
 | 0052 | [The Cheese for Anfisa](https://www.e-olymp.com/en/problems/52)                           | [page-002/0052/main.py](page-002/0052/main.py)       |
+| 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                | [page-002/0057/main.py](page-002/0057/main.py)       |
 |      | [Problems page 004](https://www.e-olymp.com/en/problems?page=4)                           | [page-004/](page-004/)                               |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                         | [page-004/0124/main.cpp](page-004/0124/main.cpp)     |
 |      | [Problems page 005](https://www.e-olymp.com/en/problems?page=5)                           | [page-005/](page-005/)                               |
