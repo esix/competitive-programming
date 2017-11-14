@@ -4,4 +4,5 @@
 | ID   | Problem statement                                           | Solution                       |
 |------|-------------------------------------------------------------|--------------------------------|
 | 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992) | [0992/main.cpp](0992/main.cpp) |
+| 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)   | [0993/main.cpp](0993/main.cpp) |
 
