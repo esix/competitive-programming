@@ -61,6 +61,7 @@ Compilers:
 |      | [Problems page 039](https://www.e-olymp.com/en/problems?page=39)                          | [page-039/](page-039/)                               |
 | 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                               | [page-039/0992/main.cpp](page-039/0992/main.cpp)     |
 | 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                 | [page-039/0993/main.cpp](page-039/0993/main.cpp)     |
+| 0994 | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                  | [page-039/0994/main.cpp](page-039/0994/main.cpp)     |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                          | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                               | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                              | [page-041/1043/main.py](page-041/1043/main.py)       |
