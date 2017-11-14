@@ -180,4 +180,5 @@ Compilers:
 |      | [Graphs Representation](https://www.e-olymp.com/en/contests/9060)                         | [~contest-9060/](~contest-9060/)                     |
 | A    | [Ancient manuscripts](https://www.e-olymp.com/en/contests/9060/problems/78596)            | [~contest-9060/A/main.cpp](~contest-9060/A/main.cpp) |
 | B    | [Cities and roads](https://www.e-olymp.com/en/contests/9060/problems/78597)               | [~contest-9060/B/main.cpp](~contest-9060/B/main.cpp) |
+| C    | [Traffic lights](https://www.e-olymp.com/en/contests/9060/problems/78598)                 | [~contest-9060/C/main.cpp](~contest-9060/C/main.cpp) |
 
