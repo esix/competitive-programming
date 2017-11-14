@@ -177,4 +177,5 @@ Compilers:
 | K    | [A square from squares](https://www.e-olymp.com/en/contests/9009/problems/78067)          | [~contest-9009/K/main.py](~contest-9009/K/main.py)   |
 |      | [Graphs Representation](https://www.e-olymp.com/en/contests/9060)                         | [~contest-9060/](~contest-9060/)                     |
 | A    | [Ancient manuscripts](https://www.e-olymp.com/en/contests/9060/problems/78596)            | [~contest-9060/A/main.cpp](~contest-9060/A/main.cpp) |
+| B    | [Cities and roads](https://www.e-olymp.com/en/contests/9060/problems/78597)               | [~contest-9060/B/main.cpp](~contest-9060/B/main.cpp) |
 
