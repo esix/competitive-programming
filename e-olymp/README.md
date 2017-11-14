@@ -46,6 +46,8 @@ Compilers:
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                       | [page-016/0418/main.py](page-016/0418/main.py)       |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                          | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                    | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
+|      | [Problems page 024](https://www.e-olymp.com/en/problems?page=24)                          | [page-024/](page-024/)                               |
+| 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                            | [page-024/0610/main.cpp](page-024/0610/main.cpp)     |
 |      | [Problems page 026](https://www.e-olymp.com/en/problems?page=26)                          | [page-026/](page-026/)                               |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                   | [page-026/0653/main.py](page-026/0653/main.py)       |
 |      | [Problems page 036](https://www.e-olymp.com/en/problems?page=36)                          | [page-036/](page-036/)                               |
