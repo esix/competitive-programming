@@ -153,8 +153,9 @@ newReadmeLines.push('\n');
 
 console.log(newReadmeLines.join('\n'))
 
-if (process.argv.length > 2) {
-  let fileName = process.argv[2];
-  console.log('writing ', fileName);
-  fs.writeFileSync(fileName, newReadmeLines.join('\n'));
-}
+//if (process.argv.length > 2) {
+// let fileName = process.argv[2];
+let fileName = "README.md";
+console.log('writing ', fileName);
+fs.writeFileSync(fileName, newReadmeLines.join('\n'));
+//}

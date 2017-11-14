@@ -58,6 +58,8 @@ Compilers:
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                  | [page-037/0929/main.py](page-037/0929/main.py)       |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                     | [page-037/0932/main.py](page-037/0932/main.py)       |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                      | [page-037/0938/main.py](page-037/0938/main.py)       |
+|      | [Problems page 039](https://www.e-olymp.com/en/problems?page=39)                          | [page-039/](page-039/)                               |
+| 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                               | [page-039/0992/main.cpp](page-039/0992/main.cpp)     |
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                          | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                               | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                              | [page-041/1043/main.py](page-041/1043/main.py)       |
