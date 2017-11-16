@@ -98,6 +98,7 @@ Compilers:
 |      | [Problems page 098](https://www.e-olymp.com/en/problems?page=98)                                      | [page-098/](page-098/)                               |
 | 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [page-098/2470/main.cpp](page-098/2470/main.cpp)     |
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [page-098/2471/main.cpp](page-098/2471/main.cpp)     |
+| 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [page-098/2472/main.cpp](page-098/2472/main.cpp)     |
 |      | [Problems page 101](https://www.e-olymp.com/en/problems?page=101)                                     | [page-101/](page-101/)                               |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [page-101/2549/main.py](page-101/2549/main.py)       |
 |      | [Problems page 105](https://www.e-olymp.com/en/problems?page=105)                                     | [page-105/](page-105/)                               |
@@ -190,4 +191,5 @@ Compilers:
 | D    | [Coloured rain](https://www.e-olymp.com/en/contests/9060/problems/78599)                              | [~contest-9060/D/main.cpp](~contest-9060/D/main.cpp) |
 | E    | [Checking for an undirected graph](https://www.e-olymp.com/en/contests/9060/problems/78600)           | [~contest-9060/E/main.cpp](~contest-9060/E/main.cpp) |
 | F    | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/contests/9060/problems/78601) | [~contest-9060/F/main.cpp](~contest-9060/F/main.cpp) |
+| G    | [Operations on graph](https://www.e-olymp.com/en/contests/9060/problems/78602)                        | [~contest-9060/G/main.cpp](~contest-9060/G/main.cpp) |
 
