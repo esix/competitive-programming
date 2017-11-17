@@ -111,6 +111,7 @@ Compilers:
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 159](https://www.e-olymp.com/en/problems?page=159)                                     | [page-159/](page-159/)                               |
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
+| 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                                     | [page-192/](page-192/)                               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [page-192/4805/main.py](page-192/4805/main.py)       |
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
@@ -195,4 +196,5 @@ Compilers:
 | F    | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/contests/9060/problems/78601) | [~contest-9060/F/main.cpp](~contest-9060/F/main.cpp) |
 | G    | [Operations on graph](https://www.e-olymp.com/en/contests/9060/problems/78602)                        | [~contest-9060/G/main.cpp](~contest-9060/G/main.cpp) |
 | H    | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/contests/9060/problems/78603)    | [~contest-9060/H/main.cpp](~contest-9060/H/main.cpp) |
+| I    | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78604)    | [~contest-9060/I/main.cpp](~contest-9060/I/main.cpp) |
 
