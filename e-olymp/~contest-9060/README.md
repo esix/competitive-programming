@@ -13,4 +13,5 @@
 | G  | [Operations on graph](https://www.e-olymp.com/en/contests/9060/problems/78602)                        | [G/main.cpp](G/main.cpp) |
 | H  | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/contests/9060/problems/78603)    | [H/main.cpp](H/main.cpp) |
 | I  | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78604)    | [I/main.cpp](I/main.cpp) |
+| J  | [Sources and sinks](https://www.e-olymp.com/en/contests/9060/problems/78605)                          | [J/main.cpp](J/main.cpp) |
 
