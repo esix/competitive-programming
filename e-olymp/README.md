@@ -113,6 +113,8 @@ Compilers:
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
+|      | [Problems page 190](https://www.e-olymp.com/en/problems?page=190)                                     | [page-190/](page-190/)                               |
+| 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [page-190/4761/main.py](page-190/4761/main.py)       |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                                     | [page-192/](page-192/)                               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [page-192/4805/main.py](page-192/4805/main.py)       |
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
