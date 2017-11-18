@@ -202,4 +202,5 @@ Compilers:
 | I    | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78604)    | [~contest-9060/I/main.cpp](~contest-9060/I/main.cpp) |
 | J    | [Sources and sinks](https://www.e-olymp.com/en/contests/9060/problems/78605)                          | [~contest-9060/J/main.cpp](~contest-9060/J/main.cpp) |
 | K    | [Loops](https://www.e-olymp.com/en/contests/9060/problems/78606)                                      | [~contest-9060/K/main.py](~contest-9060/K/main.py)   |
+| L    | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78607)     | [~contest-9060/L/main.py](~contest-9060/L/main.py)   |
 

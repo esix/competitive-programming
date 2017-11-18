@@ -15,4 +15,5 @@
 | I  | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78604)    | [I/main.cpp](I/main.cpp) |
 | J  | [Sources and sinks](https://www.e-olymp.com/en/contests/9060/problems/78605)                          | [J/main.cpp](J/main.cpp) |
 | K  | [Loops](https://www.e-olymp.com/en/contests/9060/problems/78606)                                      | [K/main.py](K/main.py)   |
+| L  | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78607)     | [L/main.py](L/main.py)   |
 
