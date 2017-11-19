@@ -119,6 +119,8 @@ Compilers:
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [page-190/4764/main.py](page-190/4764/main.py)       |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                                     | [page-192/](page-192/)                               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [page-192/4805/main.py](page-192/4805/main.py)       |
+|      | [Problems page 194](https://www.e-olymp.com/en/problems?page=194)                                     | [page-194/](page-194/)                               |
+| 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [page-194/4854/main.cpp](page-194/4854/main.cpp)     |
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
 |      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
@@ -206,4 +208,5 @@ Compilers:
 | K    | [Loops](https://www.e-olymp.com/en/contests/9060/problems/78606)                                      | [~contest-9060/K/main.py](~contest-9060/K/main.py)   |
 | L    | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78607)     | [~contest-9060/L/main.py](~contest-9060/L/main.py)   |
 | M    | [Degrees of vertices](https://www.e-olymp.com/en/contests/9060/problems/78608)                        | [~contest-9060/M/main.py](~contest-9060/M/main.py)   |
+| N    | [Reverse me!](https://www.e-olymp.com/en/contests/9060/problems/78609)                                | [~contest-9060/N/main.cpp](~contest-9060/N/main.cpp) |
 

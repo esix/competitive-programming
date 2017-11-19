@@ -17,5 +17,5 @@
 | K  | [Loops](https://www.e-olymp.com/en/contests/9060/problems/78606)                                      | [K/main.py](K/main.py)   |
 | L  | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78607)     | [L/main.py](L/main.py)   |
 | M  | [Degrees of vertices](https://www.e-olymp.com/en/contests/9060/problems/78608)                        | [M/main.py](M/main.py)   |
-| N  | [Reverse me!]                                                                                         | [N/main.cpp](N/main.cpp) |
+| N  | [Reverse me!](https://www.e-olymp.com/en/contests/9060/problems/78609)                                | [N/main.cpp](N/main.cpp) |
 

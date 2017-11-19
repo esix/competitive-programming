@@ -1,4 +1,4 @@
-# [Reverse me!](https://www.e-olymp.com/en/contests/9060/problems/78609)
+# [Reverse me!](https://www.e-olymp.com/en/problems/4854)
 
 Vasya the boy likes to reverse the oriented graphs. Help him in it.
 
