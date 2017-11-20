@@ -18,4 +18,5 @@
 | L  | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/contests/9060/problems/78607)     | [L/main.py](L/main.py)   |
 | M  | [Degrees of vertices](https://www.e-olymp.com/en/contests/9060/problems/78608)                        | [M/main.py](M/main.py)   |
 | N  | [Reverse me!](https://www.e-olymp.com/en/contests/9060/problems/78609)                                | [N/main.cpp](N/main.cpp) |
+| O  | [Count number of edges](https://www.e-olymp.com/en/contests/9060/problems/78610)                      | [O/main.cpp](O/main.cpp) |
 
