@@ -123,6 +123,7 @@ Compilers:
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [page-194/4854/main.cpp](page-194/4854/main.cpp)     |
 |      | [Problems page 202](https://www.e-olymp.com/en/problems?page=202)                                     | [page-202/](page-202/)                               |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [page-202/5072/main.cpp](page-202/5072/main.cpp)     |
+| 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [page-202/5073/main.cpp](page-202/5073/main.cpp)     |
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
 |      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
@@ -212,4 +213,5 @@ Compilers:
 | M    | [Degrees of vertices](https://www.e-olymp.com/en/contests/9060/problems/78608)                        | [~contest-9060/M/main.py](~contest-9060/M/main.py)   |
 | N    | [Reverse me!](https://www.e-olymp.com/en/contests/9060/problems/78609)                                | [~contest-9060/N/main.cpp](~contest-9060/N/main.cpp) |
 | O    | [Count number of edges](https://www.e-olymp.com/en/contests/9060/problems/78610)                      | [~contest-9060/O/main.cpp](~contest-9060/O/main.cpp) |
+| P    | [Multiedges](https://www.e-olymp.com/en/contests/9060/problems/78611)                                 | [~contest-9060/P/main.cpp](~contest-9060/P/main.cpp) |
 

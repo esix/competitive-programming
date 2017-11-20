@@ -4,4 +4,5 @@
 | ID   | Problem statement                                                 | Solution                       |
 |------|-------------------------------------------------------------------|--------------------------------|
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072) | [5072/main.cpp](5072/main.cpp) |
+| 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)            | [5073/main.cpp](5073/main.cpp) |
 
