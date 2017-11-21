@@ -125,6 +125,8 @@ Compilers:
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [page-202/5072/main.cpp](page-202/5072/main.cpp)     |
 | 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [page-202/5073/main.cpp](page-202/5073/main.cpp)     |
 | 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)                    | [page-202/5074/main.py](page-202/5074/main.py)       |
+|      | [Problems page 203](https://www.e-olymp.com/en/problems?page=203)                                     | [page-203/](page-203/)                               |
+| 5076 | [Regular graph](https://www.e-olymp.com/en/problems/5076)                                             | [page-203/5076/main.py](page-203/5076/main.py)       |
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
 |      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
@@ -216,4 +218,5 @@ Compilers:
 | O    | [Count number of edges](https://www.e-olymp.com/en/contests/9060/problems/78610)                      | [~contest-9060/O/main.cpp](~contest-9060/O/main.cpp) |
 | P    | [Multiedges](https://www.e-olymp.com/en/contests/9060/problems/78611)                                 | [~contest-9060/P/main.cpp](~contest-9060/P/main.cpp) |
 | Q    | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/contests/9060/problems/78612)     | [~contest-9060/Q/main.py](~contest-9060/Q/main.py)   |
+| R    | [Regular graph](https://www.e-olymp.com/en/contests/9060/problems/78613)                              | [~contest-9060/R/main.py](~contest-9060/R/main.py)   |
 
