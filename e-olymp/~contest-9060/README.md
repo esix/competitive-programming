@@ -21,4 +21,5 @@
 | O  | [Count number of edges](https://www.e-olymp.com/en/contests/9060/problems/78610)                      | [O/main.cpp](O/main.cpp) |
 | P  | [Multiedges](https://www.e-olymp.com/en/contests/9060/problems/78611)                                 | [P/main.cpp](P/main.cpp) |
 | Q  | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/contests/9060/problems/78612)     | [Q/main.py](Q/main.py)   |
+| R  | [Regular graph](https://www.e-olymp.com/en/contests/9060/problems/78613)                              | [R/main.py](R/main.py)   |
 
