@@ -23,4 +23,5 @@
 | Q  | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/contests/9060/problems/78612)     | [Q/main.py](Q/main.py)   |
 | R  | [Regular graph](https://www.e-olymp.com/en/contests/9060/problems/78613)                              | [R/main.py](R/main.py)   |
 | S  | [Number of hanging vertices 1](https://www.e-olymp.com/en/contests/9060/problems/78614)               | [S/main.cpp](S/main.cpp) |
+| T  | [Number of hanging vertices 2](https://www.e-olymp.com/en/contests/9060/problems/78615)               | [T/main.cpp](T/main.cpp) |
 
