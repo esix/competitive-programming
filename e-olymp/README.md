@@ -59,6 +59,7 @@ Compilers:
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                                 | [page-037/0932/main.py](page-037/0932/main.py)       |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                                  | [page-037/0938/main.py](page-037/0938/main.py)       |
 |      | [Problems page 039](https://www.e-olymp.com/en/problems?page=39)                                      | [page-039/](page-039/)                               |
+| 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [page-039/0977/main.cpp](page-039/0977/main.cpp)     |
 | 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                                           | [page-039/0992/main.cpp](page-039/0992/main.cpp)     |
 | 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                             | [page-039/0993/main.cpp](page-039/0993/main.cpp)     |
 | 0994 | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                              | [page-039/0994/main.cpp](page-039/0994/main.cpp)     |
@@ -223,4 +224,7 @@ Compilers:
 | R    | [Regular graph](https://www.e-olymp.com/en/contests/9060/problems/78613)                              | [~contest-9060/R/main.py](~contest-9060/R/main.py)   |
 | S    | [Number of hanging vertices 1](https://www.e-olymp.com/en/contests/9060/problems/78614)               | [~contest-9060/S/main.cpp](~contest-9060/S/main.cpp) |
 | T    | [Number of hanging vertices 2](https://www.e-olymp.com/en/contests/9060/problems/78615)               | [~contest-9060/T/main.cpp](~contest-9060/T/main.cpp) |
+|      | [Depth First Search - Basics](https://www.e-olymp.com/en/contests/9116)                               | [~contest-9116/](~contest-9116/)                     |
+| A    | [Is it a Tree?](https://www.e-olymp.com/en/contests/9116/problems/79185)                              | [~contest-9116/A/main.cpp](~contest-9116/A/main.cpp) |
+| B    | [Get a tree](https://www.e-olymp.com/en/contests/9116/problems/79186)                                 | [~contest-9116/B/main.cpp](~contest-9116/B/main.cpp) |
 
