@@ -88,6 +88,8 @@ Compilers:
 |      | [Problems page 064](https://www.e-olymp.com/en/problems?page=64)                                      | [page-064/](page-064/)                               |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)                            | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
+|      | [Problems page 077](https://www.e-olymp.com/en/problems?page=77)                                      | [page-077/](page-077/)                               |
+| 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [page-077/1941/main.cpp](page-077/1941/main.cpp)     |
 |      | [Problems page 085](https://www.e-olymp.com/en/problems?page=85)                                      | [page-085/](page-085/)                               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [page-085/2129/main.py](page-085/2129/main.py)       |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [page-085/2130/main.py](page-085/2130/main.py)       |
@@ -228,4 +230,5 @@ Compilers:
 |      | [Depth First Search - Basics](https://www.e-olymp.com/en/contests/9116)                               | [~contest-9116/](~contest-9116/)                     |
 | A    | [Is it a Tree?](https://www.e-olymp.com/en/contests/9116/problems/79185)                              | [~contest-9116/A/main.cpp](~contest-9116/A/main.cpp) |
 | B    | [Get a tree](https://www.e-olymp.com/en/contests/9116/problems/79186)                                 | [~contest-9116/B/main.cpp](~contest-9116/B/main.cpp) |
+| C    | [Parent](https://www.e-olymp.com/en/contests/9116/problems/79187)                                     | [~contest-9116/C/main.cpp](~contest-9116/C/main.cpp) |
 
