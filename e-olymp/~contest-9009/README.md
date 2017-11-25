@@ -14,5 +14,5 @@
 | H  | [Point within a circle](https://www.e-olymp.com/en/contests/9009/problems/78064)         | [H/main.py](H/main.py) |
 | I  | [Intersection of two lines](https://www.e-olymp.com/en/contests/9009/problems/78065)     | [I/main.py](I/main.py) |
 | J  | [Two flower beds](https://www.e-olymp.com/en/contests/9009/problems/78066)               | [J/main.py](J/main.py) |
-| K  | A square from squares                                                                    | [K/main.py](K/main.py) |
+| K  | [A square from squares](https://www.e-olymp.com/en/contests/9009/problems/78067)         | [K/main.py](K/main.py) |
 
