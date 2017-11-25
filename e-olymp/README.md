@@ -101,6 +101,7 @@ Compilers:
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                                | [page-088/2214/main.py](page-088/2214/main.py)       |
 |      | [Problems page 095](https://www.e-olymp.com/en/problems?page=95)                                      | [page-095/](page-095/)                               |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [page-095/2382/main.cpp](page-095/2382/main.cpp)     |
+| 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [page-095/2383/main.cpp](page-095/2383/main.cpp)     |
 |      | [Problems page 098](https://www.e-olymp.com/en/problems?page=98)                                      | [page-098/](page-098/)                               |
 | 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [page-098/2470/main.cpp](page-098/2470/main.cpp)     |
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [page-098/2471/main.cpp](page-098/2471/main.cpp)     |
@@ -234,4 +235,5 @@ Compilers:
 | B    | [Get a tree](https://www.e-olymp.com/en/contests/9116/problems/79186)                                 | [~contest-9116/B/main.cpp](~contest-9116/B/main.cpp) |
 | C    | [Parent](https://www.e-olymp.com/en/contests/9116/problems/79187)                                     | [~contest-9116/C/main.cpp](~contest-9116/C/main.cpp) |
 | D    | [Grafix Mask](https://www.e-olymp.com/en/contests/9116/problems/79188)                                | [~contest-9116/D/main.cpp](~contest-9116/D/main.cpp) |
+| E    | [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)                           | [~contest-9116/E/main.cpp](~contest-9116/E/main.cpp) |
 
