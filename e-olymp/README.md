@@ -117,6 +117,8 @@ Compilers:
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [page-106/2674/main.py](page-106/2674/main.py)       |
 |      | [Problems page 126](https://www.e-olymp.com/en/problems?page=126)                                     | [page-126/](page-126/)                               |
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [page-126/3171/main.py](page-126/3171/main.py)       |
+|      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
+| 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [page-144/3608/main.cpp](page-144/3608/main.cpp)     |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                                     | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 159](https://www.e-olymp.com/en/problems?page=159)                                     | [page-159/](page-159/)                               |
@@ -248,4 +250,5 @@ Compilers:
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
+| D    | [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)                        | [~contest-9151/D/main.cpp](~contest-9151/D/main.cpp) |
 
