@@ -44,6 +44,8 @@ Compilers:
 |      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                                      | [page-016/](page-016/)                               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [page-016/0418/main.py](page-016/0418/main.py)       |
+|      | [Problems page 021](https://www.e-olymp.com/en/problems?page=21)                                      | [page-021/](page-021/)                               |
+| 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [page-021/0543/main.cpp](page-021/0543/main.cpp)     |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                                      | [page-022/](page-022/)                               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
 |      | [Problems page 024](https://www.e-olymp.com/en/problems?page=24)                                      | [page-024/](page-024/)                               |
@@ -250,6 +252,7 @@ Compilers:
 | E    | [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)                           | [~contest-9116/E/main.cpp](~contest-9116/E/main.cpp) |
 | F    | [Corporation Salary](https://www.e-olymp.com/en/contests/9116/problems/79190)                         | [~contest-9116/F/main.py](~contest-9116/F/main.py)   |
 | G    | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)                                    | [~contest-9116/G/main.cpp](~contest-9116/G/main.cpp) |
+| H    | [Money Matters](https://www.e-olymp.com/en/contests/9116/problems/79192)                              | [~contest-9116/H/main.cpp](~contest-9116/H/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
