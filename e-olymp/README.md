@@ -150,6 +150,8 @@ Compilers:
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [page-252/6302/main.py](page-252/6302/main.py)       |
 |      | [Problems page 277](https://www.e-olymp.com/en/problems?page=277)                                     | [page-277/](page-277/)                               |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
+|      | [Problems page 281](https://www.e-olymp.com/en/problems?page=281)                                     | [page-281/](page-281/)                               |
+| 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [page-281/7034/main.cpp](page-281/7034/main.cpp)     |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                                     | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
@@ -239,4 +241,5 @@ Compilers:
 | D    | [Grafix Mask](https://www.e-olymp.com/en/contests/9116/problems/79188)                                | [~contest-9116/D/main.cpp](~contest-9116/D/main.cpp) |
 | E    | [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)                           | [~contest-9116/E/main.cpp](~contest-9116/E/main.cpp) |
 | F    | [Corporation Salary](https://www.e-olymp.com/en/contests/9116/problems/79190)                         | [~contest-9116/F/main.py](~contest-9116/F/main.py)   |
+| G    | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)                                    | [~contest-9116/G/main.cpp](~contest-9116/G/main.cpp) |
 
