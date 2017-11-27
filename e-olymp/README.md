@@ -14,6 +14,8 @@ Compilers:
 
 | ID   | Problem statement                                                                                     | Solution                                             |
 |------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+|      | [Problems page 292](https://www.e-olymp.com/en/problems?page=292)                                     | [292/](292/)                                         |
+| 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [292/7311/main.cpp](292/7311/main.cpp)               |
 |      | [Problems page 000](https://www.e-olymp.com/en/problems?page=0)                                       | [page-000/](page-000/)                               |
 | 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                              | [page-000/0001/main.py](page-000/0001/main.py)       |
 | 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                                       | [page-000/0002/main.py](page-000/0002/main.py)       |
@@ -251,4 +253,5 @@ Compilers:
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
 | D    | [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)                        | [~contest-9151/D/main.cpp](~contest-9151/D/main.cpp) |
+| E    | [Insert Parentheses](https://www.e-olymp.com/en/contests/9151/problems/79569)                         | [~contest-9151/E/main.cpp](~contest-9151/E/main.cpp) |
 
