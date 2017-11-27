@@ -103,6 +103,8 @@ Compilers:
 |      | [Problems page 095](https://www.e-olymp.com/en/problems?page=95)                                      | [page-095/](page-095/)                               |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [page-095/2382/main.cpp](page-095/2382/main.cpp)     |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [page-095/2383/main.cpp](page-095/2383/main.cpp)     |
+|      | [Problems page 097](https://www.e-olymp.com/en/problems?page=97)                                      | [page-097/](page-097/)                               |
+| 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [page-097/2440/main.cpp](page-097/2440/main.cpp)     |
 |      | [Problems page 098](https://www.e-olymp.com/en/problems?page=98)                                      | [page-098/](page-098/)                               |
 | 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [page-098/2470/main.cpp](page-098/2470/main.cpp)     |
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [page-098/2471/main.cpp](page-098/2471/main.cpp)     |
@@ -245,4 +247,5 @@ Compilers:
 | G    | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)                                    | [~contest-9116/G/main.cpp](~contest-9116/G/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
+| C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
 
