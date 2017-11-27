@@ -48,6 +48,7 @@ Compilers:
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
 |      | [Problems page 024](https://www.e-olymp.com/en/problems?page=24)                                      | [page-024/](page-024/)                               |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                        | [page-024/0610/main.cpp](page-024/0610/main.cpp)     |
+| 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                 | [page-024/0625/main.cpp](page-024/0625/main.cpp)     |
 |      | [Problems page 026](https://www.e-olymp.com/en/problems?page=26)                                      | [page-026/](page-026/)                               |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                               | [page-026/0653/main.py](page-026/0653/main.py)       |
 |      | [Problems page 036](https://www.e-olymp.com/en/problems?page=36)                                      | [page-036/](page-036/)                               |
@@ -242,4 +243,6 @@ Compilers:
 | E    | [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)                           | [~contest-9116/E/main.cpp](~contest-9116/E/main.cpp) |
 | F    | [Corporation Salary](https://www.e-olymp.com/en/contests/9116/problems/79190)                         | [~contest-9116/F/main.py](~contest-9116/F/main.py)   |
 | G    | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)                                    | [~contest-9116/G/main.cpp](~contest-9116/G/main.cpp) |
+|      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
+| B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 
