@@ -120,6 +120,8 @@ Compilers:
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
+|      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
+| 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
 |      | [Problems page 190](https://www.e-olymp.com/en/problems?page=190)                                     | [page-190/](page-190/)                               |
 | 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [page-190/4761/main.py](page-190/4761/main.py)       |
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [page-190/4763/main.py](page-190/4763/main.py)       |
@@ -236,4 +238,5 @@ Compilers:
 | C    | [Parent](https://www.e-olymp.com/en/contests/9116/problems/79187)                                     | [~contest-9116/C/main.cpp](~contest-9116/C/main.cpp) |
 | D    | [Grafix Mask](https://www.e-olymp.com/en/contests/9116/problems/79188)                                | [~contest-9116/D/main.cpp](~contest-9116/D/main.cpp) |
 | E    | [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)                           | [~contest-9116/E/main.cpp](~contest-9116/E/main.cpp) |
+| F    | [Corporation Salary](https://www.e-olymp.com/en/contests/9116/problems/79190)                         | [~contest-9116/F/main.py](~contest-9116/F/main.py)   |
 
