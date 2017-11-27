@@ -14,8 +14,6 @@ Compilers:
 
 | ID   | Problem statement                                                                                     | Solution                                             |
 |------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-|      | [Problems page 292](https://www.e-olymp.com/en/problems?page=292)                                     | [292/](292/)                                         |
-| 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [292/7311/main.cpp](292/7311/main.cpp)               |
 |      | [Problems page 000](https://www.e-olymp.com/en/problems?page=0)                                       | [page-000/](page-000/)                               |
 | 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                              | [page-000/0001/main.py](page-000/0001/main.py)       |
 | 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                                       | [page-000/0002/main.py](page-000/0002/main.py)       |
@@ -159,6 +157,9 @@ Compilers:
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
 |      | [Problems page 281](https://www.e-olymp.com/en/problems?page=281)                                     | [page-281/](page-281/)                               |
 | 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [page-281/7034/main.cpp](page-281/7034/main.cpp)     |
+|      | [Problems page 292](https://www.e-olymp.com/en/problems?page=292)                                     | [page-292/](page-292/)                               |
+| 7309 | [Deal!](https://www.e-olymp.com/en/problems/7309)                                                     | [page-292/7309/main.cpp](page-292/7309/main.cpp)     |
+| 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [page-292/7311/main.cpp](page-292/7311/main.cpp)     |
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                                     | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
@@ -254,4 +255,5 @@ Compilers:
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
 | D    | [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)                        | [~contest-9151/D/main.cpp](~contest-9151/D/main.cpp) |
 | E    | [Insert Parentheses](https://www.e-olymp.com/en/contests/9151/problems/79569)                         | [~contest-9151/E/main.cpp](~contest-9151/E/main.cpp) |
+| F    | [Deal!](https://www.e-olymp.com/en/contests/9151/problems/79570)                                      | [~contest-9151/F/main.cpp](~contest-9151/F/main.cpp) |
 
