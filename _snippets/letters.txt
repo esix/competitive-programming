@@ -7,3 +7,6 @@ Subscript
 Superscript
 : ⁰¹²³⁴⁵⁶⁷⁸⁹
 : ⁿ ⁱ ᴺ
+
+·
+≤ 
