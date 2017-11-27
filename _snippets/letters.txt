@@ -1,0 +1,9 @@
+Helpfull letters to write problem description
+
+Subscript
+: ₀₁₂₃₄₅₆₇₈₉
+: ᵢ ₙ
+
+Superscript
+: ⁰¹²³⁴⁵⁶⁷⁸⁹
+: ⁿ ⁱ ᴺ
