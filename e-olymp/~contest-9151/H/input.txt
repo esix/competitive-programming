@@ -1,0 +1,15 @@
+14 25
+5 5 Honolulu
+5 10 PugetSound
+5 20 Victoria
+10 5 Berkeley
+10 10 Portland
+10 15 Seattle
+10 20 Vancouver
+15 5 LasVegas
+15 10 Sacramento
+15 15 Kelowna
+15 20 PrinceGeorge
+20 5 Phoenix
+20 10 SaltLakeCity
+20 20 Calgary
