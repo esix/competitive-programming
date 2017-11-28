@@ -32,6 +32,7 @@ Compilers:
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                     | [page-002/0060/main.cpp](page-002/0060/main.cpp)     |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [page-002/0066/main.py](page-002/0066/main.py)       |
 |      | [Problems page 004](https://www.e-olymp.com/en/problems?page=4)                                       | [page-004/](page-004/)                               |
+| 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [page-004/0122/main.cpp](page-004/0122/main.cpp)     |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [page-004/0124/main.cpp](page-004/0124/main.cpp)     |
 |      | [Problems page 005](https://www.e-olymp.com/en/problems?page=5)                                       | [page-005/](page-005/)                               |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [page-005/0136/main.cpp](page-005/0136/main.cpp)     |
@@ -265,6 +266,7 @@ Compilers:
 | J    | [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)                                 | [~contest-9116/J/main.cpp](~contest-9116/J/main.cpp) |
 | K    | [Strahler Order](https://www.e-olymp.com/en/contests/9116/problems/79195)                             | [~contest-9116/K/main.cpp](~contest-9116/K/main.cpp) |
 | L    | [Minibus](https://www.e-olymp.com/en/contests/9116/problems/79196)                                    | [~contest-9116/L/main.cpp](~contest-9116/L/main.cpp) |
+| M    | [Mountain routes](https://www.e-olymp.com/en/contests/9116/problems/79197)                            | [~contest-9116/M/main.cpp](~contest-9116/M/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
