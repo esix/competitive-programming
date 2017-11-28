@@ -153,6 +153,8 @@ Compilers:
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [page-214/5366/main.cpp](page-214/5366/main.cpp)     |
 |      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                                     | [page-226/](page-226/)                               |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [page-226/5669/main.py](page-226/5669/main.py)       |
+|      | [Problems page 241](https://www.e-olymp.com/en/problems?page=241)                                     | [page-241/](page-241/)                               |
+| 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [page-241/6033/main.cpp](page-241/6033/main.cpp)     |
 |      | [Problems page 250](https://www.e-olymp.com/en/problems?page=250)                                     | [page-250/](page-250/)                               |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [page-250/6273/main.py](page-250/6273/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                                     | [page-252/](page-252/)                               |
@@ -256,6 +258,7 @@ Compilers:
 | G    | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)                                    | [~contest-9116/G/main.cpp](~contest-9116/G/main.cpp) |
 | H    | [Money Matters](https://www.e-olymp.com/en/contests/9116/problems/79192)                              | [~contest-9116/H/main.cpp](~contest-9116/H/main.cpp) |
 | I    | [Godfather](https://www.e-olymp.com/en/contests/9116/problems/79193)                                  | [~contest-9116/I/main.cpp](~contest-9116/I/main.cpp) |
+| J    | [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)                                 | [~contest-9116/J/main.cpp](~contest-9116/J/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
