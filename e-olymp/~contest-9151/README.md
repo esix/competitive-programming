@@ -4,6 +4,7 @@
 
 | ID | Problem statement                                                                     | Solution                 |
 |----|---------------------------------------------------------------------------------------|--------------------------|
+| A  | [Conscription](https://www.e-olymp.com/en/contests/9151/problems/79565)               | [A/main.cpp](A/main.cpp) |
 | B  | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566) | [B/main.cpp](B/main.cpp) |
 | C  | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)         | [C/main.cpp](C/main.cpp) |
 | D  | [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)        | [D/main.cpp](D/main.cpp) |
