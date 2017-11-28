@@ -16,4 +16,5 @@
 | J  | [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)         | [J/main.cpp](J/main.cpp) |
 | K  | [Strahler Order](https://www.e-olymp.com/en/contests/9116/problems/79195)     | [K/main.cpp](K/main.cpp) |
 | L  | [Minibus](https://www.e-olymp.com/en/contests/9116/problems/79196)            | [L/main.cpp](L/main.cpp) |
+| M  | [Mountain routes](https://www.e-olymp.com/en/contests/9116/problems/79197)    | [M/main.cpp](M/main.cpp) |
 
