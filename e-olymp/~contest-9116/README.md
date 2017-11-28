@@ -13,4 +13,5 @@
 | G  | [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)            | [G/main.cpp](G/main.cpp) |
 | H  | [Money Matters](https://www.e-olymp.com/en/contests/9116/problems/79192)      | [H/main.cpp](H/main.cpp) |
 | I  | [Godfather](https://www.e-olymp.com/en/contests/9116/problems/79193)          | [I/main.cpp](I/main.cpp) |
+| J  | [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)         | [J/main.cpp](J/main.cpp) |
 
