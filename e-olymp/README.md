@@ -38,6 +38,8 @@ Compilers:
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [page-005/0136/main.cpp](page-005/0136/main.cpp)     |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                        | [page-005/0137/main.cpp](page-005/0137/main.cpp)     |
 | 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
+|      | [Problems page 007](https://www.e-olymp.com/en/problems?page=7)                                       | [page-007/](page-007/)                               |
+| 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [page-007/0182/main.cpp](page-007/0182/main.cpp)     |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                                      | [page-011/](page-011/)                               |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
 |      | [Problems page 014](https://www.e-olymp.com/en/problems?page=14)                                      | [page-014/](page-014/)                               |
@@ -268,6 +270,7 @@ Compilers:
 | L    | [Minibus](https://www.e-olymp.com/en/contests/9116/problems/79196)                                    | [~contest-9116/L/main.cpp](~contest-9116/L/main.cpp) |
 | M    | [Mountain routes](https://www.e-olymp.com/en/contests/9116/problems/79197)                            | [~contest-9116/M/main.cpp](~contest-9116/M/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
+| A    | [Conscription](https://www.e-olymp.com/en/contests/9151/problems/79565)                               | [~contest-9151/A/main.cpp](~contest-9151/A/main.cpp) |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
 | D    | [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)                        | [~contest-9151/D/main.cpp](~contest-9151/D/main.cpp) |
