@@ -159,6 +159,8 @@ Compilers:
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [page-250/6273/main.py](page-250/6273/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                                     | [page-252/](page-252/)                               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [page-252/6302/main.py](page-252/6302/main.py)       |
+|      | [Problems page 255](https://www.e-olymp.com/en/problems?page=255)                                     | [page-255/](page-255/)                               |
+| 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                            | [page-255/6389/main.cpp](page-255/6389/main.cpp)     |
 |      | [Problems page 277](https://www.e-olymp.com/en/problems?page=277)                                     | [page-277/](page-277/)                               |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
 |      | [Problems page 281](https://www.e-olymp.com/en/problems?page=281)                                     | [page-281/](page-281/)                               |
@@ -259,6 +261,7 @@ Compilers:
 | H    | [Money Matters](https://www.e-olymp.com/en/contests/9116/problems/79192)                              | [~contest-9116/H/main.cpp](~contest-9116/H/main.cpp) |
 | I    | [Godfather](https://www.e-olymp.com/en/contests/9116/problems/79193)                                  | [~contest-9116/I/main.cpp](~contest-9116/I/main.cpp) |
 | J    | [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)                                 | [~contest-9116/J/main.cpp](~contest-9116/J/main.cpp) |
+| K    | [Strahler Order](https://www.e-olymp.com/en/contests/9116/problems/79195)                             | [~contest-9116/K/main.cpp](~contest-9116/K/main.cpp) |
 |      | [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)     | [~contest-9151/](~contest-9151/)                     |
 | B    | [Расстояние между вершинами](https://www.e-olymp.com/en/contests/9151/problems/79566)                 | [~contest-9151/B/main.cpp](~contest-9151/B/main.cpp) |
 | C    | [n-th Largest Value](https://www.e-olymp.com/en/contests/9151/problems/79567)                         | [~contest-9151/C/main.cpp](~contest-9151/C/main.cpp) |
