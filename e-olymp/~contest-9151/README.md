@@ -11,4 +11,5 @@
 | E  | [Insert Parentheses](https://www.e-olymp.com/en/contests/9151/problems/79569)         | [E/main.cpp](E/main.cpp) |
 | F  | [Deal!](https://www.e-olymp.com/en/contests/9151/problems/79570)                      | [F/main.cpp](F/main.cpp) |
 | H  | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)               | [H/main.cpp](H/main.cpp) |
+| J  | [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)                   | [J/main.cpp](J/main.cpp) |
 
