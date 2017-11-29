@@ -13,4 +13,5 @@
 | H  | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)               | [H/main.cpp](H/main.cpp) |
 | J  | [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)                   | [J/main.cpp](J/main.cpp) |
 | K  | [Grid](https://www.e-olymp.com/en/contests/9151/problems/79575)                       | [K/main.cpp](K/main.cpp) |
+| L  | [Lazy Misha](https://www.e-olymp.com/en/contests/9151/problems/79576)                 | [L/main.py](L/main.py)   |
 
