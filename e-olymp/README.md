@@ -179,6 +179,7 @@ Compilers:
 |      | [Problems page 327](https://www.e-olymp.com/en/problems?page=327)                                     | [page-327/](page-327/)                               |
 | 8188 | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)                               | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
 | 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [page-327/8194/main.cpp](page-327/8194/main.cpp)     |
+| 8195 | [Grid](https://www.e-olymp.com/en/problems/8195)                                                      | [page-327/8195/main.cpp](page-327/8195/main.cpp)     |
 |      | [Problems page 329](https://www.e-olymp.com/en/problems?page=329)                                     | [page-329/](page-329/)                               |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [page-329/8254/main.py](page-329/8254/main.py)       |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
@@ -281,4 +282,5 @@ Compilers:
 | F    | [Deal!](https://www.e-olymp.com/en/contests/9151/problems/79570)                                      | [~contest-9151/F/main.cpp](~contest-9151/F/main.cpp) |
 | H    | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)                               | [~contest-9151/H/main.cpp](~contest-9151/H/main.cpp) |
 | J    | [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)                                   | [~contest-9151/J/main.cpp](~contest-9151/J/main.cpp) |
+| K    | [Grid](https://www.e-olymp.com/en/contests/9151/problems/79575)                                       | [~contest-9151/K/main.cpp](~contest-9151/K/main.cpp) |
 
