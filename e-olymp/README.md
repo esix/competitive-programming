@@ -124,6 +124,8 @@ Compilers:
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [page-126/3171/main.py](page-126/3171/main.py)       |
 |      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [page-144/3608/main.cpp](page-144/3608/main.cpp)     |
+|      | [Problems page 154](https://www.e-olymp.com/en/problems?page=154)                                     | [page-154/](page-154/)                               |
+| 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [page-154/3867/main.py](page-154/3867/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                                     | [page-156/](page-156/)                               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
 |      | [Problems page 159](https://www.e-olymp.com/en/problems?page=159)                                     | [page-159/](page-159/)                               |
@@ -283,4 +285,5 @@ Compilers:
 | H    | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)                               | [~contest-9151/H/main.cpp](~contest-9151/H/main.cpp) |
 | J    | [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)                                   | [~contest-9151/J/main.cpp](~contest-9151/J/main.cpp) |
 | K    | [Grid](https://www.e-olymp.com/en/contests/9151/problems/79575)                                       | [~contest-9151/K/main.cpp](~contest-9151/K/main.cpp) |
+| L    | [Lazy Misha](https://www.e-olymp.com/en/contests/9151/problems/79576)                                 | [~contest-9151/L/main.py](~contest-9151/L/main.py)   |
 
