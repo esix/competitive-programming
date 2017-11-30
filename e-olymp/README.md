@@ -179,7 +179,7 @@ Compilers:
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
 |      | [Problems page 327](https://www.e-olymp.com/en/problems?page=327)                                     | [page-327/](page-327/)                               |
-| 8188 | [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)                               | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
+| 8188 | [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)                                              | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
 | 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [page-327/8194/main.cpp](page-327/8194/main.cpp)     |
 | 8195 | [Grid](https://www.e-olymp.com/en/problems/8195)                                                      | [page-327/8195/main.cpp](page-327/8195/main.cpp)     |
 |      | [Problems page 329](https://www.e-olymp.com/en/problems?page=329)                                     | [page-329/](page-329/)                               |

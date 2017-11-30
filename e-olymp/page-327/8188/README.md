@@ -1,4 +1,4 @@
-# [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)
+# [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)
 
 In database storage, arranging data items according to a numeric key not only makes it easier to search for a particular item, but also makes better use of a CPU's cache: any segment of data that's contiguous in memory will describe items with similar keys. This is useful if, for instance, we want to access all items whose keys are in some range. Things get more complicated if the keys represent points on a 2D grid, as might happen in a GPS guidance system. If the points (x, y) are sorted primarily by x, breaking ties by y, then points that are adjacent in memory will have similar x coordinates but not necessarily similar y, potentially placing them far apart on the grid. To better preserve distances, we may sort the data along a continuous space-filling curve.
 
@@ -10,7 +10,7 @@ Given some locations of interest, you are asked to sort them according to when t
 
 ## Input
 
-The first line contains two space-separated integers n and S (1 ≤ n ≤ 200000, 1 ≤ S < 10⁹, S is odd). This is followed by n lines. Line i + 1 describes the i-th location of interest by space-separated integers xi and yi (0 ≤ xi, yi ≤ S) and an identifier string consisting of at most 46 alphanumeric characters (A - Z, a - z, 0 - 9). No two locations will share the same position or the same identifier.
+The first line contains two space-separated integers n and S (1 ≤ n ≤ 200000, 1 ≤ S < 10⁹, S is odd). This is followed by n lines. Line i + 1 describes the i-th location of interest by space-separated integers xi and yi (0 ≤ xi, yi ≤ S) and an identifier string consisting of at most 46 alphanumeric characters (A - Z, a - z, 0 - 9). No two locations will share the same position or the same identifier.
 
 ## Output
 
