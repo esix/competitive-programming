@@ -136,6 +136,8 @@ Compilers:
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
 |      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
+|      | [Problems page 174](https://www.e-olymp.com/en/problems?page=174)                                     | [page-174/](page-174/)                               |
+| 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                     | [page-174/4369/main.cpp](page-174/4369/main.cpp)     |
 |      | [Problems page 189](https://www.e-olymp.com/en/problems?page=189)                                     | [page-189/](page-189/)                               |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [page-189/4733/main.cpp](page-189/4733/main.cpp)     |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [page-189/4739/main.cpp](page-189/4739/main.cpp)     |
@@ -293,4 +295,5 @@ Compilers:
 | L    | [Lazy Misha](https://www.e-olymp.com/en/contests/9151/problems/79576)                                 | [~contest-9151/L/main.py](~contest-9151/L/main.py)   |
 |      | [Breadth First Search](https://www.e-olymp.com/ru/contests/9208)                                      | [~contest-9208/](~contest-9208/)                     |
 | A    | [Breadth First Search](https://www.e-olymp.com/en/contests/9208/problems/80028)                       | [~contest-9208/A/main.cpp](~contest-9208/A/main.cpp) |
+| B    | [Arson](https://www.e-olymp.com/en/contests/9208/problems/80029)                                      | [~contest-9208/B/main.cpp](~contest-9208/B/main.cpp) |
 
