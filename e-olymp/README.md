@@ -134,6 +134,9 @@ Compilers:
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
 |      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
+|      | [Problems page 189](https://www.e-olymp.com/en/problems?page=189)                                     | [page-189/](page-189/)                               |
+| 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [page-189/4733/main.cpp](page-189/4733/main.cpp)     |
+| 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [page-189/4739/main.cpp](page-189/4739/main.cpp)     |
 |      | [Problems page 190](https://www.e-olymp.com/en/problems?page=190)                                     | [page-190/](page-190/)                               |
 | 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [page-190/4761/main.py](page-190/4761/main.py)       |
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [page-190/4763/main.py](page-190/4763/main.py)       |
