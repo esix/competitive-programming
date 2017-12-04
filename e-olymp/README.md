@@ -108,6 +108,8 @@ Compilers:
 |      | [Problems page 095](https://www.e-olymp.com/en/problems?page=95)                                      | [page-095/](page-095/)                               |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [page-095/2382/main.cpp](page-095/2382/main.cpp)     |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [page-095/2383/main.cpp](page-095/2383/main.cpp)     |
+|      | [Problems page 096](https://www.e-olymp.com/en/problems?page=96)                                      | [page-096/](page-096/)                               |
+| 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                                      | [page-096/2401/main.cpp](page-096/2401/main.cpp)     |
 |      | [Problems page 097](https://www.e-olymp.com/en/problems?page=97)                                      | [page-097/](page-097/)                               |
 | 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [page-097/2440/main.cpp](page-097/2440/main.cpp)     |
 |      | [Problems page 098](https://www.e-olymp.com/en/problems?page=98)                                      | [page-098/](page-098/)                               |
@@ -289,4 +291,6 @@ Compilers:
 | J    | [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)                                   | [~contest-9151/J/main.cpp](~contest-9151/J/main.cpp) |
 | K    | [Grid](https://www.e-olymp.com/en/contests/9151/problems/79575)                                       | [~contest-9151/K/main.cpp](~contest-9151/K/main.cpp) |
 | L    | [Lazy Misha](https://www.e-olymp.com/en/contests/9151/problems/79576)                                 | [~contest-9151/L/main.py](~contest-9151/L/main.py)   |
+|      | [Breadth First Search](https://www.e-olymp.com/ru/contests/9208)                                      | [~contest-9208/](~contest-9208/)                     |
+| A    | [Breadth First Search](https://www.e-olymp.com/en/contests/9208/problems/80028)                       | [~contest-9208/A/main.cpp](~contest-9208/A/main.cpp) |
 
