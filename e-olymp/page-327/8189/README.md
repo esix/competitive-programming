@@ -6,7 +6,7 @@ Given that the provider is able to build one more tower, what is the maximum num
 
 ## Input
 
-The first line consists of a single integer n (1 ≤ n ≤ 5000), denoting the number of existing towers. Next follow n lines each with 2 space-separated real numbers xᵢ, yᵢ (0 ≤ xᵢ, yᵢ ≤ 10⁵), denoting the location of tower i in km. It is guaranteed that the optimal number of towers will not change even if the coverage radius of all the towers is increased or decreased by one millimeter.
+The first line consists of a single integer n (1 ≤ n ≤ 5000), denoting the number of existing towers. Next follow n lines each with 2 space-separated real numbers xᵢ, yᵢ (0 ≤ xᵢ, yᵢ ≤ 10⁵), denoting the location of tower i in km. It is guaranteed that the optimal number of towers will not change even if the coverage radius of all the towers is increased or decreased by one millimeter.
 
 ## Output
 
