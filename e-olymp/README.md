@@ -147,6 +147,7 @@ Compilers:
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [page-190/4764/main.py](page-190/4764/main.py)       |
 |      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                                     | [page-192/](page-192/)                               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [page-192/4805/main.py](page-192/4805/main.py)       |
+| 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                        | [page-192/4819/main.cpp](page-192/4819/main.cpp)     |
 |      | [Problems page 194](https://www.e-olymp.com/en/problems?page=194)                                     | [page-194/](page-194/)                               |
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [page-194/4854/main.cpp](page-194/4854/main.cpp)     |
 |      | [Problems page 202](https://www.e-olymp.com/en/problems?page=202)                                     | [page-202/](page-202/)                               |
@@ -296,4 +297,5 @@ Compilers:
 |      | [Breadth First Search](https://www.e-olymp.com/ru/contests/9208)                                      | [~contest-9208/](~contest-9208/)                     |
 | A    | [Breadth First Search](https://www.e-olymp.com/en/contests/9208/problems/80028)                       | [~contest-9208/A/main.cpp](~contest-9208/A/main.cpp) |
 | B    | [Arson](https://www.e-olymp.com/en/contests/9208/problems/80029)                                      | [~contest-9208/B/main.cpp](~contest-9208/B/main.cpp) |
+| C    | [Maximum by minimum](https://www.e-olymp.com/en/contests/9208/problems/80030)                         | [~contest-9208/C/main.cpp](~contest-9208/C/main.cpp) |
 
