@@ -166,6 +166,8 @@ Compilers:
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
 |      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [page-209/5235/main.py](page-209/5235/main.py)       |
+|      | [Problems page 213](https://www.e-olymp.com/en/problems?page=213)                                     | [page-213/](page-213/)                               |
+| 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [page-213/5338/main.cpp](page-213/5338/main.cpp)     |
 |      | [Problems page 214](https://www.e-olymp.com/en/problems?page=214)                                     | [page-214/](page-214/)                               |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [page-214/5366/main.cpp](page-214/5366/main.cpp)     |
 |      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                                     | [page-226/](page-226/)                               |
@@ -302,4 +304,5 @@ Compilers:
 | C    | [Maximum by minimum](https://www.e-olymp.com/en/contests/9208/problems/80030)                         | [~contest-9208/C/main.cpp](~contest-9208/C/main.cpp) |
 | D    | [The shortest distance](https://www.e-olymp.com/en/contests/9208/problems/80031)                      | [~contest-9208/D/main.cpp](~contest-9208/D/main.cpp) |
 | E    | [The shortest path](https://www.e-olymp.com/en/contests/9208/problems/80032)                          | [~contest-9208/E/main.cpp](~contest-9208/E/main.cpp) |
+| F    | [Complete graph - 2](https://www.e-olymp.com/en/contests/9208/problems/80033)                         | [~contest-9208/F/main.cpp](~contest-9208/F/main.cpp) |
 
