@@ -150,6 +150,7 @@ Compilers:
 | 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                        | [page-192/4819/main.cpp](page-192/4819/main.cpp)     |
 |      | [Problems page 194](https://www.e-olymp.com/en/problems?page=194)                                     | [page-194/](page-194/)                               |
 | 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                     | [page-194/4852/main.cpp](page-194/4852/main.cpp)     |
+| 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                                         | [page-194/4853/main.cpp](page-194/4853/main.cpp)     |
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [page-194/4854/main.cpp](page-194/4854/main.cpp)     |
 |      | [Problems page 202](https://www.e-olymp.com/en/problems?page=202)                                     | [page-202/](page-202/)                               |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [page-202/5072/main.cpp](page-202/5072/main.cpp)     |
@@ -300,4 +301,5 @@ Compilers:
 | B    | [Arson](https://www.e-olymp.com/en/contests/9208/problems/80029)                                      | [~contest-9208/B/main.cpp](~contest-9208/B/main.cpp) |
 | C    | [Maximum by minimum](https://www.e-olymp.com/en/contests/9208/problems/80030)                         | [~contest-9208/C/main.cpp](~contest-9208/C/main.cpp) |
 | D    | [The shortest distance](https://www.e-olymp.com/en/contests/9208/problems/80031)                      | [~contest-9208/D/main.cpp](~contest-9208/D/main.cpp) |
+| E    | [The shortest path](https://www.e-olymp.com/en/contests/9208/problems/80032)                          | [~contest-9208/E/main.cpp](~contest-9208/E/main.cpp) |
 
