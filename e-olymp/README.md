@@ -47,6 +47,8 @@ Compilers:
 |      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                                      | [page-016/](page-016/)                               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [page-016/0418/main.py](page-016/0418/main.py)       |
+|      | [Problems page 017](https://www.e-olymp.com/en/problems?page=17)                                      | [page-017/](page-017/)                               |
+| 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [page-017/0432/main.cpp](page-017/0432/main.cpp)     |
 |      | [Problems page 021](https://www.e-olymp.com/en/problems?page=21)                                      | [page-021/](page-021/)                               |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [page-021/0543/main.cpp](page-021/0543/main.cpp)     |
 |      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                                      | [page-022/](page-022/)                               |
@@ -305,4 +307,5 @@ Compilers:
 | D    | [The shortest distance](https://www.e-olymp.com/en/contests/9208/problems/80031)                      | [~contest-9208/D/main.cpp](~contest-9208/D/main.cpp) |
 | E    | [The shortest path](https://www.e-olymp.com/en/contests/9208/problems/80032)                          | [~contest-9208/E/main.cpp](~contest-9208/E/main.cpp) |
 | F    | [Complete graph - 2](https://www.e-olymp.com/en/contests/9208/problems/80033)                         | [~contest-9208/F/main.cpp](~contest-9208/F/main.cpp) |
+| G    | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)                             | [~contest-9208/G/main.cpp](~contest-9208/G/main.cpp) |
 
