@@ -76,6 +76,8 @@ Compilers:
 |      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                                      | [page-041/](page-041/)                               |
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                                           | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                                          | [page-041/1043/main.py](page-041/1043/main.py)       |
+|      | [Problems page 042](https://www.e-olymp.com/en/problems?page=42)                                      | [page-042/](page-042/)                               |
+| 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                                                     | [page-042/1060/main.cpp](page-042/1060/main.cpp)     |
 |      | [Problems page 044](https://www.e-olymp.com/en/problems?page=44)                                      | [page-044/](page-044/)                               |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [page-044/1115/main.cpp](page-044/1115/main.cpp)     |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [page-044/1120/main.cpp](page-044/1120/main.cpp)     |
@@ -308,4 +310,5 @@ Compilers:
 | E    | [The shortest path](https://www.e-olymp.com/en/contests/9208/problems/80032)                          | [~contest-9208/E/main.cpp](~contest-9208/E/main.cpp) |
 | F    | [Complete graph - 2](https://www.e-olymp.com/en/contests/9208/problems/80033)                         | [~contest-9208/F/main.cpp](~contest-9208/F/main.cpp) |
 | G    | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)                             | [~contest-9208/G/main.cpp](~contest-9208/G/main.cpp) |
+| H    | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                                      | [~contest-9208/H/main.cpp](~contest-9208/H/main.cpp) |
 
