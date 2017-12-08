@@ -176,6 +176,8 @@ Compilers:
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [page-213/5338/main.cpp](page-213/5338/main.cpp)     |
 |      | [Problems page 214](https://www.e-olymp.com/en/problems?page=214)                                     | [page-214/](page-214/)                               |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [page-214/5366/main.cpp](page-214/5366/main.cpp)     |
+|      | [Problems page 218](https://www.e-olymp.com/en/problems?page=218)                                     | [page-218/](page-218/)                               |
+| 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [page-218/5471/main.cpp](page-218/5471/main.cpp)     |
 |      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                                     | [page-226/](page-226/)                               |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [page-226/5669/main.py](page-226/5669/main.py)       |
 |      | [Problems page 241](https://www.e-olymp.com/en/problems?page=241)                                     | [page-241/](page-241/)                               |
@@ -317,4 +319,5 @@ Compilers:
 | H    | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                                      | [~contest-9208/H/main.cpp](~contest-9208/H/main.cpp) |
 | I    | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)                                   | [~contest-9208/I/main.cpp](~contest-9208/I/main.cpp) |
 | J    | [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)                                       | [~contest-9208/J/main.cpp](~contest-9208/J/main.cpp) |
+| K    | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/contests/9208/problems/80038)                      | [~contest-9208/K/main.cpp](~contest-9208/K/main.cpp) |
 
