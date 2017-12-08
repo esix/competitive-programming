@@ -188,6 +188,8 @@ Compilers:
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
 |      | [Problems page 281](https://www.e-olymp.com/en/problems?page=281)                                     | [page-281/](page-281/)                               |
 | 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [page-281/7034/main.cpp](page-281/7034/main.cpp)     |
+|      | [Problems page 288](https://www.e-olymp.com/en/problems?page=288)                                     | [page-288/](page-288/)                               |
+| 7215 | [Лабиринт](https://www.e-olymp.com/en/problems/7215)                                                  | [page-288/7215/main.cpp](page-288/7215/main.cpp)     |
 |      | [Problems page 292](https://www.e-olymp.com/en/problems?page=292)                                     | [page-292/](page-292/)                               |
 | 7309 | [Deal!](https://www.e-olymp.com/en/problems/7309)                                                     | [page-292/7309/main.cpp](page-292/7309/main.cpp)     |
 | 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [page-292/7311/main.cpp](page-292/7311/main.cpp)     |
@@ -311,4 +313,5 @@ Compilers:
 | F    | [Complete graph - 2](https://www.e-olymp.com/en/contests/9208/problems/80033)                         | [~contest-9208/F/main.cpp](~contest-9208/F/main.cpp) |
 | G    | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)                             | [~contest-9208/G/main.cpp](~contest-9208/G/main.cpp) |
 | H    | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                                      | [~contest-9208/H/main.cpp](~contest-9208/H/main.cpp) |
+| I    | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)                                   | [~contest-9208/I/main.cpp](~contest-9208/I/main.cpp) |
 
