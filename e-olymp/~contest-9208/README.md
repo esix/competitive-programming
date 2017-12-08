@@ -13,4 +13,5 @@
 | F  | [Complete graph - 2](https://www.e-olymp.com/en/contests/9208/problems/80033)    | [F/main.cpp](F/main.cpp) |
 | G  | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)        | [G/main.cpp](G/main.cpp) |
 | H  | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                 | [H/main.cpp](H/main.cpp) |
+| I  | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)              | [I/main.cpp](I/main.cpp) |
 
