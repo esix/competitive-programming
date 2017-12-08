@@ -138,6 +138,8 @@ Compilers:
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
+|      | [Problems page 161](https://www.e-olymp.com/en/problems?page=161)                                     | [page-161/](page-161/)                               |
+| 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                      | [page-161/4033/main.cpp](page-161/4033/main.cpp)     |
 |      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
 |      | [Problems page 174](https://www.e-olymp.com/en/problems?page=174)                                     | [page-174/](page-174/)                               |
@@ -314,4 +316,5 @@ Compilers:
 | G    | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)                             | [~contest-9208/G/main.cpp](~contest-9208/G/main.cpp) |
 | H    | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                                      | [~contest-9208/H/main.cpp](~contest-9208/H/main.cpp) |
 | I    | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)                                   | [~contest-9208/I/main.cpp](~contest-9208/I/main.cpp) |
+| J    | [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)                                       | [~contest-9208/J/main.cpp](~contest-9208/J/main.cpp) |
 
