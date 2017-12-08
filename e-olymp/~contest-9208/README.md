@@ -14,4 +14,5 @@
 | G  | [Dungeon Master](https://www.e-olymp.com/en/contests/9208/problems/80034)        | [G/main.cpp](G/main.cpp) |
 | H  | [Lines](https://www.e-olymp.com/en/contests/9208/problems/80035)                 | [H/main.cpp](H/main.cpp) |
 | I  | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)              | [I/main.cpp](I/main.cpp) |
+| J  | [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)                  | [J/main.cpp](J/main.cpp) |
 
