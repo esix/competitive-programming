@@ -200,6 +200,8 @@ Compilers:
 |      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                                     | [page-294/](page-294/)                               |
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
+|      | [Problems page 296](https://www.e-olymp.com/en/problems?page=296)                                     | [page-296/](page-296/)                               |
+| 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [page-296/7403/main.cpp](page-296/7403/main.cpp)     |
 |      | [Problems page 327](https://www.e-olymp.com/en/problems?page=327)                                     | [page-327/](page-327/)                               |
 | 8188 | [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)                                              | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
 | 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [page-327/8194/main.cpp](page-327/8194/main.cpp)     |
@@ -320,4 +322,5 @@ Compilers:
 | I    | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)                                   | [~contest-9208/I/main.cpp](~contest-9208/I/main.cpp) |
 | J    | [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)                                       | [~contest-9208/J/main.cpp](~contest-9208/J/main.cpp) |
 | K    | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/contests/9208/problems/80038)                      | [~contest-9208/K/main.cpp](~contest-9208/K/main.cpp) |
+| L    | [Включить лампу](https://www.e-olymp.com/en/contests/9208/problems/80039)                             | [~contest-9208/L/main.cpp](~contest-9208/L/main.cpp) |
 
