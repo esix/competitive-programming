@@ -16,4 +16,5 @@
 | I  | [Лабиринт](https://www.e-olymp.com/en/contests/9208/problems/80036)              | [I/main.cpp](I/main.cpp) |
 | J  | [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)                  | [J/main.cpp](J/main.cpp) |
 | K  | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/contests/9208/problems/80038) | [K/main.cpp](K/main.cpp) |
+| L  | [Включить лампу](https://www.e-olymp.com/en/contests/9208/problems/80039)        | [L/main.cpp](L/main.cpp) |
 
