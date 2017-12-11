@@ -6,4 +6,5 @@
 | ID | Problem statement                                                    | Solution               |
 |----|----------------------------------------------------------------------|------------------------|
 | A  | [Polyhedra](https://www.e-olymp.com/en/contests/9290/problems/80891) | [A/main.py](A/main.py) |
+| B  | [Majority](https://www.e-olymp.com/en/contests/9290/problems/80892)  | [B/main.py](B/main.py) |
 
