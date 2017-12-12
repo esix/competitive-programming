@@ -211,6 +211,7 @@ Compilers:
 | 8188 | [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)                                              | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
 | 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [page-327/8194/main.cpp](page-327/8194/main.cpp)     |
 | 8195 | [Grid](https://www.e-olymp.com/en/problems/8195)                                                      | [page-327/8195/main.cpp](page-327/8195/main.cpp)     |
+| 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                  | [page-327/8201/main.py](page-327/8201/main.py)       |
 |      | [Problems page 329](https://www.e-olymp.com/en/problems?page=329)                                     | [page-329/](page-329/)                               |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [page-329/8254/main.py](page-329/8254/main.py)       |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
@@ -333,4 +334,5 @@ Compilers:
 | B    | [Majority](https://www.e-olymp.com/en/contests/9290/problems/80892)                                   | [~contest-9290/B/main.py](~contest-9290/B/main.py)   |
 | C    | [Diamonds](https://www.e-olymp.com/en/contests/9290/problems/80893)                                   | [~contest-9290/C/main.py](~contest-9290/C/main.py)   |
 | D    | [Ramp Number](https://www.e-olymp.com/en/contests/9290/problems/80894)                                | [~contest-9290/D/main.py](~contest-9290/D/main.py)   |
+| H    | [Alphabet](https://www.e-olymp.com/en/contests/9290/problems/80898)                                   | [~contest-9290/H/main.py](~contest-9290/H/main.py)   |
 

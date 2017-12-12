@@ -1,4 +1,4 @@
-# [Alphabet](https://www.e-olymp.com/en/contests/9290/problems/80898)
+# [Alphabet](https://www.e-olymp.com/en/problems/8201)
 
 A string of lowercase letters is called alphabetical if deleting zero or more of its letters can result in the alphabet string "abcdefghijklmnopqrstuvwxyz".
 
