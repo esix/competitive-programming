@@ -184,6 +184,7 @@ Compilers:
 | 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [page-241/6033/main.cpp](page-241/6033/main.cpp)     |
 |      | [Problems page 250](https://www.e-olymp.com/en/problems?page=250)                                     | [page-250/](page-250/)                               |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [page-250/6273/main.py](page-250/6273/main.py)       |
+| 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                  | [page-250/6275/main.py](page-250/6275/main.py)       |
 |      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                                     | [page-252/](page-252/)                               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [page-252/6302/main.py](page-252/6302/main.py)       |
 |      | [Problems page 255](https://www.e-olymp.com/en/problems?page=255)                                     | [page-255/](page-255/)                               |
@@ -338,4 +339,6 @@ Compilers:
 | D    | [Ramp Number](https://www.e-olymp.com/en/contests/9290/problems/80894)                                | [~contest-9290/D/main.py](~contest-9290/D/main.py)   |
 | H    | [Alphabet](https://www.e-olymp.com/en/contests/9290/problems/80898)                                   | [~contest-9290/H/main.py](~contest-9290/H/main.py)   |
 | J    | [Gravity](https://www.e-olymp.com/en/contests/9290/problems/80900)                                    | [~contest-9290/J/main.py](~contest-9290/J/main.py)   |
+|      | [ІІ етап Всеукраїнської олімпіади в Житомирській обл.](https://www.e-olymp.com/en/contests/9304)      | [~contest-9304/](~contest-9304/)                     |
+| A    | [Удвоение](https://www.e-olymp.com/en/contests/9304/problems/81177)                                   | [~contest-9304/A/main.py](~contest-9304/A/main.py)   |
 
