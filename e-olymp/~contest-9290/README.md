@@ -10,4 +10,5 @@
 | C  | [Diamonds](https://www.e-olymp.com/en/contests/9290/problems/80893)    | [C/main.py](C/main.py) |
 | D  | [Ramp Number](https://www.e-olymp.com/en/contests/9290/problems/80894) | [D/main.py](D/main.py) |
 | H  | [Alphabet](https://www.e-olymp.com/en/contests/9290/problems/80898)    | [H/main.py](H/main.py) |
+| J  | [Gravity](https://www.e-olymp.com/en/contests/9290/problems/80900)     | [J/main.py](J/main.py) |
 
