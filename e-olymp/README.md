@@ -90,6 +90,8 @@ Compilers:
 |      | [Problems page 049](https://www.e-olymp.com/en/problems?page=49)                                      | [page-049/](page-049/)                               |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [page-049/1243/main.py](page-049/1243/main.py)       |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [page-049/1246/main.cpp](page-049/1246/main.cpp)     |
+|      | [Problems page 054](https://www.e-olymp.com/en/problems?page=54)                                      | [page-054/](page-054/)                               |
+| 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [page-054/1363/main.cpp](page-054/1363/main.cpp)     |
 |      | [Problems page 056](https://www.e-olymp.com/en/problems?page=56)                                      | [page-056/](page-056/)                               |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                                   | [page-056/1414/main.cpp](page-056/1414/main.cpp)     |
 |      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                                      | [page-058/](page-058/)                               |
@@ -341,4 +343,5 @@ Compilers:
 | J    | [Gravity](https://www.e-olymp.com/en/contests/9290/problems/80900)                                    | [~contest-9290/J/main.py](~contest-9290/J/main.py)   |
 |      | [ІІ етап Всеукраїнської олімпіади в Житомирській обл.](https://www.e-olymp.com/en/contests/9304)      | [~contest-9304/](~contest-9304/)                     |
 | A    | [Удвоение](https://www.e-olymp.com/en/contests/9304/problems/81177)                                   | [~contest-9304/A/main.py](~contest-9304/A/main.py)   |
+| I    | [Rectangles and nails](https://www.e-olymp.com/en/contests/9304/problems/81185)                       | [~contest-9304/I/main.cpp](~contest-9304/I/main.cpp) |
 
