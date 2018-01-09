@@ -140,6 +140,8 @@ Compilers:
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
+|      | [Problems page 160](https://www.e-olymp.com/en/problems?page=160)                                     | [page-160/](page-160/)                               |
+| 4021 | [Knight move](https://www.e-olymp.com/en/problems/4021)                                               | [page-160/4021/main.cpp](page-160/4021/main.cpp)     |
 |      | [Problems page 161](https://www.e-olymp.com/en/problems?page=161)                                     | [page-161/](page-161/)                               |
 | 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                      | [page-161/4033/main.cpp](page-161/4033/main.cpp)     |
 |      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
