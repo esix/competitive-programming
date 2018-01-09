@@ -7,5 +7,6 @@
 | 0002 | [Digits](https://www.e-olymp.com/en/problems/2)              | [0002/main.py](0002/main.py)   |
 | 0003 | [Match’s model](https://www.e-olymp.com/en/problems/3)       | [0003/main.py](0003/main.py)   |
 | 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)         | [0004/main.cpp](0004/main.cpp) |
+| 0007 | [Roman numerals](https://www.e-olymp.com/en/problems/7)      | [0007/main.py](0007/main.py)   |
 | 0019 | [Degree of symmetry](https://www.e-olymp.com/en/problems/19) | [0019/main.py](0019/main.py)   |
 
