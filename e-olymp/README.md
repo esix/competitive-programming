@@ -353,4 +353,5 @@ Compilers:
 |      | [Recursive functions](https://www.e-olymp.com/en/contests/9493)                                       | [~contest-9493/](~contest-9493/)                     |
 | A    | [Digits](https://www.e-olymp.com/en/contests/9493/problems/83150)                                     | [~contest-9493/A/main.py](~contest-9493/A/main.py)   |
 | B    | [The sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83151)                          | [~contest-9493/B/main.py](~contest-9493/B/main.py)   |
+| C    | [Factorial](https://www.e-olymp.com/en/contests/9493/problems/83152)                                  | [~contest-9493/C/main.py](~contest-9493/C/main.py)   |
 
