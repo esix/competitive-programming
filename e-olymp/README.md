@@ -349,4 +349,7 @@ Compilers:
 |      | [ІІ етап Всеукраїнської олімпіади в Житомирській обл.](https://www.e-olymp.com/en/contests/9304)      | [~contest-9304/](~contest-9304/)                     |
 | A    | [Удвоение](https://www.e-olymp.com/en/contests/9304/problems/81177)                                   | [~contest-9304/A/main.py](~contest-9304/A/main.py)   |
 | I    | [Rectangles and nails](https://www.e-olymp.com/en/contests/9304/problems/81185)                       | [~contest-9304/I/main.cpp](~contest-9304/I/main.cpp) |
+|      | [Recursive functions](https://www.e-olymp.com/en/contests/9493)                                       | [~contest-9493/](~contest-9493/)                     |
+| A    | [Digits](https://www.e-olymp.com/en/contests/9493/problems/83150)                                     | [~contest-9493/A/main.py](~contest-9493/A/main.py)   |
+| B    | [The sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83151)                          | [~contest-9493/B/main.py](~contest-9493/B/main.py)   |
 
