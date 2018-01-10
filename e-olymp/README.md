@@ -101,6 +101,7 @@ Compilers:
 |      | [Problems page 064](https://www.e-olymp.com/en/problems?page=64)                                      | [page-064/](page-064/)                               |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)                            | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
+| 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [page-064/1603/main.py](page-064/1603/main.py)       |
 |      | [Problems page 077](https://www.e-olymp.com/en/problems?page=77)                                      | [page-077/](page-077/)                               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [page-077/1941/main.cpp](page-077/1941/main.cpp)     |
 |      | [Problems page 085](https://www.e-olymp.com/en/problems?page=85)                                      | [page-085/](page-085/)                               |
