@@ -132,6 +132,8 @@ Compilers:
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [page-105/2631/main.cpp](page-105/2631/main.cpp)     |
 |      | [Problems page 106](https://www.e-olymp.com/en/problems?page=106)                                     | [page-106/](page-106/)                               |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [page-106/2674/main.py](page-106/2674/main.py)       |
+|      | [Problems page 119](https://www.e-olymp.com/en/problems?page=119)                                     | [page-119/](page-119/)                               |
+| 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                               | [page-119/2999/main.py](page-119/2999/main.py)       |
 |      | [Problems page 126](https://www.e-olymp.com/en/problems?page=126)                                     | [page-126/](page-126/)                               |
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [page-126/3171/main.py](page-126/3171/main.py)       |
 |      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
