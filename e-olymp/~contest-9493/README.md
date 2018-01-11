@@ -8,4 +8,5 @@
 | B  | [The sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83151) | [B/main.py](B/main.py) |
 | C  | [Factorial](https://www.e-olymp.com/en/contests/9493/problems/83152)         | [C/main.py](C/main.py) |
 | D  | [Function-10](https://www.e-olymp.com/en/contests/9493/problems/83153)       | [D/main.py](D/main.py) |
+| E  | [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)    | [E/main.py](E/main.py) |
 

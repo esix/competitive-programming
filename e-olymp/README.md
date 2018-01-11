@@ -359,4 +359,5 @@ Compilers:
 | B    | [The sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83151)                          | [~contest-9493/B/main.py](~contest-9493/B/main.py)   |
 | C    | [Factorial](https://www.e-olymp.com/en/contests/9493/problems/83152)                                  | [~contest-9493/C/main.py](~contest-9493/C/main.py)   |
 | D    | [Function-10](https://www.e-olymp.com/en/contests/9493/problems/83153)                                | [~contest-9493/D/main.py](~contest-9493/D/main.py)   |
+| E    | [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)                             | [~contest-9493/E/main.py](~contest-9493/E/main.py)   |
 
