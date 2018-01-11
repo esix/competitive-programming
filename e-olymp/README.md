@@ -154,6 +154,8 @@ Compilers:
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
 |      | [Problems page 174](https://www.e-olymp.com/en/problems?page=174)                                     | [page-174/](page-174/)                               |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                     | [page-174/4369/main.cpp](page-174/4369/main.cpp)     |
+|      | [Problems page 077](https://www.e-olymp.com/en/problems?page=177)                                     | [page-177/](page-177/)                               |
+| 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                            | [page-177/4439/main.py](page-177/4439/main.py)       |
 |      | [Problems page 189](https://www.e-olymp.com/en/problems?page=189)                                     | [page-189/](page-189/)                               |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [page-189/4733/main.cpp](page-189/4733/main.cpp)     |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [page-189/4739/main.cpp](page-189/4739/main.cpp)     |
