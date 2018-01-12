@@ -99,7 +99,7 @@ Compilers:
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                                   | [page-058/1452/main.cpp](page-058/1452/main.cpp)     |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                              | [page-058/1453/main.cpp](page-058/1453/main.cpp)     |
 |      | [Problems page 064](https://www.e-olymp.com/en/problems?page=64)                                      | [page-064/](page-064/)                               |
-| 1601 | [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)                            | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
+| 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [page-064/1603/main.py](page-064/1603/main.py)       |
 |      | [Problems page 066](https://www.e-olymp.com/en/problems?page=66)                                      | [page-066/](page-066/)                               |
@@ -367,4 +367,5 @@ Compilers:
 | E    | [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)                             | [~contest-9493/E/main.py](~contest-9493/E/main.py)   |
 | F    | [Fibonacci Sequence](https://www.e-olymp.com/en/contests/9493/problems/83155)                         | [~contest-9493/F/main.py](~contest-9493/F/main.py)   |
 | G    | [How Many?](https://www.e-olymp.com/en/contests/9493/problems/83156)                                  | [~contest-9493/G/main.py](~contest-9493/G/main.py)   |
+| H    | [GCD two numbers](https://www.e-olymp.com/en/contests/9493/problems/83157)                            | [~contest-9493/H/main.cpp](~contest-9493/H/main.cpp) |
 
