@@ -368,4 +368,5 @@ Compilers:
 | F    | [Fibonacci Sequence](https://www.e-olymp.com/en/contests/9493/problems/83155)                         | [~contest-9493/F/main.py](~contest-9493/F/main.py)   |
 | G    | [How Many?](https://www.e-olymp.com/en/contests/9493/problems/83156)                                  | [~contest-9493/G/main.py](~contest-9493/G/main.py)   |
 | H    | [GCD two numbers](https://www.e-olymp.com/en/contests/9493/problems/83157)                            | [~contest-9493/H/main.cpp](~contest-9493/H/main.cpp) |
+| I    | [LCM of two positive integers](https://www.e-olymp.com/en/contests/9493/problems/83158)               | [~contest-9493/I/main.cpp](~contest-9493/I/main.cpp) |
 
