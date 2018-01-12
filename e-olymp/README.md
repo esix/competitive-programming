@@ -365,4 +365,5 @@ Compilers:
 | D    | [Function-10](https://www.e-olymp.com/en/contests/9493/problems/83153)                                | [~contest-9493/D/main.py](~contest-9493/D/main.py)   |
 | E    | [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)                             | [~contest-9493/E/main.py](~contest-9493/E/main.py)   |
 | F    | [Fibonacci Sequence](https://www.e-olymp.com/en/contests/9493/problems/83155)                         | [~contest-9493/F/main.py](~contest-9493/F/main.py)   |
+| G    | [How Many?](https://www.e-olymp.com/en/contests/9493/problems/83156)                                  | [~contest-9493/G/main.py](~contest-9493/G/main.py)   |
 

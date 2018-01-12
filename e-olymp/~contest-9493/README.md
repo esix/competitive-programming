@@ -10,4 +10,5 @@
 | D  | [Function-10](https://www.e-olymp.com/en/contests/9493/problems/83153)        | [D/main.py](D/main.py) |
 | E  | [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)     | [E/main.py](E/main.py) |
 | F  | [Fibonacci Sequence](https://www.e-olymp.com/en/contests/9493/problems/83155) | [F/main.py](F/main.py) |
+| G  | [How Many?](https://www.e-olymp.com/en/contests/9493/problems/83156)          | [G/main.py](G/main.py) |
 
