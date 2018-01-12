@@ -138,6 +138,7 @@ Compilers:
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [page-126/3171/main.py](page-126/3171/main.py)       |
 |      | [Problems page 130](https://www.e-olymp.com/en/problems?page=130)                                     | [page-130/](page-130/)                               |
 | 3258 | [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)                                        | [page-130/3258/main.py](page-130/3258/main.py)       |
+| 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                 | [page-130/3260/main.py](page-130/3260/main.py)       |
 |      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [page-144/3608/main.cpp](page-144/3608/main.cpp)     |
 |      | [Problems page 154](https://www.e-olymp.com/en/problems?page=154)                                     | [page-154/](page-154/)                               |
