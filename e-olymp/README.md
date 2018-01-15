@@ -42,6 +42,8 @@ Compilers:
 | 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
 |      | [Problems page 007](https://www.e-olymp.com/en/problems?page=7)                                       | [page-007/](page-007/)                               |
 | 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [page-007/0182/main.cpp](page-007/0182/main.cpp)     |
+|      | [Problems page 009](https://www.e-olymp.com/en/problems?page=9)                                       | [page-009/](page-009/)                               |
+| 0248 | [Young gardener](https://www.e-olymp.com/en/problems/248)                                             | [page-009/0248/main.py](page-009/0248/main.py)       |
 |      | [Problems page 010](https://www.e-olymp.com/en/problems?page=10)                                      | [page-010/](page-010/)                               |
 | 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)                                     | [page-010/0273/main.cpp](page-010/0273/main.cpp)     |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                                      | [page-011/](page-011/)                               |
@@ -169,6 +171,9 @@ Compilers:
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                     | [page-174/4369/main.cpp](page-174/4369/main.cpp)     |
 |      | [Problems page 077](https://www.e-olymp.com/en/problems?page=177)                                     | [page-177/](page-177/)                               |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                            | [page-177/4439/main.py](page-177/4439/main.py)       |
+|      | [Problems page 188](https://www.e-olymp.com/en/problems?page=188)                                     | [page-188/](page-188/)                               |
+| 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                     | [page-188/4716/main.py](page-188/4716/main.py)       |
+| 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                     | [page-188/4717/main.py](page-188/4717/main.py)       |
 |      | [Problems page 189](https://www.e-olymp.com/en/problems?page=189)                                     | [page-189/](page-189/)                               |
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [page-189/4730/main.py](page-189/4730/main.py)       |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [page-189/4733/main.cpp](page-189/4733/main.cpp)     |
@@ -199,6 +204,8 @@ Compilers:
 |      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
 | 5133 | [abc](https://www.e-olymp.com/en/problems/5133)                                                       | [page-205/5133/main.py](page-205/5133/main.py)       |
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
+|      | [Problems page 206](https://www.e-olymp.com/en/problems?page=206)                                     | [page-206/](page-206/)                               |
+| 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                            | [page-206/5175/main.py](page-206/5175/main.py)       |
 |      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [page-209/5235/main.py](page-209/5235/main.py)       |
 |      | [Problems page 213](https://www.e-olymp.com/en/problems?page=213)                                     | [page-213/](page-213/)                               |
@@ -231,7 +238,11 @@ Compilers:
 | 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
 |      | [Problems page 296](https://www.e-olymp.com/en/problems?page=296)                                     | [page-296/](page-296/)                               |
+| 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [page-296/7401/main.py](page-296/7401/main.py)       |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [page-296/7403/main.cpp](page-296/7403/main.cpp)     |
+|      | [Problems page 317](https://www.e-olymp.com/en/problems?page=317)                                     | [page-317/](page-317/)                               |
+| 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [page-317/7943/main.py](page-317/7943/main.py)       |
+| 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [page-317/7944/main.py](page-317/7944/main.py)       |
 |      | [Problems page 326](https://www.e-olymp.com/en/problems?page=326)                                     | [page-326/](page-326/)                               |
 | 8172 | [Polyhedra](https://www.e-olymp.com/en/problems/8172)                                                 | [page-326/8172/main.py](page-326/8172/main.py)       |
 | 8173 | [Majority](https://www.e-olymp.com/en/problems/8173)                                                  | [page-326/8173/main.py](page-326/8173/main.py)       |
