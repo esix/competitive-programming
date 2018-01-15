@@ -181,6 +181,7 @@ Compilers:
 |      | [Problems page 203](https://www.e-olymp.com/en/problems?page=203)                                     | [page-203/](page-203/)                               |
 | 5076 | [Regular graph](https://www.e-olymp.com/en/problems/5076)                                             | [page-203/5076/main.py](page-203/5076/main.py)       |
 | 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                              | [page-203/5080/main.cpp](page-203/5080/main.cpp)     |
+| 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                                             | [page-203/5083/main.cpp](page-203/5083/main.cpp)     |
 | 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                              | [page-203/5088/main.cpp](page-203/5088/main.cpp)     |
 |      | [Problems page 204](https://www.e-olymp.com/en/problems?page=204)                                     | [page-204/](page-204/)                               |
 | 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                   | [page-204/5107/main.cpp](page-204/5107/main.cpp)     |
