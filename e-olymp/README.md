@@ -144,6 +144,8 @@ Compilers:
 | 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                 | [page-130/3260/main.py](page-130/3260/main.py)       |
 |      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [page-144/3608/main.cpp](page-144/3608/main.cpp)     |
+|      | [Problems page 149](https://www.e-olymp.com/en/problems?page=149)                                     | [page-149/](page-149/)                               |
+| 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                                     | [page-149/3733/main.py](page-149/3733/main.py)       |
 |      | [Problems page 154](https://www.e-olymp.com/en/problems?page=154)                                     | [page-154/](page-154/)                               |
 | 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [page-154/3867/main.py](page-154/3867/main.py)       |
 |      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                                     | [page-156/](page-156/)                               |
