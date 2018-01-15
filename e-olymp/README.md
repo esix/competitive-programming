@@ -381,4 +381,5 @@ Compilers:
 | M    | [Sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83162)                              | [~contest-9493/M/main.cpp](~contest-9493/M/main.cpp) |
 | N    | [The minimal sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83163)                  | [~contest-9493/N/main.cpp](~contest-9493/N/main.cpp) |
 | O    | [Modular Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83164)                     | [~contest-9493/O/main.cpp](~contest-9493/O/main.cpp) |
+| P    | [Least Common Multiple](https://www.e-olymp.com/en/contests/9493/problems/83165)                      | [~contest-9493/P/main.py](~contest-9493/P/main.py)   |
 
