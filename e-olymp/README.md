@@ -388,4 +388,14 @@ Compilers:
 | P    | [Least Common Multiple](https://www.e-olymp.com/en/contests/9493/problems/83165)                      | [~contest-9493/P/main.py](~contest-9493/P/main.py)   |
 |      | [Hello world! Read & write the data](https://www.e-olymp.com/en/contests/9508)                        | [~contest-9508/](~contest-9508/)                     |
 | A    | [Hello World!](https://www.e-olymp.com/en/contests/9508/problems/83301)                               | [~contest-9508/A/main.py](~contest-9508/A/main.py)   |
+| B    | [12345](https://www.e-olymp.com/en/contests/9508/problems/83302)                                      | [~contest-9508/B/main.py](~contest-9508/B/main.py)   |
+| C    | [abc](https://www.e-olymp.com/en/contests/9508/problems/83303)                                        | [~contest-9508/C/main.py](~contest-9508/C/main.py)   |
+| D    | [Lake with lilies](https://www.e-olymp.com/en/contests/9508/problems/83304)                           | [~contest-9508/D/main.py](~contest-9508/D/main.py)   |
+| E    | [Divide the apples - 1](https://www.e-olymp.com/en/contests/9508/problems/83305)                      | [~contest-9508/E/main.py](~contest-9508/E/main.py)   |
+| F    | [Divide the apples - 2](https://www.e-olymp.com/en/contests/9508/problems/83306)                      | [~contest-9508/F/main.py](~contest-9508/F/main.py)   |
+| G    | [The last digit](https://www.e-olymp.com/en/contests/9508/problems/83307)                             | [~contest-9508/G/main.py](~contest-9508/G/main.py)   |
+| H    | [Stepan Friends](https://www.e-olymp.com/en/contests/9508/problems/83308)                             | [~contest-9508/H/main.py](~contest-9508/H/main.py)   |
+| I    | [Perimeter of rectangle](https://www.e-olymp.com/en/contests/9508/problems/83309)                     | [~contest-9508/I/main.py](~contest-9508/I/main.py)   |
+| J    | [Area of rectangle](https://www.e-olymp.com/en/contests/9508/problems/83310)                          | [~contest-9508/J/main.py](~contest-9508/J/main.py)   |
+| K    | [Young gardener](https://www.e-olymp.com/en/contests/9508/problems/83311)                             | [~contest-9508/K/main.py](~contest-9508/K/main.py)   |
 
