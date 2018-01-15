@@ -16,4 +16,5 @@
 | J  | [GCD](https://www.e-olymp.com/en/contests/9493/problems/83159)                          | [J/main.cpp](J/main.cpp) |
 | K  | [Fibonacci](https://www.e-olymp.com/en/contests/9493/problems/83160)                    | [K/main.py](K/main.py)   |
 | L  | [Hailstone HOTPO](https://www.e-olymp.com/en/contests/9493/problems/83161)              | [L/main.cpp](L/main.cpp) |
+| M  | [Sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83162)                | [M/main.cpp](M/main.cpp) |
 
