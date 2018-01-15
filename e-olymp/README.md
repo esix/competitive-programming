@@ -42,6 +42,8 @@ Compilers:
 | 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
 |      | [Problems page 007](https://www.e-olymp.com/en/problems?page=7)                                       | [page-007/](page-007/)                               |
 | 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [page-007/0182/main.cpp](page-007/0182/main.cpp)     |
+|      | [Problems page 010](https://www.e-olymp.com/en/problems?page=10)                                      | [page-010/](page-010/)                               |
+| 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)                                     | [page-010/0273/main.cpp](page-010/0273/main.cpp)     |
 |      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                                      | [page-011/](page-011/)                               |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
 |      | [Problems page 014](https://www.e-olymp.com/en/problems?page=14)                                      | [page-014/](page-014/)                               |
