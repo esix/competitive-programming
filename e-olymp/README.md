@@ -73,6 +73,7 @@ Compilers:
 |      | [Problems page 039](https://www.e-olymp.com/en/problems?page=39)                                      | [page-039/](page-039/)                               |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [page-039/0977/main.cpp](page-039/0977/main.cpp)     |
 | 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                                                 | [page-039/0978/main.cpp](page-039/0978/main.cpp)     |
+| 0990 | [12345](https://www.e-olymp.com/en/problems/990)                                                      | [page-039/0990/main.py](page-039/0990/main.py)       |
 | 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                                           | [page-039/0992/main.cpp](page-039/0992/main.cpp)     |
 | 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                             | [page-039/0993/main.cpp](page-039/0993/main.cpp)     |
 | 0994 | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                              | [page-039/0994/main.cpp](page-039/0994/main.cpp)     |
