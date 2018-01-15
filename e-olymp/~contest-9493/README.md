@@ -18,4 +18,5 @@
 | L  | [Hailstone HOTPO](https://www.e-olymp.com/en/contests/9493/problems/83161)              | [L/main.cpp](L/main.cpp) |
 | M  | [Sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83162)                | [M/main.cpp](M/main.cpp) |
 | N  | [The minimal sum of digits](https://www.e-olymp.com/en/contests/9493/problems/83163)    | [N/main.cpp](N/main.cpp) |
+| O  | [Modular Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83164)       | [O/main.cpp](O/main.cpp) |
 
