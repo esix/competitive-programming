@@ -38,6 +38,7 @@ Compilers:
 |      | [Problems page 005](https://www.e-olymp.com/en/problems?page=5)                                       | [page-005/](page-005/)                               |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [page-005/0136/main.cpp](page-005/0136/main.cpp)     |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                        | [page-005/0137/main.cpp](page-005/0137/main.cpp)     |
+| 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)                                  | [page-005/0141/main.cpp](page-005/0141/main.cpp)     |
 | 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
 |      | [Problems page 007](https://www.e-olymp.com/en/problems?page=7)                                       | [page-007/](page-007/)                               |
 | 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [page-007/0182/main.cpp](page-007/0182/main.cpp)     |
