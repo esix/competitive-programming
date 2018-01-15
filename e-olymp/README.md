@@ -112,6 +112,8 @@ Compilers:
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [page-066/1658/main.py](page-066/1658/main.py)       |
 |      | [Problems page 077](https://www.e-olymp.com/en/problems?page=77)                                      | [page-077/](page-077/)                               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [page-077/1941/main.cpp](page-077/1941/main.cpp)     |
+|      | [Problems page 082](https://www.e-olymp.com/en/problems?page=82)                                      | [page-082/](page-082/)                               |
+| 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [page-082/2059/main.py](page-082/2059/main.py)       |
 |      | [Problems page 085](https://www.e-olymp.com/en/problems?page=85)                                      | [page-085/](page-085/)                               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [page-085/2129/main.py](page-085/2129/main.py)       |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [page-085/2130/main.py](page-085/2130/main.py)       |
