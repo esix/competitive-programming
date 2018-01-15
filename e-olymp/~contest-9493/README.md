@@ -15,4 +15,5 @@
 | I  | [LCM of two positive integers](https://www.e-olymp.com/en/contests/9493/problems/83158) | [I/main.cpp](I/main.cpp) |
 | J  | [GCD](https://www.e-olymp.com/en/contests/9493/problems/83159)                          | [J/main.cpp](J/main.cpp) |
 | K  | [Fibonacci](https://www.e-olymp.com/en/contests/9493/problems/83160)                    | [K/main.py](K/main.py)   |
+| L  | [Hailstone HOTPO](https://www.e-olymp.com/en/contests/9493/problems/83161)              | [L/main.cpp](L/main.cpp) |
 

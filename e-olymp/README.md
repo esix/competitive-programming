@@ -372,4 +372,5 @@ Compilers:
 | I    | [LCM of two positive integers](https://www.e-olymp.com/en/contests/9493/problems/83158)               | [~contest-9493/I/main.cpp](~contest-9493/I/main.cpp) |
 | J    | [GCD](https://www.e-olymp.com/en/contests/9493/problems/83159)                                        | [~contest-9493/J/main.cpp](~contest-9493/J/main.cpp) |
 | K    | [Fibonacci](https://www.e-olymp.com/en/contests/9493/problems/83160)                                  | [~contest-9493/K/main.py](~contest-9493/K/main.py)   |
+| L    | [Hailstone HOTPO](https://www.e-olymp.com/en/contests/9493/problems/83161)                            | [~contest-9493/L/main.cpp](~contest-9493/L/main.cpp) |
 
