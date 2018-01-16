@@ -413,4 +413,8 @@ Compilers:
 | I    | [Perimeter of rectangle](https://www.e-olymp.com/en/contests/9508/problems/83309)                     | [~contest-9508/I/main.py](~contest-9508/I/main.py)   |
 | J    | [Area of rectangle](https://www.e-olymp.com/en/contests/9508/problems/83310)                          | [~contest-9508/J/main.py](~contest-9508/J/main.py)   |
 | K    | [Young gardener](https://www.e-olymp.com/en/contests/9508/problems/83311)                             | [~contest-9508/K/main.py](~contest-9508/K/main.py)   |
+|      | [Recursive functions - ADVANCED](https://www.e-olymp.com/en/contests/9520)                            | [~contest-9520/](~contest-9520/)                     |
+| A    | [Fast Exponentiation](https://www.e-olymp.com/en/contests/9520/problems/83413)                        | [~contest-9520/A/main.py](~contest-9520/A/main.py)   |
+| B    | [Inverse](https://www.e-olymp.com/en/contests/9520/problems/83414)                                    | [~contest-9520/B/main.cpp](~contest-9520/B/main.cpp) |
+| C    | [Just Add It](https://www.e-olymp.com/en/contests/9520/problems/83415)                                | [~contest-9520/C/main.cpp](~contest-9520/C/main.cpp) |
 
