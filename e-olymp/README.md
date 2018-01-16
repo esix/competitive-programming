@@ -417,4 +417,8 @@ Compilers:
 | A    | [Fast Exponentiation](https://www.e-olymp.com/en/contests/9520/problems/83413)                        | [~contest-9520/A/main.py](~contest-9520/A/main.py)   |
 | B    | [Inverse](https://www.e-olymp.com/en/contests/9520/problems/83414)                                    | [~contest-9520/B/main.cpp](~contest-9520/B/main.cpp) |
 | C    | [Just Add It](https://www.e-olymp.com/en/contests/9520/problems/83415)                                | [~contest-9520/C/main.cpp](~contest-9520/C/main.cpp) |
+| D    | [The Segment](https://www.e-olymp.com/en/contests/9520/problems/83416)                                | [~contest-9520/D/main.cpp](~contest-9520/D/main.cpp) |
+| E    | [Simple division](https://www.e-olymp.com/en/contests/9520/problems/83417)                            | [~contest-9520/E/main.py](~contest-9520/E/main.py)   |
+| F    | [Reduce a fraction](https://www.e-olymp.com/en/contests/9520/problems/83418)                          | [~contest-9520/F/main.py](~contest-9520/F/main.py)   |
+| H    | [Garland](https://www.e-olymp.com/en/contests/9520/problems/83420)                                    | [~contest-9520/H/main.py](~contest-9520/H/main.py)   |
 
