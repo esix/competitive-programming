@@ -1,0 +1,22 @@
+# 5000-5999
+
+| ID   | Problem statement                                                                  | Solution                       |
+|------|------------------------------------------------------------------------------------|--------------------------------|
+| 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                  | [5072/main.cpp](5072/main.cpp) |
+| 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                             | [5073/main.cpp](5073/main.cpp) |
+| 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074) | [5074/main.py](5074/main.py)   |
+| 5076 | [Regular graph](https://www.e-olymp.com/en/problems/5076)                          | [5076/main.py](5076/main.py)   |
+| 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)           | [5080/main.cpp](5080/main.cpp) |
+| 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                          | [5083/main.cpp](5083/main.cpp) |
+| 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)           | [5088/main.cpp](5088/main.cpp) |
+| 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                | [5107/main.cpp](5107/main.cpp) |
+| 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                        | [5123/main.cpp](5123/main.cpp) |
+| 5133 | [abc](https://www.e-olymp.com/en/problems/5133)                                    | [5133/main.py](5133/main.py)   |
+| 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)              | [5134/main.py](5134/main.py)   |
+| 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                         | [5175/main.py](5175/main.py)   |
+| 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                        | [5235/main.py](5235/main.py)   |
+| 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                     | [5338/main.cpp](5338/main.cpp) |
+| 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                              | [5366/main.cpp](5366/main.cpp) |
+| 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                  | [5471/main.cpp](5471/main.cpp) |
+| 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)               | [5669/main.py](5669/main.py)   |
+

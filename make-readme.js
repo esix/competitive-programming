@@ -13,8 +13,12 @@ function loadMainReadmeFileLines() {
   return lines;
 }
 
+function isDigit(c) {
+  return '0' <= c && c <= '9';
+}
+
 function comparator(a, b) {
-  const aNum = parseInt(a), bNum = parseInt(b);
+  const aNum = parseInt(a, 10), bNum = parseInt(b, 10);
   
   // contests - at the end
   if (a[0] == '~' && b[0] != '~') return 1;

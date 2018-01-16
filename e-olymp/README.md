@@ -14,250 +14,174 @@ Compilers:
 
 | ID   | Problem statement                                                                                     | Solution                                             |
 |------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-|      | [Problems page 000](https://www.e-olymp.com/en/problems?page=0)                                       | [page-000/](page-000/)                               |
-| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                              | [page-000/0001/main.py](page-000/0001/main.py)       |
-| 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                                       | [page-000/0002/main.py](page-000/0002/main.py)       |
-| 0003 | [Match’s model](https://www.e-olymp.com/en/problems/3)                                                | [page-000/0003/main.py](page-000/0003/main.py)       |
-| 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)                                                  | [page-000/0004/main.cpp](page-000/0004/main.cpp)     |
-| 0007 | [Roman numerals](https://www.e-olymp.com/en/problems/7)                                               | [page-000/0007/main.py](page-000/0007/main.py)       |
-| 0019 | [Degree of symmetry](https://www.e-olymp.com/en/problems/19)                                          | [page-000/0019/main.py](page-000/0019/main.py)       |
-|      | [Problems page 001](https://www.e-olymp.com/en/problems?page=1)                                       | [page-001/](page-001/)                               |
-| 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                                                | [page-001/0027/main.py](page-001/0027/main.py)       |
-| 0031 | [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31)                                   | [page-001/0031/main.py](page-001/0031/main.py)       |
-| 0041 | [Command of the Mayor](https://www.e-olymp.com/en/problems/41)                                        | [page-001/0041/main.py](page-001/0041/main.py)       |
-| 0046 | [The Segments](https://www.e-olymp.com/en/problems/46)                                                | [page-001/0046/main.py](page-001/0046/main.py)       |
-|      | [Problems page 002](https://www.e-olymp.com/en/problems?page=2)                                       | [page-002/](page-002/)                               |
-| 0051 | [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)                                  | [page-002/0051/main.py](page-002/0051/main.py)       |
-| 0052 | [The Cheese for Anfisa](https://www.e-olymp.com/en/problems/52)                                       | [page-002/0052/main.py](page-002/0052/main.py)       |
-| 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                            | [page-002/0057/main.py](page-002/0057/main.py)       |
-| 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                     | [page-002/0060/main.cpp](page-002/0060/main.cpp)     |
-| 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [page-002/0066/main.py](page-002/0066/main.py)       |
-|      | [Problems page 004](https://www.e-olymp.com/en/problems?page=4)                                       | [page-004/](page-004/)                               |
-| 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [page-004/0122/main.cpp](page-004/0122/main.cpp)     |
-| 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [page-004/0124/main.cpp](page-004/0124/main.cpp)     |
-|      | [Problems page 005](https://www.e-olymp.com/en/problems?page=5)                                       | [page-005/](page-005/)                               |
-| 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [page-005/0136/main.cpp](page-005/0136/main.cpp)     |
-| 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                        | [page-005/0137/main.cpp](page-005/0137/main.cpp)     |
-| 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)                                  | [page-005/0141/main.cpp](page-005/0141/main.cpp)     |
-| 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [page-005/0144/main.cpp](page-005/0144/main.cpp)     |
-|      | [Problems page 007](https://www.e-olymp.com/en/problems?page=7)                                       | [page-007/](page-007/)                               |
-| 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [page-007/0182/main.cpp](page-007/0182/main.cpp)     |
-|      | [Problems page 009](https://www.e-olymp.com/en/problems?page=9)                                       | [page-009/](page-009/)                               |
-| 0248 | [Young gardener](https://www.e-olymp.com/en/problems/248)                                             | [page-009/0248/main.py](page-009/0248/main.py)       |
-|      | [Problems page 010](https://www.e-olymp.com/en/problems?page=10)                                      | [page-010/](page-010/)                               |
-| 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)                                     | [page-010/0273/main.cpp](page-010/0273/main.cpp)     |
-|      | [Problems page 011](https://www.e-olymp.com/en/problems?page=11)                                      | [page-011/](page-011/)                               |
-| 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [page-011/0280/main.cpp](page-011/0280/main.cpp)     |
-|      | [Problems page 014](https://www.e-olymp.com/en/problems?page=14)                                      | [page-014/](page-014/)                               |
-| 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                                        | [page-014/0359/main.cpp](page-014/0359/main.cpp)     |
-|      | [Problems page 016](https://www.e-olymp.com/en/problems?page=16)                                      | [page-016/](page-016/)                               |
-| 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [page-016/0413/main.cpp](page-016/0413/main.cpp)     |
-| 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [page-016/0418/main.py](page-016/0418/main.py)       |
-|      | [Problems page 017](https://www.e-olymp.com/en/problems?page=17)                                      | [page-017/](page-017/)                               |
-| 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [page-017/0432/main.cpp](page-017/0432/main.cpp)     |
-|      | [Problems page 021](https://www.e-olymp.com/en/problems?page=21)                                      | [page-021/](page-021/)                               |
-| 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [page-021/0543/main.cpp](page-021/0543/main.cpp)     |
-|      | [Problems page 022](https://www.e-olymp.com/en/problems?page=22)                                      | [page-022/](page-022/)                               |
-| 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [page-022/0571/main.cpp](page-022/0571/main.cpp)     |
-|      | [Problems page 024](https://www.e-olymp.com/en/problems?page=24)                                      | [page-024/](page-024/)                               |
-| 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                        | [page-024/0610/main.cpp](page-024/0610/main.cpp)     |
-| 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                 | [page-024/0625/main.cpp](page-024/0625/main.cpp)     |
-|      | [Problems page 026](https://www.e-olymp.com/en/problems?page=26)                                      | [page-026/](page-026/)                               |
-| 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                               | [page-026/0653/main.py](page-026/0653/main.py)       |
-|      | [Problems page 036](https://www.e-olymp.com/en/problems?page=36)                                      | [page-036/](page-036/)                               |
-| 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [page-036/0924/main.py](page-036/0924/main.py)       |
-| 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                             | [page-036/0925/main.cpp](page-036/0925/main.cpp)     |
-|      | [Problems page 037](https://www.e-olymp.com/en/problems?page=37)                                      | [page-037/](page-037/)                               |
-| 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                                      | [page-037/0926/main.py](page-037/0926/main.py)       |
-| 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                              | [page-037/0929/main.py](page-037/0929/main.py)       |
-| 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                                 | [page-037/0932/main.py](page-037/0932/main.py)       |
-| 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                                  | [page-037/0938/main.py](page-037/0938/main.py)       |
-|      | [Problems page 039](https://www.e-olymp.com/en/problems?page=39)                                      | [page-039/](page-039/)                               |
-| 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [page-039/0977/main.cpp](page-039/0977/main.cpp)     |
-| 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                                                 | [page-039/0978/main.cpp](page-039/0978/main.cpp)     |
-| 0990 | [12345](https://www.e-olymp.com/en/problems/990)                                                      | [page-039/0990/main.py](page-039/0990/main.py)       |
-| 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                                           | [page-039/0992/main.cpp](page-039/0992/main.cpp)     |
-| 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                             | [page-039/0993/main.cpp](page-039/0993/main.cpp)     |
-| 0994 | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                              | [page-039/0994/main.cpp](page-039/0994/main.cpp)     |
-| 0997 | [One knight](https://www.e-olymp.com/en/problems/997)                                                 | [page-039/0997/main.cpp](page-039/0997/main.cpp)     |
-|      | [Problems page 040](https://www.e-olymp.com/en/problems?page=40)                                      | [page-040/](page-040/)                               |
-| 1024 | [Hello World!](https://www.e-olymp.com/en/problems/1024)                                              | [page-040/1024/main.py](page-040/1024/main.py)       |
-|      | [Problems page 041](https://www.e-olymp.com/en/problems?page=41)                                      | [page-041/](page-041/)                               |
-| 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                                           | [page-041/1033/main.cpp](page-041/1033/main.cpp)     |
-| 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                                          | [page-041/1043/main.py](page-041/1043/main.py)       |
-|      | [Problems page 042](https://www.e-olymp.com/en/problems?page=42)                                      | [page-042/](page-042/)                               |
-| 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                                                     | [page-042/1060/main.cpp](page-042/1060/main.cpp)     |
-|      | [Problems page 044](https://www.e-olymp.com/en/problems?page=44)                                      | [page-044/](page-044/)                               |
-| 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [page-044/1115/main.cpp](page-044/1115/main.cpp)     |
-| 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [page-044/1120/main.cpp](page-044/1120/main.cpp)     |
-|      | [Problems page 046](https://www.e-olymp.com/en/problems?page=46)                                      | [page-046/](page-046/)                               |
-| 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                          | [page-046/1154/main.cpp](page-046/1154/main.cpp)     |
-|      | [Problems page 047](https://www.e-olymp.com/en/problems?page=47)                                      | [page-047/](page-047/)                               |
-| 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                                      | [page-047/1181/main.cpp](page-047/1181/main.cpp)     |
-| 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                                           | [page-047/1182/main.py](page-047/1182/main.py)       |
-| 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                                     | [page-047/1183/main.cpp](page-047/1183/main.cpp)     |
-|      | [Problems page 049](https://www.e-olymp.com/en/problems?page=49)                                      | [page-049/](page-049/)                               |
-| 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [page-049/1243/main.py](page-049/1243/main.py)       |
-| 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [page-049/1246/main.cpp](page-049/1246/main.cpp)     |
-|      | [Problems page 054](https://www.e-olymp.com/en/problems?page=54)                                      | [page-054/](page-054/)                               |
-| 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [page-054/1363/main.cpp](page-054/1363/main.cpp)     |
-|      | [Problems page 056](https://www.e-olymp.com/en/problems?page=56)                                      | [page-056/](page-056/)                               |
-| 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                                   | [page-056/1414/main.cpp](page-056/1414/main.cpp)     |
-|      | [Problems page 058](https://www.e-olymp.com/en/problems?page=58)                                      | [page-058/](page-058/)                               |
-| 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                                   | [page-058/1452/main.cpp](page-058/1452/main.cpp)     |
-| 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                              | [page-058/1453/main.cpp](page-058/1453/main.cpp)     |
-|      | [Problems page 064](https://www.e-olymp.com/en/problems?page=64)                                      | [page-064/](page-064/)                               |
-| 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [page-064/1601/main.cpp](page-064/1601/main.cpp)     |
-| 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [page-064/1602/main.cpp](page-064/1602/main.cpp)     |
-| 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [page-064/1603/main.py](page-064/1603/main.py)       |
-|      | [Problems page 066](https://www.e-olymp.com/en/problems?page=66)                                      | [page-066/](page-066/)                               |
-| 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [page-066/1658/main.py](page-066/1658/main.py)       |
-|      | [Problems page 077](https://www.e-olymp.com/en/problems?page=77)                                      | [page-077/](page-077/)                               |
-| 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [page-077/1941/main.cpp](page-077/1941/main.cpp)     |
-|      | [Problems page 082](https://www.e-olymp.com/en/problems?page=82)                                      | [page-082/](page-082/)                               |
-| 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [page-082/2059/main.py](page-082/2059/main.py)       |
-|      | [Problems page 085](https://www.e-olymp.com/en/problems?page=85)                                      | [page-085/](page-085/)                               |
-| 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [page-085/2129/main.py](page-085/2129/main.py)       |
-| 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [page-085/2130/main.py](page-085/2130/main.py)       |
-| 2131 | [Vector length](https://www.e-olymp.com/en/problems/2131)                                             | [page-085/2131/main.py](page-085/2131/main.py)       |
-| 2132 | [Point on a line](https://www.e-olymp.com/en/problems/2132)                                           | [page-085/2132/main.py](page-085/2132/main.py)       |
-| 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                                            | [page-085/2133/main.py](page-085/2133/main.py)       |
-| 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                                        | [page-085/2134/main.py](page-085/2134/main.py)       |
-|      | [Problems page 088](https://www.e-olymp.com/en/problems?page=88)                                      | [page-088/](page-088/)                               |
-| 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                                | [page-088/2214/main.py](page-088/2214/main.py)       |
-|      | [Problems page 095](https://www.e-olymp.com/en/problems?page=95)                                      | [page-095/](page-095/)                               |
-| 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [page-095/2382/main.cpp](page-095/2382/main.cpp)     |
-| 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [page-095/2383/main.cpp](page-095/2383/main.cpp)     |
-|      | [Problems page 096](https://www.e-olymp.com/en/problems?page=96)                                      | [page-096/](page-096/)                               |
-| 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                                      | [page-096/2401/main.cpp](page-096/2401/main.cpp)     |
-|      | [Problems page 097](https://www.e-olymp.com/en/problems?page=97)                                      | [page-097/](page-097/)                               |
-| 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [page-097/2440/main.cpp](page-097/2440/main.cpp)     |
-|      | [Problems page 098](https://www.e-olymp.com/en/problems?page=98)                                      | [page-098/](page-098/)                               |
-| 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [page-098/2470/main.cpp](page-098/2470/main.cpp)     |
-| 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [page-098/2471/main.cpp](page-098/2471/main.cpp)     |
-| 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [page-098/2472/main.cpp](page-098/2472/main.cpp)     |
-|      | [Problems page 101](https://www.e-olymp.com/en/problems?page=101)                                     | [page-101/](page-101/)                               |
-| 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [page-101/2549/main.py](page-101/2549/main.py)       |
-|      | [Problems page 105](https://www.e-olymp.com/en/problems?page=105)                                     | [page-105/](page-105/)                               |
-| 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [page-105/2631/main.cpp](page-105/2631/main.cpp)     |
-|      | [Problems page 106](https://www.e-olymp.com/en/problems?page=106)                                     | [page-106/](page-106/)                               |
-| 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [page-106/2674/main.py](page-106/2674/main.py)       |
-|      | [Problems page 119](https://www.e-olymp.com/en/problems?page=119)                                     | [page-119/](page-119/)                               |
-| 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                               | [page-119/2999/main.py](page-119/2999/main.py)       |
-|      | [Problems page 126](https://www.e-olymp.com/en/problems?page=126)                                     | [page-126/](page-126/)                               |
-| 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [page-126/3171/main.py](page-126/3171/main.py)       |
-|      | [Problems page 130](https://www.e-olymp.com/en/problems?page=130)                                     | [page-130/](page-130/)                               |
-| 3258 | [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)                                        | [page-130/3258/main.py](page-130/3258/main.py)       |
-| 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                 | [page-130/3260/main.py](page-130/3260/main.py)       |
-|      | [Problems page 144](https://www.e-olymp.com/en/problems?page=144)                                     | [page-144/](page-144/)                               |
-| 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [page-144/3608/main.cpp](page-144/3608/main.cpp)     |
-|      | [Problems page 149](https://www.e-olymp.com/en/problems?page=149)                                     | [page-149/](page-149/)                               |
-| 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                                     | [page-149/3733/main.py](page-149/3733/main.py)       |
-|      | [Problems page 154](https://www.e-olymp.com/en/problems?page=154)                                     | [page-154/](page-154/)                               |
-| 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [page-154/3867/main.py](page-154/3867/main.py)       |
-|      | [Problems page 156](https://www.e-olymp.com/en/problems?page=156)                                     | [page-156/](page-156/)                               |
-| 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [page-156/3920/main.cpp](page-156/3920/main.cpp)     |
-|      | [Problems page 159](https://www.e-olymp.com/en/problems?page=159)                                     | [page-159/](page-159/)                               |
-| 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [page-159/3981/main.cpp](page-159/3981/main.cpp)     |
-| 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [page-159/3982/main.cpp](page-159/3982/main.cpp)     |
-| 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [page-159/3986/main.cpp](page-159/3986/main.cpp)     |
-|      | [Problems page 160](https://www.e-olymp.com/en/problems?page=160)                                     | [page-160/](page-160/)                               |
-| 4021 | [Knight move](https://www.e-olymp.com/en/problems/4021)                                               | [page-160/4021/main.cpp](page-160/4021/main.cpp)     |
-|      | [Problems page 161](https://www.e-olymp.com/en/problems?page=161)                                     | [page-161/](page-161/)                               |
-| 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                      | [page-161/4033/main.cpp](page-161/4033/main.cpp)     |
-|      | [Problems page 163](https://www.e-olymp.com/en/problems?page=163)                                     | [page-163/](page-163/)                               |
-| 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [page-163/4077/main.py](page-163/4077/main.py)       |
-|      | [Problems page 174](https://www.e-olymp.com/en/problems?page=174)                                     | [page-174/](page-174/)                               |
-| 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                     | [page-174/4369/main.cpp](page-174/4369/main.cpp)     |
-|      | [Problems page 077](https://www.e-olymp.com/en/problems?page=177)                                     | [page-177/](page-177/)                               |
-| 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                            | [page-177/4439/main.py](page-177/4439/main.py)       |
-|      | [Problems page 188](https://www.e-olymp.com/en/problems?page=188)                                     | [page-188/](page-188/)                               |
-| 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                     | [page-188/4716/main.py](page-188/4716/main.py)       |
-| 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                     | [page-188/4717/main.py](page-188/4717/main.py)       |
-|      | [Problems page 189](https://www.e-olymp.com/en/problems?page=189)                                     | [page-189/](page-189/)                               |
-| 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [page-189/4730/main.py](page-189/4730/main.py)       |
-| 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [page-189/4733/main.cpp](page-189/4733/main.cpp)     |
-| 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [page-189/4739/main.cpp](page-189/4739/main.cpp)     |
-|      | [Problems page 190](https://www.e-olymp.com/en/problems?page=190)                                     | [page-190/](page-190/)                               |
-| 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [page-190/4761/main.py](page-190/4761/main.py)       |
-| 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [page-190/4763/main.py](page-190/4763/main.py)       |
-| 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [page-190/4764/main.py](page-190/4764/main.py)       |
-|      | [Problems page 192](https://www.e-olymp.com/en/problems?page=192)                                     | [page-192/](page-192/)                               |
-| 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [page-192/4805/main.py](page-192/4805/main.py)       |
-| 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                        | [page-192/4819/main.cpp](page-192/4819/main.cpp)     |
-|      | [Problems page 194](https://www.e-olymp.com/en/problems?page=194)                                     | [page-194/](page-194/)                               |
-| 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                     | [page-194/4852/main.cpp](page-194/4852/main.cpp)     |
-| 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                                         | [page-194/4853/main.cpp](page-194/4853/main.cpp)     |
-| 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [page-194/4854/main.cpp](page-194/4854/main.cpp)     |
-|      | [Problems page 202](https://www.e-olymp.com/en/problems?page=202)                                     | [page-202/](page-202/)                               |
-| 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [page-202/5072/main.cpp](page-202/5072/main.cpp)     |
-| 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [page-202/5073/main.cpp](page-202/5073/main.cpp)     |
-| 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)                    | [page-202/5074/main.py](page-202/5074/main.py)       |
-|      | [Problems page 203](https://www.e-olymp.com/en/problems?page=203)                                     | [page-203/](page-203/)                               |
-| 5076 | [Regular graph](https://www.e-olymp.com/en/problems/5076)                                             | [page-203/5076/main.py](page-203/5076/main.py)       |
-| 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                              | [page-203/5080/main.cpp](page-203/5080/main.cpp)     |
-| 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                                             | [page-203/5083/main.cpp](page-203/5083/main.cpp)     |
-| 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                              | [page-203/5088/main.cpp](page-203/5088/main.cpp)     |
-|      | [Problems page 204](https://www.e-olymp.com/en/problems?page=204)                                     | [page-204/](page-204/)                               |
-| 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                   | [page-204/5107/main.cpp](page-204/5107/main.cpp)     |
-| 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                                           | [page-204/5123/main.cpp](page-204/5123/main.cpp)     |
-|      | [Problems page 205](https://www.e-olymp.com/en/problems?page=205)                                     | [page-205/](page-205/)                               |
-| 5133 | [abc](https://www.e-olymp.com/en/problems/5133)                                                       | [page-205/5133/main.py](page-205/5133/main.py)       |
-| 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [page-205/5134/main.py](page-205/5134/main.py)       |
-|      | [Problems page 206](https://www.e-olymp.com/en/problems?page=206)                                     | [page-206/](page-206/)                               |
-| 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                            | [page-206/5175/main.py](page-206/5175/main.py)       |
-|      | [Problems page 209](https://www.e-olymp.com/en/problems?page=209)                                     | [page-209/](page-209/)                               |
-| 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [page-209/5235/main.py](page-209/5235/main.py)       |
-|      | [Problems page 213](https://www.e-olymp.com/en/problems?page=213)                                     | [page-213/](page-213/)                               |
-| 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [page-213/5338/main.cpp](page-213/5338/main.cpp)     |
-|      | [Problems page 214](https://www.e-olymp.com/en/problems?page=214)                                     | [page-214/](page-214/)                               |
-| 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [page-214/5366/main.cpp](page-214/5366/main.cpp)     |
-|      | [Problems page 218](https://www.e-olymp.com/en/problems?page=218)                                     | [page-218/](page-218/)                               |
-| 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [page-218/5471/main.cpp](page-218/5471/main.cpp)     |
-|      | [Problems page 226](https://www.e-olymp.com/en/problems?page=226)                                     | [page-226/](page-226/)                               |
-| 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [page-226/5669/main.py](page-226/5669/main.py)       |
-|      | [Problems page 241](https://www.e-olymp.com/en/problems?page=241)                                     | [page-241/](page-241/)                               |
-| 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [page-241/6033/main.cpp](page-241/6033/main.cpp)     |
-|      | [Problems page 250](https://www.e-olymp.com/en/problems?page=250)                                     | [page-250/](page-250/)                               |
-| 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [page-250/6273/main.py](page-250/6273/main.py)       |
-| 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                  | [page-250/6275/main.py](page-250/6275/main.py)       |
-|      | [Problems page 252](https://www.e-olymp.com/en/problems?page=252)                                     | [page-252/](page-252/)                               |
-| 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [page-252/6302/main.py](page-252/6302/main.py)       |
-|      | [Problems page 255](https://www.e-olymp.com/en/problems?page=255)                                     | [page-255/](page-255/)                               |
-| 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                            | [page-255/6389/main.cpp](page-255/6389/main.cpp)     |
-|      | [Problems page 277](https://www.e-olymp.com/en/problems?page=277)                                     | [page-277/](page-277/)                               |
-| 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [page-277/6941/main.cpp](page-277/6941/main.cpp)     |
-|      | [Problems page 281](https://www.e-olymp.com/en/problems?page=281)                                     | [page-281/](page-281/)                               |
-| 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [page-281/7034/main.cpp](page-281/7034/main.cpp)     |
-|      | [Problems page 288](https://www.e-olymp.com/en/problems?page=288)                                     | [page-288/](page-288/)                               |
-| 7215 | [Лабиринт](https://www.e-olymp.com/en/problems/7215)                                                  | [page-288/7215/main.cpp](page-288/7215/main.cpp)     |
-|      | [Problems page 292](https://www.e-olymp.com/en/problems?page=292)                                     | [page-292/](page-292/)                               |
-| 7309 | [Deal!](https://www.e-olymp.com/en/problems/7309)                                                     | [page-292/7309/main.cpp](page-292/7309/main.cpp)     |
-| 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [page-292/7311/main.cpp](page-292/7311/main.cpp)     |
-|      | [Problems page 294](https://www.e-olymp.com/en/problems?page=294)                                     | [page-294/](page-294/)                               |
-| 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [page-294/7363/main.cpp](page-294/7363/main.cpp)     |
-| 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [page-294/7371/main.py](page-294/7371/main.py)       |
-|      | [Problems page 296](https://www.e-olymp.com/en/problems?page=296)                                     | [page-296/](page-296/)                               |
-| 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [page-296/7401/main.py](page-296/7401/main.py)       |
-| 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [page-296/7403/main.cpp](page-296/7403/main.cpp)     |
-|      | [Problems page 317](https://www.e-olymp.com/en/problems?page=317)                                     | [page-317/](page-317/)                               |
-| 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [page-317/7943/main.py](page-317/7943/main.py)       |
-| 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [page-317/7944/main.py](page-317/7944/main.py)       |
-|      | [Problems page 326](https://www.e-olymp.com/en/problems?page=326)                                     | [page-326/](page-326/)                               |
-| 8172 | [Polyhedra](https://www.e-olymp.com/en/problems/8172)                                                 | [page-326/8172/main.py](page-326/8172/main.py)       |
-| 8173 | [Majority](https://www.e-olymp.com/en/problems/8173)                                                  | [page-326/8173/main.py](page-326/8173/main.py)       |
-| 8174 | [Diamonds](https://www.e-olymp.com/en/problems/8174)                                                  | [page-326/8174/main.py](page-326/8174/main.py)       |
-| 8177 | [Ramp Number](https://www.e-olymp.com/en/problems/8177)                                               | [page-326/8177/main.py](page-326/8177/main.py)       |
-|      | [Problems page 327](https://www.e-olymp.com/en/problems?page=327)                                     | [page-327/](page-327/)                               |
-| 8188 | [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)                                              | [page-327/8188/main.cpp](page-327/8188/main.cpp)     |
-| 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [page-327/8194/main.cpp](page-327/8194/main.cpp)     |
-| 8195 | [Grid](https://www.e-olymp.com/en/problems/8195)                                                      | [page-327/8195/main.cpp](page-327/8195/main.cpp)     |
-| 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                  | [page-327/8201/main.py](page-327/8201/main.py)       |
-|      | [Problems page 328](https://www.e-olymp.com/en/problems?page=328)                                     | [page-328/](page-328/)                               |
-| 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                   | [page-328/8216/main.py](page-328/8216/main.py)       |
-| 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                   | [page-328/8217/main.cpp](page-328/8217/main.cpp)     |
-|      | [Problems page 329](https://www.e-olymp.com/en/problems?page=329)                                     | [page-329/](page-329/)                               |
-| 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [page-329/8254/main.py](page-329/8254/main.py)       |
+|      | 0000-0999                                                                                             | [0xxx/](0xxx/)                                       |
+| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                              | [0xxx/0001/main.py](0xxx/0001/main.py)               |
+| 0002 | [Digits](https://www.e-olymp.com/en/problems/2)                                                       | [0xxx/0002/main.py](0xxx/0002/main.py)               |
+| 0003 | [Match’s model](https://www.e-olymp.com/en/problems/3)                                                | [0xxx/0003/main.py](0xxx/0003/main.py)               |
+| 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)                                                  | [0xxx/0004/main.cpp](0xxx/0004/main.cpp)             |
+| 0007 | [Roman numerals](https://www.e-olymp.com/en/problems/7)                                               | [0xxx/0007/main.py](0xxx/0007/main.py)               |
+| 0019 | [Degree of symmetry](https://www.e-olymp.com/en/problems/19)                                          | [0xxx/0019/main.py](0xxx/0019/main.py)               |
+| 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                                                | [0xxx/0027/main.py](0xxx/0027/main.py)               |
+| 0031 | [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31)                                   | [0xxx/0031/main.py](0xxx/0031/main.py)               |
+| 0041 | [Command of the Mayor](https://www.e-olymp.com/en/problems/41)                                        | [0xxx/0041/main.py](0xxx/0041/main.py)               |
+| 0046 | [The Segments](https://www.e-olymp.com/en/problems/46)                                                | [0xxx/0046/main.py](0xxx/0046/main.py)               |
+| 0051 | [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)                                  | [0xxx/0051/main.py](0xxx/0051/main.py)               |
+| 0052 | [The Cheese for Anfisa](https://www.e-olymp.com/en/problems/52)                                       | [0xxx/0052/main.py](0xxx/0052/main.py)               |
+| 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                            | [0xxx/0057/main.py](0xxx/0057/main.py)               |
+| 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                     | [0xxx/0060/main.cpp](0xxx/0060/main.cpp)             |
+| 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [0xxx/0066/main.py](0xxx/0066/main.py)               |
+| 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
+| 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)             |
+| 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [0xxx/0136/main.cpp](0xxx/0136/main.cpp)             |
+| 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                        | [0xxx/0137/main.cpp](0xxx/0137/main.cpp)             |
+| 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)                                  | [0xxx/0141/main.cpp](0xxx/0141/main.cpp)             |
+| 0144 | [Quadrilateral](https://www.e-olymp.com/en/problems/144)                                              | [0xxx/0144/main.cpp](0xxx/0144/main.cpp)             |
+| 0182 | [Conscription](https://www.e-olymp.com/en/problems/182)                                               | [0xxx/0182/main.cpp](0xxx/0182/main.cpp)             |
+| 0248 | [Young gardener](https://www.e-olymp.com/en/problems/248)                                             | [0xxx/0248/main.py](0xxx/0248/main.py)               |
+| 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)                                     | [0xxx/0273/main.cpp](0xxx/0273/main.cpp)             |
+| 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [0xxx/0280/main.cpp](0xxx/0280/main.cpp)             |
+| 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                                        | [0xxx/0359/main.cpp](0xxx/0359/main.cpp)             |
+| 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [0xxx/0413/main.cpp](0xxx/0413/main.cpp)             |
+| 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [0xxx/0418/main.py](0xxx/0418/main.py)               |
+| 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
+| 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [0xxx/0543/main.cpp](0xxx/0543/main.cpp)             |
+| 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [0xxx/0571/main.cpp](0xxx/0571/main.cpp)             |
+| 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                        | [0xxx/0610/main.cpp](0xxx/0610/main.cpp)             |
+| 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                 | [0xxx/0625/main.cpp](0xxx/0625/main.cpp)             |
+| 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                               | [0xxx/0653/main.py](0xxx/0653/main.py)               |
+| 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [0xxx/0924/main.py](0xxx/0924/main.py)               |
+| 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                             | [0xxx/0925/main.cpp](0xxx/0925/main.cpp)             |
+| 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                                      | [0xxx/0926/main.py](0xxx/0926/main.py)               |
+| 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                              | [0xxx/0929/main.py](0xxx/0929/main.py)               |
+| 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                                 | [0xxx/0932/main.py](0xxx/0932/main.py)               |
+| 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                                  | [0xxx/0938/main.py](0xxx/0938/main.py)               |
+| 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [0xxx/0977/main.cpp](0xxx/0977/main.cpp)             |
+| 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                                                 | [0xxx/0978/main.cpp](0xxx/0978/main.cpp)             |
+| 0990 | [12345](https://www.e-olymp.com/en/problems/990)                                                      | [0xxx/0990/main.py](0xxx/0990/main.py)               |
+| 0992 | [Cities and roads](https://www.e-olymp.com/en/problems/992)                                           | [0xxx/0992/main.cpp](0xxx/0992/main.cpp)             |
+| 0993 | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                             | [0xxx/0993/main.cpp](0xxx/0993/main.cpp)             |
+| 0994 | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                              | [0xxx/0994/main.cpp](0xxx/0994/main.cpp)             |
+| 0997 | [One knight](https://www.e-olymp.com/en/problems/997)                                                 | [0xxx/0997/main.cpp](0xxx/0997/main.cpp)             |
+|      | 1000-1999                                                                                             | [1xxx/](1xxx/)                                       |
+| 1024 | [Hello World!](https://www.e-olymp.com/en/problems/1024)                                              | [1xxx/1024/main.py](1xxx/1024/main.py)               |
+| 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                                           | [1xxx/1033/main.cpp](1xxx/1033/main.cpp)             |
+| 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                                          | [1xxx/1043/main.py](1xxx/1043/main.py)               |
+| 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                                                     | [1xxx/1060/main.cpp](1xxx/1060/main.cpp)             |
+| 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [1xxx/1115/main.cpp](1xxx/1115/main.cpp)             |
+| 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [1xxx/1120/main.cpp](1xxx/1120/main.cpp)             |
+| 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                          | [1xxx/1154/main.cpp](1xxx/1154/main.cpp)             |
+| 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                                      | [1xxx/1181/main.cpp](1xxx/1181/main.cpp)             |
+| 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                                           | [1xxx/1182/main.py](1xxx/1182/main.py)               |
+| 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                                     | [1xxx/1183/main.cpp](1xxx/1183/main.cpp)             |
+| 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [1xxx/1243/main.py](1xxx/1243/main.py)               |
+| 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
+| 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [1xxx/1363/main.cpp](1xxx/1363/main.cpp)             |
+| 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                                   | [1xxx/1414/main.cpp](1xxx/1414/main.cpp)             |
+| 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                                   | [1xxx/1452/main.cpp](1xxx/1452/main.cpp)             |
+| 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                              | [1xxx/1453/main.cpp](1xxx/1453/main.cpp)             |
+| 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
+| 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
+| 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [1xxx/1603/main.py](1xxx/1603/main.py)               |
+| 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [1xxx/1658/main.py](1xxx/1658/main.py)               |
+| 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
+|      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
+| 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
+| 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [2xxx/2129/main.py](2xxx/2129/main.py)               |
+| 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [2xxx/2130/main.py](2xxx/2130/main.py)               |
+| 2131 | [Vector length](https://www.e-olymp.com/en/problems/2131)                                             | [2xxx/2131/main.py](2xxx/2131/main.py)               |
+| 2132 | [Point on a line](https://www.e-olymp.com/en/problems/2132)                                           | [2xxx/2132/main.py](2xxx/2132/main.py)               |
+| 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                                            | [2xxx/2133/main.py](2xxx/2133/main.py)               |
+| 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                                        | [2xxx/2134/main.py](2xxx/2134/main.py)               |
+| 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                                | [2xxx/2214/main.py](2xxx/2214/main.py)               |
+| 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [2xxx/2382/main.cpp](2xxx/2382/main.cpp)             |
+| 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [2xxx/2383/main.cpp](2xxx/2383/main.cpp)             |
+| 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                                      | [2xxx/2401/main.cpp](2xxx/2401/main.cpp)             |
+| 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [2xxx/2440/main.cpp](2xxx/2440/main.cpp)             |
+| 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [2xxx/2470/main.cpp](2xxx/2470/main.cpp)             |
+| 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [2xxx/2471/main.cpp](2xxx/2471/main.cpp)             |
+| 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [2xxx/2472/main.cpp](2xxx/2472/main.cpp)             |
+| 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [2xxx/2549/main.py](2xxx/2549/main.py)               |
+| 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
+| 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [2xxx/2674/main.py](2xxx/2674/main.py)               |
+| 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                               | [2xxx/2999/main.py](2xxx/2999/main.py)               |
+|      | 3000-3999                                                                                             | [3xxx/](3xxx/)                                       |
+| 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [3xxx/3171/main.py](3xxx/3171/main.py)               |
+| 3258 | [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)                                        | [3xxx/3258/main.py](3xxx/3258/main.py)               |
+| 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                 | [3xxx/3260/main.py](3xxx/3260/main.py)               |
+| 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [3xxx/3608/main.cpp](3xxx/3608/main.cpp)             |
+| 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                                     | [3xxx/3733/main.py](3xxx/3733/main.py)               |
+| 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [3xxx/3867/main.py](3xxx/3867/main.py)               |
+| 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [3xxx/3920/main.cpp](3xxx/3920/main.cpp)             |
+| 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [3xxx/3981/main.cpp](3xxx/3981/main.cpp)             |
+| 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [3xxx/3982/main.cpp](3xxx/3982/main.cpp)             |
+| 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [3xxx/3986/main.cpp](3xxx/3986/main.cpp)             |
+|      | 4000-4999                                                                                             | [4xxx/](4xxx/)                                       |
+| 4021 | [Knight move](https://www.e-olymp.com/en/problems/4021)                                               | [4xxx/4021/main.cpp](4xxx/4021/main.cpp)             |
+| 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                      | [4xxx/4033/main.cpp](4xxx/4033/main.cpp)             |
+| 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                        | [4xxx/4077/main.py](4xxx/4077/main.py)               |
+| 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                     | [4xxx/4369/main.cpp](4xxx/4369/main.cpp)             |
+| 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                            | [4xxx/4439/main.py](4xxx/4439/main.py)               |
+| 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                     | [4xxx/4716/main.py](4xxx/4716/main.py)               |
+| 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                     | [4xxx/4717/main.py](4xxx/4717/main.py)               |
+| 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [4xxx/4730/main.py](4xxx/4730/main.py)               |
+| 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
+| 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
+| 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [4xxx/4761/main.py](4xxx/4761/main.py)               |
+| 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [4xxx/4763/main.py](4xxx/4763/main.py)               |
+| 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [4xxx/4764/main.py](4xxx/4764/main.py)               |
+| 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [4xxx/4805/main.py](4xxx/4805/main.py)               |
+| 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                        | [4xxx/4819/main.cpp](4xxx/4819/main.cpp)             |
+| 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                     | [4xxx/4852/main.cpp](4xxx/4852/main.cpp)             |
+| 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                                         | [4xxx/4853/main.cpp](4xxx/4853/main.cpp)             |
+| 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [4xxx/4854/main.cpp](4xxx/4854/main.cpp)             |
+|      | 5000-5999                                                                                             | [5xxx/](5xxx/)                                       |
+| 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [5xxx/5072/main.cpp](5xxx/5072/main.cpp)             |
+| 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [5xxx/5073/main.cpp](5xxx/5073/main.cpp)             |
+| 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)                    | [5xxx/5074/main.py](5xxx/5074/main.py)               |
+| 5076 | [Regular graph](https://www.e-olymp.com/en/problems/5076)                                             | [5xxx/5076/main.py](5xxx/5076/main.py)               |
+| 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                              | [5xxx/5080/main.cpp](5xxx/5080/main.cpp)             |
+| 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                                             | [5xxx/5083/main.cpp](5xxx/5083/main.cpp)             |
+| 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                              | [5xxx/5088/main.cpp](5xxx/5088/main.cpp)             |
+| 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                   | [5xxx/5107/main.cpp](5xxx/5107/main.cpp)             |
+| 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                                           | [5xxx/5123/main.cpp](5xxx/5123/main.cpp)             |
+| 5133 | [abc](https://www.e-olymp.com/en/problems/5133)                                                       | [5xxx/5133/main.py](5xxx/5133/main.py)               |
+| 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)                                 | [5xxx/5134/main.py](5xxx/5134/main.py)               |
+| 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                            | [5xxx/5175/main.py](5xxx/5175/main.py)               |
+| 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [5xxx/5235/main.py](5xxx/5235/main.py)               |
+| 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [5xxx/5338/main.cpp](5xxx/5338/main.cpp)             |
+| 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [5xxx/5366/main.cpp](5xxx/5366/main.cpp)             |
+| 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [5xxx/5471/main.cpp](5xxx/5471/main.cpp)             |
+| 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [5xxx/5669/main.py](5xxx/5669/main.py)               |
+|      | 6000-6999                                                                                             | [6xxx/](6xxx/)                                       |
+| 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [6xxx/6033/main.cpp](6xxx/6033/main.cpp)             |
+| 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [6xxx/6273/main.py](6xxx/6273/main.py)               |
+| 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                  | [6xxx/6275/main.py](6xxx/6275/main.py)               |
+| 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [6xxx/6302/main.py](6xxx/6302/main.py)               |
+| 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                            | [6xxx/6389/main.cpp](6xxx/6389/main.cpp)             |
+| 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [6xxx/6941/main.cpp](6xxx/6941/main.cpp)             |
+|      | 7000-7999                                                                                             | [7xxx/](7xxx/)                                       |
+| 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [7xxx/7034/main.cpp](7xxx/7034/main.cpp)             |
+| 7215 | [Лабиринт](https://www.e-olymp.com/en/problems/7215)                                                  | [7xxx/7215/main.cpp](7xxx/7215/main.cpp)             |
+| 7309 | [Deal!](https://www.e-olymp.com/en/problems/7309)                                                     | [7xxx/7309/main.cpp](7xxx/7309/main.cpp)             |
+| 7311 | [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)                                        | [7xxx/7311/main.cpp](7xxx/7311/main.cpp)             |
+| 7363 | [Sum of fractions](https://www.e-olymp.com/en/problems/7363)                                          | [7xxx/7363/main.cpp](7xxx/7363/main.cpp)             |
+| 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [7xxx/7371/main.py](7xxx/7371/main.py)               |
+| 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [7xxx/7401/main.py](7xxx/7401/main.py)               |
+| 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [7xxx/7403/main.cpp](7xxx/7403/main.cpp)             |
+| 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [7xxx/7943/main.py](7xxx/7943/main.py)               |
+| 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [7xxx/7944/main.py](7xxx/7944/main.py)               |
+|      | 8000-8999                                                                                             | [8xxx/](8xxx/)                                       |
+| 8172 | [Polyhedra](https://www.e-olymp.com/en/problems/8172)                                                 | [8xxx/8172/main.py](8xxx/8172/main.py)               |
+| 8173 | [Majority](https://www.e-olymp.com/en/problems/8173)                                                  | [8xxx/8173/main.py](8xxx/8173/main.py)               |
+| 8174 | [Diamonds](https://www.e-olymp.com/en/problems/8174)                                                  | [8xxx/8174/main.py](8xxx/8174/main.py)               |
+| 8177 | [Ramp Number](https://www.e-olymp.com/en/problems/8177)                                               | [8xxx/8177/main.py](8xxx/8177/main.py)               |
+| 8188 | [Hilbert Sort](https://www.e-olymp.com/en/problems/8188)                                              | [8xxx/8188/main.cpp](8xxx/8188/main.cpp)             |
+| 8194 | [Egg Drop](https://www.e-olymp.com/en/problems/8194)                                                  | [8xxx/8194/main.cpp](8xxx/8194/main.cpp)             |
+| 8195 | [Grid](https://www.e-olymp.com/en/problems/8195)                                                      | [8xxx/8195/main.cpp](8xxx/8195/main.cpp)             |
+| 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                  | [8xxx/8201/main.py](8xxx/8201/main.py)               |
+| 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                   | [8xxx/8216/main.py](8xxx/8216/main.py)               |
+| 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                   | [8xxx/8217/main.cpp](8xxx/8217/main.cpp)             |
+| 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [8xxx/8254/main.py](8xxx/8254/main.py)               |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                                        | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)                     | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
