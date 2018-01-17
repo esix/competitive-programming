@@ -27,6 +27,7 @@
 | 0248 | [Young gardener](https://www.e-olymp.com/en/problems/248)                  | [0248/main.py](0248/main.py)   |
 | 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)          | [0273/main.cpp](0273/main.cpp) |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)          | [0280/main.cpp](0280/main.cpp) |
+| 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)         | [0318/main.py](0318/main.py)   |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)             | [0359/main.cpp](0359/main.cpp) |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                | [0413/main.cpp](0413/main.cpp) |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                        | [0418/main.py](0418/main.py)   |
