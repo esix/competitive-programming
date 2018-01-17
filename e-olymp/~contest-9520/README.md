@@ -12,5 +12,6 @@
 | D  | [The Segment](https://www.e-olymp.com/en/contests/9520/problems/83416)         | [D/main.cpp](D/main.cpp) |
 | E  | [Simple division](https://www.e-olymp.com/en/contests/9520/problems/83417)     | [E/main.py](E/main.py)   |
 | F  | [Reduce a fraction](https://www.e-olymp.com/en/contests/9520/problems/83418)   | [F/main.py](F/main.py)   |
+| G  | [Cinema+](https://www.e-olymp.com/en/contests/9520/problems/83419)             | [G/main.cpp](G/main.cpp) |
 | H  | [Garland](https://www.e-olymp.com/en/contests/9520/problems/83420)             | [H/main.py](H/main.py)   |
 
