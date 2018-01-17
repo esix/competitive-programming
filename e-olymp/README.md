@@ -127,6 +127,7 @@ Compilers:
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [4xxx/4730/main.py](4xxx/4730/main.py)               |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
+| 4753 | [Cinema+](https://www.e-olymp.com/en/problems/4753)                                                   | [4xxx/4753/main.cpp](4xxx/4753/main.cpp)             |
 | 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                     | [4xxx/4761/main.py](4xxx/4761/main.py)               |
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [4xxx/4763/main.py](4xxx/4763/main.py)               |
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [4xxx/4764/main.py](4xxx/4764/main.py)               |
