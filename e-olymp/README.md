@@ -152,6 +152,7 @@ Compilers:
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                            | [5xxx/5175/main.py](5xxx/5175/main.py)               |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                                   | [5xxx/5213/main.cpp](5xxx/5213/main.cpp)             |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [5xxx/5235/main.py](5xxx/5235/main.py)               |
+| 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                                     | [5xxx/5329/main.py](5xxx/5329/main.py)               |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [5xxx/5338/main.cpp](5xxx/5338/main.cpp)             |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [5xxx/5366/main.cpp](5xxx/5366/main.cpp)             |
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [5xxx/5471/main.cpp](5xxx/5471/main.cpp)             |
@@ -352,4 +353,5 @@ Compilers:
 | G    | [Cinema+](https://www.e-olymp.com/en/contests/9520/problems/83419)                                    | [~contest-9520/G/main.cpp](~contest-9520/G/main.cpp) |
 | H    | [Garland](https://www.e-olymp.com/en/contests/9520/problems/83420)                                    | [~contest-9520/H/main.py](~contest-9520/H/main.py)   |
 | I    | [Binomial coefficients 1](https://www.e-olymp.com/en/contests/9520/problems/83421)                    | [~contest-9520/I/main.py](~contest-9520/I/main.py)   |
+| J    | [Party](https://www.e-olymp.com/en/contests/9520/problems/83422)                                      | [~contest-9520/J/main.py](~contest-9520/J/main.py)   |
 
