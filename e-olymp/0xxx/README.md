@@ -33,6 +33,7 @@
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                | [0413/main.cpp](0413/main.cpp) |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                        | [0418/main.py](0418/main.py)   |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                  | [0432/main.cpp](0432/main.cpp) |
+| 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)               | [0514/main.cpp](0514/main.cpp) |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                   | [0543/main.cpp](0543/main.cpp) |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)     | [0571/main.cpp](0571/main.cpp) |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)             | [0610/main.cpp](0610/main.cpp) |
