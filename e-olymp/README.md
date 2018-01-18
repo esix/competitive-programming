@@ -114,6 +114,7 @@ Compilers:
 | 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                                     | [3xxx/3733/main.py](3xxx/3733/main.py)               |
 | 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [3xxx/3867/main.py](3xxx/3867/main.py)               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [3xxx/3920/main.cpp](3xxx/3920/main.cpp)             |
+| 3936 | [Towers of Hanoi](https://www.e-olymp.com/en/problems/3936)                                           | [3xxx/3936/main.cpp](3xxx/3936/main.cpp)             |
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                   | [3xxx/3981/main.cpp](3xxx/3981/main.cpp)             |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                   | [3xxx/3982/main.cpp](3xxx/3982/main.cpp)             |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                         | [3xxx/3986/main.cpp](3xxx/3986/main.cpp)             |
@@ -354,4 +355,5 @@ Compilers:
 | H    | [Garland](https://www.e-olymp.com/en/contests/9520/problems/83420)                                    | [~contest-9520/H/main.py](~contest-9520/H/main.py)   |
 | I    | [Binomial coefficients 1](https://www.e-olymp.com/en/contests/9520/problems/83421)                    | [~contest-9520/I/main.py](~contest-9520/I/main.py)   |
 | J    | [Party](https://www.e-olymp.com/en/contests/9520/problems/83422)                                      | [~contest-9520/J/main.py](~contest-9520/J/main.py)   |
+| K    | [Towers of Hanoi](https://www.e-olymp.com/en/contests/9520/problems/83423)                            | [~contest-9520/K/main.cpp](~contest-9520/K/main.cpp) |
 

@@ -9,6 +9,7 @@
 | 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                   | [3733/main.py](3733/main.py)   |
 | 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                              | [3867/main.py](3867/main.py)   |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                 | [3920/main.cpp](3920/main.cpp) |
+| 3936 | [Towers of Hanoi](https://www.e-olymp.com/en/problems/3936)                         | [3936/main.cpp](3936/main.cpp) |
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981) | [3981/main.cpp](3981/main.cpp) |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982) | [3982/main.cpp](3982/main.cpp) |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                       | [3986/main.cpp](3986/main.cpp) |
