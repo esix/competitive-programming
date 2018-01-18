@@ -46,6 +46,7 @@ Compilers:
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [0xxx/0413/main.cpp](0xxx/0413/main.cpp)             |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [0xxx/0418/main.py](0xxx/0418/main.py)               |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
+| 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                | [0xxx/0478/main.py](0xxx/0478/main.py)               |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                          | [0xxx/0514/main.cpp](0xxx/0514/main.cpp)             |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [0xxx/0543/main.cpp](0xxx/0543/main.cpp)             |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [0xxx/0571/main.cpp](0xxx/0571/main.cpp)             |
@@ -361,4 +362,5 @@ Compilers:
 |      | [Conditional statement](https://www.e-olymp.com/en/contests/9527)                                     | [~contest-9527/](~contest-9527/)                     |
 | A    | [Olympiad](https://www.e-olymp.com/en/contests/9527/problems/83482)                                   | [~contest-9527/A/main.cpp](~contest-9527/A/main.cpp) |
 | B    | [Time for Nicholas](https://www.e-olymp.com/en/contests/9527/problems/83483)                          | [~contest-9527/B/main.cpp](~contest-9527/B/main.cpp) |
+| C    | [White cubes](https://www.e-olymp.com/en/contests/9527/problems/83484)                                | [~contest-9527/C/main.py](~contest-9527/C/main.py)   |
 
