@@ -32,6 +32,7 @@ Compilers:
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [0xxx/0066/main.py](0xxx/0066/main.py)               |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)             |
+| 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                                   | [0xxx/0125/main.cpp](0xxx/0125/main.cpp)             |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [0xxx/0136/main.cpp](0xxx/0136/main.cpp)             |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                        | [0xxx/0137/main.cpp](0xxx/0137/main.cpp)             |
 | 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)                                  | [0xxx/0141/main.cpp](0xxx/0141/main.cpp)             |
@@ -356,4 +357,6 @@ Compilers:
 | I    | [Binomial coefficients 1](https://www.e-olymp.com/en/contests/9520/problems/83421)                    | [~contest-9520/I/main.py](~contest-9520/I/main.py)   |
 | J    | [Party](https://www.e-olymp.com/en/contests/9520/problems/83422)                                      | [~contest-9520/J/main.py](~contest-9520/J/main.py)   |
 | K    | [Towers of Hanoi](https://www.e-olymp.com/en/contests/9520/problems/83423)                            | [~contest-9520/K/main.cpp](~contest-9520/K/main.cpp) |
+|      | [Conditional statement](https://www.e-olymp.com/en/contests/9527)                                     | [~contest-9527/](~contest-9527/)                     |
+| A    | [Olympiad](https://www.e-olymp.com/en/contests/9527/problems/83482)                                   | [~contest-9527/A/main.cpp](~contest-9527/A/main.cpp) |
 

@@ -19,6 +19,7 @@
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)          | [0066/main.py](0066/main.py)   |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                 | [0122/main.cpp](0122/main.cpp) |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                          | [0124/main.cpp](0124/main.cpp) |
+| 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                        | [0125/main.cpp](0125/main.cpp) |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                     | [0136/main.cpp](0136/main.cpp) |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                             | [0137/main.cpp](0137/main.cpp) |
 | 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)       | [0141/main.cpp](0141/main.cpp) |
