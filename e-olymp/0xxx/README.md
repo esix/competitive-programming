@@ -35,6 +35,7 @@
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                  | [0432/main.cpp](0432/main.cpp) |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                     | [0478/main.py](0478/main.py)   |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)               | [0514/main.cpp](0514/main.cpp) |
+| 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                  | [0519/main.py](0519/main.py)   |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                   | [0543/main.cpp](0543/main.cpp) |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)     | [0571/main.cpp](0571/main.cpp) |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)             | [0610/main.cpp](0610/main.cpp) |
