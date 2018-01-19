@@ -22,4 +22,5 @@
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                  | [5471/main.cpp](5471/main.cpp) |
 | 5493 | [Just Add It](https://www.e-olymp.com/en/problems/5493)                            | [5493/main.cpp](5493/main.cpp) |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)               | [5669/main.py](5669/main.py)   |
+| 5765 | [Canaries](https://www.e-olymp.com/en/problems/5765)                               | [5765/main.py](5765/main.py)   |
 
