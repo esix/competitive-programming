@@ -48,11 +48,14 @@ Compilers:
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                | [0xxx/0478/main.py](0xxx/0478/main.py)               |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                          | [0xxx/0514/main.cpp](0xxx/0514/main.cpp)             |
+| 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                                             | [0xxx/0519/main.py](0xxx/0519/main.py)               |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [0xxx/0543/main.cpp](0xxx/0543/main.cpp)             |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [0xxx/0571/main.cpp](0xxx/0571/main.cpp)             |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                        | [0xxx/0610/main.cpp](0xxx/0610/main.cpp)             |
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                 | [0xxx/0625/main.cpp](0xxx/0625/main.cpp)             |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                               | [0xxx/0653/main.py](0xxx/0653/main.py)               |
+| 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)                      | [0xxx/0902/main.py](0xxx/0902/main.py)               |
+| 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                                             | [0xxx/0903/main.py](0xxx/0903/main.py)               |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [0xxx/0924/main.py](0xxx/0924/main.py)               |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                             | [0xxx/0925/main.cpp](0xxx/0925/main.cpp)             |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                                      | [0xxx/0926/main.py](0xxx/0926/main.py)               |
@@ -86,6 +89,7 @@ Compilers:
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [1xxx/1603/main.py](1xxx/1603/main.py)               |
+| 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)                                      | [1xxx/1610/main.py](1xxx/1610/main.py)               |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [1xxx/1658/main.py](1xxx/1658/main.py)               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
@@ -162,6 +166,7 @@ Compilers:
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [5xxx/5471/main.cpp](5xxx/5471/main.cpp)             |
 | 5493 | [Just Add It](https://www.e-olymp.com/en/problems/5493)                                               | [5xxx/5493/main.cpp](5xxx/5493/main.cpp)             |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [5xxx/5669/main.py](5xxx/5669/main.py)               |
+| 5765 | [Canaries](https://www.e-olymp.com/en/problems/5765)                                                  | [5xxx/5765/main.py](5xxx/5765/main.py)               |
 |      | 6000-6999                                                                                             | [6xxx/](6xxx/)                                       |
 | 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [6xxx/6033/main.cpp](6xxx/6033/main.cpp)             |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [6xxx/6273/main.py](6xxx/6273/main.py)               |
@@ -178,6 +183,7 @@ Compilers:
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [7xxx/7371/main.py](7xxx/7371/main.py)               |
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [7xxx/7401/main.py](7xxx/7401/main.py)               |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [7xxx/7403/main.cpp](7xxx/7403/main.cpp)             |
+| 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                                          | [7xxx/7460/main.py](7xxx/7460/main.py)               |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [7xxx/7943/main.py](7xxx/7943/main.py)               |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [7xxx/7944/main.py](7xxx/7944/main.py)               |
 |      | 8000-8999                                                                                             | [8xxx/](8xxx/)                                       |
@@ -191,6 +197,7 @@ Compilers:
 | 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                  | [8xxx/8201/main.py](8xxx/8201/main.py)               |
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                   | [8xxx/8216/main.py](8xxx/8216/main.py)               |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                   | [8xxx/8217/main.cpp](8xxx/8217/main.cpp)             |
+| 8242 | [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)                                 | [8xxx/8242/main.py](8xxx/8242/main.py)               |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [8xxx/8254/main.py](8xxx/8254/main.py)               |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                                        | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
@@ -363,4 +370,12 @@ Compilers:
 | A    | [Olympiad](https://www.e-olymp.com/en/contests/9527/problems/83482)                                   | [~contest-9527/A/main.cpp](~contest-9527/A/main.cpp) |
 | B    | [Time for Nicholas](https://www.e-olymp.com/en/contests/9527/problems/83483)                          | [~contest-9527/B/main.cpp](~contest-9527/B/main.cpp) |
 | C    | [White cubes](https://www.e-olymp.com/en/contests/9527/problems/83484)                                | [~contest-9527/C/main.py](~contest-9527/C/main.py)   |
+| D    | [Sum of squares](https://www.e-olymp.com/en/contests/9527/problems/83485)                             | [~contest-9527/D/main.py](~contest-9527/D/main.py)   |
+| E    | [Rabbits in the cells](https://www.e-olymp.com/en/contests/9527/problems/83486)                       | [~contest-9527/E/main.py](~contest-9527/E/main.py)   |
+| F    | [Canaries](https://www.e-olymp.com/en/contests/9527/problems/83487)                                   | [~contest-9527/F/main.py](~contest-9527/F/main.py)   |
+| G    | [Sightseeing trip](https://www.e-olymp.com/en/contests/9527/problems/83488)                           | [~contest-9527/G/main.py](~contest-9527/G/main.py)   |
+| H    | [The level of educational achievements](https://www.e-olymp.com/en/contests/9527/problems/83489)      | [~contest-9527/H/main.py](~contest-9527/H/main.py)   |
+| I    | [First or last?](https://www.e-olymp.com/en/contests/9527/problems/83490)                             | [~contest-9527/I/main.py](~contest-9527/I/main.py)   |
+| J    | [Lazy Misha](https://www.e-olymp.com/en/contests/9527/problems/83491)                                 | [~contest-9527/J/main.py](~contest-9527/J/main.py)   |
+| K    | [Positive negative or zero](https://www.e-olymp.com/en/contests/9527/problems/83492)                  | [~contest-9527/K/main.py](~contest-9527/K/main.py)   |
 

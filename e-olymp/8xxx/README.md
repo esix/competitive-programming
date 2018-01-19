@@ -12,5 +12,6 @@
 | 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                   | [8201/main.py](8201/main.py)   |
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                    | [8216/main.py](8216/main.py)   |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                    | [8217/main.cpp](8217/main.cpp) |
+| 8242 | [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)  | [8242/main.py](8242/main.py)   |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254) | [8254/main.py](8254/main.py)   |
 
