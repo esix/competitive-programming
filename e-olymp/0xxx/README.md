@@ -42,6 +42,7 @@
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)            | [0625/main.cpp](0625/main.cpp) |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                          | [0653/main.py](0653/main.py)   |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902) | [0902/main.py](0902/main.py)   |
+| 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                        | [0903/main.py](0903/main.py)   |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                  | [0924/main.py](0924/main.py)   |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)        | [0925/main.cpp](0925/main.cpp) |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                 | [0926/main.py](0926/main.py)   |
