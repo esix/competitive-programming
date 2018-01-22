@@ -30,12 +30,16 @@
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                | [0280/main.cpp](0280/main.cpp) |
 | 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)               | [0318/main.py](0318/main.py)   |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                   | [0359/main.cpp](0359/main.cpp) |
+| 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                        | [0388/main.cpp](0388/main.cpp) |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                      | [0413/main.cpp](0413/main.cpp) |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                              | [0418/main.py](0418/main.py)   |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                        | [0432/main.cpp](0432/main.cpp) |
+| 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                       | [0446/main.cpp](0446/main.cpp) |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                           | [0478/main.py](0478/main.py)   |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                     | [0514/main.cpp](0514/main.cpp) |
+| 0518 | [The sum of two](https://www.e-olymp.com/en/problems/518)                        | [0518/main.cpp](0518/main.cpp) |
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                        | [0519/main.py](0519/main.py)   |
+| 0520 | [The sum of all](https://www.e-olymp.com/en/problems/520)                        | [0520/main.cpp](0520/main.cpp) |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                         | [0543/main.cpp](0543/main.cpp) |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)           | [0571/main.cpp](0571/main.cpp) |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                   | [0610/main.cpp](0610/main.cpp) |
@@ -43,6 +47,7 @@
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                          | [0653/main.py](0653/main.py)   |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902) | [0902/main.py](0902/main.py)   |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                        | [0903/main.py](0903/main.py)   |
+| 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)       | [0910/main.cpp](0910/main.cpp) |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                  | [0924/main.py](0924/main.py)   |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)        | [0925/main.cpp](0925/main.cpp) |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                 | [0926/main.py](0926/main.py)   |

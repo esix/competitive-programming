@@ -43,12 +43,16 @@ Compilers:
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [0xxx/0280/main.cpp](0xxx/0280/main.cpp)             |
 | 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)                                    | [0xxx/0318/main.py](0xxx/0318/main.py)               |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                                        | [0xxx/0359/main.cpp](0xxx/0359/main.cpp)             |
+| 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                                             | [0xxx/0388/main.cpp](0xxx/0388/main.cpp)             |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [0xxx/0413/main.cpp](0xxx/0413/main.cpp)             |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [0xxx/0418/main.py](0xxx/0418/main.py)               |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
+| 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                                            | [0xxx/0446/main.cpp](0xxx/0446/main.cpp)             |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                | [0xxx/0478/main.py](0xxx/0478/main.py)               |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                          | [0xxx/0514/main.cpp](0xxx/0514/main.cpp)             |
+| 0518 | [The sum of two](https://www.e-olymp.com/en/problems/518)                                             | [0xxx/0518/main.cpp](0xxx/0518/main.cpp)             |
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                                             | [0xxx/0519/main.py](0xxx/0519/main.py)               |
+| 0520 | [The sum of all](https://www.e-olymp.com/en/problems/520)                                             | [0xxx/0520/main.cpp](0xxx/0520/main.cpp)             |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                              | [0xxx/0543/main.cpp](0xxx/0543/main.cpp)             |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                | [0xxx/0571/main.cpp](0xxx/0571/main.cpp)             |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                        | [0xxx/0610/main.cpp](0xxx/0610/main.cpp)             |
@@ -56,6 +60,7 @@ Compilers:
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                               | [0xxx/0653/main.py](0xxx/0653/main.py)               |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)                      | [0xxx/0902/main.py](0xxx/0902/main.py)               |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                                             | [0xxx/0903/main.py](0xxx/0903/main.py)               |
+| 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)                            | [0xxx/0910/main.cpp](0xxx/0910/main.cpp)             |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [0xxx/0924/main.py](0xxx/0924/main.py)               |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                             | [0xxx/0925/main.cpp](0xxx/0925/main.cpp)             |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                                      | [0xxx/0926/main.py](0xxx/0926/main.py)               |
@@ -378,4 +383,10 @@ Compilers:
 | I    | [First or last?](https://www.e-olymp.com/en/contests/9527/problems/83490)                             | [~contest-9527/I/main.py](~contest-9527/I/main.py)   |
 | J    | [Lazy Misha](https://www.e-olymp.com/en/contests/9527/problems/83491)                                 | [~contest-9527/J/main.py](~contest-9527/J/main.py)   |
 | K    | [Positive negative or zero](https://www.e-olymp.com/en/contests/9527/problems/83492)                  | [~contest-9527/K/main.py](~contest-9527/K/main.py)   |
+|      | [Loops - 1](https://www.e-olymp.com/en/contests/9563)                                                 | [~contest-9563/](~contest-9563/)                     |
+| A    | [Transformation](https://www.e-olymp.com/en/contests/9563/problems/83863)                             | [~contest-9563/A/main.cpp](~contest-9563/A/main.cpp) |
+| B    | [Smooth Divisors](https://www.e-olymp.com/en/contests/9563/problems/83864)                            | [~contest-9563/B/main.cpp](~contest-9563/B/main.cpp) |
+| C    | [The sum of two](https://www.e-olymp.com/en/contests/9563/problems/83865)                             | [~contest-9563/C/main.cpp](~contest-9563/C/main.cpp) |
+| D    | [The sum of all](https://www.e-olymp.com/en/contests/9563/problems/83866)                             | [~contest-9563/D/main.cpp](~contest-9563/D/main.cpp) |
+| E    | [The arithmetic mean of positive](https://www.e-olymp.com/en/contests/9563/problems/83867)            | [~contest-9563/E/main.cpp](~contest-9563/E/main.cpp) |
 
