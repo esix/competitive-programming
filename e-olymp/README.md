@@ -64,7 +64,9 @@ Compilers:
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [0xxx/0924/main.py](0xxx/0924/main.py)               |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                             | [0xxx/0925/main.cpp](0xxx/0925/main.cpp)             |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                                      | [0xxx/0926/main.py](0xxx/0926/main.py)               |
+| 0927 | [Number of toys](https://www.e-olymp.com/en/problems/927)                                             | [0xxx/0927/main.cpp](0xxx/0927/main.cpp)             |
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                              | [0xxx/0929/main.py](0xxx/0929/main.py)               |
+| 0931 | [The ratio of product to the sum](https://www.e-olymp.com/en/problems/931)                            | [0xxx/0931/main.cpp](0xxx/0931/main.cpp)             |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                                 | [0xxx/0932/main.py](0xxx/0932/main.py)               |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                                  | [0xxx/0938/main.py](0xxx/0938/main.py)               |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [0xxx/0977/main.cpp](0xxx/0977/main.cpp)             |
@@ -80,6 +82,7 @@ Compilers:
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                                          | [1xxx/1043/main.py](1xxx/1043/main.py)               |
 | 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                                                     | [1xxx/1060/main.cpp](1xxx/1060/main.cpp)             |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [1xxx/1115/main.cpp](1xxx/1115/main.cpp)             |
+| 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                                               | [1xxx/1118/main.cpp](1xxx/1118/main.cpp)             |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [1xxx/1120/main.cpp](1xxx/1120/main.cpp)             |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                          | [1xxx/1154/main.cpp](1xxx/1154/main.cpp)             |
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                                      | [1xxx/1181/main.cpp](1xxx/1181/main.cpp)             |
@@ -94,6 +97,9 @@ Compilers:
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [1xxx/1603/main.py](1xxx/1603/main.py)               |
+| 1605 | [The second digit of the number](https://www.e-olymp.com/en/problems/1605)                            | [1xxx/1605/main.py](1xxx/1605/main.py)               |
+| 1607 | [The number in reverse order](https://www.e-olymp.com/en/problems/1607)                               | [1xxx/1607/main.py](1xxx/1607/main.py)               |
+| 1609 | [The number of specified digits](https://www.e-olymp.com/en/problems/1609)                            | [1xxx/1609/main.cpp](1xxx/1609/main.cpp)             |
 | 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)                                      | [1xxx/1610/main.py](1xxx/1610/main.py)               |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [1xxx/1658/main.py](1xxx/1658/main.py)               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
@@ -138,6 +144,7 @@ Compilers:
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                            | [4xxx/4439/main.py](4xxx/4439/main.py)               |
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                     | [4xxx/4716/main.py](4xxx/4716/main.py)               |
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                     | [4xxx/4717/main.py](4xxx/4717/main.py)               |
+| 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                                      | [4xxx/4721/main.cpp](4xxx/4721/main.cpp)             |
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [4xxx/4730/main.py](4xxx/4730/main.py)               |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
@@ -389,4 +396,11 @@ Compilers:
 | C    | [The sum of two](https://www.e-olymp.com/en/contests/9563/problems/83865)                             | [~contest-9563/C/main.cpp](~contest-9563/C/main.cpp) |
 | D    | [The sum of all](https://www.e-olymp.com/en/contests/9563/problems/83866)                             | [~contest-9563/D/main.cpp](~contest-9563/D/main.cpp) |
 | E    | [The arithmetic mean of positive](https://www.e-olymp.com/en/contests/9563/problems/83867)            | [~contest-9563/E/main.cpp](~contest-9563/E/main.cpp) |
+| F    | [Number of toys](https://www.e-olymp.com/en/contests/9563/problems/83868)                             | [~contest-9563/F/main.cpp](~contest-9563/F/main.cpp) |
+| G    | [The ratio of product to the sum](https://www.e-olymp.com/en/contests/9563/problems/83869)            | [~contest-9563/G/main.cpp](~contest-9563/G/main.cpp) |
+| H    | [Watermelons](https://www.e-olymp.com/en/contests/9563/problems/83870)                                | [~contest-9563/H/main.cpp](~contest-9563/H/main.cpp) |
+| I    | [The second digit of the number](https://www.e-olymp.com/en/contests/9563/problems/83871)             | [~contest-9563/I/main.py](~contest-9563/I/main.py)   |
+| J    | [The number in reverse order](https://www.e-olymp.com/en/contests/9563/problems/83872)                | [~contest-9563/J/main.py](~contest-9563/J/main.py)   |
+| K    | [The number of specified digits](https://www.e-olymp.com/en/contests/9563/problems/83873)             | [~contest-9563/K/main.cpp](~contest-9563/K/main.cpp) |
+| L    | [Bob the honors pupil](https://www.e-olymp.com/en/contests/9563/problems/83874)                       | [~contest-9563/L/main.cpp](~contest-9563/L/main.cpp) |
 

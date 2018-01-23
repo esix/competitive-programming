@@ -51,7 +51,9 @@
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                  | [0924/main.py](0924/main.py)   |
 | 0925 | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)        | [0925/main.cpp](0925/main.cpp) |
 | 0926 | [Heron](https://www.e-olymp.com/en/problems/926)                                 | [0926/main.py](0926/main.py)   |
+| 0927 | [Number of toys](https://www.e-olymp.com/en/problems/927)                        | [0927/main.cpp](0927/main.cpp) |
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                         | [0929/main.py](0929/main.py)   |
+| 0931 | [The ratio of product to the sum](https://www.e-olymp.com/en/problems/931)       | [0931/main.cpp](0931/main.cpp) |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)            | [0932/main.py](0932/main.py)   |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)             | [0938/main.py](0938/main.py)   |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                         | [0977/main.cpp](0977/main.cpp) |
