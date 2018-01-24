@@ -410,4 +410,6 @@ Compilers:
 | N    | [Odd elements](https://www.e-olymp.com/en/contests/9563/problems/83876)                               | [~contest-9563/N/main.cpp](~contest-9563/N/main.cpp) |
 | O    | [The first digit of the number](https://www.e-olymp.com/en/contests/9563/problems/83877)              | [~contest-9563/O/main.py](~contest-9563/O/main.py)   |
 | P    | [Sum of squares from 1 to n](https://www.e-olymp.com/en/contests/9563/problems/83878)                 | [~contest-9563/P/main.py](~contest-9563/P/main.py)   |
+|      | [Data Structures Contest](https://www.e-olymp.com/en/contests/9571)                                   | [~contest-9571/](~contest-9571/)                     |
+| A    | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)                                     | [~contest-9571/A/main.cpp](~contest-9571/A/main.cpp) |
 
