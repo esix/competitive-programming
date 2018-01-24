@@ -186,6 +186,7 @@ Compilers:
 | 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                  | [6xxx/6275/main.py](6xxx/6275/main.py)               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [6xxx/6302/main.py](6xxx/6302/main.py)               |
 | 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                            | [6xxx/6389/main.cpp](6xxx/6389/main.cpp)             |
+| 6469 | [Brazil](https://www.e-olymp.com/ru/problems/6469)                                                    | [6xxx/6469/main.cpp](6xxx/6469/main.cpp)             |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [6xxx/6941/main.cpp](6xxx/6941/main.cpp)             |
 |      | 7000-7999                                                                                             | [7xxx/](7xxx/)                                       |
 | 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [7xxx/7034/main.cpp](7xxx/7034/main.cpp)             |
