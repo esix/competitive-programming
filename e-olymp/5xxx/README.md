@@ -16,6 +16,7 @@
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                         | [5175/main.py](5175/main.py)   |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                | [5213/main.cpp](5213/main.cpp) |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                        | [5235/main.py](5235/main.py)   |
+| 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                           | [5328/main.cpp](5328/main.cpp) |
 | 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                  | [5329/main.py](5329/main.py)   |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                     | [5338/main.cpp](5338/main.cpp) |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                              | [5366/main.cpp](5366/main.cpp) |
