@@ -172,6 +172,7 @@ Compilers:
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                            | [5xxx/5175/main.py](5xxx/5175/main.py)               |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                                   | [5xxx/5213/main.cpp](5xxx/5213/main.cpp)             |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                           | [5xxx/5235/main.py](5xxx/5235/main.py)               |
+| 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                                              | [5xxx/5328/main.cpp](5xxx/5328/main.cpp)             |
 | 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                                     | [5xxx/5329/main.py](5xxx/5329/main.py)               |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                        | [5xxx/5338/main.cpp](5xxx/5338/main.cpp)             |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [5xxx/5366/main.cpp](5xxx/5366/main.cpp)             |
@@ -196,6 +197,7 @@ Compilers:
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [7xxx/7401/main.py](7xxx/7401/main.py)               |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [7xxx/7403/main.cpp](7xxx/7403/main.cpp)             |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                                          | [7xxx/7460/main.py](7xxx/7460/main.py)               |
+| 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                                              | [7xxx/7841/main.cpp](7xxx/7841/main.cpp)             |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [7xxx/7943/main.py](7xxx/7943/main.py)               |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [7xxx/7944/main.py](7xxx/7944/main.py)               |
 |      | 8000-8999                                                                                             | [8xxx/](8xxx/)                                       |
@@ -210,6 +212,7 @@ Compilers:
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                   | [8xxx/8216/main.py](8xxx/8216/main.py)               |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                   | [8xxx/8217/main.cpp](8xxx/8217/main.cpp)             |
 | 8242 | [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)                                 | [8xxx/8242/main.py](8xxx/8242/main.py)               |
+| 8243 | [The first digit of the number](https://www.e-olymp.com/en/problems/8243)                             | [8xxx/8243/main.py](8xxx/8243/main.py)               |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [8xxx/8254/main.py](8xxx/8254/main.py)               |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                                        | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
@@ -403,4 +406,8 @@ Compilers:
 | J    | [The number in reverse order](https://www.e-olymp.com/en/contests/9563/problems/83872)                | [~contest-9563/J/main.py](~contest-9563/J/main.py)   |
 | K    | [The number of specified digits](https://www.e-olymp.com/en/contests/9563/problems/83873)             | [~contest-9563/K/main.cpp](~contest-9563/K/main.cpp) |
 | L    | [Bob the honors pupil](https://www.e-olymp.com/en/contests/9563/problems/83874)                       | [~contest-9563/L/main.cpp](~contest-9563/L/main.cpp) |
+| M    | [Find Minimum](https://www.e-olymp.com/en/contests/9563/problems/83875)                               | [~contest-9563/M/main.cpp](~contest-9563/M/main.cpp) |
+| N    | [Odd elements](https://www.e-olymp.com/en/contests/9563/problems/83876)                               | [~contest-9563/N/main.cpp](~contest-9563/N/main.cpp) |
+| O    | [The first digit of the number](https://www.e-olymp.com/en/contests/9563/problems/83877)              | [~contest-9563/O/main.py](~contest-9563/O/main.py)   |
+| P    | [Sum of squares from 1 to n](https://www.e-olymp.com/en/contests/9563/problems/83878)                 | [~contest-9563/P/main.py](~contest-9563/P/main.py)   |
 
