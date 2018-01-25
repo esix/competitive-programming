@@ -7,6 +7,7 @@
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                | [1033/main.cpp](1033/main.cpp) |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)               | [1043/main.py](1043/main.py)   |
 | 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                          | [1060/main.cpp](1060/main.cpp) |
+| 1102 | [Sticks Problem](https://www.e-olymp.com/en/problems/1102)                 | [1102/main.cpp](1102/main.cpp) |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                     | [1115/main.cpp](1115/main.cpp) |
 | 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                    | [1118/main.cpp](1118/main.cpp) |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                  | [1120/main.cpp](1120/main.cpp) |

@@ -81,6 +81,7 @@ Compilers:
 | 1033 | [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)                                           | [1xxx/1033/main.cpp](1xxx/1033/main.cpp)             |
 | 1043 | [Geometry Paradox](https://www.e-olymp.com/en/problems/1043)                                          | [1xxx/1043/main.py](1xxx/1043/main.py)               |
 | 1060 | [Lines](https://www.e-olymp.com/en/problems/1060)                                                     | [1xxx/1060/main.cpp](1xxx/1060/main.cpp)             |
+| 1102 | [Sticks Problem](https://www.e-olymp.com/en/problems/1102)                                            | [1xxx/1102/main.cpp](1xxx/1102/main.cpp)             |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [1xxx/1115/main.cpp](1xxx/1115/main.cpp)             |
 | 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                                               | [1xxx/1118/main.cpp](1xxx/1118/main.cpp)             |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [1xxx/1120/main.cpp](1xxx/1120/main.cpp)             |
@@ -413,4 +414,5 @@ Compilers:
 | P    | [Sum of squares from 1 to n](https://www.e-olymp.com/en/contests/9563/problems/83878)                 | [~contest-9563/P/main.py](~contest-9563/P/main.py)   |
 |      | [Data Structures Contest](https://www.e-olymp.com/en/contests/9571)                                   | [~contest-9571/](~contest-9571/)                     |
 | A    | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)                                     | [~contest-9571/A/main.cpp](~contest-9571/A/main.cpp) |
+| B    | [Sticks Problem](https://www.e-olymp.com/en/contests/9571/problems/83968)                             | [~contest-9571/B/main.cpp](~contest-9571/B/main.cpp) |
 
