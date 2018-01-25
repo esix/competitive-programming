@@ -3,7 +3,8 @@
 
 
 
-| ID | Problem statement                                                 | Solution                 |
-|----|-------------------------------------------------------------------|--------------------------|
-| A  | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967) | [A/main.cpp](A/main.cpp) |
+| ID | Problem statement                                                         | Solution                 |
+|----|---------------------------------------------------------------------------|--------------------------|
+| A  | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)         | [A/main.cpp](A/main.cpp) |
+| B  | [Sticks Problem](https://www.e-olymp.com/en/contests/9571/problems/83968) | [B/main.cpp](B/main.cpp) |
 
