@@ -5,6 +5,7 @@
 #include <sstream>
 #include <algorithm>
 #include <map>
+#include <stack>
 
 using namespace std;
 
@@ -18,12 +19,30 @@ int main() {
   vector<int> vs(n);
   for (int i = 0; i < n; i++) cin >> vs[i];
 
+  stack<int> indices;
+
+
   for (int i = 0; i < n; i++) {
-    int j = i + 1;
-    for(; j < n; j++) {
-      if (vs[j] > vs[i]) break;
+    int current = vs[i];
+
+    // perform replace
+    while (!indices.empty()) {
+      int idx = indices.top();
+      int v = vs[idx];
+      if (current <= v) break;
+      indices.pop();
+      vs[idx] = current;
     }
-    vs[i] = (j < n) ? vs[j]: 0;
+
+
+    // add i to non-replaced indices list
+    indices.push(i);
+  }
+
+  while (!indices.empty()) {
+    int idx = indices.top();
+    indices.pop();
+    vs[idx] = 0;
   }
 
   for (int i = 0; i < n; i++) cout << vs[i] << ' ';
