@@ -180,6 +180,7 @@ Compilers:
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                 | [5xxx/5366/main.cpp](5xxx/5366/main.cpp)             |
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                     | [5xxx/5471/main.cpp](5xxx/5471/main.cpp)             |
 | 5493 | [Just Add It](https://www.e-olymp.com/en/problems/5493)                                               | [5xxx/5493/main.cpp](5xxx/5493/main.cpp)             |
+| 5543 | [Business Card Juggling](https://www.e-olymp.com/en/problems/5543)                                    | [5xxx/5543/main.cpp](5xxx/5543/main.cpp)             |
 | 5669 | [Bishops on a Toral Board](https://www.e-olymp.com/en/problems/5669)                                  | [5xxx/5669/main.py](5xxx/5669/main.py)               |
 | 5765 | [Canaries](https://www.e-olymp.com/en/problems/5765)                                                  | [5xxx/5765/main.py](5xxx/5765/main.py)               |
 |      | 6000-6999                                                                                             | [6xxx/](6xxx/)                                       |
@@ -417,4 +418,5 @@ Compilers:
 | A    | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)                                     | [~contest-9571/A/main.cpp](~contest-9571/A/main.cpp) |
 | B    | [Sticks Problem](https://www.e-olymp.com/en/contests/9571/problems/83968)                             | [~contest-9571/B/main.cpp](~contest-9571/B/main.cpp) |
 | C    | [Replacement](https://www.e-olymp.com/en/contests/9571/problems/83969)                                | [~contest-9571/C/main.cpp](~contest-9571/C/main.cpp) |
+| D    | [Business Card Juggling](https://www.e-olymp.com/en/contests/9571/problems/83970)                     | [~contest-9571/D/main.cpp](~contest-9571/D/main.cpp) |
 
