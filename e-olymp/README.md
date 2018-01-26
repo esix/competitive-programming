@@ -158,6 +158,7 @@ Compilers:
 | 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                     | [4xxx/4852/main.cpp](4xxx/4852/main.cpp)             |
 | 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                                         | [4xxx/4853/main.cpp](4xxx/4853/main.cpp)             |
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                               | [4xxx/4854/main.cpp](4xxx/4854/main.cpp)             |
+| 4892 | [Replacement](https://www.e-olymp.com/en/problems/4892)                                               | [4xxx/4892/main.cpp](4xxx/4892/main.cpp)             |
 |      | 5000-5999                                                                                             | [5xxx/](5xxx/)                                       |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [5xxx/5072/main.cpp](5xxx/5072/main.cpp)             |
 | 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [5xxx/5073/main.cpp](5xxx/5073/main.cpp)             |
@@ -415,4 +416,5 @@ Compilers:
 |      | [Data Structures Contest](https://www.e-olymp.com/en/contests/9571)                                   | [~contest-9571/](~contest-9571/)                     |
 | A    | [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)                                     | [~contest-9571/A/main.cpp](~contest-9571/A/main.cpp) |
 | B    | [Sticks Problem](https://www.e-olymp.com/en/contests/9571/problems/83968)                             | [~contest-9571/B/main.cpp](~contest-9571/B/main.cpp) |
+| C    | [Replacement](https://www.e-olymp.com/en/contests/9571/problems/83969)                                | [~contest-9571/C/main.cpp](~contest-9571/C/main.cpp) |
 
