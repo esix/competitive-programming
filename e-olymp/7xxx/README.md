@@ -11,6 +11,7 @@
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)         | [7401/main.py](7401/main.py)   |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)         | [7403/main.cpp](7403/main.cpp) |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)       | [7460/main.py](7460/main.py)   |
+| 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)        | [7565/main.cpp](7565/main.cpp) |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)           | [7841/main.cpp](7841/main.cpp) |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943) | [7943/main.py](7943/main.py)   |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)      | [7944/main.py](7944/main.py)   |
