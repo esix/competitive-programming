@@ -202,6 +202,7 @@ Compilers:
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [7xxx/7403/main.cpp](7xxx/7403/main.cpp)             |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                                          | [7xxx/7460/main.py](7xxx/7460/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
+| 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                                              | [7xxx/7841/main.cpp](7xxx/7841/main.cpp)             |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [7xxx/7943/main.py](7xxx/7943/main.py)               |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [7xxx/7944/main.py](7xxx/7944/main.py)               |
@@ -421,4 +422,5 @@ Compilers:
 | C    | [Replacement](https://www.e-olymp.com/en/contests/9571/problems/83969)                                | [~contest-9571/C/main.cpp](~contest-9571/C/main.cpp) |
 | D    | [Business Card Juggling](https://www.e-olymp.com/en/contests/9571/problems/83970)                     | [~contest-9571/D/main.cpp](~contest-9571/D/main.cpp) |
 | E    | [Easy Problemset](https://www.e-olymp.com/en/contests/9571/problems/83971)                            | [~contest-9571/E/main.cpp](~contest-9571/E/main.cpp) |
+| F    | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                                        | [~contest-9571/F/main.cpp](~contest-9571/F/main.cpp) |
 
