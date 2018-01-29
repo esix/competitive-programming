@@ -10,4 +10,5 @@
 | C  | [Replacement](https://www.e-olymp.com/en/contests/9571/problems/83969)            | [C/main.cpp](C/main.cpp) |
 | D  | [Business Card Juggling](https://www.e-olymp.com/en/contests/9571/problems/83970) | [D/main.cpp](D/main.cpp) |
 | E  | [Easy Problemset](https://www.e-olymp.com/en/contests/9571/problems/83971)        | [E/main.cpp](E/main.cpp) |
+| F  | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                    | [F/main.cpp](F/main.cpp) |
 
