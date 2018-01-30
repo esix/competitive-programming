@@ -41,6 +41,7 @@ Compilers:
 | 0248 | [Young gardener](https://www.e-olymp.com/en/problems/248)                                             | [0xxx/0248/main.py](0xxx/0248/main.py)               |
 | 0273 | [Modular Exponentiation](https://www.e-olymp.com/en/problems/273)                                     | [0xxx/0273/main.cpp](0xxx/0273/main.cpp)             |
 | 0280 | [Cleaning the territory](https://www.e-olymp.com/en/problems/280)                                     | [0xxx/0280/main.cpp](0xxx/0280/main.cpp)             |
+| 0291 | [Garage](https://www.e-olymp.com/en/problems/291)                                                     | [0xxx/0291/main.cpp](0xxx/0291/main.cpp)             |
 | 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)                                    | [0xxx/0318/main.py](0xxx/0318/main.py)               |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                                        | [0xxx/0359/main.cpp](0xxx/0359/main.cpp)             |
 | 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                                             | [0xxx/0388/main.cpp](0xxx/0388/main.cpp)             |
@@ -423,4 +424,5 @@ Compilers:
 | D    | [Business Card Juggling](https://www.e-olymp.com/en/contests/9571/problems/83970)                     | [~contest-9571/D/main.cpp](~contest-9571/D/main.cpp) |
 | E    | [Easy Problemset](https://www.e-olymp.com/en/contests/9571/problems/83971)                            | [~contest-9571/E/main.cpp](~contest-9571/E/main.cpp) |
 | F    | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                                        | [~contest-9571/F/main.cpp](~contest-9571/F/main.cpp) |
+| G    | [Garage](https://www.e-olymp.com/en/contests/9571/problems/83973)                                     | [~contest-9571/G/main.cpp](~contest-9571/G/main.cpp) |
 
