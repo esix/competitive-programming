@@ -7,6 +7,7 @@
 | 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                               | [3260/main.py](3260/main.py)   |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                     | [3608/main.cpp](3608/main.cpp) |
 | 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                   | [3733/main.py](3733/main.py)   |
+| 3841 | [Dr Who`s Banquet](https://www.e-olymp.com/en/problems/3841)                        | [3841/main.cpp](3841/main.cpp) |
 | 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                              | [3867/main.py](3867/main.py)   |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                 | [3920/main.cpp](3920/main.cpp) |
 | 3936 | [Towers of Hanoi](https://www.e-olymp.com/en/problems/3936)                         | [3936/main.cpp](3936/main.cpp) |

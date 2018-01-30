@@ -132,6 +132,7 @@ Compilers:
 | 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                 | [3xxx/3260/main.py](3xxx/3260/main.py)               |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                       | [3xxx/3608/main.cpp](3xxx/3608/main.cpp)             |
 | 3733 | [Least Common Multiple](https://www.e-olymp.com/en/problems/3733)                                     | [3xxx/3733/main.py](3xxx/3733/main.py)               |
+| 3841 | [Dr Who`s Banquet](https://www.e-olymp.com/en/problems/3841)                                          | [3xxx/3841/main.cpp](3xxx/3841/main.cpp)             |
 | 3867 | [Lazy Misha](https://www.e-olymp.com/en/problems/3867)                                                | [3xxx/3867/main.py](3xxx/3867/main.py)               |
 | 3920 | [MegaGCD](https://www.e-olymp.com/en/problems/3920)                                                   | [3xxx/3920/main.cpp](3xxx/3920/main.cpp)             |
 | 3936 | [Towers of Hanoi](https://www.e-olymp.com/en/problems/3936)                                           | [3xxx/3936/main.cpp](3xxx/3936/main.cpp)             |
@@ -425,4 +426,5 @@ Compilers:
 | E    | [Easy Problemset](https://www.e-olymp.com/en/contests/9571/problems/83971)                            | [~contest-9571/E/main.cpp](~contest-9571/E/main.cpp) |
 | F    | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                                        | [~contest-9571/F/main.cpp](~contest-9571/F/main.cpp) |
 | G    | [Garage](https://www.e-olymp.com/en/contests/9571/problems/83973)                                     | [~contest-9571/G/main.cpp](~contest-9571/G/main.cpp) |
+| H    | [Dr Who`s Banquet](https://www.e-olymp.com/en/contests/9571/problems/83974)                           | [~contest-9571/H/main.cpp](~contest-9571/H/main.cpp) |
 
