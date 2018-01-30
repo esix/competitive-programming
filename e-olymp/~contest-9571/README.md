@@ -12,4 +12,5 @@
 | E  | [Easy Problemset](https://www.e-olymp.com/en/contests/9571/problems/83971)        | [E/main.cpp](E/main.cpp) |
 | F  | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                    | [F/main.cpp](F/main.cpp) |
 | G  | [Garage](https://www.e-olymp.com/en/contests/9571/problems/83973)                 | [G/main.cpp](G/main.cpp) |
+| H  | [Dr Who`s Banquet](https://www.e-olymp.com/en/contests/9571/problems/83974)       | [H/main.cpp](H/main.cpp) |
 
