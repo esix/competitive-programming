@@ -187,6 +187,7 @@ Compilers:
 | 5765 | [Canaries](https://www.e-olymp.com/en/problems/5765)                                                  | [5xxx/5765/main.py](5xxx/5765/main.py)               |
 |      | 6000-6999                                                                                             | [6xxx/](6xxx/)                                       |
 | 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                | [6xxx/6033/main.cpp](6xxx/6033/main.cpp)             |
+| 6250 | [Boiling Vegetables](https://www.e-olymp.com/en/problems/6250)                                        | [6xxx/6250/main.cpp](6xxx/6250/main.cpp)             |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                     | [6xxx/6273/main.py](6xxx/6273/main.py)               |
 | 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                  | [6xxx/6275/main.py](6xxx/6275/main.py)               |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                   | [6xxx/6302/main.py](6xxx/6302/main.py)               |
@@ -427,4 +428,5 @@ Compilers:
 | F    | [Bus](https://www.e-olymp.com/en/contests/9571/problems/83972)                                        | [~contest-9571/F/main.cpp](~contest-9571/F/main.cpp) |
 | G    | [Garage](https://www.e-olymp.com/en/contests/9571/problems/83973)                                     | [~contest-9571/G/main.cpp](~contest-9571/G/main.cpp) |
 | H    | [Dr Who`s Banquet](https://www.e-olymp.com/en/contests/9571/problems/83974)                           | [~contest-9571/H/main.cpp](~contest-9571/H/main.cpp) |
+| I    | [Boiling Vegetables](https://www.e-olymp.com/en/contests/9571/problems/83975)                         | [~contest-9571/I/main.cpp](~contest-9571/I/main.cpp) |
 
