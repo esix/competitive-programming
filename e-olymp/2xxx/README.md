@@ -3,6 +3,7 @@
 | ID   | Problem statement                                                                      | Solution                       |
 |------|----------------------------------------------------------------------------------------|--------------------------------|
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                           | [2059/main.py](2059/main.py)   |
+| 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                   | [2098/main.py](2098/main.py)   |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                       | [2129/main.py](2129/main.py)   |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)              | [2130/main.py](2130/main.py)   |
 | 2131 | [Vector length](https://www.e-olymp.com/en/problems/2131)                              | [2131/main.py](2131/main.py)   |
@@ -10,6 +11,7 @@
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                             | [2133/main.py](2133/main.py)   |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                         | [2134/main.py](2134/main.py)   |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
+| 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                | [2382/main.cpp](2382/main.cpp) |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                           | [2383/main.cpp](2383/main.cpp) |
 | 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                       | [2401/main.cpp](2401/main.cpp) |
