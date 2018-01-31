@@ -2,6 +2,7 @@
 
 | ID   | Problem statement                                                                  | Solution                       |
 |------|------------------------------------------------------------------------------------|--------------------------------|
+| 5059 | [Two minimums](https://www.e-olymp.com/en/problems/5059)                           | [5059/main.cpp](5059/main.cpp) |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                  | [5072/main.cpp](5072/main.cpp) |
 | 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                             | [5073/main.cpp](5073/main.cpp) |
 | 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074) | [5074/main.py](5074/main.py)   |
@@ -16,6 +17,7 @@
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                         | [5175/main.py](5175/main.py)   |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                | [5213/main.cpp](5213/main.cpp) |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                        | [5235/main.py](5235/main.py)   |
+| 5283 | [Thaw](https://www.e-olymp.com/en/problems/5283)                                   | [5283/main.py](5283/main.py)   |
 | 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                           | [5328/main.cpp](5328/main.cpp) |
 | 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                  | [5329/main.py](5329/main.py)   |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                     | [5338/main.cpp](5338/main.cpp) |
