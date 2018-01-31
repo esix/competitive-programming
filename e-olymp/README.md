@@ -429,4 +429,21 @@ Compilers:
 | G    | [Garage](https://www.e-olymp.com/en/contests/9571/problems/83973)                                     | [~contest-9571/G/main.cpp](~contest-9571/G/main.cpp) |
 | H    | [Dr Who`s Banquet](https://www.e-olymp.com/en/contests/9571/problems/83974)                           | [~contest-9571/H/main.cpp](~contest-9571/H/main.cpp) |
 | I    | [Boiling Vegetables](https://www.e-olymp.com/en/contests/9571/problems/83975)                         | [~contest-9571/I/main.cpp](~contest-9571/I/main.cpp) |
+|      | [Linear arrays](https://www.e-olymp.com/en/contests/9608)                                             | [~contest-9608/](~contest-9608/)                     |
+| A    | [Increase by 2](https://www.e-olymp.com/en/contests/9608/problems/84244)                              | [~contest-9608/A/main.py](~contest-9608/A/main.py)   |
+| B    | [The first is not greater for 2,5](https://www.e-olymp.com/en/contests/9608/problems/84245)           | [~contest-9608/B/main.py](~contest-9608/B/main.py)   |
+| C    | [Maximum of absolute values](https://www.e-olymp.com/en/contests/9608/problems/84246)                 | [~contest-9608/C/main.py](~contest-9608/C/main.py)   |
+| D    | [Twice the minimum](https://www.e-olymp.com/en/contests/9608/problems/84247)                          | [~contest-9608/D/main.py](~contest-9608/D/main.py)   |
+| E    | [Number by 3](https://www.e-olymp.com/en/contests/9608/problems/84248)                                | [~contest-9608/E/main.py](~contest-9608/E/main.py)   |
+| F    | [Negative elements](https://www.e-olymp.com/en/contests/9608/problems/84249)                          | [~contest-9608/F/main.py](~contest-9608/F/main.py)   |
+| G    | [Shift the elements](https://www.e-olymp.com/en/contests/9608/problems/84250)                         | [~contest-9608/G/main.py](~contest-9608/G/main.py)   |
+| H    | [The sum of the largest and the smallest](https://www.e-olymp.com/en/contests/9608/problems/84251)    | [~contest-9608/H/main.py](~contest-9608/H/main.py)   |
+| I    | [Скала Советов](https://www.e-olymp.com/en/contests/9608/problems/84252)                              | [~contest-9608/I/main.py](~contest-9608/I/main.py)   |
+| J    | [Double reverse](https://www.e-olymp.com/en/contests/9608/problems/84253)                             | [~contest-9608/J/main.py](~contest-9608/J/main.py)   |
+| K    | [Contr-operation](https://www.e-olymp.com/en/contests/9608/problems/84254)                            | [~contest-9608/K/main.py](~contest-9608/K/main.py)   |
+| L    | [Invertor](https://www.e-olymp.com/en/contests/9608/problems/84255)                                   | [~contest-9608/L/main.py](~contest-9608/L/main.py)   |
+| M    | [Who will get the "avtomat"?](https://www.e-olymp.com/en/contests/9608/problems/84256)                | [~contest-9608/M/main.cpp](~contest-9608/M/main.cpp) |
+| N    | [Two minimums](https://www.e-olymp.com/en/contests/9608/problems/84257)                               | [~contest-9608/N/main.cpp](~contest-9608/N/main.cpp) |
+| O    | [Thaw](https://www.e-olymp.com/en/contests/9608/problems/84258)                                       | [~contest-9608/O/main.py](~contest-9608/O/main.py)   |
+| P    | [Arithmetic mean for figure skaters](https://www.e-olymp.com/en/contests/9608/problems/84259)         | [~contest-9608/P/main.py](~contest-9608/P/main.py)   |
 
