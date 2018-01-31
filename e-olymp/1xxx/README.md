@@ -19,8 +19,10 @@
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                | [1246/main.cpp](1246/main.cpp) |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)           | [1363/main.cpp](1363/main.cpp) |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                        | [1414/main.cpp](1414/main.cpp) |
+| 1415 | [Скала Советов](https://www.e-olymp.com/en/problems/1415)                  | [1415/main.py](1415/main.py)   |
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                        | [1452/main.cpp](1452/main.cpp) |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                   | [1453/main.cpp](1453/main.cpp) |
+| 1460 | [Double reverse](https://www.e-olymp.com/en/problems/1460)                 | [1460/main.py](1460/main.py)   |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                | [1601/main.cpp](1601/main.cpp) |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)        | [1602/main.cpp](1602/main.cpp) |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)              | [1603/main.py](1603/main.py)   |
@@ -30,4 +32,5 @@
 | 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)           | [1610/main.py](1610/main.py)   |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                      | [1658/main.py](1658/main.py)   |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                         | [1941/main.cpp](1941/main.cpp) |
+| 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                | [1952/main.py](1952/main.py)   |
 
