@@ -62,6 +62,7 @@ Compilers:
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)                      | [0xxx/0902/main.py](0xxx/0902/main.py)               |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                                             | [0xxx/0903/main.py](0xxx/0903/main.py)               |
 | 0904 | [Increase by 2](https://www.e-olymp.com/en/problems/904)                                              | [0xxx/0904/main.py](0xxx/0904/main.py)               |
+| 0906 | [Product of digits](https://www.e-olymp.com/en/problems/906)                                          | [0xxx/0906/main.py](0xxx/0906/main.py)               |
 | 0907 | [The first is not greater for 2,5](https://www.e-olymp.com/en/problems/907)                           | [0xxx/0907/main.py](0xxx/0907/main.py)               |
 | 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)                            | [0xxx/0910/main.cpp](0xxx/0910/main.cpp)             |
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)                                 | [0xxx/0914/main.py](0xxx/0914/main.py)               |
@@ -77,7 +78,15 @@ Compilers:
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                                              | [0xxx/0929/main.py](0xxx/0929/main.py)               |
 | 0931 | [The ratio of product to the sum](https://www.e-olymp.com/en/problems/931)                            | [0xxx/0931/main.cpp](0xxx/0931/main.cpp)             |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)                                 | [0xxx/0932/main.py](0xxx/0932/main.py)               |
+| 0935 | [Decomposition of three digit number](https://www.e-olymp.com/en/problems/935)                        | [0xxx/0935/main.py](0xxx/0935/main.py)               |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)                                  | [0xxx/0938/main.py](0xxx/0938/main.py)               |
+| 0939 | [The square of sum](https://www.e-olymp.com/en/problems/939)                                          | [0xxx/0939/main.py](0xxx/0939/main.py)               |
+| 0941 | [Difference](https://www.e-olymp.com/en/problems/941)                                                 | [0xxx/0941/main.py](0xxx/0941/main.py)               |
+| 0943 | [Swap the digits](https://www.e-olymp.com/en/problems/943)                                            | [0xxx/0943/main.py](0xxx/0943/main.py)               |
+| 0945 | [Without the middle](https://www.e-olymp.com/en/problems/945)                                         | [0xxx/0945/main.py](0xxx/0945/main.py)               |
+| 0949 | [Two digits from four digits](https://www.e-olymp.com/en/problems/949)                                | [0xxx/0949/main.py](0xxx/0949/main.py)               |
+| 0955 | [The square of sum](https://www.e-olymp.com/en/problems/955)                                          | [0xxx/0955/main.py](0xxx/0955/main.py)               |
+| 0959 | [Sum of digits](https://www.e-olymp.com/en/problems/959)                                              | [0xxx/0959/main.py](0xxx/0959/main.py)               |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [0xxx/0977/main.cpp](0xxx/0977/main.cpp)             |
 | 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                                                 | [0xxx/0978/main.cpp](0xxx/0978/main.cpp)             |
 | 0990 | [12345](https://www.e-olymp.com/en/problems/990)                                                      | [0xxx/0990/main.py](0xxx/0990/main.py)               |
@@ -109,6 +118,7 @@ Compilers:
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                           | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                   | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                         | [1xxx/1603/main.py](1xxx/1603/main.py)               |
+| 1604 | [The product of even digits in a number](https://www.e-olymp.com/en/problems/1604)                    | [1xxx/1604/main.py](1xxx/1604/main.py)               |
 | 1605 | [The second digit of the number](https://www.e-olymp.com/en/problems/1605)                            | [1xxx/1605/main.py](1xxx/1605/main.py)               |
 | 1607 | [The number in reverse order](https://www.e-olymp.com/en/problems/1607)                               | [1xxx/1607/main.py](1xxx/1607/main.py)               |
 | 1609 | [The number of specified digits](https://www.e-olymp.com/en/problems/1609)                            | [1xxx/1609/main.cpp](1xxx/1609/main.cpp)             |
@@ -462,4 +472,16 @@ Compilers:
 | N    | [Two minimums](https://www.e-olymp.com/en/contests/9608/problems/84257)                               | [~contest-9608/N/main.cpp](~contest-9608/N/main.cpp) |
 | O    | [Thaw](https://www.e-olymp.com/en/contests/9608/problems/84258)                                       | [~contest-9608/O/main.py](~contest-9608/O/main.py)   |
 | P    | [Arithmetic mean for figure skaters](https://www.e-olymp.com/en/contests/9608/problems/84259)         | [~contest-9608/P/main.py](~contest-9608/P/main.py)   |
+|      | [Digits in the number](https://www.e-olymp.com/en/contests/9630)                                      | [~contest-9630/](~contest-9630/)                     |
+| A    | [Simple problem?](https://www.e-olymp.com/en/contests/9630/problems/84464)                            | [~contest-9630/A/main.py](~contest-9630/A/main.py)   |
+| B    | [Product of digits](https://www.e-olymp.com/en/contests/9630/problems/84465)                          | [~contest-9630/B/main.py](~contest-9630/B/main.py)   |
+| C    | [Decomposition of three digit number](https://www.e-olymp.com/en/contests/9630/problems/84466)        | [~contest-9630/C/main.py](~contest-9630/C/main.py)   |
+| D    | [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84467)                          | [~contest-9630/D/main.py](~contest-9630/D/main.py)   |
+| E    | [Difference](https://www.e-olymp.com/en/contests/9630/problems/84468)                                 | [~contest-9630/E/main.py](~contest-9630/E/main.py)   |
+| F    | [Swap the digits](https://www.e-olymp.com/en/contests/9630/problems/84469)                            | [~contest-9630/F/main.py](~contest-9630/F/main.py)   |
+| G    | [Without the middle](https://www.e-olymp.com/en/contests/9630/problems/84470)                         | [~contest-9630/G/main.py](~contest-9630/G/main.py)   |
+| H    | [Two digits from four digits](https://www.e-olymp.com/en/contests/9630/problems/84471)                | [~contest-9630/H/main.py](~contest-9630/H/main.py)   |
+| I    | [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84472)                          | [~contest-9630/I/main.py](~contest-9630/I/main.py)   |
+| J    | [Sum of digits](https://www.e-olymp.com/en/contests/9630/problems/84473)                              | [~contest-9630/J/main.py](~contest-9630/J/main.py)   |
+| K    | [The product of even digits in a number](https://www.e-olymp.com/en/contests/9630/problems/84474)     | [~contest-9630/K/main.py](~contest-9630/K/main.py)   |
 
