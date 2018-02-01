@@ -49,6 +49,7 @@
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)   | [0902/main.py](0902/main.py)   |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                          | [0903/main.py](0903/main.py)   |
 | 0904 | [Increase by 2](https://www.e-olymp.com/en/problems/904)                           | [0904/main.py](0904/main.py)   |
+| 0906 | [Product of digits](https://www.e-olymp.com/en/problems/906)                       | [0906/main.py](0906/main.py)   |
 | 0907 | [The first is not greater for 2,5](https://www.e-olymp.com/en/problems/907)        | [0907/main.py](0907/main.py)   |
 | 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)         | [0910/main.cpp](0910/main.cpp) |
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)              | [0914/main.py](0914/main.py)   |
@@ -64,7 +65,15 @@
 | 0929 | [Parallelogram](https://www.e-olymp.com/en/problems/929)                           | [0929/main.py](0929/main.py)   |
 | 0931 | [The ratio of product to the sum](https://www.e-olymp.com/en/problems/931)         | [0931/main.cpp](0931/main.cpp) |
 | 0932 | [The height of the triangle](https://www.e-olymp.com/en/problems/932)              | [0932/main.py](0932/main.py)   |
+| 0935 | [Decomposition of three digit number](https://www.e-olymp.com/en/problems/935)     | [0935/main.py](0935/main.py)   |
 | 0938 | [The point on the interval](https://www.e-olymp.com/en/problems/938)               | [0938/main.py](0938/main.py)   |
+| 0939 | [The square of sum](https://www.e-olymp.com/en/problems/939)                       | [0939/main.py](0939/main.py)   |
+| 0941 | [Difference](https://www.e-olymp.com/en/problems/941)                              | [0941/main.py](0941/main.py)   |
+| 0943 | [Swap the digits](https://www.e-olymp.com/en/problems/943)                         | [0943/main.py](0943/main.py)   |
+| 0945 | [Without the middle](https://www.e-olymp.com/en/problems/945)                      | [0945/main.py](0945/main.py)   |
+| 0949 | [Two digits from four digits](https://www.e-olymp.com/en/problems/949)             | [0949/main.py](0949/main.py)   |
+| 0955 | [The square of sum](https://www.e-olymp.com/en/problems/955)                       | [0955/main.py](0955/main.py)   |
+| 0959 | [Sum of digits](https://www.e-olymp.com/en/problems/959)                           | [0959/main.py](0959/main.py)   |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                           | [0977/main.cpp](0977/main.cpp) |
 | 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                              | [0978/main.cpp](0978/main.cpp) |
 | 0990 | [12345](https://www.e-olymp.com/en/problems/990)                                   | [0990/main.py](0990/main.py)   |
