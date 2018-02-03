@@ -229,9 +229,12 @@ Compilers:
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                                                   | [7xxx/7371/main.py](7xxx/7371/main.py)               |
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                                            | [7xxx/7401/main.py](7xxx/7401/main.py)               |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                                            | [7xxx/7403/main.cpp](7xxx/7403/main.cpp)             |
+| 7411 | [Equation for the 5-th class!](https://www.e-olymp.com/en/problems/7411)                              | [7xxx/7411/main.py](7xxx/7411/main.py)               |
+| 7459 | [Odd positions](https://www.e-olymp.com/en/problems/7459)                                             | [7xxx/7459/main.py](7xxx/7459/main.py)               |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                                          | [7xxx/7460/main.py](7xxx/7460/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
+| 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)                         | [7xxx/7814/main.py](7xxx/7814/main.py)               |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                                              | [7xxx/7841/main.cpp](7xxx/7841/main.cpp)             |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                    | [7xxx/7943/main.py](7xxx/7943/main.py)               |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                         | [7xxx/7944/main.py](7xxx/7944/main.py)               |
@@ -484,4 +487,8 @@ Compilers:
 | I    | [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84472)                          | [~contest-9630/I/main.py](~contest-9630/I/main.py)   |
 | J    | [Sum of digits](https://www.e-olymp.com/en/contests/9630/problems/84473)                              | [~contest-9630/J/main.py](~contest-9630/J/main.py)   |
 | K    | [The product of even digits in a number](https://www.e-olymp.com/en/contests/9630/problems/84474)     | [~contest-9630/K/main.py](~contest-9630/K/main.py)   |
+| L    | [The last digit](https://www.e-olymp.com/en/contests/9630/problems/84475)                             | [~contest-9630/L/main.py](~contest-9630/L/main.py)   |
+| M    | [Equation for the 5-th class!](https://www.e-olymp.com/en/contests/9630/problems/84476)               | [~contest-9630/M/main.py](~contest-9630/M/main.py)   |
+| N    | [Odd positions](https://www.e-olymp.com/en/contests/9630/problems/84477)                              | [~contest-9630/N/main.py](~contest-9630/N/main.py)   |
+| O    | [Two-digit number from three-digit](https://www.e-olymp.com/en/contests/9630/problems/84478)          | [~contest-9630/O/main.py](~contest-9630/O/main.py)   |
 
