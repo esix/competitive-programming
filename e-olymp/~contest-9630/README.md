@@ -15,4 +15,8 @@
 | I  | [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84472)                      | [I/main.py](I/main.py) |
 | J  | [Sum of digits](https://www.e-olymp.com/en/contests/9630/problems/84473)                          | [J/main.py](J/main.py) |
 | K  | [The product of even digits in a number](https://www.e-olymp.com/en/contests/9630/problems/84474) | [K/main.py](K/main.py) |
+| L  | [The last digit](https://www.e-olymp.com/en/contests/9630/problems/84475)                         | [L/main.py](L/main.py) |
+| M  | [Equation for the 5-th class!]                                                                    | [M/main.py](M/main.py) |
+| N  | [Odd positions](https://www.e-olymp.com/en/contests/9630/problems/84477)                          | [N/main.py](N/main.py) |
+| O  | [Two-digit number from three-digit](https://www.e-olymp.com/en/contests/9630/problems/84478)      | [O/main.py](O/main.py) |
 
