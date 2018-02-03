@@ -11,6 +11,7 @@
 | 7371 | [Testing](https://www.e-olymp.com/en/problems/7371)                            | [7371/main.py](7371/main.py)   |
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                     | [7401/main.py](7401/main.py)   |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                     | [7403/main.cpp](7403/main.cpp) |
+| 7411 | [Equation for the 5-th class!](https://www.e-olymp.com/en/problems/7411)       | [7411/main.py](7411/main.py)   |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                   | [7460/main.py](7460/main.py)   |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                    | [7565/main.cpp](7565/main.cpp) |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                | [7785/main.cpp](7785/main.cpp) |

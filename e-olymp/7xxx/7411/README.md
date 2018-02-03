@@ -1,4 +1,4 @@
-# [Equation for the 5-th class!](https://www.e-olymp.com/en/contests/9630/problems/84476)
+# [Equation for the 5-th class!](https://www.e-olymp.com/en/problems/7411)
 
 The equation for the fifth grader is a line of length 5 symbols. The second symbol in the line is either a sign '+' (plus) or '-' (minus), the forth symbol is a sign '=' (equals to). Amonng the first, third and fifth symbol exactly two are digits in the range from 0 to 9, and one is a letter x that is a variable.
 
