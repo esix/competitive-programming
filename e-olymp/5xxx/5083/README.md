@@ -3,7 +3,7 @@
 n integers are given. Find among them the number with minimal sum of digits (in the case if there are some of them with the same sum – print the last number from the input sequence).
 
 ## Input
-First line contains n (1 ≤ n ≤ 105). Next line contains n positive integers. Each number is not greater than 109.
+First line contains n (1 ≤ n ≤ 10⁵). Next line contains n positive integers. Each number is not greater than 10⁹.
 
 ## Output
 Print the number with minimal sum of digits.
