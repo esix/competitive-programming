@@ -17,6 +17,7 @@
 | 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)         | [0057/main.py](0057/main.py)   |
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                  | [0060/main.cpp](0060/main.cpp) |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                  | [0066/main.py](0066/main.py)   |
+| 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                           | [0108/main.py](0108/main.py)   |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                         | [0122/main.cpp](0122/main.cpp) |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                  | [0124/main.cpp](0124/main.cpp) |
 | 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                | [0125/main.cpp](0125/main.cpp) |
@@ -55,6 +56,7 @@
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)              | [0914/main.py](0914/main.py)   |
 | 0917 | [Twice the minimum](https://www.e-olymp.com/en/problems/917)                       | [0917/main.py](0917/main.py)   |
 | 0919 | [Number by 3](https://www.e-olymp.com/en/problems/919)                             | [0919/main.py](0919/main.py)   |
+| 0920 | [Use the function](https://www.e-olymp.com/en/problems/920)                        | [0920/main.py](0920/main.py)   |
 | 0921 | [Negative elements](https://www.e-olymp.com/en/problems/921)                       | [0921/main.py](0921/main.py)   |
 | 0922 | [Shift the elements](https://www.e-olymp.com/en/problems/922)                      | [0922/main.py](0922/main.py)   |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                    | [0924/main.py](0924/main.py)   |
