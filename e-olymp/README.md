@@ -30,6 +30,7 @@ Compilers:
 | 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                            | [0xxx/0057/main.py](0xxx/0057/main.py)               |
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                     | [0xxx/0060/main.cpp](0xxx/0060/main.cpp)             |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [0xxx/0066/main.py](0xxx/0066/main.py)               |
+| 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                                              | [0xxx/0108/main.py](0xxx/0108/main.py)               |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)             |
 | 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                                   | [0xxx/0125/main.cpp](0xxx/0125/main.cpp)             |
@@ -68,6 +69,7 @@ Compilers:
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)                                 | [0xxx/0914/main.py](0xxx/0914/main.py)               |
 | 0917 | [Twice the minimum](https://www.e-olymp.com/en/problems/917)                                          | [0xxx/0917/main.py](0xxx/0917/main.py)               |
 | 0919 | [Number by 3](https://www.e-olymp.com/en/problems/919)                                                | [0xxx/0919/main.py](0xxx/0919/main.py)               |
+| 0920 | [Use the function](https://www.e-olymp.com/en/problems/920)                                           | [0xxx/0920/main.py](0xxx/0920/main.py)               |
 | 0921 | [Negative elements](https://www.e-olymp.com/en/problems/921)                                          | [0xxx/0921/main.py](0xxx/0921/main.py)               |
 | 0922 | [Shift the elements](https://www.e-olymp.com/en/problems/922)                                         | [0xxx/0922/main.py](0xxx/0922/main.py)               |
 | 0924 | [Ring](https://www.e-olymp.com/en/problems/924)                                                       | [0xxx/0924/main.py](0xxx/0924/main.py)               |
@@ -128,6 +130,7 @@ Compilers:
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                           | [1xxx/1952/main.py](1xxx/1952/main.py)               |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
+| 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                                       | [2xxx/2097/main.py](2xxx/2097/main.py)               |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                                  | [2xxx/2098/main.py](2xxx/2098/main.py)               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [2xxx/2129/main.py](2xxx/2129/main.py)               |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [2xxx/2130/main.py](2xxx/2130/main.py)               |
@@ -145,9 +148,11 @@ Compilers:
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                | [2xxx/2471/main.cpp](2xxx/2471/main.cpp)             |
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [2xxx/2472/main.cpp](2xxx/2472/main.cpp)             |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [2xxx/2549/main.py](2xxx/2549/main.py)               |
+| 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                                       | [2xxx/2606/main.py](2xxx/2606/main.py)               |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [2xxx/2674/main.py](2xxx/2674/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                       | [2xxx/2814/main.py](2xxx/2814/main.py)               |
+| 2864 | [Function tabulation](https://www.e-olymp.com/en/problems/2864)                                       | [2xxx/2864/main.py](2xxx/2864/main.py)               |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                               | [2xxx/2999/main.py](2xxx/2999/main.py)               |
 |      | 3000-3999                                                                                             | [3xxx/](3xxx/)                                       |
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                     | [3xxx/3171/main.py](3xxx/3171/main.py)               |
@@ -491,4 +496,12 @@ Compilers:
 | M    | [Equation for the 5-th class!](https://www.e-olymp.com/en/contests/9630/problems/84476)               | [~contest-9630/M/main.py](~contest-9630/M/main.py)   |
 | N    | [Odd positions](https://www.e-olymp.com/en/contests/9630/problems/84477)                              | [~contest-9630/N/main.py](~contest-9630/N/main.py)   |
 | O    | [Two-digit number from three-digit](https://www.e-olymp.com/en/contests/9630/problems/84478)          | [~contest-9630/O/main.py](~contest-9630/O/main.py)   |
+|      | [Functions](https://www.e-olymp.com/en/contests/9646)                                                 | [~contest-9646/](~contest-9646/)                     |
+| A    | [Median number](https://www.e-olymp.com/en/contests/9646/problems/84653)                              | [~contest-9646/A/main.py](~contest-9646/A/main.py)   |
+| B    | [The minimal sum of digits](https://www.e-olymp.com/en/contests/9646/problems/84654)                  | [~contest-9646/B/main.cpp](~contest-9646/B/main.cpp) |
+| C    | [Use the function](https://www.e-olymp.com/en/contests/9646/problems/84655)                           | [~contest-9646/C/main.py](~contest-9646/C/main.py)   |
+| D    | [Three digit numbers](https://www.e-olymp.com/en/contests/9646/problems/84656)                        | [~contest-9646/D/main.py](~contest-9646/D/main.py)   |
+| E    | [Minimum and maximum](https://www.e-olymp.com/en/contests/9646/problems/84657)                        | [~contest-9646/E/main.py](~contest-9646/E/main.py)   |
+| F    | [Function tabulation](https://www.e-olymp.com/en/contests/9646/problems/84658)                        | [~contest-9646/F/main.py](~contest-9646/F/main.py)   |
+| G    | [Sum of digits](https://www.e-olymp.com/en/contests/9646/problems/84659)                              | [~contest-9646/G/main.cpp](~contest-9646/G/main.cpp) |
 
