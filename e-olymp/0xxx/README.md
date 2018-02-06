@@ -75,6 +75,7 @@
 | 0945 | [Without the middle](https://www.e-olymp.com/en/problems/945)                      | [0945/main.py](0945/main.py)   |
 | 0949 | [Two digits from four digits](https://www.e-olymp.com/en/problems/949)             | [0949/main.py](0949/main.py)   |
 | 0955 | [The square of sum](https://www.e-olymp.com/en/problems/955)                       | [0955/main.py](0955/main.py)   |
+| 0957 | [Square root](https://www.e-olymp.com/en/problems/957)                             | [0957/main.py](0957/main.py)   |
 | 0959 | [Sum of digits](https://www.e-olymp.com/en/problems/959)                           | [0959/main.py](0959/main.py)   |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                           | [0977/main.cpp](0977/main.cpp) |
 | 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                              | [0978/main.cpp](0978/main.cpp) |
