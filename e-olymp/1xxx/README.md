@@ -15,6 +15,8 @@
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                   | [1181/main.cpp](1181/main.cpp) |
 | 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                        | [1182/main.py](1182/main.py)   |
 | 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                  | [1183/main.cpp](1183/main.cpp) |
+| 1205 | [Power of Cryptography](https://www.e-olymp.com/en/problems/1205)                  | [1205/main.py](1205/main.py)   |
+| 1206 | [f91](https://www.e-olymp.com/en/problems/1206)                                    | [1206/main.py](1206/main.py)   |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                  | [1243/main.py](1243/main.py)   |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                        | [1246/main.cpp](1246/main.cpp) |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                   | [1363/main.cpp](1363/main.cpp) |
@@ -34,4 +36,5 @@
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                              | [1658/main.py](1658/main.py)   |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                 | [1941/main.cpp](1941/main.cpp) |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                        | [1952/main.py](1952/main.py)   |
+| 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                               | [1993/main.py](1993/main.py)   |
 
