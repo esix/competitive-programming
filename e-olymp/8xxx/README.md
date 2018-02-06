@@ -12,7 +12,11 @@
 | 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                      | [8201/main.py](8201/main.py)   |
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                       | [8216/main.py](8216/main.py)   |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                       | [8217/main.cpp](8217/main.cpp) |
+| 8239 | [Function - 1](https://www.e-olymp.com/en/problems/8239)                  | [8239/main.py](8239/main.py)   |
+| 8240 | [Function - 2](https://www.e-olymp.com/en/problems/8240)                  | [8240/main.py](8240/main.py)   |
+| 8241 | [Function - 3](https://www.e-olymp.com/en/problems/8241)                  | [8241/main.py](8241/main.py)   |
 | 8242 | [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)     | [8242/main.py](8242/main.py)   |
 | 8243 | [The first digit of the number](https://www.e-olymp.com/en/problems/8243) | [8243/main.py](8243/main.py)   |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)    | [8254/main.py](8254/main.py)   |
+| 8255 | [n-digit numbers](https://www.e-olymp.com/en/problems/8255)               | [8255/main.py](8255/main.py)   |
 
