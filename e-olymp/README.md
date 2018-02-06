@@ -88,6 +88,7 @@ Compilers:
 | 0945 | [Without the middle](https://www.e-olymp.com/en/problems/945)                                         | [0xxx/0945/main.py](0xxx/0945/main.py)               |
 | 0949 | [Two digits from four digits](https://www.e-olymp.com/en/problems/949)                                | [0xxx/0949/main.py](0xxx/0949/main.py)               |
 | 0955 | [The square of sum](https://www.e-olymp.com/en/problems/955)                                          | [0xxx/0955/main.py](0xxx/0955/main.py)               |
+| 0957 | [Square root](https://www.e-olymp.com/en/problems/957)                                                | [0xxx/0957/main.py](0xxx/0957/main.py)               |
 | 0959 | [Sum of digits](https://www.e-olymp.com/en/problems/959)                                              | [0xxx/0959/main.py](0xxx/0959/main.py)               |
 | 0977 | [Is it a Tree?](https://www.e-olymp.com/en/problems/977)                                              | [0xxx/0977/main.cpp](0xxx/0977/main.cpp)             |
 | 0978 | [Get a tree](https://www.e-olymp.com/en/problems/978)                                                 | [0xxx/0978/main.cpp](0xxx/0978/main.cpp)             |
@@ -109,6 +110,8 @@ Compilers:
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                                      | [1xxx/1181/main.cpp](1xxx/1181/main.cpp)             |
 | 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                                           | [1xxx/1182/main.py](1xxx/1182/main.py)               |
 | 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                                     | [1xxx/1183/main.cpp](1xxx/1183/main.cpp)             |
+| 1205 | [Power of Cryptography](https://www.e-olymp.com/en/problems/1205)                                     | [1xxx/1205/main.py](1xxx/1205/main.py)               |
+| 1206 | [f91](https://www.e-olymp.com/en/problems/1206)                                                       | [1xxx/1206/main.py](1xxx/1206/main.py)               |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [1xxx/1243/main.py](1xxx/1243/main.py)               |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [1xxx/1363/main.cpp](1xxx/1363/main.cpp)             |
@@ -128,6 +131,7 @@ Compilers:
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [1xxx/1658/main.py](1xxx/1658/main.py)               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                           | [1xxx/1952/main.py](1xxx/1952/main.py)               |
+| 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                                                  | [1xxx/1993/main.py](1xxx/1993/main.py)               |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                                       | [2xxx/2097/main.py](2xxx/2097/main.py)               |
@@ -152,6 +156,7 @@ Compilers:
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [2xxx/2674/main.py](2xxx/2674/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                       | [2xxx/2814/main.py](2xxx/2814/main.py)               |
+| 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                                     | [2xxx/2826/main.py](2xxx/2826/main.py)               |
 | 2864 | [Function tabulation](https://www.e-olymp.com/en/problems/2864)                                       | [2xxx/2864/main.py](2xxx/2864/main.py)               |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                               | [2xxx/2999/main.py](2xxx/2999/main.py)               |
 |      | 3000-3999                                                                                             | [3xxx/](3xxx/)                                       |
@@ -184,6 +189,7 @@ Compilers:
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                    | [4xxx/4763/main.py](4xxx/4763/main.py)               |
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                       | [4xxx/4764/main.py](4xxx/4764/main.py)               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                      | [4xxx/4805/main.py](4xxx/4805/main.py)               |
+| 4812 | [Function](https://www.e-olymp.com/en/problems/4812)                                                  | [4xxx/4812/main.py](4xxx/4812/main.py)               |
 | 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                        | [4xxx/4819/main.cpp](4xxx/4819/main.cpp)             |
 | 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                     | [4xxx/4852/main.cpp](4xxx/4852/main.cpp)             |
 | 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                                         | [4xxx/4853/main.cpp](4xxx/4853/main.cpp)             |
@@ -254,9 +260,13 @@ Compilers:
 | 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                  | [8xxx/8201/main.py](8xxx/8201/main.py)               |
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                   | [8xxx/8216/main.py](8xxx/8216/main.py)               |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                   | [8xxx/8217/main.cpp](8xxx/8217/main.cpp)             |
+| 8239 | [Function - 1](https://www.e-olymp.com/en/problems/8239)                                              | [8xxx/8239/main.py](8xxx/8239/main.py)               |
+| 8240 | [Function - 2](https://www.e-olymp.com/en/problems/8240)                                              | [8xxx/8240/main.py](8xxx/8240/main.py)               |
+| 8241 | [Function - 3](https://www.e-olymp.com/en/problems/8241)                                              | [8xxx/8241/main.py](8xxx/8241/main.py)               |
 | 8242 | [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)                                 | [8xxx/8242/main.py](8xxx/8242/main.py)               |
 | 8243 | [The first digit of the number](https://www.e-olymp.com/en/problems/8243)                             | [8xxx/8243/main.py](8xxx/8243/main.py)               |
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)                                | [8xxx/8254/main.py](8xxx/8254/main.py)               |
+| 8255 | [n-digit numbers](https://www.e-olymp.com/en/problems/8255)                                           | [8xxx/8255/main.py](8xxx/8255/main.py)               |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                    | [~contest-8860/](~contest-8860/)                     |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                                        | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp) |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)                     | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp) |
@@ -504,4 +514,14 @@ Compilers:
 | E    | [Minimum and maximum](https://www.e-olymp.com/en/contests/9646/problems/84657)                        | [~contest-9646/E/main.py](~contest-9646/E/main.py)   |
 | F    | [Function tabulation](https://www.e-olymp.com/en/contests/9646/problems/84658)                        | [~contest-9646/F/main.py](~contest-9646/F/main.py)   |
 | G    | [Sum of digits](https://www.e-olymp.com/en/contests/9646/problems/84659)                              | [~contest-9646/G/main.cpp](~contest-9646/G/main.cpp) |
+| H    | [Function - 1](https://www.e-olymp.com/en/contests/9646/problems/84660)                               | [~contest-9646/H/main.py](~contest-9646/H/main.py)   |
+| I    | [Function - 2](https://www.e-olymp.com/en/contests/9646/problems/84661)                               | [~contest-9646/I/main.py](~contest-9646/I/main.py)   |
+| J    | [Function - 3](https://www.e-olymp.com/en/contests/9646/problems/84662)                               | [~contest-9646/J/main.py](~contest-9646/J/main.py)   |
+| K    | [n-digit numbers](https://www.e-olymp.com/en/contests/9646/problems/84663)                            | [~contest-9646/K/main.py](~contest-9646/K/main.py)   |
+| L    | [Square root](https://www.e-olymp.com/en/contests/9646/problems/84664)                                | [~contest-9646/L/main.py](~contest-9646/L/main.py)   |
+| M    | [Power of Cryptography](https://www.e-olymp.com/en/contests/9646/problems/84665)                      | [~contest-9646/M/main.py](~contest-9646/M/main.py)   |
+| N    | [f91](https://www.e-olymp.com/en/contests/9646/problems/84666)                                        | [~contest-9646/N/main.py](~contest-9646/N/main.py)   |
+| O    | [Weighing](https://www.e-olymp.com/en/contests/9646/problems/84667)                                   | [~contest-9646/O/main.py](~contest-9646/O/main.py)   |
+| P    | [Guess](https://www.e-olymp.com/en/contests/9646/problems/84668)                                      | [~contest-9646/P/main.py](~contest-9646/P/main.py)   |
+| Q    | [Function](https://www.e-olymp.com/en/contests/9646/problems/84669)                                   | [~contest-9646/Q/main.py](~contest-9646/Q/main.py)   |
 

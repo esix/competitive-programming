@@ -18,6 +18,7 @@
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763) | [4763/main.py](4763/main.py)   |
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                    | [4764/main.py](4764/main.py)   |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                   | [4805/main.py](4805/main.py)   |
+| 4812 | [Function](https://www.e-olymp.com/en/problems/4812)                               | [4812/main.py](4812/main.py)   |
 | 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                     | [4819/main.cpp](4819/main.cpp) |
 | 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                  | [4852/main.cpp](4852/main.cpp) |
 | 4853 | [The shortest path](https://www.e-olymp.com/en/problems/4853)                      | [4853/main.cpp](4853/main.cpp) |
