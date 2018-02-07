@@ -14,6 +14,8 @@
 | 7411 | [Equation for the 5-th class!](https://www.e-olymp.com/en/problems/7411)       | [7411/main.py](7411/main.py)   |
 | 7459 | [Odd positions](https://www.e-olymp.com/en/problems/7459)                      | [7459/main.py](7459/main.py)   |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                   | [7460/main.py](7460/main.py)   |
+| 7492 | [Alarm Clock](https://www.e-olymp.com/en/problems/7492)                        | [7492/main.py](7492/main.py)   |
+| 7493 | [Buffcraft](https://www.e-olymp.com/en/problems/7493)                          | [7493/main.cpp](7493/main.cpp) |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                    | [7565/main.cpp](7565/main.cpp) |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                | [7785/main.cpp](7785/main.cpp) |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)  | [7814/main.py](7814/main.py)   |
