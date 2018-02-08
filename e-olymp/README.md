@@ -245,6 +245,7 @@ Compilers:
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                                          | [7xxx/7460/main.py](7xxx/7460/main.py)               |
 | 7492 | [Alarm Clock](https://www.e-olymp.com/en/problems/7492)                                               | [7xxx/7492/main.py](7xxx/7492/main.py)               |
 | 7493 | [Buffcraft](https://www.e-olymp.com/en/problems/7493)                                                 | [7xxx/7493/main.cpp](7xxx/7493/main.cpp)             |
+| 7495 | [Digits](https://www.e-olymp.com/en/problems/7495)                                                    | [7xxx/7495/main.py](7xxx/7495/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)                         | [7xxx/7814/main.py](7xxx/7814/main.py)               |
@@ -529,4 +530,5 @@ Compilers:
 |      | [2014 ACM NEERC, Northern Subregion](https://www.e-olymp.com/en/contests/9666)                        | [~contest-9666/](~contest-9666/)                     |
 | A    | [Alarm Clock](https://www.e-olymp.com/en/contests/9666/problems/84863)                                | [~contest-9666/A/main.py](~contest-9666/A/main.py)   |
 | B    | [Buffcraft](https://www.e-olymp.com/en/contests/9666/problems/84864)                                  | [~contest-9666/B/main.cpp](~contest-9666/B/main.cpp) |
+| D    | [Digits](https://www.e-olymp.com/en/contests/9666/problems/84866)                                     | [~contest-9666/D/main.py](~contest-9666/D/main.py)   |
 
