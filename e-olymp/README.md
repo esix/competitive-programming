@@ -46,11 +46,16 @@ Compilers:
 | 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)                                    | [0xxx/0318/main.py](0xxx/0318/main.py)               |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                                        | [0xxx/0359/main.cpp](0xxx/0359/main.cpp)             |
 | 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                                             | [0xxx/0388/main.cpp](0xxx/0388/main.cpp)             |
+| 0407 | [Exchange](https://www.e-olymp.com/en/problems/407)                                                   | [0xxx/0407/main.py](0xxx/0407/main.py)               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                           | [0xxx/0413/main.cpp](0xxx/0413/main.cpp)             |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                   | [0xxx/0418/main.py](0xxx/0418/main.py)               |
+| 0419 | [The 3n + 1 problem](https://www.e-olymp.com/en/problems/419)                                         | [0xxx/0419/main.py](0xxx/0419/main.py)               |
+| 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                                      | [0xxx/0421/main.py](0xxx/0421/main.py)               |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                             | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
 | 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                                            | [0xxx/0446/main.cpp](0xxx/0446/main.cpp)             |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                | [0xxx/0478/main.py](0xxx/0478/main.py)               |
+| 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                                                  | [0xxx/0497/main.py](0xxx/0497/main.py)               |
+| 0513 | [Nicholas Problem](https://www.e-olymp.com/en/problems/513)                                           | [0xxx/0513/main.py](0xxx/0513/main.py)               |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                          | [0xxx/0514/main.cpp](0xxx/0514/main.cpp)             |
 | 0518 | [The sum of two](https://www.e-olymp.com/en/problems/518)                                             | [0xxx/0518/main.cpp](0xxx/0518/main.cpp)             |
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                                             | [0xxx/0519/main.py](0xxx/0519/main.py)               |
@@ -531,4 +536,10 @@ Compilers:
 | A    | [Alarm Clock](https://www.e-olymp.com/en/contests/9666/problems/84863)                                | [~contest-9666/A/main.py](~contest-9666/A/main.py)   |
 | B    | [Buffcraft](https://www.e-olymp.com/en/contests/9666/problems/84864)                                  | [~contest-9666/B/main.cpp](~contest-9666/B/main.cpp) |
 | D    | [Digits](https://www.e-olymp.com/en/contests/9666/problems/84866)                                     | [~contest-9666/D/main.py](~contest-9666/D/main.py)   |
+|      | [Loops - 2](https://www.e-olymp.com/en/contests/9680)                                                 | [~contest-9680/](~contest-9680/)                     |
+| A    | [Exchange](https://www.e-olymp.com/en/contests/9680/problems/85012)                                   | [~contest-9680/A/main.py](~contest-9680/A/main.py)   |
+| B    | [The 3n + 1 problem](https://www.e-olymp.com/en/contests/9680/problems/85013)                         | [~contest-9680/B/main.py](~contest-9680/B/main.py)   |
+| C    | [Yo-Yo](https://www.e-olymp.com/en/contests/9680/problems/85014)                                      | [~contest-9680/C/main.py](~contest-9680/C/main.py)   |
+| D    | [Lazybones](https://www.e-olymp.com/en/contests/9680/problems/85015)                                  | [~contest-9680/D/main.py](~contest-9680/D/main.py)   |
+| E    | [Nicholas Problem](https://www.e-olymp.com/en/contests/9680/problems/85016)                           | [~contest-9680/E/main.py](~contest-9680/E/main.py)   |
 

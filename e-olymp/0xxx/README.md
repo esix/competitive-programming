@@ -33,11 +33,16 @@
 | 0318 | [Binomial coefficients 1](https://www.e-olymp.com/en/problems/318)                 | [0318/main.py](0318/main.py)   |
 | 0359 | [The circle and line](https://www.e-olymp.com/en/problems/359)                     | [0359/main.cpp](0359/main.cpp) |
 | 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                          | [0388/main.cpp](0388/main.cpp) |
+| 0407 | [Exchange](https://www.e-olymp.com/en/problems/407)                                | [0407/main.py](0407/main.py)   |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                        | [0413/main.cpp](0413/main.cpp) |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                | [0418/main.py](0418/main.py)   |
+| 0419 | [The 3n + 1 problem](https://www.e-olymp.com/en/problems/419)                      | [0419/main.py](0419/main.py)   |
+| 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                   | [0421/main.py](0421/main.py)   |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                          | [0432/main.cpp](0432/main.cpp) |
 | 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                         | [0446/main.cpp](0446/main.cpp) |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                             | [0478/main.py](0478/main.py)   |
+| 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                               | [0497/main.py](0497/main.py)   |
+| 0513 | [Nicholas Problem](https://www.e-olymp.com/en/problems/513)                        | [0513/main.py](0513/main.py)   |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                       | [0514/main.cpp](0514/main.cpp) |
 | 0518 | [The sum of two](https://www.e-olymp.com/en/problems/518)                          | [0518/main.cpp](0518/main.cpp) |
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                          | [0519/main.py](0519/main.py)   |
