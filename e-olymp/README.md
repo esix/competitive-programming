@@ -117,6 +117,8 @@ Compilers:
 | 1183 | [Boxes](https://www.e-olymp.com/en/problems/1183)                                                     | [1xxx/1183/main.cpp](1xxx/1183/main.cpp)             |
 | 1205 | [Power of Cryptography](https://www.e-olymp.com/en/problems/1205)                                     | [1xxx/1205/main.py](1xxx/1205/main.py)               |
 | 1206 | [f91](https://www.e-olymp.com/en/problems/1206)                                                       | [1xxx/1206/main.py](1xxx/1206/main.py)               |
+| 1210 | [Very Easy!!!](https://www.e-olymp.com/en/problems/1210)                                              | [1xxx/1210/main.cpp](1xxx/1210/main.cpp)             |
+| 1214 | [Multifactorial](https://www.e-olymp.com/en/problems/1214)                                            | [1xxx/1214/main.py](1xxx/1214/main.py)               |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [1xxx/1243/main.py](1xxx/1243/main.py)               |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [1xxx/1363/main.cpp](1xxx/1363/main.cpp)             |
@@ -136,6 +138,7 @@ Compilers:
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                 | [1xxx/1658/main.py](1xxx/1658/main.py)               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                           | [1xxx/1952/main.py](1xxx/1952/main.py)               |
+| 1957 | [Silver medal](https://www.e-olymp.com/en/problems/1957)                                              | [1xxx/1957/main.cpp](1xxx/1957/main.cpp)             |
 | 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                                                  | [1xxx/1993/main.py](1xxx/1993/main.py)               |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
@@ -542,4 +545,8 @@ Compilers:
 | C    | [Yo-Yo](https://www.e-olymp.com/en/contests/9680/problems/85014)                                      | [~contest-9680/C/main.py](~contest-9680/C/main.py)   |
 | D    | [Lazybones](https://www.e-olymp.com/en/contests/9680/problems/85015)                                  | [~contest-9680/D/main.py](~contest-9680/D/main.py)   |
 | E    | [Nicholas Problem](https://www.e-olymp.com/en/contests/9680/problems/85016)                           | [~contest-9680/E/main.py](~contest-9680/E/main.py)   |
+| F    | [Very Easy!!!](https://www.e-olymp.com/en/contests/9680/problems/85017)                               | [~contest-9680/F/main.cpp](~contest-9680/F/main.cpp) |
+| G    | [Multifactorial](https://www.e-olymp.com/en/contests/9680/problems/85018)                             | [~contest-9680/G/main.py](~contest-9680/G/main.py)   |
+| H    | [Кролики](https://www.e-olymp.com/en/contests/9680/problems/85019)                                    | [~contest-9680/H/main.cpp](~contest-9680/H/main.cpp) |
+| I    | [Silver medal](https://www.e-olymp.com/en/contests/9680/problems/85020)                               | [~contest-9680/I/main.cpp](~contest-9680/I/main.cpp) |
 
