@@ -3,6 +3,7 @@
 | ID   | Problem statement                                                                      | Solution                       |
 |------|----------------------------------------------------------------------------------------|--------------------------------|
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                           | [2059/main.py](2059/main.py)   |
+| 2060 | [Tale about an apple](https://www.e-olymp.com/en/problems/2060)                        | [2060/main.py](2060/main.py)   |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                        | [2097/main.py](2097/main.py)   |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                   | [2098/main.py](2098/main.py)   |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                       | [2129/main.py](2129/main.py)   |
@@ -12,9 +13,11 @@
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                             | [2133/main.py](2133/main.py)   |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                         | [2134/main.py](2134/main.py)   |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
+| 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                      | [2218/main.py](2218/main.py)   |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                | [2382/main.cpp](2382/main.cpp) |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                           | [2383/main.cpp](2383/main.cpp) |
+| 2399 | [Book](https://www.e-olymp.com/en/problems/2399)                                       | [2399/main.py](2399/main.py)   |
 | 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                       | [2401/main.cpp](2401/main.cpp) |
 | 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                         | [2440/main.cpp](2440/main.cpp) |
 | 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)           | [2470/main.cpp](2470/main.cpp) |
@@ -22,6 +25,7 @@
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                        | [2472/main.cpp](2472/main.cpp) |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                 | [2549/main.py](2549/main.py)   |
 | 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                        | [2606/main.py](2606/main.py)   |
+| 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                         | [2607/main.py](2607/main.py)   |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                | [2631/main.cpp](2631/main.cpp) |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                          | [2674/main.py](2674/main.py)   |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                        | [2814/main.py](2814/main.py)   |

@@ -142,6 +142,7 @@ Compilers:
 | 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                                                  | [1xxx/1993/main.py](1xxx/1993/main.py)               |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
+| 2060 | [Tale about an apple](https://www.e-olymp.com/en/problems/2060)                                       | [2xxx/2060/main.py](2xxx/2060/main.py)               |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                                       | [2xxx/2097/main.py](2xxx/2097/main.py)               |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                                  | [2xxx/2098/main.py](2xxx/2098/main.py)               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [2xxx/2129/main.py](2xxx/2129/main.py)               |
@@ -151,9 +152,11 @@ Compilers:
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                                            | [2xxx/2133/main.py](2xxx/2133/main.py)               |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                                        | [2xxx/2134/main.py](2xxx/2134/main.py)               |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                                | [2xxx/2214/main.py](2xxx/2214/main.py)               |
+| 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                                     | [2xxx/2218/main.py](2xxx/2218/main.py)               |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                               | [2xxx/2238/main.cpp](2xxx/2238/main.cpp)             |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [2xxx/2382/main.cpp](2xxx/2382/main.cpp)             |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [2xxx/2383/main.cpp](2xxx/2383/main.cpp)             |
+| 2399 | [Book](https://www.e-olymp.com/en/problems/2399)                                                      | [2xxx/2399/main.py](2xxx/2399/main.py)               |
 | 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                                      | [2xxx/2401/main.cpp](2xxx/2401/main.cpp)             |
 | 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [2xxx/2440/main.cpp](2xxx/2440/main.cpp)             |
 | 2470 | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                          | [2xxx/2470/main.cpp](2xxx/2470/main.cpp)             |
@@ -161,6 +164,7 @@ Compilers:
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [2xxx/2472/main.cpp](2xxx/2472/main.cpp)             |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [2xxx/2549/main.py](2xxx/2549/main.py)               |
 | 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                                       | [2xxx/2606/main.py](2xxx/2606/main.py)               |
+| 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                                        | [2xxx/2607/main.py](2xxx/2607/main.py)               |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                               | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                         | [2xxx/2674/main.py](2xxx/2674/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                       | [2xxx/2814/main.py](2xxx/2814/main.py)               |
@@ -549,4 +553,8 @@ Compilers:
 | G    | [Multifactorial](https://www.e-olymp.com/en/contests/9680/problems/85018)                             | [~contest-9680/G/main.py](~contest-9680/G/main.py)   |
 | H    | [Кролики](https://www.e-olymp.com/en/contests/9680/problems/85019)                                    | [~contest-9680/H/main.cpp](~contest-9680/H/main.cpp) |
 | I    | [Silver medal](https://www.e-olymp.com/en/contests/9680/problems/85020)                               | [~contest-9680/I/main.cpp](~contest-9680/I/main.cpp) |
+| J    | [Tale about an apple](https://www.e-olymp.com/en/contests/9680/problems/85021)                        | [~contest-9680/J/main.py](~contest-9680/J/main.py)   |
+| K    | [Coins](https://www.e-olymp.com/en/contests/9680/problems/85022)                                      | [~contest-9680/K/main.py](~contest-9680/K/main.py)   |
+| L    | [Book](https://www.e-olymp.com/en/contests/9680/problems/85023)                                       | [~contest-9680/L/main.py](~contest-9680/L/main.py)   |
+| M    | [Divisibility by 11](https://www.e-olymp.com/en/contests/9680/problems/85024)                         | [~contest-9680/M/main.py](~contest-9680/M/main.py)   |
 
