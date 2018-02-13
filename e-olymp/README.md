@@ -266,6 +266,7 @@ Compilers:
 | 7492 | [Alarm Clock](https://www.e-olymp.com/en/problems/7492)                                               | [7xxx/7492/main.py](7xxx/7492/main.py)               |
 | 7493 | [Buffcraft](https://www.e-olymp.com/en/problems/7493)                                                 | [7xxx/7493/main.cpp](7xxx/7493/main.cpp)             |
 | 7495 | [Digits](https://www.e-olymp.com/en/problems/7495)                                                    | [7xxx/7495/main.py](7xxx/7495/main.py)               |
+| 7498 | [Grave](https://www.e-olymp.com/en/problems/7498)                                                     | [7xxx/7498/main.py](7xxx/7498/main.py)               |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                                                    | [7xxx/7526/main.py](7xxx/7526/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
@@ -552,6 +553,7 @@ Compilers:
 | A    | [Alarm Clock](https://www.e-olymp.com/en/contests/9666/problems/84863)                                | [~contest-9666/A/main.py](~contest-9666/A/main.py)   |
 | B    | [Buffcraft](https://www.e-olymp.com/en/contests/9666/problems/84864)                                  | [~contest-9666/B/main.cpp](~contest-9666/B/main.cpp) |
 | D    | [Digits](https://www.e-olymp.com/en/contests/9666/problems/84866)                                     | [~contest-9666/D/main.py](~contest-9666/D/main.py)   |
+| G    | [Grave](https://www.e-olymp.com/en/contests/9666/problems/84869)                                      | [~contest-9666/G/main.py](~contest-9666/G/main.py)   |
 |      | [Loops - 2](https://www.e-olymp.com/en/contests/9680)                                                 | [~contest-9680/](~contest-9680/)                     |
 | A    | [Exchange](https://www.e-olymp.com/en/contests/9680/problems/85012)                                   | [~contest-9680/A/main.py](~contest-9680/A/main.py)   |
 | B    | [The 3n + 1 problem](https://www.e-olymp.com/en/contests/9680/problems/85013)                         | [~contest-9680/B/main.py](~contest-9680/B/main.py)   |
