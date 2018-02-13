@@ -18,6 +18,7 @@
 | 7493 | [Buffcraft](https://www.e-olymp.com/en/problems/7493)                          | [7493/main.cpp](7493/main.cpp) |
 | 7495 | [Digits](https://www.e-olymp.com/en/problems/7495)                             | [7495/main.py](7495/main.py)   |
 | 7498 | [Grave](https://www.e-olymp.com/en/problems/7498)                              | [7498/main.py](7498/main.py)   |
+| 7501 | [Joy of Flight](https://www.e-olymp.com/en/problems/7501)                      | [7501/main.cpp](7501/main.cpp) |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                             | [7526/main.py](7526/main.py)   |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                    | [7565/main.cpp](7565/main.cpp) |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                | [7785/main.cpp](7785/main.cpp) |
