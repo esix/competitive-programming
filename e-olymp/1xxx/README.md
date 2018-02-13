@@ -19,6 +19,7 @@
 | 1206 | [f91](https://www.e-olymp.com/en/problems/1206)                                    | [1206/main.py](1206/main.py)   |
 | 1210 | [Very Easy!!!](https://www.e-olymp.com/en/problems/1210)                           | [1210/main.cpp](1210/main.cpp) |
 | 1214 | [Multifactorial](https://www.e-olymp.com/en/problems/1214)                         | [1214/main.py](1214/main.py)   |
+| 1215 | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/problems/1215)              | [1215/main.py](1215/main.py)   |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                  | [1243/main.py](1243/main.py)   |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                        | [1246/main.cpp](1246/main.cpp) |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                   | [1363/main.cpp](1363/main.cpp) |
