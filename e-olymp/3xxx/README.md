@@ -3,6 +3,7 @@
 | ID   | Problem statement                                                                   | Solution                       |
 |------|-------------------------------------------------------------------------------------|--------------------------------|
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                   | [3171/main.py](3171/main.py)   |
+| 3254 | [01110001, That Is the Question](https://www.e-olymp.com/en/problems/3254)          | [3254/main.py](3254/main.py)   |
 | 3258 | [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)                      | [3258/main.py](3258/main.py)   |
 | 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                               | [3260/main.py](3260/main.py)   |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                     | [3608/main.cpp](3608/main.cpp) |
