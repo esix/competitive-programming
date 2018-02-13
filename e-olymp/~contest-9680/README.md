@@ -17,6 +17,7 @@
 | L  | [Book](https://www.e-olymp.com/en/contests/9680/problems/85023)                           | [L/main.py](L/main.py)   |
 | M  | [Divisibility by 11](https://www.e-olymp.com/en/contests/9680/problems/85024)             | [M/main.py](M/main.py)   |
 | N  | [01110001, That Is the Question](https://www.e-olymp.com/en/contests/9680/problems/85025) | [N/main.py](N/main.py)   |
+| R  | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/contests/9680/problems/85029)      | [R/main.py](R/main.py)   |
 | S  | [Range](https://www.e-olymp.com/en/contests/9680/problems/85030)                          | [S/main.py](S/main.py)   |
 | T  | [Factorial Again!](https://www.e-olymp.com/en/contests/9680/problems/85031)               | [T/main.py](T/main.py)   |
 
