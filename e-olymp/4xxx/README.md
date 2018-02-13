@@ -5,6 +5,8 @@
 | 4021 | [Knight move](https://www.e-olymp.com/en/problems/4021)                            | [4021/main.cpp](4021/main.cpp) |
 | 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                   | [4033/main.cpp](4033/main.cpp) |
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                     | [4077/main.py](4077/main.py)   |
+| 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                               | [4192/main.py](4192/main.py)   |
+| 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                         | [4196/main.py](4196/main.py)   |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                  | [4369/main.cpp](4369/main.cpp) |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                         | [4439/main.py](4439/main.py)   |
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                  | [4716/main.py](4716/main.py)   |
