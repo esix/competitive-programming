@@ -3,6 +3,7 @@
 | ID   | Problem statement                                                 | Solution                       |
 |------|-------------------------------------------------------------------|--------------------------------|
 | 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)            | [6033/main.cpp](6033/main.cpp) |
+| 6199 | [Oddities](https://www.e-olymp.com/en/problems/6199)              | [6199/main.py](6199/main.py)   |
 | 6250 | [Boiling Vegetables](https://www.e-olymp.com/en/problems/6250)    | [6250/main.cpp](6250/main.cpp) |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273) | [6273/main.py](6273/main.py)   |
 | 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)              | [6275/main.py](6275/main.py)   |
