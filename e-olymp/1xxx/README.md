@@ -39,6 +39,7 @@
 | 1608 | [The number-palindrome](https://www.e-olymp.com/en/problems/1608)                              | [1608/main.py](1608/main.py)   |
 | 1609 | [The number of specified digits](https://www.e-olymp.com/en/problems/1609)                     | [1609/main.cpp](1609/main.cpp) |
 | 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)                               | [1610/main.py](1610/main.py)   |
+| 1611 | [Reverse a substring](https://www.e-olymp.com/en/problems/1611)                                | [1611/main.py](1611/main.py)   |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                          | [1658/main.py](1658/main.py)   |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                             | [1941/main.cpp](1941/main.cpp) |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                    | [1952/main.py](1952/main.py)   |
