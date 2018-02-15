@@ -60,6 +60,7 @@
 | 0904 | [Increase by 2](https://www.e-olymp.com/en/problems/904)                           | [0904/main.py](0904/main.py)   |
 | 0906 | [Product of digits](https://www.e-olymp.com/en/problems/906)                       | [0906/main.py](0906/main.py)   |
 | 0907 | [The first is not greater for 2,5](https://www.e-olymp.com/en/problems/907)        | [0907/main.py](0907/main.py)   |
+| 0909 | [Number of words](https://www.e-olymp.com/en/problems/909)                         | [0909/main.py](0909/main.py)   |
 | 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)         | [0910/main.cpp](0910/main.cpp) |
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)              | [0914/main.py](0914/main.py)   |
 | 0917 | [Twice the minimum](https://www.e-olymp.com/en/problems/917)                       | [0917/main.py](0917/main.py)   |
