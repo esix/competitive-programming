@@ -30,6 +30,7 @@ Compilers:
 | 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                            | [0xxx/0057/main.py](0xxx/0057/main.py)               |
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                     | [0xxx/0060/main.cpp](0xxx/0060/main.cpp)             |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                     | [0xxx/0066/main.py](0xxx/0066/main.py)               |
+| 0087 | [Robot](https://www.e-olymp.com/en/problems/87)                                                       | [0xxx/0087/main.py](0xxx/0087/main.py)               |
 | 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                                              | [0xxx/0108/main.py](0xxx/0108/main.py)               |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)             |
@@ -268,6 +269,7 @@ Compilers:
 | 7495 | [Digits](https://www.e-olymp.com/en/problems/7495)                                                    | [7xxx/7495/main.py](7xxx/7495/main.py)               |
 | 7498 | [Grave](https://www.e-olymp.com/en/problems/7498)                                                     | [7xxx/7498/main.py](7xxx/7498/main.py)               |
 | 7501 | [Joy of Flight](https://www.e-olymp.com/en/problems/7501)                                             | [7xxx/7501/main.cpp](7xxx/7501/main.cpp)             |
+| 7502 | [Kebab House](https://www.e-olymp.com/en/problems/7502)                                               | [7xxx/7502/main.cpp](7xxx/7502/main.cpp)             |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                                                    | [7xxx/7526/main.py](7xxx/7526/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
@@ -556,6 +558,7 @@ Compilers:
 | D    | [Digits](https://www.e-olymp.com/en/contests/9666/problems/84866)                                     | [~contest-9666/D/main.py](~contest-9666/D/main.py)   |
 | G    | [Grave](https://www.e-olymp.com/en/contests/9666/problems/84869)                                      | [~contest-9666/G/main.py](~contest-9666/G/main.py)   |
 | J    | [Joy of Flight](https://www.e-olymp.com/en/contests/9666/problems/84872)                              | [~contest-9666/J/main.cpp](~contest-9666/J/main.cpp) |
+| K    | [Kebab House](https://www.e-olymp.com/en/contests/9666/problems/84873)                                | [~contest-9666/K/main.cpp](~contest-9666/K/main.cpp) |
 |      | [Loops - 2](https://www.e-olymp.com/en/contests/9680)                                                 | [~contest-9680/](~contest-9680/)                     |
 | A    | [Exchange](https://www.e-olymp.com/en/contests/9680/problems/85012)                                   | [~contest-9680/A/main.py](~contest-9680/A/main.py)   |
 | B    | [The 3n + 1 problem](https://www.e-olymp.com/en/contests/9680/problems/85013)                         | [~contest-9680/B/main.py](~contest-9680/B/main.py)   |
