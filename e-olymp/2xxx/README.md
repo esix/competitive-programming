@@ -12,6 +12,7 @@
 | 2132 | [Point on a line](https://www.e-olymp.com/en/problems/2132)                            | [2132/main.py](2132/main.py)   |
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                             | [2133/main.py](2133/main.py)   |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                         | [2134/main.py](2134/main.py)   |
+| 2162 | [Palindrome](https://www.e-olymp.com/en/problems/2162)                                 | [2162/main.py](2162/main.py)   |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
 | 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                      | [2218/main.py](2218/main.py)   |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
