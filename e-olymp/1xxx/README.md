@@ -25,6 +25,7 @@
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                   | [1363/main.cpp](1363/main.cpp) |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                | [1414/main.cpp](1414/main.cpp) |
 | 1415 | [Скала Советов](https://www.e-olymp.com/en/problems/1415)                          | [1415/main.py](1415/main.py)   |
+| 1427 | [Calculator](https://www.e-olymp.com/ru/problems/1427)                             | [1427/main.py](1427/main.py)   |
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                | [1452/main.cpp](1452/main.cpp) |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                           | [1453/main.cpp](1453/main.cpp) |
 | 1460 | [Double reverse](https://www.e-olymp.com/en/problems/1460)                         | [1460/main.py](1460/main.py)   |
