@@ -12,6 +12,7 @@
 | 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)           | [5088/main.cpp](5088/main.cpp) |
 | 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                | [5107/main.cpp](5107/main.cpp) |
 | 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                        | [5123/main.cpp](5123/main.cpp) |
+| 5124 | [B-Casting](https://www.e-olymp.com/en/problems/5124)                              | [5124/main.cpp](5124/main.cpp) |
 | 5133 | [abc](https://www.e-olymp.com/en/problems/5133)                                    | [5133/main.py](5133/main.py)   |
 | 5134 | [Intersection of two lines](https://www.e-olymp.com/en/problems/5134)              | [5134/main.py](5134/main.py)   |
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                         | [5175/main.py](5175/main.py)   |
