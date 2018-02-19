@@ -17,6 +17,7 @@
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
 | 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                      | [2218/main.py](2218/main.py)   |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
+| 2375 | [Flat](https://www.e-olymp.com/en/problems/2375)                                       | [2375/main.py](2375/main.py)   |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                | [2382/main.cpp](2382/main.cpp) |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                           | [2383/main.cpp](2383/main.cpp) |
 | 2399 | [Book](https://www.e-olymp.com/en/problems/2399)                                       | [2399/main.py](2399/main.py)   |
