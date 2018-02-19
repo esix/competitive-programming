@@ -12,5 +12,6 @@
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)               | [6302/main.py](6302/main.py)   |
 | 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)        | [6389/main.cpp](6389/main.cpp) |
 | 6469 | [Brazil](https://www.e-olymp.com/ru/problems/6469)                | [6469/main.cpp](6469/main.cpp) |
+| 6827 | [Aaah!](https://www.e-olymp.com/en/problems/6827)                 | [6827/main.py](6827/main.py)   |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)            | [6941/main.cpp](6941/main.cpp) |
 
