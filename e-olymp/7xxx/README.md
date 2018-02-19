@@ -13,6 +13,7 @@
 | 7401 | [Stepan Friends](https://www.e-olymp.com/en/problems/7401)                     | [7401/main.py](7401/main.py)   |
 | 7403 | [Включить лампу](https://www.e-olymp.com/en/problems/7403)                     | [7403/main.cpp](7403/main.cpp) |
 | 7411 | [Equation for the 5-th class!](https://www.e-olymp.com/en/problems/7411)       | [7411/main.py](7411/main.py)   |
+| 7440 | [Easy](https://www.e-olymp.com/en/problems/7440)                               | [7440/main.py](7440/main.py)   |
 | 7459 | [Odd positions](https://www.e-olymp.com/en/problems/7459)                      | [7459/main.py](7459/main.py)   |
 | 7460 | [Sightseeing trip](https://www.e-olymp.com/en/problems/7460)                   | [7460/main.py](7460/main.py)   |
 | 7492 | [Alarm Clock](https://www.e-olymp.com/en/problems/7492)                        | [7492/main.py](7492/main.py)   |
