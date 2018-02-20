@@ -10,6 +10,7 @@
 | 1102 | [Sticks Problem](https://www.e-olymp.com/en/problems/1102)                                     | [1102/main.cpp](1102/main.cpp) |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                         | [1115/main.cpp](1115/main.cpp) |
 | 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                                        | [1118/main.cpp](1118/main.cpp) |
+| 1119 | [Pyramid of the symbols](https://www.e-olymp.com/en/problems/1119)                             | [1119/main.py](1119/main.py)   |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                      | [1120/main.cpp](1120/main.cpp) |
 | 1125 | [The Angle](https://www.e-olymp.com/en/problems/1125)                                          | [1125/main.py](1125/main.py)   |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                   | [1154/main.cpp](1154/main.cpp) |
