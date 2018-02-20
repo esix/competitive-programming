@@ -23,6 +23,7 @@
 | 1215 | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/problems/1215)                          | [1215/main.py](1215/main.py)   |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                              | [1243/main.py](1243/main.py)   |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                    | [1246/main.cpp](1246/main.cpp) |
+| 1289 | [Lunch](https://www.e-olymp.com/en/problems/1289)                                              | [1289/main.py](1289/main.py)   |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                               | [1363/main.cpp](1363/main.cpp) |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                            | [1414/main.cpp](1414/main.cpp) |
 | 1415 | [Скала Советов](https://www.e-olymp.com/en/problems/1415)                                      | [1415/main.py](1415/main.py)   |
