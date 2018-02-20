@@ -11,6 +11,7 @@
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                         | [1115/main.cpp](1115/main.cpp) |
 | 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                                        | [1118/main.cpp](1118/main.cpp) |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                      | [1120/main.cpp](1120/main.cpp) |
+| 1125 | [The Angle](https://www.e-olymp.com/en/problems/1125)                                          | [1125/main.py](1125/main.py)   |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                   | [1154/main.cpp](1154/main.cpp) |
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                               | [1181/main.cpp](1181/main.cpp) |
 | 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                                    | [1182/main.py](1182/main.py)   |
