@@ -47,5 +47,6 @@
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                             | [1941/main.cpp](1941/main.cpp) |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                    | [1952/main.py](1952/main.py)   |
 | 1957 | [Silver medal](https://www.e-olymp.com/en/problems/1957)                                       | [1957/main.cpp](1957/main.cpp) |
+| 1966 | [A big plus](https://www.e-olymp.com/en/problems/1966)                                         | [1966/main.py](1966/main.py)   |
 | 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                                           | [1993/main.py](1993/main.py)   |
 
