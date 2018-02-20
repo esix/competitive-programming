@@ -20,6 +20,7 @@
 | 0087 | [Robot](https://www.e-olymp.com/en/problems/87)                                    | [0087/main.py](0087/main.py)   |
 | 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                           | [0108/main.py](0108/main.py)   |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                         | [0122/main.cpp](0122/main.cpp) |
+| 0123 | [Number of zeroes in factorial](https://www.e-olymp.com/en/problems/123)           | [0123/main.py](0123/main.py)   |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                  | [0124/main.cpp](0124/main.cpp) |
 | 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                | [0125/main.cpp](0125/main.cpp) |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                             | [0136/main.cpp](0136/main.cpp) |
