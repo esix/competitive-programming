@@ -63,6 +63,7 @@
 | 0907 | [The first is not greater for 2,5](https://www.e-olymp.com/en/problems/907)        | [0907/main.py](0907/main.py)   |
 | 0909 | [Number of words](https://www.e-olymp.com/en/problems/909)                         | [0909/main.py](0909/main.py)   |
 | 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)         | [0910/main.cpp](0910/main.cpp) |
+| 0911 | [Quadratic equation](https://www.e-olymp.com/en/problems/911)                      | [0911/main.py](0911/main.py)   |
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)              | [0914/main.py](0914/main.py)   |
 | 0917 | [Twice the minimum](https://www.e-olymp.com/en/problems/917)                       | [0917/main.py](0917/main.py)   |
 | 0919 | [Number by 3](https://www.e-olymp.com/en/problems/919)                             | [0919/main.py](0919/main.py)   |
