@@ -21,6 +21,7 @@
 | 2375 | [Flat](https://www.e-olymp.com/en/problems/2375)                                       | [2375/main.py](2375/main.py)   |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                | [2382/main.cpp](2382/main.cpp) |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                           | [2383/main.cpp](2383/main.cpp) |
+| 2391 | [Cost of call](https://www.e-olymp.com/en/problems/2391)                               | [2391/main.py](2391/main.py)   |
 | 2399 | [Book](https://www.e-olymp.com/en/problems/2399)                                       | [2399/main.py](2399/main.py)   |
 | 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                       | [2401/main.cpp](2401/main.cpp) |
 | 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                         | [2440/main.cpp](2440/main.cpp) |
