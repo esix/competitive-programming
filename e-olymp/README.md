@@ -641,4 +641,20 @@ Compilers:
 | T    | [Death Knight Hero](https://www.e-olymp.com/en/problems/6022)                                         | [~contest-9716/T/main.py](~contest-9716/T/main.py)   |
 | U    | [Aaah!](https://www.e-olymp.com/en/problems/6827)                                                     | [~contest-9716/U/main.py](~contest-9716/U/main.py)   |
 | V    | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                                               | [~contest-9716/V/main.py](~contest-9716/V/main.py)   |
+|      | [Math + other](https://www.e-olymp.com/ru/contests/9746)                                              | [~contest-9746/](~contest-9746/)                     |
+| A    | [Toasts](https://www.e-olymp.com/en/problems/510)                                                     | [~contest-9746/A/main.py](~contest-9746/A/main.py)   |
+| B    | [Quadratic equation](https://www.e-olymp.com/en/problems/911)                                         | [~contest-9746/B/main.py](~contest-9746/B/main.py)   |
+| C    | [The Angle](https://www.e-olymp.com/en/problems/1125)                                                 | [~contest-9746/C/main.py](~contest-9746/C/main.py)   |
+| D    | [Lunch](https://www.e-olymp.com/en/problems/1289)                                                     | [~contest-9746/D/main.py](~contest-9746/D/main.py)   |
+| E    | [Площадь](https://www.e-olymp.com/en/problems/2102)                                                   | [~contest-9746/E/main.py](~contest-9746/E/main.py)   |
+| F    | [Cost of call](https://www.e-olymp.com/en/problems/2391)                                              | [~contest-9746/F/main.py](~contest-9746/F/main.py)   |
+| G    | [Sum of squares](https://www.e-olymp.com/en/problems/4725)                                            | [~contest-9746/G/main.py](~contest-9746/G/main.py)   |
+| H    | [Magic constant](https://www.e-olymp.com/en/problems/5064)                                            | [~contest-9746/H/main.py](~contest-9746/H/main.py)   |
+| I    | [Olympiad](https://www.e-olymp.com/en/problems/7503)                                                  | [~contest-9746/I/main.py](~contest-9746/I/main.py)   |
+| J    | [Number of zeroes in factorial](https://www.e-olymp.com/en/problems/123)                              | [~contest-9746/J/main.py](~contest-9746/J/main.py)   |
+| K    | [Wall](https://www.e-olymp.com/en/problems/2595)                                                      | [~contest-9746/K/main.py](~contest-9746/K/main.py)   |
+| L    | [Assignments](https://www.e-olymp.com/en/problems/6961)                                               | [~contest-9746/L/main.py](~contest-9746/L/main.py)   |
+| M    | [Happy Camper](https://www.e-olymp.com/en/problems/7548)                                              | [~contest-9746/M/main.py](~contest-9746/M/main.py)   |
+| N    | [Pyramid of the symbols](https://www.e-olymp.com/en/problems/1119)                                    | [~contest-9746/N/main.py](~contest-9746/N/main.py)   |
+| O    | [A big plus](https://www.e-olymp.com/en/problems/1966)                                                | [~contest-9746/O/main.py](~contest-9746/O/main.py)   |
 
