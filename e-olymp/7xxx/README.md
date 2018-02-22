@@ -22,6 +22,7 @@
 | 7498 | [Grave](https://www.e-olymp.com/en/problems/7498)                              | [7498/main.py](7498/main.py)   |
 | 7501 | [Joy of Flight](https://www.e-olymp.com/en/problems/7501)                      | [7501/main.cpp](7501/main.cpp) |
 | 7502 | [Kebab House](https://www.e-olymp.com/en/problems/7502)                        | [7502/main.cpp](7502/main.cpp) |
+| 7503 | [Olympiad](https://www.e-olymp.com/en/problems/7503)                           | [7503/main.py](7503/main.py)   |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                             | [7526/main.py](7526/main.py)   |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                    | [7565/main.cpp](7565/main.cpp) |
 | 7735 | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                        | [7735/main.py](7735/main.py)   |
