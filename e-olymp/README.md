@@ -33,6 +33,7 @@ Compilers:
 | 0087 | [Robot](https://www.e-olymp.com/en/problems/87)                                                       | [0xxx/0087/main.py](0xxx/0087/main.py)               |
 | 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                                              | [0xxx/0108/main.py](0xxx/0108/main.py)               |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                            | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
+| 0123 | [Number of zeroes in factorial](https://www.e-olymp.com/en/problems/123)                              | [0xxx/0123/main.py](0xxx/0123/main.py)               |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                     | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)             |
 | 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                                   | [0xxx/0125/main.cpp](0xxx/0125/main.cpp)             |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                | [0xxx/0136/main.cpp](0xxx/0136/main.cpp)             |
@@ -57,6 +58,7 @@ Compilers:
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                | [0xxx/0478/main.py](0xxx/0478/main.py)               |
 | 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                                                  | [0xxx/0497/main.py](0xxx/0497/main.py)               |
 | 0504 | [Parking](https://www.e-olymp.com/en/problems/504)                                                    | [0xxx/0504/main.py](0xxx/0504/main.py)               |
+| 0510 | [Toasts](https://www.e-olymp.com/en/problems/510)                                                     | [0xxx/0510/main.py](0xxx/0510/main.py)               |
 | 0513 | [Nicholas Problem](https://www.e-olymp.com/en/problems/513)                                           | [0xxx/0513/main.py](0xxx/0513/main.py)               |
 | 0514 | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                          | [0xxx/0514/main.cpp](0xxx/0514/main.cpp)             |
 | 0518 | [The sum of two](https://www.e-olymp.com/en/problems/518)                                             | [0xxx/0518/main.cpp](0xxx/0518/main.cpp)             |
@@ -75,6 +77,7 @@ Compilers:
 | 0907 | [The first is not greater for 2,5](https://www.e-olymp.com/en/problems/907)                           | [0xxx/0907/main.py](0xxx/0907/main.py)               |
 | 0909 | [Number of words](https://www.e-olymp.com/en/problems/909)                                            | [0xxx/0909/main.py](0xxx/0909/main.py)               |
 | 0910 | [The arithmetic mean of positive](https://www.e-olymp.com/en/problems/910)                            | [0xxx/0910/main.cpp](0xxx/0910/main.cpp)             |
+| 0911 | [Quadratic equation](https://www.e-olymp.com/en/problems/911)                                         | [0xxx/0911/main.py](0xxx/0911/main.py)               |
 | 0914 | [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)                                 | [0xxx/0914/main.py](0xxx/0914/main.py)               |
 | 0917 | [Twice the minimum](https://www.e-olymp.com/en/problems/917)                                          | [0xxx/0917/main.py](0xxx/0917/main.py)               |
 | 0919 | [Number by 3](https://www.e-olymp.com/en/problems/919)                                                | [0xxx/0919/main.py](0xxx/0919/main.py)               |
@@ -114,7 +117,9 @@ Compilers:
 | 1102 | [Sticks Problem](https://www.e-olymp.com/en/problems/1102)                                            | [1xxx/1102/main.cpp](1xxx/1102/main.cpp)             |
 | 1115 | [Area Ratio](https://www.e-olymp.com/en/problems/1115)                                                | [1xxx/1115/main.cpp](1xxx/1115/main.cpp)             |
 | 1118 | [Watermelons](https://www.e-olymp.com/en/problems/1118)                                               | [1xxx/1118/main.cpp](1xxx/1118/main.cpp)             |
+| 1119 | [Pyramid of the symbols](https://www.e-olymp.com/en/problems/1119)                                    | [1xxx/1119/main.py](1xxx/1119/main.py)               |
 | 1120 | [Quadrilateral](https://www.e-olymp.com/en/problems/1120)                                             | [1xxx/1120/main.cpp](1xxx/1120/main.cpp)             |
+| 1125 | [The Angle](https://www.e-olymp.com/en/problems/1125)                                                 | [1xxx/1125/main.py](1xxx/1125/main.py)               |
 | 1154 | [Circle of choirs](https://www.e-olymp.com/en/problems/1154)                                          | [1xxx/1154/main.cpp](1xxx/1154/main.cpp)             |
 | 1181 | [Mint](https://www.e-olymp.com/en/problems/1181)                                                      | [1xxx/1181/main.cpp](1xxx/1181/main.cpp)             |
 | 1182 | [Simple division](https://www.e-olymp.com/en/problems/1182)                                           | [1xxx/1182/main.py](1xxx/1182/main.py)               |
@@ -126,6 +131,7 @@ Compilers:
 | 1215 | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/problems/1215)                                 | [1xxx/1215/main.py](1xxx/1215/main.py)               |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                     | [1xxx/1243/main.py](1xxx/1243/main.py)               |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                           | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
+| 1289 | [Lunch](https://www.e-olymp.com/en/problems/1289)                                                     | [1xxx/1289/main.py](1xxx/1289/main.py)               |
 | 1363 | [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)                                      | [1xxx/1363/main.cpp](1xxx/1363/main.cpp)             |
 | 1414 | [Камешки](https://www.e-olymp.com/en/problems/1414)                                                   | [1xxx/1414/main.cpp](1xxx/1414/main.cpp)             |
 | 1415 | [Скала Советов](https://www.e-olymp.com/en/problems/1415)                                             | [1xxx/1415/main.py](1xxx/1415/main.py)               |
@@ -148,12 +154,14 @@ Compilers:
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                    | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                           | [1xxx/1952/main.py](1xxx/1952/main.py)               |
 | 1957 | [Silver medal](https://www.e-olymp.com/en/problems/1957)                                              | [1xxx/1957/main.cpp](1xxx/1957/main.cpp)             |
+| 1966 | [A big plus](https://www.e-olymp.com/en/problems/1966)                                                | [1xxx/1966/main.py](1xxx/1966/main.py)               |
 | 1993 | [Weighing](https://www.e-olymp.com/en/problems/1993)                                                  | [1xxx/1993/main.py](1xxx/1993/main.py)               |
 |      | 2000-2999                                                                                             | [2xxx/](2xxx/)                                       |
 | 2059 | [Lake with lilies](https://www.e-olymp.com/en/problems/2059)                                          | [2xxx/2059/main.py](2xxx/2059/main.py)               |
 | 2060 | [Tale about an apple](https://www.e-olymp.com/en/problems/2060)                                       | [2xxx/2060/main.py](2xxx/2060/main.py)               |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                                       | [2xxx/2097/main.py](2xxx/2097/main.py)               |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                                  | [2xxx/2098/main.py](2xxx/2098/main.py)               |
+| 2102 | [Площадь](https://www.e-olymp.com/en/problems/2102)                                                   | [2xxx/2102/main.py](2xxx/2102/main.py)               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                      | [2xxx/2129/main.py](2xxx/2129/main.py)               |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                             | [2xxx/2130/main.py](2xxx/2130/main.py)               |
 | 2131 | [Vector length](https://www.e-olymp.com/en/problems/2131)                                             | [2xxx/2131/main.py](2xxx/2131/main.py)               |
@@ -168,6 +176,7 @@ Compilers:
 | 2375 | [Flat](https://www.e-olymp.com/en/problems/2375)                                                      | [2xxx/2375/main.py](2xxx/2375/main.py)               |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                               | [2xxx/2382/main.cpp](2xxx/2382/main.cpp)             |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                          | [2xxx/2383/main.cpp](2xxx/2383/main.cpp)             |
+| 2391 | [Cost of call](https://www.e-olymp.com/en/problems/2391)                                              | [2xxx/2391/main.py](2xxx/2391/main.py)               |
 | 2399 | [Book](https://www.e-olymp.com/en/problems/2399)                                                      | [2xxx/2399/main.py](2xxx/2399/main.py)               |
 | 2401 | [Breadth First Search](https://www.e-olymp.com/en/problems/2401)                                      | [2xxx/2401/main.cpp](2xxx/2401/main.cpp)             |
 | 2440 | [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)                                        | [2xxx/2440/main.cpp](2xxx/2440/main.cpp)             |
@@ -176,6 +185,7 @@ Compilers:
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                       | [2xxx/2472/main.cpp](2xxx/2472/main.cpp)             |
 | 2496 | [Конкатенация строк](https://www.e-olymp.com/en/problems/2496)                                        | [2xxx/2496/main.py](2xxx/2496/main.py)               |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                | [2xxx/2549/main.py](2xxx/2549/main.py)               |
+| 2595 | [Wall](https://www.e-olymp.com/en/problems/2595)                                                      | [2xxx/2595/main.py](2xxx/2595/main.py)               |
 | 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                                       | [2xxx/2606/main.py](2xxx/2606/main.py)               |
 | 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                                        | [2xxx/2607/main.py](2xxx/2607/main.py)               |
 | 2611 | [Replace digit](https://www.e-olymp.com/en/problems/2611)                                             | [2xxx/2611/main.py](2xxx/2611/main.py)               |
@@ -214,6 +224,7 @@ Compilers:
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                     | [4xxx/4716/main.py](4xxx/4716/main.py)               |
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                     | [4xxx/4717/main.py](4xxx/4717/main.py)               |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                                      | [4xxx/4721/main.cpp](4xxx/4721/main.cpp)             |
+| 4725 | [Sum of squares](https://www.e-olymp.com/en/problems/4725)                                            | [4xxx/4725/main.py](4xxx/4725/main.py)               |
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                 | [4xxx/4730/main.py](4xxx/4730/main.py)               |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                   | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                         | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
@@ -230,6 +241,7 @@ Compilers:
 | 4892 | [Replacement](https://www.e-olymp.com/en/problems/4892)                                               | [4xxx/4892/main.cpp](4xxx/4892/main.cpp)             |
 |      | 5000-5999                                                                                             | [5xxx/](5xxx/)                                       |
 | 5059 | [Two minimums](https://www.e-olymp.com/en/problems/5059)                                              | [5xxx/5059/main.cpp](5xxx/5059/main.cpp)             |
+| 5064 | [Magic constant](https://www.e-olymp.com/en/problems/5064)                                            | [5xxx/5064/main.py](5xxx/5064/main.py)               |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                     | [5xxx/5072/main.cpp](5xxx/5072/main.cpp)             |
 | 5073 | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                | [5xxx/5073/main.cpp](5xxx/5073/main.cpp)             |
 | 5074 | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)                    | [5xxx/5074/main.py](5xxx/5074/main.py)               |
@@ -269,6 +281,7 @@ Compilers:
 | 6469 | [Brazil](https://www.e-olymp.com/ru/problems/6469)                                                    | [6xxx/6469/main.cpp](6xxx/6469/main.cpp)             |
 | 6827 | [Aaah!](https://www.e-olymp.com/en/problems/6827)                                                     | [6xxx/6827/main.py](6xxx/6827/main.py)               |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                | [6xxx/6941/main.cpp](6xxx/6941/main.cpp)             |
+| 6961 | [Assignments](https://www.e-olymp.com/en/problems/6961)                                               | [6xxx/6961/main.py](6xxx/6961/main.py)               |
 |      | 7000-7999                                                                                             | [7xxx/](7xxx/)                                       |
 | 7034 | [Portals](https://www.e-olymp.com/en/problems/7034)                                                   | [7xxx/7034/main.cpp](7xxx/7034/main.cpp)             |
 | 7215 | [Лабиринт](https://www.e-olymp.com/en/problems/7215)                                                  | [7xxx/7215/main.cpp](7xxx/7215/main.cpp)             |
@@ -290,7 +303,9 @@ Compilers:
 | 7498 | [Grave](https://www.e-olymp.com/en/problems/7498)                                                     | [7xxx/7498/main.py](7xxx/7498/main.py)               |
 | 7501 | [Joy of Flight](https://www.e-olymp.com/en/problems/7501)                                             | [7xxx/7501/main.cpp](7xxx/7501/main.cpp)             |
 | 7502 | [Kebab House](https://www.e-olymp.com/en/problems/7502)                                               | [7xxx/7502/main.cpp](7xxx/7502/main.cpp)             |
+| 7503 | [Olympiad](https://www.e-olymp.com/en/problems/7503)                                                  | [7xxx/7503/main.py](7xxx/7503/main.py)               |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                                                    | [7xxx/7526/main.py](7xxx/7526/main.py)               |
+| 7548 | [Happy Camper](https://www.e-olymp.com/en/problems/7548)                                              | [7xxx/7548/main.py](7xxx/7548/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                           | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7735 | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                                               | [7xxx/7735/main.py](7xxx/7735/main.py)               |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                       | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
