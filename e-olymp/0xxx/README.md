@@ -43,6 +43,7 @@
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                          | [0432/main.cpp](0432/main.cpp) |
 | 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                         | [0446/main.cpp](0446/main.cpp) |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                             | [0478/main.py](0478/main.py)   |
+| 0496 | [Permutation](https://www.e-olymp.com/en/problems/496)                             | [0496/main.py](0496/main.py)   |
 | 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                               | [0497/main.py](0497/main.py)   |
 | 0504 | [Parking](https://www.e-olymp.com/en/problems/504)                                 | [0504/main.py](0504/main.py)   |
 | 0510 | [Toasts](https://www.e-olymp.com/en/problems/510)                                  | [0510/main.py](0510/main.py)   |
