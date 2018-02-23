@@ -1,4 +1,4 @@
-# [Sorting](https://www.e-olymp.com/en/contests/9763/problems/85933)
+# [Sorting](https://www.e-olymp.com/en/problems/2321)
 
 Sort array of integers in nondecreasing order.
 
