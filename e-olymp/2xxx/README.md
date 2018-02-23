@@ -15,6 +15,7 @@
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                         | [2134/main.py](2134/main.py)   |
 | 2162 | [Palindrome](https://www.e-olymp.com/en/problems/2162)                                 | [2162/main.py](2162/main.py)   |
 | 2164 | [Julius Caesar Cyfer](https://www.e-olymp.com/en/problems/2164)                        | [2164/main.py](2164/main.py)   |
+| 2166 | [Anagrams](https://www.e-olymp.com/en/problems/2166)                                   | [2166/main.py](2166/main.py)   |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
 | 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                      | [2218/main.py](2218/main.py)   |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
