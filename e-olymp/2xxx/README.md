@@ -20,6 +20,7 @@
 | 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                      | [2218/main.py](2218/main.py)   |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                | [2238/main.cpp](2238/main.cpp) |
 | 2321 | [Sorting](https://www.e-olymp.com/en/problems/2321)                                    | [2321/main.py](2321/main.py)   |
+| 2323 | [Numbers from digits](https://www.e-olymp.com/en/problems/2323)                        | [2323/main.py](2323/main.py)   |
 | 2329 | [Bell](https://www.e-olymp.com/en/problems/2329)                                       | [2329/main.py](2329/main.py)   |
 | 2375 | [Flat](https://www.e-olymp.com/en/problems/2375)                                       | [2375/main.py](2375/main.py)   |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                | [2382/main.cpp](2382/main.cpp) |
