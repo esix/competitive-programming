@@ -4,6 +4,7 @@
 |------|-------------------------------------------------------------------|--------------------------------|
 | 6022 | [Death Knight Hero](https://www.e-olymp.com/en/problems/6022)     | [6022/main.py](6022/main.py)   |
 | 6033 | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)            | [6033/main.cpp](6033/main.cpp) |
+| 6198 | [Minimal Sum](https://www.e-olymp.com/en/problems/6198)           | [6198/main.py](6198/main.py)   |
 | 6199 | [Oddities](https://www.e-olymp.com/en/problems/6199)              | [6199/main.py](6199/main.py)   |
 | 6250 | [Boiling Vegetables](https://www.e-olymp.com/en/problems/6250)    | [6250/main.cpp](6250/main.cpp) |
 | 6253 | [Virus Replication](https://www.e-olymp.com/en/problems/6253)     | [6253/main.cpp](6253/main.cpp) |
