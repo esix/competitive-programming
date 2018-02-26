@@ -20,4 +20,5 @@
 | 8254 | [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)    | [8254/main.py](8254/main.py)   |
 | 8255 | [n-digit numbers](https://www.e-olymp.com/en/problems/8255)               | [8255/main.py](8255/main.py)   |
 | 8316 | [Sort the letters](https://www.e-olymp.com/en/problems/8316)              | [8316/main.py](8316/main.py)   |
+| 8317 | [Square of difference](https://www.e-olymp.com/en/problems/8317)          | [8317/main.py](8317/main.py)   |
 
