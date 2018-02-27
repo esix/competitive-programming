@@ -43,6 +43,7 @@
 | 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                   | [0421/main.py](0421/main.py)   |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                          | [0432/main.cpp](0432/main.cpp) |
 | 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                         | [0446/main.cpp](0446/main.cpp) |
+| 0458 | [Black and white graphics](https://www.e-olymp.com/en/problems/458)                | [0458/main.py](0458/main.py)   |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                             | [0478/main.py](0478/main.py)   |
 | 0496 | [Permutation](https://www.e-olymp.com/en/problems/496)                             | [0496/main.py](0496/main.py)   |
 | 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                               | [0497/main.py](0497/main.py)   |
