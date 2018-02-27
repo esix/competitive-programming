@@ -17,6 +17,7 @@
 | 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)         | [0057/main.py](0057/main.py)   |
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                  | [0060/main.cpp](0060/main.cpp) |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                  | [0066/main.py](0066/main.py)   |
+| 0085 | [Spiral](https://www.e-olymp.com/en/problems/85)                                   | [0085/main.py](0085/main.py)   |
 | 0087 | [Robot](https://www.e-olymp.com/en/problems/87)                                    | [0087/main.py](0087/main.py)   |
 | 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                           | [0108/main.py](0108/main.py)   |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                         | [0122/main.cpp](0122/main.cpp) |
