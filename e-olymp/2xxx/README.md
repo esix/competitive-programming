@@ -42,6 +42,7 @@
 | 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                         | [2607/main.py](2607/main.py)   |
 | 2611 | [Replace digit](https://www.e-olymp.com/en/problems/2611)                              | [2611/main.py](2611/main.py)   |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                | [2631/main.cpp](2631/main.cpp) |
+| 2666 | [Half](https://www.e-olymp.com/en/problems/2666)                                       | [2666/main.py](2666/main.py)   |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                          | [2674/main.py](2674/main.py)   |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                        | [2814/main.py](2814/main.py)   |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                      | [2826/main.py](2826/main.py)   |
