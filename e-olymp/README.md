@@ -252,6 +252,7 @@ Compilers:
 | 4764 | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                        | [4xxx/4764/main.py](4xxx/4764/main.py)               |
 | 4805 | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                       | [4xxx/4805/main.py](4xxx/4805/main.py)               |
 | 4812 | [Function](https://www.e-olymp.com/en/problems/4812)                                                   | [4xxx/4812/main.py](4xxx/4812/main.py)               |
+| 4817 | [Rectangle](https://www.e-olymp.com/en/problems/4817)                                                  | [4xxx/4817/main.py](4xxx/4817/main.py)               |
 | 4819 | [Maximum by minimum](https://www.e-olymp.com/en/problems/4819)                                         | [4xxx/4819/main.cpp](4xxx/4819/main.cpp)             |
 | 4848 | [Quick Sort](https://www.e-olymp.com/en/problems/4848)                                                 | [4xxx/4848/main.py](4xxx/4848/main.py)               |
 | 4852 | [The shortest distance](https://www.e-olymp.com/en/problems/4852)                                      | [4xxx/4852/main.cpp](4xxx/4852/main.cpp)             |
@@ -697,4 +698,13 @@ Compilers:
 | N    | [Shift the elements](https://www.e-olymp.com/en/problems/922)                                          | [~contest-9763/N/main.py](~contest-9763/N/main.py)   |
 | O    | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                                         | [~contest-9763/O/main.py](~contest-9763/O/main.py)   |
 | P    | [Minimal Sum](https://www.e-olymp.com/en/problems/6198)                                                | [~contest-9763/P/main.py](~contest-9763/P/main.py)   |
+|      | [Introduction to classes. OOP](https://www.e-olymp.com/en/contests/9863)                               | [~contest-9863/](~contest-9863/)                     |
+| A    | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                              | [~contest-9863/A/main.cpp](~contest-9863/A/main.cpp) |
+| B    | [Heron](https://www.e-olymp.com/en/problems/926)                                                       | [~contest-9863/B/main.py](~contest-9863/B/main.py)   |
+| C    | [Vector length](https://www.e-olymp.com/en/problems/2131)                                              | [~contest-9863/C/main.py](~contest-9863/C/main.py)   |
+| D    | [Point on a line](https://www.e-olymp.com/en/problems/2132)                                            | [~contest-9863/D/main.py](~contest-9863/D/main.py)   |
+| E    | [Equilateral triangle](https://www.e-olymp.com/en/problems/4805)                                       | [~contest-9863/E/main.py](~contest-9863/E/main.py)   |
+| F    | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                     | [~contest-9863/F/main.py](~contest-9863/F/main.py)   |
+| G    | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                          | [~contest-9863/G/main.py](~contest-9863/G/main.py)   |
+| H    | [Rectangle](https://www.e-olymp.com/en/problems/4817)                                                  | [~contest-9863/H/main.py](~contest-9863/H/main.py)   |
 
