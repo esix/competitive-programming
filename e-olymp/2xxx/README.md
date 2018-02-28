@@ -36,6 +36,7 @@
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471) | [2471/main.cpp](2471/main.cpp) |
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                        | [2472/main.cpp](2472/main.cpp) |
 | 2496 | [Конкатенация строк](https://www.e-olymp.com/en/problems/2496)                         | [2496/main.py](2496/main.py)   |
+| 2507 | [Border](https://www.e-olymp.com/en/problems/2507)                                     | [2507/main.py](2507/main.py)   |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                 | [2549/main.py](2549/main.py)   |
 | 2595 | [Wall](https://www.e-olymp.com/en/problems/2595)                                       | [2595/main.py](2595/main.py)   |
 | 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                        | [2606/main.py](2606/main.py)   |

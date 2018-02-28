@@ -30,6 +30,7 @@ Compilers:
 | 0057 | [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)                             | [0xxx/0057/main.py](0xxx/0057/main.py)               |
 | 0060 | [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)                                      | [0xxx/0060/main.cpp](0xxx/0060/main.cpp)             |
 | 0066 | [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)                                      | [0xxx/0066/main.py](0xxx/0066/main.py)               |
+| 0085 | [Spiral](https://www.e-olymp.com/en/problems/85)                                                       | [0xxx/0085/main.py](0xxx/0085/main.py)               |
 | 0087 | [Robot](https://www.e-olymp.com/en/problems/87)                                                        | [0xxx/0087/main.py](0xxx/0087/main.py)               |
 | 0108 | [Median number](https://www.e-olymp.com/en/problems/108)                                               | [0xxx/0108/main.py](0xxx/0108/main.py)               |
 | 0122 | [Mountain routes](https://www.e-olymp.com/en/problems/122)                                             | [0xxx/0122/main.cpp](0xxx/0122/main.cpp)             |
@@ -55,6 +56,7 @@ Compilers:
 | 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                                       | [0xxx/0421/main.py](0xxx/0421/main.py)               |
 | 0432 | [Dungeon Master](https://www.e-olymp.com/en/problems/432)                                              | [0xxx/0432/main.cpp](0xxx/0432/main.cpp)             |
 | 0446 | [Smooth Divisors](https://www.e-olymp.com/en/problems/446)                                             | [0xxx/0446/main.cpp](0xxx/0446/main.cpp)             |
+| 0458 | [Black and white graphics](https://www.e-olymp.com/en/problems/458)                                    | [0xxx/0458/main.py](0xxx/0458/main.py)               |
 | 0478 | [White cubes](https://www.e-olymp.com/en/problems/478)                                                 | [0xxx/0478/main.py](0xxx/0478/main.py)               |
 | 0496 | [Permutation](https://www.e-olymp.com/en/problems/496)                                                 | [0xxx/0496/main.py](0xxx/0496/main.py)               |
 | 0497 | [Lazybones](https://www.e-olymp.com/en/problems/497)                                                   | [0xxx/0497/main.py](0xxx/0497/main.py)               |
@@ -176,6 +178,7 @@ Compilers:
 | 2218 | [Coins](https://www.e-olymp.com/en/problems/2218)                                                      | [2xxx/2218/main.py](2xxx/2218/main.py)               |
 | 2238 | [Who will get the "avtomat"?](https://www.e-olymp.com/en/problems/2238)                                | [2xxx/2238/main.cpp](2xxx/2238/main.cpp)             |
 | 2321 | [Sorting](https://www.e-olymp.com/en/problems/2321)                                                    | [2xxx/2321/main.py](2xxx/2321/main.py)               |
+| 2322 | [Columns](https://www.e-olymp.com/en/problems/2322)                                                    | [2xxx/2322/main.py](2xxx/2322/main.py)               |
 | 2323 | [Numbers from digits](https://www.e-olymp.com/en/problems/2323)                                        | [2xxx/2323/main.py](2xxx/2323/main.py)               |
 | 2325 | [Two numbers](https://www.e-olymp.com/en/problems/2325)                                                | [2xxx/2325/main.py](2xxx/2325/main.py)               |
 | 2329 | [Bell](https://www.e-olymp.com/en/problems/2329)                                                       | [2xxx/2329/main.py](2xxx/2329/main.py)               |
@@ -191,12 +194,17 @@ Compilers:
 | 2471 | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                 | [2xxx/2471/main.cpp](2xxx/2471/main.cpp)             |
 | 2472 | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                        | [2xxx/2472/main.cpp](2xxx/2472/main.cpp)             |
 | 2496 | [Конкатенация строк](https://www.e-olymp.com/en/problems/2496)                                         | [2xxx/2496/main.py](2xxx/2496/main.py)               |
+| 2507 | [Border](https://www.e-olymp.com/en/problems/2507)                                                     | [2xxx/2507/main.py](2xxx/2507/main.py)               |
 | 2549 | [Papa Carlo](https://www.e-olymp.com/en/problems/2549)                                                 | [2xxx/2549/main.py](2xxx/2549/main.py)               |
 | 2595 | [Wall](https://www.e-olymp.com/en/problems/2595)                                                       | [2xxx/2595/main.py](2xxx/2595/main.py)               |
 | 2606 | [Minimum and maximum](https://www.e-olymp.com/en/problems/2606)                                        | [2xxx/2606/main.py](2xxx/2606/main.py)               |
 | 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                                         | [2xxx/2607/main.py](2xxx/2607/main.py)               |
 | 2611 | [Replace digit](https://www.e-olymp.com/en/problems/2611)                                              | [2xxx/2611/main.py](2xxx/2611/main.py)               |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                                | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
+| 2666 | [Half](https://www.e-olymp.com/en/problems/2666)                                                       | [2xxx/2666/main.py](2xxx/2666/main.py)               |
+| 2667 | [Snake](https://www.e-olymp.com/en/problems/2667)                                                      | [2xxx/2667/main.py](2xxx/2667/main.py)               |
+| 2668 | [Spiral](https://www.e-olymp.com/en/problems/2668)                                                     | [2xxx/2668/main.py](2xxx/2668/main.py)               |
+| 2669 | [Rotation](https://www.e-olymp.com/en/problems/2669)                                                   | [2xxx/2669/main.py](2xxx/2669/main.py)               |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                          | [2xxx/2674/main.py](2xxx/2674/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                        | [2xxx/2814/main.py](2xxx/2814/main.py)               |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                                      | [2xxx/2826/main.py](2xxx/2826/main.py)               |
