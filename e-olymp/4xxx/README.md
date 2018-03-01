@@ -11,6 +11,7 @@
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                  | [4369/main.cpp](4369/main.cpp) |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                         | [4439/main.py](4439/main.py)   |
 | 4556 | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                     | [4556/main.py](4556/main.py)   |
+| 4557 | [Lonely king](https://www.e-olymp.com/en/problems/4557)                            | [4557/main.py](4557/main.py)   |
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                  | [4716/main.py](4716/main.py)   |
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                  | [4717/main.py](4717/main.py)   |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                   | [4721/main.cpp](4721/main.cpp) |
