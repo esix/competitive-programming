@@ -238,6 +238,7 @@ Compilers:
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                      | [4xxx/4369/main.cpp](4xxx/4369/main.cpp)             |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                             | [4xxx/4439/main.py](4xxx/4439/main.py)               |
 | 4556 | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                                         | [4xxx/4556/main.py](4xxx/4556/main.py)               |
+| 4557 | [Lonely king](https://www.e-olymp.com/en/problems/4557)                                                | [4xxx/4557/main.py](4xxx/4557/main.py)               |
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                      | [4xxx/4716/main.py](4xxx/4716/main.py)               |
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                      | [4xxx/4717/main.py](4xxx/4717/main.py)               |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                                       | [4xxx/4721/main.cpp](4xxx/4721/main.cpp)             |
@@ -246,6 +247,8 @@ Compilers:
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                    | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
 | 4738 | [Sorting](https://www.e-olymp.com/en/problems/4738)                                                    | [4xxx/4738/main.py](4xxx/4738/main.py)               |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                          | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
+| 4749 | [Theater revenue](https://www.e-olymp.com/en/problems/4749)                                            | [4xxx/4749/main.py](4xxx/4749/main.py)               |
+| 4752 | [Cinema](https://www.e-olymp.com/en/problems/4752)                                                     | [4xxx/4752/main.py](4xxx/4752/main.py)               |
 | 4753 | [Cinema+](https://www.e-olymp.com/en/problems/4753)                                                    | [4xxx/4753/main.cpp](4xxx/4753/main.cpp)             |
 | 4761 | [Loops](https://www.e-olymp.com/en/problems/4761)                                                      | [4xxx/4761/main.py](4xxx/4761/main.py)               |
 | 4763 | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                     | [4xxx/4763/main.py](4xxx/4763/main.py)               |
@@ -260,6 +263,7 @@ Compilers:
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                                | [4xxx/4854/main.cpp](4xxx/4854/main.cpp)             |
 | 4892 | [Replacement](https://www.e-olymp.com/en/problems/4892)                                                | [4xxx/4892/main.cpp](4xxx/4892/main.cpp)             |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                       |
+| 5057 | [Spiral](https://www.e-olymp.com/en/problems/5057)                                                     | [5xxx/5057/main.py](5xxx/5057/main.py)               |
 | 5059 | [Two minimums](https://www.e-olymp.com/en/problems/5059)                                               | [5xxx/5059/main.cpp](5xxx/5059/main.cpp)             |
 | 5064 | [Magic constant](https://www.e-olymp.com/en/problems/5064)                                             | [5xxx/5064/main.py](5xxx/5064/main.py)               |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                      | [5xxx/5072/main.cpp](5xxx/5072/main.cpp)             |
@@ -269,6 +273,7 @@ Compilers:
 | 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                               | [5xxx/5080/main.cpp](5xxx/5080/main.cpp)             |
 | 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                                              | [5xxx/5083/main.cpp](5xxx/5083/main.cpp)             |
 | 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                               | [5xxx/5088/main.cpp](5xxx/5088/main.cpp)             |
+| 5090 | [На перекрёстке](https://www.e-olymp.com/en/problems/5090)                                             | [5xxx/5090/main.py](5xxx/5090/main.py)               |
 | 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                    | [5xxx/5107/main.cpp](5xxx/5107/main.cpp)             |
 | 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                                            | [5xxx/5123/main.cpp](5xxx/5123/main.cpp)             |
 | 5124 | [B-Casting](https://www.e-olymp.com/en/problems/5124)                                                  | [5xxx/5124/main.cpp](5xxx/5124/main.cpp)             |
@@ -277,6 +282,7 @@ Compilers:
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                                             | [5xxx/5175/main.py](5xxx/5175/main.py)               |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                                    | [5xxx/5213/main.cpp](5xxx/5213/main.cpp)             |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                                            | [5xxx/5235/main.py](5xxx/5235/main.py)               |
+| 5282 | [Saddle points](https://www.e-olymp.com/en/problems/5282)                                              | [5xxx/5282/main.py](5xxx/5282/main.py)               |
 | 5283 | [Thaw](https://www.e-olymp.com/en/problems/5283)                                                       | [5xxx/5283/main.py](5xxx/5283/main.py)               |
 | 5325 | [Stand in order](https://www.e-olymp.com/en/problems/5325)                                             | [5xxx/5325/main.py](5xxx/5325/main.py)               |
 | 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                                               | [5xxx/5328/main.cpp](5xxx/5328/main.cpp)             |
@@ -325,6 +331,7 @@ Compilers:
 | 7501 | [Joy of Flight](https://www.e-olymp.com/en/problems/7501)                                              | [7xxx/7501/main.cpp](7xxx/7501/main.cpp)             |
 | 7502 | [Kebab House](https://www.e-olymp.com/en/problems/7502)                                                | [7xxx/7502/main.cpp](7xxx/7502/main.cpp)             |
 | 7503 | [Olympiad](https://www.e-olymp.com/en/problems/7503)                                                   | [7xxx/7503/main.py](7xxx/7503/main.py)               |
+| 7504 | [Three rectangles](https://www.e-olymp.com/en/problems/7504)                                           | [7xxx/7504/main.py](7xxx/7504/main.py)               |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                                                     | [7xxx/7526/main.py](7xxx/7526/main.py)               |
 | 7548 | [Happy Camper](https://www.e-olymp.com/en/problems/7548)                                               | [7xxx/7548/main.py](7xxx/7548/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                            | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
@@ -698,6 +705,22 @@ Compilers:
 | N    | [Shift the elements](https://www.e-olymp.com/en/problems/922)                                          | [~contest-9763/N/main.py](~contest-9763/N/main.py)   |
 | O    | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                                         | [~contest-9763/O/main.py](~contest-9763/O/main.py)   |
 | P    | [Minimal Sum](https://www.e-olymp.com/en/problems/6198)                                                | [~contest-9763/P/main.py](~contest-9763/P/main.py)   |
+|      | [Two dimensional arrays](https://www.e-olymp.com/en/contests/9784)                                     | [~contest-9784/](~contest-9784/)                     |
+| A    | [Spiral](https://www.e-olymp.com/en/problems/85)                                                       | [~contest-9784/A/main.py](~contest-9784/A/main.py)   |
+| B    | [Black and white graphics](https://www.e-olymp.com/en/problems/458)                                    | [~contest-9784/B/main.py](~contest-9784/B/main.py)   |
+| C    | [Columns](https://www.e-olymp.com/en/problems/2322)                                                    | [~contest-9784/C/main.py](~contest-9784/C/main.py)   |
+| D    | [Half](https://www.e-olymp.com/en/problems/2666)                                                       | [~contest-9784/D/main.py](~contest-9784/D/main.py)   |
+| E    | [Snake](https://www.e-olymp.com/en/problems/2667)                                                      | [~contest-9784/E/main.py](~contest-9784/E/main.py)   |
+| F    | [Spiral](https://www.e-olymp.com/en/problems/2668)                                                     | [~contest-9784/F/main.py](~contest-9784/F/main.py)   |
+| G    | [Rotation](https://www.e-olymp.com/en/problems/2669)                                                   | [~contest-9784/G/main.py](~contest-9784/G/main.py)   |
+| H    | [Border](https://www.e-olymp.com/en/problems/2507)                                                     | [~contest-9784/H/main.py](~contest-9784/H/main.py)   |
+| I    | [Lonely king](https://www.e-olymp.com/en/problems/4557)                                                | [~contest-9784/I/main.py](~contest-9784/I/main.py)   |
+| J    | [Theater revenue](https://www.e-olymp.com/en/problems/4749)                                            | [~contest-9784/J/main.py](~contest-9784/J/main.py)   |
+| K    | [Cinema](https://www.e-olymp.com/en/problems/4752)                                                     | [~contest-9784/K/main.py](~contest-9784/K/main.py)   |
+| L    | [Spiral](https://www.e-olymp.com/en/problems/5057)                                                     | [~contest-9784/L/main.py](~contest-9784/L/main.py)   |
+| M    | [На перекрёстке](https://www.e-olymp.com/en/problems/5090)                                             | [~contest-9784/M/main.py](~contest-9784/M/main.py)   |
+| N    | [Saddle points](https://www.e-olymp.com/en/problems/5282)                                              | [~contest-9784/N/main.py](~contest-9784/N/main.py)   |
+| O    | [Three rectangles](https://www.e-olymp.com/en/problems/7504)                                           | [~contest-9784/O/main.py](~contest-9784/O/main.py)   |
 |      | [Introduction to classes. OOP](https://www.e-olymp.com/en/contests/9863)                               | [~contest-9863/](~contest-9863/)                     |
 | A    | [Perimeter and area of triangle](https://www.e-olymp.com/en/problems/925)                              | [~contest-9863/A/main.cpp](~contest-9863/A/main.cpp) |
 | B    | [Heron](https://www.e-olymp.com/en/problems/926)                                                       | [~contest-9863/B/main.py](~contest-9863/B/main.py)   |
