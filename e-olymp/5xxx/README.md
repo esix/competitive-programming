@@ -12,6 +12,7 @@
 | 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)           | [5080/main.cpp](5080/main.cpp) |
 | 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                          | [5083/main.cpp](5083/main.cpp) |
 | 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)           | [5088/main.cpp](5088/main.cpp) |
+| 5090 | [На перекрёстке](https://www.e-olymp.com/en/problems/5090)                         | [5090/main.py](5090/main.py)   |
 | 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                | [5107/main.cpp](5107/main.cpp) |
 | 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                        | [5123/main.cpp](5123/main.cpp) |
 | 5124 | [B-Casting](https://www.e-olymp.com/en/problems/5124)                              | [5124/main.cpp](5124/main.cpp) |
