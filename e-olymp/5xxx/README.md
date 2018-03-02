@@ -2,6 +2,7 @@
 
 | ID   | Problem statement                                                                  | Solution                       |
 |------|------------------------------------------------------------------------------------|--------------------------------|
+| 5057 | [Spiral](https://www.e-olymp.com/en/problems/5057)                                 | [5057/main.py](5057/main.py)   |
 | 5059 | [Two minimums](https://www.e-olymp.com/en/problems/5059)                           | [5059/main.cpp](5059/main.cpp) |
 | 5064 | [Magic constant](https://www.e-olymp.com/en/problems/5064)                         | [5064/main.py](5064/main.py)   |
 | 5072 | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                  | [5072/main.cpp](5072/main.cpp) |
