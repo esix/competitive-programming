@@ -2,7 +2,7 @@ Helpfull letters to write problem description
 
 Subscript
 : ₀₁₂₃₄₅₆₇₈₉
-: ᵢ ₙ
+: ᵢⱼ ₙ
 
 Superscript
 : ⁰¹²³⁴⁵⁶⁷⁸⁹

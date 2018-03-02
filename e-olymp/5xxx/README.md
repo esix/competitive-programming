@@ -21,6 +21,7 @@
 | 5175 | [The last digit](https://www.e-olymp.com/en/problems/5175)                         | [5175/main.py](5175/main.py)   |
 | 5213 | [Inverse](https://www.e-olymp.com/en/problems/5213)                                | [5213/main.cpp](5213/main.cpp) |
 | 5235 | [Two flower beds](https://www.e-olymp.com/en/problems/5235)                        | [5235/main.py](5235/main.py)   |
+| 5282 | [Saddle points](https://www.e-olymp.com/en/problems/5282)                          | [5282/main.py](5282/main.py)   |
 | 5283 | [Thaw](https://www.e-olymp.com/en/problems/5283)                                   | [5283/main.py](5283/main.py)   |
 | 5325 | [Stand in order](https://www.e-olymp.com/en/problems/5325)                         | [5325/main.py](5325/main.py)   |
 | 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                           | [5328/main.cpp](5328/main.cpp) |
