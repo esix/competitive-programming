@@ -31,6 +31,7 @@
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                | [7785/main.cpp](7785/main.cpp) |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)  | [7814/main.py](7814/main.py)   |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                       | [7841/main.cpp](7841/main.cpp) |
+| 7853 | [Cent Savings](https://www.e-olymp.com/en/contests/9811/problems/86500)        | [7853/main.py](7853/main.py)   |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)             | [7943/main.py](7943/main.py)   |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                  | [7944/main.py](7944/main.py)   |
 
