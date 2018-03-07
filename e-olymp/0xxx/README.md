@@ -60,6 +60,7 @@
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                     | [0610/main.cpp](0610/main.cpp) |
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)              | [0625/main.cpp](0625/main.cpp) |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                            | [0653/main.py](0653/main.py)   |
+| 0790 | [Double Queue](https://www.e-olymp.com/en/problems/790)                            | [0790/main.cpp](0790/main.cpp) |
 | 0901 | [Number of operations](https://www.e-olymp.com/en/problems/901)                    | [0901/main.py](0901/main.py)   |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)   | [0902/main.py](0902/main.py)   |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                          | [0903/main.py](0903/main.py)   |
