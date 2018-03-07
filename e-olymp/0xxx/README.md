@@ -55,6 +55,7 @@
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                          | [0519/main.py](0519/main.py)   |
 | 0520 | [The sum of all](https://www.e-olymp.com/en/problems/520)                          | [0520/main.cpp](0520/main.cpp) |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                           | [0543/main.cpp](0543/main.cpp) |
+| 0555 | [The nearest points](https://www.e-olymp.com/en/problems/555)                      | [0555/main.py](0555/main.py)   |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)             | [0571/main.cpp](0571/main.cpp) |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                     | [0610/main.cpp](0610/main.cpp) |
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)              | [0625/main.cpp](0625/main.cpp) |
