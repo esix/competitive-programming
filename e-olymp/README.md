@@ -68,10 +68,12 @@ Compilers:
 | 0519 | [Sum of squares](https://www.e-olymp.com/en/problems/519)                                              | [0xxx/0519/main.py](0xxx/0519/main.py)               |
 | 0520 | [The sum of all](https://www.e-olymp.com/en/problems/520)                                              | [0xxx/0520/main.cpp](0xxx/0520/main.cpp)             |
 | 0543 | [Money Matters](https://www.e-olymp.com/en/problems/543)                                               | [0xxx/0543/main.cpp](0xxx/0543/main.cpp)             |
+| 0555 | [The nearest points](https://www.e-olymp.com/en/problems/555)                                          | [0xxx/0555/main.py](0xxx/0555/main.py)               |
 | 0571 | [The greatest common divisor](https://www.e-olymp.com/en/problems/571)                                 | [0xxx/0571/main.cpp](0xxx/0571/main.cpp)             |
 | 0610 | [Ancient manuscripts](https://www.e-olymp.com/en/problems/610)                                         | [0xxx/0610/main.cpp](0xxx/0610/main.cpp)             |
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                  | [0xxx/0625/main.cpp](0xxx/0625/main.cpp)             |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                                | [0xxx/0653/main.py](0xxx/0653/main.py)               |
+| 0790 | [Double Queue](https://www.e-olymp.com/en/problems/790)                                                | [0xxx/0790/main.cpp](0xxx/0790/main.cpp)             |
 | 0901 | [Number of operations](https://www.e-olymp.com/en/problems/901)                                        | [0xxx/0901/main.py](0xxx/0901/main.py)               |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)                       | [0xxx/0902/main.py](0xxx/0902/main.py)               |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                                              | [0xxx/0903/main.py](0xxx/0903/main.py)               |
@@ -132,6 +134,7 @@ Compilers:
 | 1210 | [Very Easy!!!](https://www.e-olymp.com/en/problems/1210)                                               | [1xxx/1210/main.cpp](1xxx/1210/main.cpp)             |
 | 1214 | [Multifactorial](https://www.e-olymp.com/en/problems/1214)                                             | [1xxx/1214/main.py](1xxx/1214/main.py)               |
 | 1215 | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/problems/1215)                                  | [1xxx/1215/main.py](1xxx/1215/main.py)               |
+| 1225 | [Black Box](https://www.e-olymp.com/en/problems/1225)                                                  | [1xxx/1225/main.cpp](1xxx/1225/main.cpp)             |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                      | [1xxx/1243/main.py](1xxx/1243/main.py)               |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                            | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
 | 1289 | [Lunch](https://www.e-olymp.com/en/problems/1289)                                                      | [1xxx/1289/main.py](1xxx/1289/main.py)               |
@@ -339,6 +342,7 @@ Compilers:
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                        | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)                          | [7xxx/7814/main.py](7xxx/7814/main.py)               |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                                               | [7xxx/7841/main.cpp](7xxx/7841/main.cpp)             |
+| 7853 | [Cent Savings](https://www.e-olymp.com/en/contests/9811/problems/86500)                                | [7xxx/7853/main.py](7xxx/7853/main.py)               |
 | 7943 | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                     | [7xxx/7943/main.py](7xxx/7943/main.py)               |
 | 7944 | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                          | [7xxx/7944/main.py](7xxx/7944/main.py)               |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                       |
