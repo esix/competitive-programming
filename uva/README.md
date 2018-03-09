@@ -9,18 +9,20 @@ Languages:
 - C++11 4.8.2 - GNU C++ Compiler with options: -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE
 
 
-| ID   | Problem statement                                                                                                                       | Solution                         |
-|:----:|:----------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------:|
-| 100  | [The 3n + 1 problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)      | [100/main.pas](100/main.pas)     |
-| 102  | [Ecological Bin Packing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=38) | [102/main.cpp](102/main.cpp)     |
-| 200  | [Rare Order](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)             | [200/main.cpp](200/main.cpp)     |
-| 300  | [Maya Calendar](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=236)          | [300/main.cpp](300/main.cpp)     |
-| 400  | [Unix ls](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341)                | [400/main.cpp](400/main.cpp)     |
-| 423  | [MPI Maelstrom](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=364)                    | [423/main.cpp](423/main.cpp)     |
-| 515  | [King](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=456)                                          | [515/main.cpp](515/main.cpp)     |
-| 534  | [Frogger](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=475)               | [534/main.cpp](534/main.cpp)     |
-| 558  | [Wormholes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)                        | [558/main.cpp](558/main.cpp)     |
-| 601  | [The PATH](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=542)               | [601/main.cpp](601/main.cpp)     |
-| 640  | [Self Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=581)          | [640/main.cpp](640/main.cpp)     |
-| 700  | [Date Bugs](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=641)              | [700/main.cpp](700/main.cpp)     |
-|10099 | [The Tourist Guide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1040)   | [10099/main.cpp](10099/main.cpp) |
+| ID    | Problem statement                                                                                                                        | Solution                         |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 100   | [100 - The 3n + 1 problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) | [100/main.pas](100/main.pas)     |
+| 102   | [Ecological Bin Packing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=38)  | [102/main.cpp](102/main.cpp)     |
+| 200   | [200 - Rare Order](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)        | [200/main.cpp](200/main.cpp)     |
+| 300   | [300 - Maya Calendar](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=236)     | [300/main.cpp](300/main.cpp)     |
+| 400   | [400 - Unix ls](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=341)           | [400/main.cpp](400/main.cpp)     |
+| 423   | [MPI Maelstrom](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=364)                     | [423/main.cpp](423/main.cpp)     |
+| 501   | [Black Box](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=442)              | [501/main.cpp](501/main.cpp)     |
+| 515   | [King](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=456)                                           | [515/main.cpp](515/main.cpp)     |
+| 534   | [Frogger](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=475)                | [534/main.cpp](534/main.cpp)     |
+| 558   | [Wormholes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499)                         | [558/main.cpp](558/main.cpp)     |
+| 601   | [601 - The PATH](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=542)          | [601/main.cpp](601/main.cpp)     |
+| 640   | [Self Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=581)           | [640/main.cpp](640/main.cpp)     |
+| 700   | [Date Bugs](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=641)               | [700/main.cpp](700/main.cpp)     |
+| 10099 | [The Tourist Guide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1040)    | [10099/main.cpp](10099/main.cpp) |
+
