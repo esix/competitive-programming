@@ -23,6 +23,7 @@
 | 1214 | [Multifactorial](https://www.e-olymp.com/en/problems/1214)                                     | [1214/main.py](1214/main.py)   |
 | 1215 | [Rock, Paper, or Scissors?](https://www.e-olymp.com/en/problems/1215)                          | [1215/main.py](1215/main.py)   |
 | 1225 | [Black Box](https://www.e-olymp.com/en/problems/1225)                                          | [1225/main.cpp](1225/main.cpp) |
+| 1226 | [Foreign Exchange](https://www.e-olymp.com/en/problems/1226)                                   | [1226/main.cpp](1226/main.cpp) |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                              | [1243/main.py](1243/main.py)   |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                    | [1246/main.cpp](1246/main.cpp) |
 | 1289 | [Lunch](https://www.e-olymp.com/en/problems/1289)                                              | [1289/main.py](1289/main.py)   |
