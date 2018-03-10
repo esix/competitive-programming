@@ -25,4 +25,5 @@ Languages:
 | 640   | [Self Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=581)           | [640/main.cpp](640/main.cpp)     |
 | 700   | [Date Bugs](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=641)               | [700/main.cpp](700/main.cpp)     |
 | 10099 | [The Tourist Guide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1040)    | [10099/main.cpp](10099/main.cpp) |
+| 10763 | [Foreign Exchange](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1704)     | [10763/main.cpp](10763/main.cpp) |
 
