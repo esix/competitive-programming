@@ -6,6 +6,7 @@
 | 2060 | [Tale about an apple](https://www.e-olymp.com/en/problems/2060)                        | [2060/main.py](2060/main.py)   |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                        | [2097/main.py](2097/main.py)   |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                   | [2098/main.py](2098/main.py)   |
+| 2099 | [Two arrays](https://www.e-olymp.com/en/problems/2099)                                 | [2099/main.py](2099/main.py)   |
 | 2102 | [Площадь](https://www.e-olymp.com/en/problems/2102)                                    | [2102/main.py](2102/main.py)   |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                       | [2129/main.py](2129/main.py)   |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)              | [2130/main.py](2130/main.py)   |
