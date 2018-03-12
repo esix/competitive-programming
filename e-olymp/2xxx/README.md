@@ -44,6 +44,7 @@
 | 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                         | [2607/main.py](2607/main.py)   |
 | 2611 | [Replace digit](https://www.e-olymp.com/en/problems/2611)                              | [2611/main.py](2611/main.py)   |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                | [2631/main.cpp](2631/main.cpp) |
+| 2661 | [Price labels](https://www.e-olymp.com/en/problems/2661)                               | [2661/main.py](2661/main.py)   |
 | 2666 | [Half](https://www.e-olymp.com/en/problems/2666)                                       | [2666/main.py](2666/main.py)   |
 | 2667 | [Snake](https://www.e-olymp.com/en/problems/2667)                                      | [2667/main.py](2667/main.py)   |
 | 2668 | [Spiral](https://www.e-olymp.com/en/problems/2668)                                     | [2668/main.py](2668/main.py)   |
