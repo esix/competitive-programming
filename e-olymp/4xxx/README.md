@@ -7,6 +7,7 @@
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                     | [4077/main.py](4077/main.py)   |
 | 4111 | [Anagrams](https://www.e-olymp.com/en/problems/4111)                               | [4111/main.py](4111/main.py)   |
 | 4146 | [Binary Search Tree 1](https://www.e-olymp.com/en/problems/4146)                   | [4146/main.cpp](4146/main.cpp) |
+| 4181 | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                          | [4181/main.cpp](4181/main.cpp) |
 | 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                               | [4192/main.py](4192/main.py)   |
 | 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                         | [4196/main.py](4196/main.py)   |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                  | [4369/main.cpp](4369/main.cpp) |
