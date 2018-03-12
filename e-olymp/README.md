@@ -137,6 +137,7 @@ Compilers:
 | 1225 | [Black Box](https://www.e-olymp.com/en/problems/1225)                                                  | [1xxx/1225/main.cpp](1xxx/1225/main.cpp)             |
 | 1226 | [Foreign Exchange](https://www.e-olymp.com/en/problems/1226)                                           | [1xxx/1226/main.cpp](1xxx/1226/main.cpp)             |
 | 1227 | [Andys first dictionary](https://www.e-olymp.com/en/problems/1227)                                     | [1xxx/1227/main.py](1xxx/1227/main.py)               |
+| 1228 | [Add All](https://www.e-olymp.com/en/problems/1228)                                                    | [1xxx/1228/main.cpp](1xxx/1228/main.cpp)             |
 | 1243 | [Least Common Multiple](https://www.e-olymp.com/en/problems/1243)                                      | [1xxx/1243/main.py](1xxx/1243/main.py)               |
 | 1246 | [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)                                            | [1xxx/1246/main.cpp](1xxx/1246/main.cpp)             |
 | 1289 | [Lunch](https://www.e-olymp.com/en/problems/1289)                                                      | [1xxx/1289/main.py](1xxx/1289/main.py)               |
@@ -169,6 +170,7 @@ Compilers:
 | 2060 | [Tale about an apple](https://www.e-olymp.com/en/problems/2060)                                        | [2xxx/2060/main.py](2xxx/2060/main.py)               |
 | 2097 | [Three digit numbers](https://www.e-olymp.com/en/problems/2097)                                        | [2xxx/2097/main.py](2xxx/2097/main.py)               |
 | 2098 | [Invertor](https://www.e-olymp.com/en/problems/2098)                                                   | [2xxx/2098/main.py](2xxx/2098/main.py)               |
+| 2099 | [Two arrays](https://www.e-olymp.com/en/problems/2099)                                                 | [2xxx/2099/main.py](2xxx/2099/main.py)               |
 | 2102 | [Площадь](https://www.e-olymp.com/en/problems/2102)                                                    | [2xxx/2102/main.py](2xxx/2102/main.py)               |
 | 2129 | [Polar angle of point](https://www.e-olymp.com/en/problems/2129)                                       | [2xxx/2129/main.py](2xxx/2129/main.py)               |
 | 2130 | [The angle between the vectors](https://www.e-olymp.com/en/problems/2130)                              | [2xxx/2130/main.py](2xxx/2130/main.py)               |
@@ -206,6 +208,7 @@ Compilers:
 | 2607 | [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)                                         | [2xxx/2607/main.py](2xxx/2607/main.py)               |
 | 2611 | [Replace digit](https://www.e-olymp.com/en/problems/2611)                                              | [2xxx/2611/main.py](2xxx/2611/main.py)               |
 | 2631 | [Maximum GCD](https://www.e-olymp.com/en/problems/2631)                                                | [2xxx/2631/main.cpp](2xxx/2631/main.cpp)             |
+| 2661 | [Price labels](https://www.e-olymp.com/en/problems/2661)                                               | [2xxx/2661/main.py](2xxx/2661/main.py)               |
 | 2666 | [Half](https://www.e-olymp.com/en/problems/2666)                                                       | [2xxx/2666/main.py](2xxx/2666/main.py)               |
 | 2667 | [Snake](https://www.e-olymp.com/en/problems/2667)                                                      | [2xxx/2667/main.py](2xxx/2667/main.py)               |
 | 2668 | [Spiral](https://www.e-olymp.com/en/problems/2668)                                                     | [2xxx/2668/main.py](2xxx/2668/main.py)               |
@@ -214,6 +217,7 @@ Compilers:
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                        | [2xxx/2814/main.py](2xxx/2814/main.py)               |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                                      | [2xxx/2826/main.py](2xxx/2826/main.py)               |
 | 2864 | [Function tabulation](https://www.e-olymp.com/en/problems/2864)                                        | [2xxx/2864/main.py](2xxx/2864/main.py)               |
+| 2927 | [Sets Union](https://www.e-olymp.com/en/problems/2927)                                                 | [2xxx/2927/main.py](2xxx/2927/main.py)               |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                                | [2xxx/2999/main.py](2xxx/2999/main.py)               |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                       |
 | 3133 | [Range](https://www.e-olymp.com/en/problems/3133)                                                      | [3xxx/3133/main.py](3xxx/3133/main.py)               |
@@ -238,8 +242,11 @@ Compilers:
 | 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                       | [4xxx/4033/main.cpp](4xxx/4033/main.cpp)             |
 | 4077 | [Corporation Salary](https://www.e-olymp.com/en/problems/4077)                                         | [4xxx/4077/main.py](4xxx/4077/main.py)               |
 | 4111 | [Anagrams](https://www.e-olymp.com/en/problems/4111)                                                   | [4xxx/4111/main.py](4xxx/4111/main.py)               |
+| 4146 | [Binary Search Tree 1](https://www.e-olymp.com/en/problems/4146)                                       | [4xxx/4146/main.cpp](4xxx/4146/main.cpp)             |
+| 4181 | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                                              | [4xxx/4181/main.cpp](4xxx/4181/main.cpp)             |
 | 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                                                   | [4xxx/4192/main.py](4xxx/4192/main.py)               |
 | 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                                             | [4xxx/4196/main.py](4xxx/4196/main.py)               |
+| 4359 | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                                       | [4xxx/4359/main.cpp](4xxx/4359/main.cpp)             |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                      | [4xxx/4369/main.cpp](4xxx/4369/main.cpp)             |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                             | [4xxx/4439/main.py](4xxx/4439/main.py)               |
 | 4556 | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                                         | [4xxx/4556/main.py](4xxx/4556/main.py)               |
