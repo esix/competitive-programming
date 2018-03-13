@@ -148,6 +148,7 @@ Compilers:
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                                    | [1xxx/1452/main.cpp](1xxx/1452/main.cpp)             |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                               | [1xxx/1453/main.cpp](1xxx/1453/main.cpp)             |
 | 1460 | [Double reverse](https://www.e-olymp.com/en/problems/1460)                                             | [1xxx/1460/main.py](1xxx/1460/main.py)               |
+| 1477 | [Наибольшее среднее](https://www.e-olymp.com/en/problems/1477)                                         | [1xxx/1477/main.cpp](1xxx/1477/main.cpp)             |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                            | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                    | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                          | [1xxx/1603/main.py](1xxx/1603/main.py)               |
@@ -285,6 +286,7 @@ Compilers:
 | 5080 | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                               | [5xxx/5080/main.cpp](5xxx/5080/main.cpp)             |
 | 5083 | [Sum of digits](https://www.e-olymp.com/en/problems/5083)                                              | [5xxx/5083/main.cpp](5xxx/5083/main.cpp)             |
 | 5088 | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                               | [5xxx/5088/main.cpp](5xxx/5088/main.cpp)             |
+| 5089 | [Vocabulary](https://www.e-olymp.com/en/problems/5089)                                                 | [5xxx/5089/main.py](5xxx/5089/main.py)               |
 | 5090 | [На перекрёстке](https://www.e-olymp.com/en/problems/5090)                                             | [5xxx/5090/main.py](5xxx/5090/main.py)               |
 | 5107 | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                    | [5xxx/5107/main.cpp](5xxx/5107/main.cpp)             |
 | 5123 | [Hailstone HOTPO](https://www.e-olymp.com/en/problems/5123)                                            | [5xxx/5123/main.cpp](5xxx/5123/main.cpp)             |
@@ -299,6 +301,7 @@ Compilers:
 | 5325 | [Stand in order](https://www.e-olymp.com/en/problems/5325)                                             | [5xxx/5325/main.py](5xxx/5325/main.py)               |
 | 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                                               | [5xxx/5328/main.cpp](5xxx/5328/main.cpp)             |
 | 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                                      | [5xxx/5329/main.py](5xxx/5329/main.py)               |
+| 5337 | [Different-different](https://www.e-olymp.com/en/problems/5337)                                        | [5xxx/5337/main.py](5xxx/5337/main.py)               |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                                         | [5xxx/5338/main.cpp](5xxx/5338/main.cpp)             |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                                                  | [5xxx/5366/main.cpp](5xxx/5366/main.cpp)             |
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                                      | [5xxx/5471/main.cpp](5xxx/5471/main.cpp)             |
@@ -345,6 +348,7 @@ Compilers:
 | 7503 | [Olympiad](https://www.e-olymp.com/en/problems/7503)                                                   | [7xxx/7503/main.py](7xxx/7503/main.py)               |
 | 7504 | [Three rectangles](https://www.e-olymp.com/en/problems/7504)                                           | [7xxx/7504/main.py](7xxx/7504/main.py)               |
 | 7526 | [Server](https://www.e-olymp.com/en/problems/7526)                                                     | [7xxx/7526/main.py](7xxx/7526/main.py)               |
+| 7546 | [I’ve Been Everywhere, Man](https://www.e-olymp.com/en/problems/7546)                                  | [7xxx/7546/main.py](7xxx/7546/main.py)               |
 | 7548 | [Happy Camper](https://www.e-olymp.com/en/problems/7548)                                               | [7xxx/7548/main.py](7xxx/7548/main.py)               |
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                            | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7735 | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                                                | [7xxx/7735/main.py](7xxx/7735/main.py)               |
@@ -743,4 +747,22 @@ Compilers:
 | F    | [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)                                     | [~contest-9863/F/main.py](~contest-9863/F/main.py)   |
 | G    | [Area of rectangle](https://www.e-olymp.com/en/problems/7944)                                          | [~contest-9863/G/main.py](~contest-9863/G/main.py)   |
 | H    | [Rectangle](https://www.e-olymp.com/en/problems/4817)                                                  | [~contest-9863/H/main.py](~contest-9863/H/main.py)   |
+|      | [Set + multiset](https://www.e-olymp.com/en/contests/9913)                                             | [~contest-9913/](~contest-9913/)                     |
+| A    | [The nearest points](https://www.e-olymp.com/en/problems/555)                                          | [~contest-9913/A/main.py](~contest-9913/A/main.py)   |
+| B    | [Double Queue](https://www.e-olymp.com/en/problems/790)                                                | [~contest-9913/B/main.cpp](~contest-9913/B/main.cpp) |
+| C    | [Black Box](https://www.e-olymp.com/en/problems/1225)                                                  | [~contest-9913/C/main.cpp](~contest-9913/C/main.cpp) |
+| D    | [Foreign Exchange](https://www.e-olymp.com/en/problems/1226)                                           | [~contest-9913/D/main.cpp](~contest-9913/D/main.cpp) |
+| E    | [Andys first dictionary](https://www.e-olymp.com/en/problems/1227)                                     | [~contest-9913/E/main.py](~contest-9913/E/main.py)   |
+| F    | [Two arrays](https://www.e-olymp.com/en/problems/2099)                                                 | [~contest-9913/F/main.py](~contest-9913/F/main.py)   |
+| G    | [Price labels](https://www.e-olymp.com/en/problems/2661)                                               | [~contest-9913/G/main.py](~contest-9913/G/main.py)   |
+| H    | [Sets Union](https://www.e-olymp.com/en/problems/2927)                                                 | [~contest-9913/H/main.py](~contest-9913/H/main.py)   |
+| I    | [Binary Search Tree 1](https://www.e-olymp.com/en/problems/4146)                                       | [~contest-9913/I/main.cpp](~contest-9913/I/main.cpp) |
+| J    | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                                              | [~contest-9913/J/main.cpp](~contest-9913/J/main.cpp) |
+| K    | [Replacement](https://www.e-olymp.com/en/problems/4892)                                                | [~contest-9913/K/main.cpp](~contest-9913/K/main.cpp) |
+| L    | [Vocabulary](https://www.e-olymp.com/en/problems/5089)                                                 | [~contest-9913/L/main.py](~contest-9913/L/main.py)   |
+| M    | [Different-different](https://www.e-olymp.com/en/problems/5337)                                        | [~contest-9913/M/main.py](~contest-9913/M/main.py)   |
+| N    | [I’ve Been Everywhere, Man](https://www.e-olymp.com/en/problems/7546)                                  | [~contest-9913/N/main.py](~contest-9913/N/main.py)   |
+| O    | [Add All](https://www.e-olymp.com/en/problems/1228)                                                    | [~contest-9913/O/main.cpp](~contest-9913/O/main.cpp) |
+| P    | [Наибольшее среднее](https://www.e-olymp.com/en/problems/1477)                                         | [~contest-9913/P/main.cpp](~contest-9913/P/main.cpp) |
+| Q    | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                                       | [~contest-9913/Q/main.cpp](~contest-9913/Q/main.cpp) |
 
