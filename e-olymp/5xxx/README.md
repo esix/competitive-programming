@@ -27,6 +27,7 @@
 | 5325 | [Stand in order](https://www.e-olymp.com/en/problems/5325)                         | [5325/main.py](5325/main.py)   |
 | 5328 | [Find Minimum](https://www.e-olymp.com/en/problems/5328)                           | [5328/main.cpp](5328/main.cpp) |
 | 5329 | [Party](https://www.e-olymp.com/en/problems/5329)                                  | [5329/main.py](5329/main.py)   |
+| 5337 | [Different-different](https://www.e-olymp.com/en/problems/5337)                    | [5337/main.py](5337/main.py)   |
 | 5338 | [Complete graph - 2](https://www.e-olymp.com/en/problems/5338)                     | [5338/main.cpp](5338/main.cpp) |
 | 5366 | [Godfather](https://www.e-olymp.com/en/problems/5366)                              | [5366/main.cpp](5366/main.cpp) |
 | 5471 | [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)                  | [5471/main.cpp](5471/main.cpp) |
