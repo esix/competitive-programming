@@ -36,6 +36,7 @@
 | 1452 | [Кролики](https://www.e-olymp.com/en/problems/1452)                                            | [1452/main.cpp](1452/main.cpp) |
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                       | [1453/main.cpp](1453/main.cpp) |
 | 1460 | [Double reverse](https://www.e-olymp.com/en/problems/1460)                                     | [1460/main.py](1460/main.py)   |
+| 1477 | [Наибольшее среднее](https://www.e-olymp.com/en/problems/1477)                                 | [1477/main.cpp](1477/main.cpp) |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                    | [1601/main.cpp](1601/main.cpp) |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                            | [1602/main.cpp](1602/main.cpp) |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                  | [1603/main.py](1603/main.py)   |
