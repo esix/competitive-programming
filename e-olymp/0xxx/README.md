@@ -38,6 +38,7 @@
 | 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                          | [0388/main.cpp](0388/main.cpp) |
 | 0407 | [Exchange](https://www.e-olymp.com/en/problems/407)                                | [0407/main.py](0407/main.py)   |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                        | [0413/main.cpp](0413/main.cpp) |
+| 0414 | [Equation](https://www.e-olymp.com/en/problems/414)                                | [0414/main.cpp](0414/main.cpp) |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                | [0418/main.py](0418/main.py)   |
 | 0419 | [The 3n + 1 problem](https://www.e-olymp.com/en/problems/419)                      | [0419/main.py](0419/main.py)   |
 | 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                   | [0421/main.py](0421/main.py)   |
