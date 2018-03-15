@@ -51,6 +51,7 @@ Compilers:
 | 0388 | [Transformation](https://www.e-olymp.com/en/problems/388)                                              | [0xxx/0388/main.cpp](0xxx/0388/main.cpp)             |
 | 0407 | [Exchange](https://www.e-olymp.com/en/problems/407)                                                    | [0xxx/0407/main.py](0xxx/0407/main.py)               |
 | 0413 | [Euclid algorithm](https://www.e-olymp.com/en/problems/413)                                            | [0xxx/0413/main.cpp](0xxx/0413/main.cpp)             |
+| 0414 | [Equation](https://www.e-olymp.com/en/problems/414)                                                    | [0xxx/0414/main.cpp](0xxx/0414/main.cpp)             |
 | 0418 | [Triangle](https://www.e-olymp.com/en/problems/418)                                                    | [0xxx/0418/main.py](0xxx/0418/main.py)               |
 | 0419 | [The 3n + 1 problem](https://www.e-olymp.com/en/problems/419)                                          | [0xxx/0419/main.py](0xxx/0419/main.py)               |
 | 0421 | [Yo-Yo](https://www.e-olymp.com/en/problems/421)                                                       | [0xxx/0421/main.py](0xxx/0421/main.py)               |
@@ -74,6 +75,7 @@ Compilers:
 | 0625 | [Расстояние между вершинами](https://www.e-olymp.com/en/problems/625)                                  | [0xxx/0625/main.cpp](0xxx/0625/main.cpp)             |
 | 0653 | [The triangle](https://www.e-olymp.com/en/problems/653)                                                | [0xxx/0653/main.py](0xxx/0653/main.py)               |
 | 0790 | [Double Queue](https://www.e-olymp.com/en/problems/790)                                                | [0xxx/0790/main.cpp](0xxx/0790/main.cpp)             |
+| 0830 | [Prime numbers](https://www.e-olymp.com/en/problems/830)                                               | [0xxx/0830/main.py](0xxx/0830/main.py)               |
 | 0901 | [Number of operations](https://www.e-olymp.com/en/problems/901)                                        | [0xxx/0901/main.py](0xxx/0901/main.py)               |
 | 0902 | [The level of educational achievements](https://www.e-olymp.com/en/problems/902)                       | [0xxx/0902/main.py](0xxx/0902/main.py)               |
 | 0903 | [First or last?](https://www.e-olymp.com/en/problems/903)                                              | [0xxx/0903/main.py](0xxx/0903/main.py)               |
@@ -149,6 +151,7 @@ Compilers:
 | 1453 | [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)                                               | [1xxx/1453/main.cpp](1xxx/1453/main.cpp)             |
 | 1460 | [Double reverse](https://www.e-olymp.com/en/problems/1460)                                             | [1xxx/1460/main.py](1xxx/1460/main.py)               |
 | 1477 | [Наибольшее среднее](https://www.e-olymp.com/en/problems/1477)                                         | [1xxx/1477/main.cpp](1xxx/1477/main.cpp)             |
+| 1569 | [Divisors](https://www.e-olymp.com/en/problems/1569)                                                   | [1xxx/1569/main.cpp](1xxx/1569/main.cpp)             |
 | 1601 | [GCD two numbers](https://www.e-olymp.com/en/problems/1601)                                            | [1xxx/1601/main.cpp](1xxx/1601/main.cpp)             |
 | 1602 | [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)                                    | [1xxx/1602/main.cpp](1xxx/1602/main.cpp)             |
 | 1603 | [The sum of digits](https://www.e-olymp.com/en/problems/1603)                                          | [1xxx/1603/main.py](1xxx/1603/main.py)               |
@@ -160,6 +163,8 @@ Compilers:
 | 1609 | [The number of specified digits](https://www.e-olymp.com/en/problems/1609)                             | [1xxx/1609/main.cpp](1xxx/1609/main.cpp)             |
 | 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)                                       | [1xxx/1610/main.py](1xxx/1610/main.py)               |
 | 1611 | [Reverse a substring](https://www.e-olymp.com/en/problems/1611)                                        | [1xxx/1611/main.py](1xxx/1611/main.py)               |
+| 1616 | [Prime number?](https://www.e-olymp.com/en/problems/1616)                                              | [1xxx/1616/main.cpp](1xxx/1616/main.cpp)             |
+| 1642 | [Hometask](https://www.e-olymp.com/en/problems/1642)                                                   | [1xxx/1642/main.cpp](1xxx/1642/main.cpp)             |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                                  | [1xxx/1658/main.py](1xxx/1658/main.py)               |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                                     | [1xxx/1941/main.cpp](1xxx/1941/main.cpp)             |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                            | [1xxx/1952/main.py](1xxx/1952/main.py)               |
