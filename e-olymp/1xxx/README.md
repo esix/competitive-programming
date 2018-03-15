@@ -49,6 +49,7 @@
 | 1610 | [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)                               | [1610/main.py](1610/main.py)   |
 | 1611 | [Reverse a substring](https://www.e-olymp.com/en/problems/1611)                                | [1611/main.py](1611/main.py)   |
 | 1616 | [Prime number?](https://www.e-olymp.com/en/problems/1616)                                      | [1616/main.cpp](1616/main.cpp) |
+| 1642 | [Hometask](https://www.e-olymp.com/en/problems/1642)                                           | [1642/main.cpp](1642/main.cpp) |
 | 1658 | [Factorial](https://www.e-olymp.com/en/problems/1658)                                          | [1658/main.py](1658/main.py)   |
 | 1941 | [Parent](https://www.e-olymp.com/en/problems/1941)                                             | [1941/main.cpp](1941/main.cpp) |
 | 1952 | [Contr-operation](https://www.e-olymp.com/en/problems/1952)                                    | [1952/main.py](1952/main.py)   |
