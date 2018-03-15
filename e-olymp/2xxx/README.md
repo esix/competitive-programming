@@ -52,6 +52,7 @@
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                          | [2674/main.py](2674/main.py)   |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                        | [2814/main.py](2814/main.py)   |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                      | [2826/main.py](2826/main.py)   |
+| 2862 | Number of divisors                                                                     | [2862/main.cpp](2862/main.cpp) |
 | 2864 | [Function tabulation](https://www.e-olymp.com/en/problems/2864)                        | [2864/main.py](2864/main.py)   |
 | 2927 | [Sets Union](https://www.e-olymp.com/en/problems/2927)                                 | [2927/main.py](2927/main.py)   |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                | [2999/main.py](2999/main.py)   |
