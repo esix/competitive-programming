@@ -222,6 +222,8 @@ Compilers:
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                          | [2xxx/2674/main.py](2xxx/2674/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                        | [2xxx/2814/main.py](2xxx/2814/main.py)               |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                                      | [2xxx/2826/main.py](2xxx/2826/main.py)               |
+| 2862 | [Number of divisors](https://www.e-olymp.com/en/problems/2862)                                         | [2xxx/2862/main.cpp](2xxx/2862/main.cpp)             |
+| 2863 | [Odd divisors](https://www.e-olymp.com/en/problems/2863)                                               | [2xxx/2863/main.cpp](2xxx/2863/main.cpp)             |
 | 2864 | [Function tabulation](https://www.e-olymp.com/en/problems/2864)                                        | [2xxx/2864/main.py](2xxx/2864/main.py)               |
 | 2927 | [Sets Union](https://www.e-olymp.com/en/problems/2927)                                                 | [2xxx/2927/main.py](2xxx/2927/main.py)               |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                                | [2xxx/2999/main.py](2xxx/2999/main.py)               |
@@ -231,6 +233,7 @@ Compilers:
 | 3254 | [01110001, That Is the Question](https://www.e-olymp.com/en/problems/3254)                             | [3xxx/3254/main.py](3xxx/3254/main.py)               |
 | 3255 | [Arithmetic](https://www.e-olymp.com/en/problems/3255)                                                 | [3xxx/3255/main.py](3xxx/3255/main.py)               |
 | 3258 | [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)                                         | [3xxx/3258/main.py](3xxx/3258/main.py)               |
+| 3259 | [Factors](https://www.e-olymp.com/en/problems/3259)                                                    | [3xxx/3259/main.cpp](3xxx/3259/main.cpp)             |
 | 3260 | [How Many?](https://www.e-olymp.com/en/problems/3260)                                                  | [3xxx/3260/main.py](3xxx/3260/main.py)               |
 | 3364 | [Always Follow the Rules in Zombieland](https://www.e-olymp.com/en/problems/3364)                      | [3xxx/3364/main.py](3xxx/3364/main.py)               |
 | 3608 | [Олимпийская лотерея](https://www.e-olymp.com/en/problems/3608)                                        | [3xxx/3608/main.cpp](3xxx/3608/main.cpp)             |
@@ -252,11 +255,13 @@ Compilers:
 | 4181 | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                                              | [4xxx/4181/main.cpp](4xxx/4181/main.cpp)             |
 | 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                                                   | [4xxx/4192/main.py](4xxx/4192/main.py)               |
 | 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                                             | [4xxx/4196/main.py](4xxx/4196/main.py)               |
+| 4283 | [Stepan and pairs](https://www.e-olymp.com/en/problems/4283)                                           | [4xxx/4283/main.cpp](4xxx/4283/main.cpp)             |
 | 4359 | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                                       | [4xxx/4359/main.cpp](4xxx/4359/main.cpp)             |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                      | [4xxx/4369/main.cpp](4xxx/4369/main.cpp)             |
 | 4439 | [Exponentiation](https://www.e-olymp.com/en/problems/4439)                                             | [4xxx/4439/main.py](4xxx/4439/main.py)               |
 | 4556 | [Counting Triangles](https://www.e-olymp.com/en/problems/4556)                                         | [4xxx/4556/main.py](4xxx/4556/main.py)               |
 | 4557 | [Lonely king](https://www.e-olymp.com/en/problems/4557)                                                | [4xxx/4557/main.py](4xxx/4557/main.py)               |
+| 4680 | [Divisors](https://www.e-olymp.com/en/problems/4680)                                                   | [4xxx/4680/main.py](4xxx/4680/main.py)               |
 | 4716 | [Divide the apples - 1](https://www.e-olymp.com/en/problems/4716)                                      | [4xxx/4716/main.py](4xxx/4716/main.py)               |
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                      | [4xxx/4717/main.py](4xxx/4717/main.py)               |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                                       | [4xxx/4721/main.cpp](4xxx/4721/main.cpp)             |
@@ -265,6 +270,7 @@ Compilers:
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                    | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)             |
 | 4738 | [Sorting](https://www.e-olymp.com/en/problems/4738)                                                    | [4xxx/4738/main.py](4xxx/4738/main.py)               |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                                          | [4xxx/4739/main.cpp](4xxx/4739/main.cpp)             |
+| 4742 | [Number of divisors](https://www.e-olymp.com/en/problems/4742)                                         | [4xxx/4742/main.cpp](4xxx/4742/main.cpp)             |
 | 4749 | [Theater revenue](https://www.e-olymp.com/en/problems/4749)                                            | [4xxx/4749/main.py](4xxx/4749/main.py)               |
 | 4752 | [Cinema](https://www.e-olymp.com/en/problems/4752)                                                     | [4xxx/4752/main.py](4xxx/4752/main.py)               |
 | 4753 | [Cinema+](https://www.e-olymp.com/en/problems/4753)                                                    | [4xxx/4753/main.cpp](4xxx/4753/main.cpp)             |
@@ -323,9 +329,11 @@ Compilers:
 | 6253 | [Virus Replication](https://www.e-olymp.com/en/problems/6253)                                          | [6xxx/6253/main.cpp](6xxx/6253/main.cpp)             |
 | 6273 | [A square from squares](https://www.e-olymp.com/en/problems/6273)                                      | [6xxx/6273/main.py](6xxx/6273/main.py)               |
 | 6275 | [Удвоение](https://www.e-olymp.com/en/problems/6275)                                                   | [6xxx/6275/main.py](6xxx/6275/main.py)               |
+| 6286 | [Mysterious equation](https://www.e-olymp.com/en/problems/6286)                                        | [6xxx/6286/main.cpp](6xxx/6286/main.cpp)             |
 | 6302 | [Garland](https://www.e-olymp.com/en/problems/6302)                                                    | [6xxx/6302/main.py](6xxx/6302/main.py)               |
 | 6389 | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                             | [6xxx/6389/main.cpp](6xxx/6389/main.cpp)             |
 | 6469 | [Brazil](https://www.e-olymp.com/ru/problems/6469)                                                     | [6xxx/6469/main.cpp](6xxx/6469/main.cpp)             |
+| 6613 | [Fractional Lotion](https://www.e-olymp.com/en/problems/6613)                                          | [6xxx/6613/main.cpp](6xxx/6613/main.cpp)             |
 | 6827 | [Aaah!](https://www.e-olymp.com/en/problems/6827)                                                      | [6xxx/6827/main.py](6xxx/6827/main.py)               |
 | 6941 | [Sum of GCD](https://www.e-olymp.com/en/problems/6941)                                                 | [6xxx/6941/main.cpp](6xxx/6941/main.cpp)             |
 | 6961 | [Assignments](https://www.e-olymp.com/en/problems/6961)                                                | [6xxx/6961/main.py](6xxx/6961/main.py)               |
@@ -358,6 +366,7 @@ Compilers:
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                                            | [7xxx/7565/main.cpp](7xxx/7565/main.cpp)             |
 | 7735 | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                                                | [7xxx/7735/main.py](7xxx/7735/main.py)               |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                                        | [7xxx/7785/main.cpp](7xxx/7785/main.cpp)             |
+| 7792 | [An ordinary boy](https://www.e-olymp.com/en/problems/7792)                                            | [7xxx/7792/main.cpp](7xxx/7792/main.cpp)             |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)                          | [7xxx/7814/main.py](7xxx/7814/main.py)               |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                                               | [7xxx/7841/main.cpp](7xxx/7841/main.cpp)             |
 | 7853 | [Cent Savings](https://www.e-olymp.com/en/contests/9811/problems/86500)                                | [7xxx/7853/main.py](7xxx/7853/main.py)               |
@@ -770,4 +779,19 @@ Compilers:
 | O    | [Add All](https://www.e-olymp.com/en/problems/1228)                                                    | [~contest-9913/O/main.cpp](~contest-9913/O/main.cpp) |
 | P    | [Наибольшее среднее](https://www.e-olymp.com/en/problems/1477)                                         | [~contest-9913/P/main.cpp](~contest-9913/P/main.cpp) |
 | Q    | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                                       | [~contest-9913/Q/main.cpp](~contest-9913/Q/main.cpp) |
+|      | [Prime numbers + divisors](https://www.e-olymp.com/en/contests/9922)                                   | [~contest-9922/](~contest-9922/)                     |
+| A    | [Odd divisors](https://www.e-olymp.com/en/problems/2863)                                               | [~contest-9922/A/main.cpp](~contest-9922/A/main.cpp) |
+| B    | [Prime numbers](https://www.e-olymp.com/en/problems/830)                                               | [~contest-9922/B/main.py](~contest-9922/B/main.py)   |
+| C    | [Prime number?](https://www.e-olymp.com/en/problems/1616)                                              | [~contest-9922/C/main.cpp](~contest-9922/C/main.cpp) |
+| D    | [Hometask](https://www.e-olymp.com/en/problems/1642)                                                   | [~contest-9922/D/main.cpp](~contest-9922/D/main.cpp) |
+| E    | [Number of divisors](https://www.e-olymp.com/en/problems/2862)                                         | [~contest-9922/E/main.cpp](~contest-9922/E/main.cpp) |
+| F    | [Factors](https://www.e-olymp.com/en/problems/3259)                                                    | [~contest-9922/F/main.cpp](~contest-9922/F/main.cpp) |
+| G    | [Stepan and pairs](https://www.e-olymp.com/en/problems/4283)                                           | [~contest-9922/G/main.cpp](~contest-9922/G/main.cpp) |
+| H    | [Divisors](https://www.e-olymp.com/en/problems/4680)                                                   | [~contest-9922/H/main.py](~contest-9922/H/main.py)   |
+| I    | [Number of divisors](https://www.e-olymp.com/en/problems/4742)                                         | [~contest-9922/I/main.cpp](~contest-9922/I/main.cpp) |
+| J    | [Mysterious equation](https://www.e-olymp.com/en/problems/6286)                                        | [~contest-9922/J/main.cpp](~contest-9922/J/main.cpp) |
+| K    | [Fractional Lotion](https://www.e-olymp.com/en/problems/6613)                                          | [~contest-9922/K/main.cpp](~contest-9922/K/main.cpp) |
+| L    | [An ordinary boy](https://www.e-olymp.com/en/problems/7792)                                            | [~contest-9922/L/main.cpp](~contest-9922/L/main.cpp) |
+| M    | [Equation](https://www.e-olymp.com/en/problems/414)                                                    | [~contest-9922/M/main.cpp](~contest-9922/M/main.cpp) |
+| N    | [Divisors](https://www.e-olymp.com/en/problems/1569)                                                   | [~contest-9922/N/main.cpp](~contest-9922/N/main.cpp) |
 
