@@ -25,6 +25,7 @@
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                | [4733/main.cpp](4733/main.cpp) |
 | 4738 | [Sorting](https://www.e-olymp.com/en/problems/4738)                                | [4738/main.py](4738/main.py)   |
 | 4739 | [Решето Эратосфена](https://www.e-olymp.com/en/problems/4739)                      | [4739/main.cpp](4739/main.cpp) |
+| 4742 | [Number of divisors](https://www.e-olymp.com/en/problems/4742)                     | [4742/main.cpp](4742/main.cpp) |
 | 4749 | [Theater revenue](https://www.e-olymp.com/en/problems/4749)                        | [4749/main.py](4749/main.py)   |
 | 4752 | [Cinema](https://www.e-olymp.com/en/problems/4752)                                 | [4752/main.py](4752/main.py)   |
 | 4753 | [Cinema+](https://www.e-olymp.com/en/problems/4753)                                | [4753/main.cpp](4753/main.cpp) |
