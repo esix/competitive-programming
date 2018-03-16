@@ -30,6 +30,7 @@
 | 7565 | [Easy Problemset](https://www.e-olymp.com/en/problems/7565)                    | [7565/main.cpp](7565/main.cpp) |
 | 7735 | [Reverse Rot](https://www.e-olymp.com/en/problems/7735)                        | [7735/main.py](7735/main.py)   |
 | 7785 | [Bus](https://www.e-olymp.com/en/problems/7785)                                | [7785/main.cpp](7785/main.cpp) |
+| 7792 | [An ordinary boy](https://www.e-olymp.com/en/problems/7792)                    | [7792/main.cpp](7792/main.cpp) |
 | 7814 | [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)  | [7814/main.py](7814/main.py)   |
 | 7841 | [Odd elements](https://www.e-olymp.com/en/problems/7841)                       | [7841/main.cpp](7841/main.cpp) |
 | 7853 | [Cent Savings](https://www.e-olymp.com/en/contests/9811/problems/86500)        | [7853/main.py](7853/main.py)   |
