@@ -246,6 +246,7 @@ Compilers:
 | 3981 | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                    | [3xxx/3981/main.cpp](3xxx/3981/main.cpp)             |
 | 3982 | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                    | [3xxx/3982/main.cpp](3xxx/3982/main.cpp)             |
 | 3986 | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                          | [3xxx/3986/main.cpp](3xxx/3986/main.cpp)             |
+| 3987 | [Complete graph](https://www.e-olymp.com/en/problems/3987)                                             | [3xxx/3987/main.py](3xxx/3987/main.py)               |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                       |
 | 4021 | [Knight move](https://www.e-olymp.com/en/problems/4021)                                                | [4xxx/4021/main.cpp](4xxx/4021/main.cpp)             |
 | 4033 | [Tram](https://www.e-olymp.com/en/problems/4033)                                                       | [4xxx/4033/main.cpp](4xxx/4033/main.cpp)             |
@@ -794,4 +795,25 @@ Compilers:
 | L    | [An ordinary boy](https://www.e-olymp.com/en/problems/7792)                                            | [~contest-9922/L/main.cpp](~contest-9922/L/main.cpp) |
 | M    | [Equation](https://www.e-olymp.com/en/problems/414)                                                    | [~contest-9922/M/main.cpp](~contest-9922/M/main.cpp) |
 | N    | [Divisors](https://www.e-olymp.com/en/problems/1569)                                                   | [~contest-9922/N/main.cpp](~contest-9922/N/main.cpp) |
+|      | [Graph representation](https://www.e-olymp.com/ru/contests/9960)                                       | [~contest-9960/](~contest-9960/)                     |
+| A    | [Cities and roads](https://www.e-olymp.com/en/problems/992)                                            | [~contest-9960/A/main.cpp](~contest-9960/A/main.cpp) |
+| B    | [Traffic lights](https://www.e-olymp.com/en/problems/993)                                              | [~contest-9960/B/main.cpp](~contest-9960/B/main.cpp) |
+| C    | [Coloured rain](https://www.e-olymp.com/en/problems/994)                                               | [~contest-9960/C/main.cpp](~contest-9960/C/main.cpp) |
+| D    | [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)                           | [~contest-9960/D/main.cpp](~contest-9960/D/main.cpp) |
+| E    | [From adjacency matrix to the list of edges](https://www.e-olymp.com/en/problems/2471)                 | [~contest-9960/E/main.cpp](~contest-9960/E/main.cpp) |
+| F    | [Operations on graph](https://www.e-olymp.com/en/problems/2472)                                        | [~contest-9960/F/main.cpp](~contest-9960/F/main.cpp) |
+| G    | [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)                    | [~contest-9960/G/main.cpp](~contest-9960/G/main.cpp) |
+| H    | [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)                    | [~contest-9960/H/main.cpp](~contest-9960/H/main.cpp) |
+| I    | [Sources and sinks](https://www.e-olymp.com/en/problems/3986)                                          | [~contest-9960/I/main.cpp](~contest-9960/I/main.cpp) |
+| J    | [Complete graph](https://www.e-olymp.com/en/problems/3987)                                             | [~contest-9960/J/main.py](~contest-9960/J/main.py)   |
+| K    | [Loops](https://www.e-olymp.com/en/problems/4761)                                                      | [~contest-9960/K/main.py](~contest-9960/K/main.py)   |
+| L    | [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)                     | [~contest-9960/L/main.py](~contest-9960/L/main.py)   |
+| M    | [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)                                        | [~contest-9960/M/main.py](~contest-9960/M/main.py)   |
+| N    | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                                | [~contest-9960/N/main.cpp](~contest-9960/N/main.cpp) |
+| O    | [Count number of edges](https://www.e-olymp.com/en/problems/5072)                                      | [~contest-9960/O/main.cpp](~contest-9960/O/main.cpp) |
+| P    | [Multiedges](https://www.e-olymp.com/en/problems/5073)                                                 | [~contest-9960/P/main.cpp](~contest-9960/P/main.cpp) |
+| Q    | [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)                     | [~contest-9960/Q/main.py](~contest-9960/Q/main.py)   |
+| R    | [Regular graph](https://www.e-olymp.com/en/problems/5076)                                              | [~contest-9960/R/main.py](~contest-9960/R/main.py)   |
+| S    | [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)                               | [~contest-9960/S/main.cpp](~contest-9960/S/main.cpp) |
+| T    | [Number of hanging vertices 2](https://www.e-olymp.com/en/problems/5088)                               | [~contest-9960/T/main.cpp](~contest-9960/T/main.cpp) |
 
