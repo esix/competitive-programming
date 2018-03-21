@@ -15,4 +15,6 @@
 | 1321 | [棋盘问题](http://poj.org/problem?id=1321)             | [volume-04/1321/main.cpp](volume-04/1321/main.cpp) |
 |      | [Volume 5](http://poj.org/problemlist?volume=5)    | [volume-05/](volume-05/)                           |
 | 1442 | [Black Box](http://poj.org/problem?id=1442)        | [volume-05/1442/main.cpp](volume-05/1442/main.cpp) |
+|      | [Volume 6](http://poj.org/problemlist?volume=6)    | [volume-06/](volume-06/)                           |
+| 1503 | [Integer Inquiry](http://poj.org/problem?id=1503)  | [volume-06/1503/main.cpp](volume-06/1503/main.cpp) |
 
