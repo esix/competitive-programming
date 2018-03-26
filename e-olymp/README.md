@@ -220,6 +220,7 @@ Compilers:
 | 2668 | [Spiral](https://www.e-olymp.com/en/problems/2668)                                                     | [2xxx/2668/main.py](2xxx/2668/main.py)               |
 | 2669 | [Rotation](https://www.e-olymp.com/en/problems/2669)                                                   | [2xxx/2669/main.py](2xxx/2669/main.py)               |
 | 2674 | [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)                                          | [2xxx/2674/main.py](2xxx/2674/main.py)               |
+| 2717 | [Babel](https://www.e-olymp.com/en/problems/2717)                                                      | [2xxx/2717/main.py](2xxx/2717/main.py)               |
 | 2814 | [Fast Exponentiation](https://www.e-olymp.com/en/problems/2814)                                        | [2xxx/2814/main.py](2xxx/2814/main.py)               |
 | 2826 | [Guess](https://www.e-olymp.com/en/problems/2826)                                                      | [2xxx/2826/main.py](2xxx/2826/main.py)               |
 | 2862 | [Number of divisors](https://www.e-olymp.com/en/problems/2862)                                         | [2xxx/2862/main.cpp](2xxx/2862/main.cpp)             |
