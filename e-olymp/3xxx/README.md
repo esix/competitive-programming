@@ -2,6 +2,7 @@
 
 | ID   | Problem statement                                                                   | Solution                       |
 |------|-------------------------------------------------------------------------------------|--------------------------------|
+| 3002 | [Tournament](https://www.e-olymp.com/en/problems/3002)                              | [3002/main.py](3002/main.py)   |
 | 3133 | [Range](https://www.e-olymp.com/en/problems/3133)                                   | [3133/main.py](3133/main.py)   |
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                   | [3171/main.py](3171/main.py)   |
 | 3254 | [01110001, That Is the Question](https://www.e-olymp.com/en/problems/3254)          | [3254/main.py](3254/main.py)   |
