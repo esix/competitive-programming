@@ -15,6 +15,7 @@
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                             | [2133/main.py](2133/main.py)   |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                         | [2134/main.py](2134/main.py)   |
 | 2162 | [Palindrome](https://www.e-olymp.com/en/problems/2162)                                 | [2162/main.py](2162/main.py)   |
+| 2163 | [Divide on three!](https://www.e-olymp.com/en/problems/2163)                           | [2163/main.py](2163/main.py)   |
 | 2164 | [Julius Caesar Cyfer](https://www.e-olymp.com/en/problems/2164)                        | [2164/main.py](2164/main.py)   |
 | 2166 | [Anagrams](https://www.e-olymp.com/en/problems/2166)                                   | [2166/main.py](2166/main.py)   |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                 | [2214/main.py](2214/main.py)   |
