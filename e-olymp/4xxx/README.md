@@ -22,6 +22,7 @@
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                  | [4717/main.py](4717/main.py)   |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                   | [4721/main.cpp](4721/main.cpp) |
 | 4725 | [Sum of squares](https://www.e-olymp.com/en/problems/4725)                         | [4725/main.py](4725/main.py)   |
+| 4726 | [First and last appearance](https://www.e-olymp.com/en/problems/4726)              | [4726/main.py](4726/main.py)   |
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                              | [4730/main.py](4730/main.py)   |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                | [4733/main.cpp](4733/main.cpp) |
 | 4738 | [Sorting](https://www.e-olymp.com/en/problems/4738)                                | [4738/main.py](4738/main.py)   |
