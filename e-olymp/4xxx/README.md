@@ -10,6 +10,7 @@
 | 4181 | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                          | [4181/main.cpp](4181/main.cpp) |
 | 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                               | [4192/main.py](4192/main.py)   |
 | 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                         | [4196/main.py](4196/main.py)   |
+| 4281 | [Inattention](https://www.e-olymp.com/en/problems/4281)                            | [4281/main.py](4281/main.py)   |
 | 4283 | [Stepan and pairs](https://www.e-olymp.com/en/problems/4283)                       | [4283/main.cpp](4283/main.cpp) |
 | 4359 | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                   | [4359/main.cpp](4359/main.cpp) |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                  | [4369/main.cpp](4369/main.cpp) |
