@@ -37,6 +37,7 @@ Compilers:
 | 0123 | [Number of zeroes in factorial](https://www.e-olymp.com/en/problems/123)                               | [0xxx/0123/main.py](0xxx/0123/main.py)                 |
 | 0124 | [Square](https://www.e-olymp.com/en/problems/124)                                                      | [0xxx/0124/main.cpp](0xxx/0124/main.cpp)               |
 | 0125 | [Olympiad](https://www.e-olymp.com/en/problems/125)                                                    | [0xxx/0125/main.cpp](0xxx/0125/main.cpp)               |
+| 0128 | [Lucky tickets](https://www.e-olymp.com/en/problems/128)                                               | [0xxx/0128/main.py](0xxx/0128/main.py)                 |
 | 0136 | [The Segment](https://www.e-olymp.com/en/problems/136)                                                 | [0xxx/0136/main.cpp](0xxx/0136/main.cpp)               |
 | 0137 | [GCD](https://www.e-olymp.com/en/problems/137)                                                         | [0xxx/0137/main.cpp](0xxx/0137/main.cpp)               |
 | 0141 | [The minimal sum of digits](https://www.e-olymp.com/en/problems/141)                                   | [0xxx/0141/main.cpp](0xxx/0141/main.cpp)               |
@@ -185,6 +186,7 @@ Compilers:
 | 2133 | [Point on a ray](https://www.e-olymp.com/en/problems/2133)                                             | [2xxx/2133/main.py](2xxx/2133/main.py)                 |
 | 2134 | [Point on a segment](https://www.e-olymp.com/en/problems/2134)                                         | [2xxx/2134/main.py](2xxx/2134/main.py)                 |
 | 2162 | [Palindrome](https://www.e-olymp.com/en/problems/2162)                                                 | [2xxx/2162/main.py](2xxx/2162/main.py)                 |
+| 2163 | [Divide on three!](https://www.e-olymp.com/en/problems/2163)                                           | [2xxx/2163/main.py](2xxx/2163/main.py)                 |
 | 2164 | [Julius Caesar Cyfer](https://www.e-olymp.com/en/problems/2164)                                        | [2xxx/2164/main.py](2xxx/2164/main.py)                 |
 | 2166 | [Anagrams](https://www.e-olymp.com/en/problems/2166)                                                   | [2xxx/2166/main.py](2xxx/2166/main.py)                 |
 | 2214 | [Function 9](https://www.e-olymp.com/en/problems/2214)                                                 | [2xxx/2214/main.py](2xxx/2214/main.py)                 |
@@ -195,6 +197,7 @@ Compilers:
 | 2323 | [Numbers from digits](https://www.e-olymp.com/en/problems/2323)                                        | [2xxx/2323/main.py](2xxx/2323/main.py)                 |
 | 2325 | [Two numbers](https://www.e-olymp.com/en/problems/2325)                                                | [2xxx/2325/main.py](2xxx/2325/main.py)                 |
 | 2329 | [Bell](https://www.e-olymp.com/en/problems/2329)                                                       | [2xxx/2329/main.py](2xxx/2329/main.py)                 |
+| 2370 | [Automated Telephone Exchange](https://www.e-olymp.com/en/problems/2370)                               | [2xxx/2370/main.py](2xxx/2370/main.py)                 |
 | 2375 | [Flat](https://www.e-olymp.com/en/problems/2375)                                                       | [2xxx/2375/main.py](2xxx/2375/main.py)                 |
 | 2382 | [Grafix Mask](https://www.e-olymp.com/en/problems/2382)                                                | [2xxx/2382/main.cpp](2xxx/2382/main.cpp)               |
 | 2383 | [Electrical Wires](https://www.e-olymp.com/en/problems/2383)                                           | [2xxx/2383/main.cpp](2xxx/2383/main.cpp)               |
@@ -229,6 +232,7 @@ Compilers:
 | 2927 | [Sets Union](https://www.e-olymp.com/en/problems/2927)                                                 | [2xxx/2927/main.py](2xxx/2927/main.py)                 |
 | 2999 | [Function-10](https://www.e-olymp.com/en/problems/2999)                                                | [2xxx/2999/main.py](2xxx/2999/main.py)                 |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
+| 3002 | [Tournament](https://www.e-olymp.com/en/problems/3002)                                                 | [3xxx/3002/main.py](3xxx/3002/main.py)                 |
 | 3133 | [Range](https://www.e-olymp.com/en/problems/3133)                                                      | [3xxx/3133/main.py](3xxx/3133/main.py)                 |
 | 3171 | [Point within a circle](https://www.e-olymp.com/en/problems/3171)                                      | [3xxx/3171/main.py](3xxx/3171/main.py)                 |
 | 3254 | [01110001, That Is the Question](https://www.e-olymp.com/en/problems/3254)                             | [3xxx/3254/main.py](3xxx/3254/main.py)                 |
@@ -257,6 +261,7 @@ Compilers:
 | 4181 | [Рекламный щит](https://www.e-olymp.com/en/problems/4181)                                              | [4xxx/4181/main.cpp](4xxx/4181/main.cpp)               |
 | 4192 | [Olympiad](https://www.e-olymp.com/en/problems/4192)                                                   | [4xxx/4192/main.py](4xxx/4192/main.py)                 |
 | 4196 | [Chocolate bars](https://www.e-olymp.com/en/problems/4196)                                             | [4xxx/4196/main.py](4xxx/4196/main.py)                 |
+| 4281 | [Inattention](https://www.e-olymp.com/en/problems/4281)                                                | [4xxx/4281/main.py](4xxx/4281/main.py)                 |
 | 4283 | [Stepan and pairs](https://www.e-olymp.com/en/problems/4283)                                           | [4xxx/4283/main.cpp](4xxx/4283/main.cpp)               |
 | 4359 | [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)                                       | [4xxx/4359/main.cpp](4xxx/4359/main.cpp)               |
 | 4369 | [Arson](https://www.e-olymp.com/en/problems/4369)                                                      | [4xxx/4369/main.cpp](4xxx/4369/main.cpp)               |
@@ -268,6 +273,7 @@ Compilers:
 | 4717 | [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)                                      | [4xxx/4717/main.py](4xxx/4717/main.py)                 |
 | 4721 | [Bob the honors pupil](https://www.e-olymp.com/en/problems/4721)                                       | [4xxx/4721/main.cpp](4xxx/4721/main.cpp)               |
 | 4725 | [Sum of squares](https://www.e-olymp.com/en/problems/4725)                                             | [4xxx/4725/main.py](4xxx/4725/main.py)                 |
+| 4726 | [First and last appearance](https://www.e-olymp.com/en/problems/4726)                                  | [4xxx/4726/main.py](4xxx/4726/main.py)                 |
 | 4730 | [Fibonacci](https://www.e-olymp.com/en/problems/4730)                                                  | [4xxx/4730/main.py](4xxx/4730/main.py)                 |
 | 4733 | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                    | [4xxx/4733/main.cpp](4xxx/4733/main.cpp)               |
 | 4738 | [Sorting](https://www.e-olymp.com/en/problems/4738)                                                    | [4xxx/4738/main.py](4xxx/4738/main.py)                 |
@@ -289,6 +295,7 @@ Compilers:
 | 4854 | [Reverse me!](https://www.e-olymp.com/en/problems/4854)                                                | [4xxx/4854/main.cpp](4xxx/4854/main.cpp)               |
 | 4892 | [Replacement](https://www.e-olymp.com/en/problems/4892)                                                | [4xxx/4892/main.cpp](4xxx/4892/main.cpp)               |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
+| 5049 | [Remove spaces](https://www.e-olymp.com/en/problems/5049)                                              | [5xxx/5049/main.py](5xxx/5049/main.py)                 |
 | 5057 | [Spiral](https://www.e-olymp.com/en/problems/5057)                                                     | [5xxx/5057/main.py](5xxx/5057/main.py)                 |
 | 5059 | [Two minimums](https://www.e-olymp.com/en/problems/5059)                                               | [5xxx/5059/main.cpp](5xxx/5059/main.cpp)               |
 | 5064 | [Magic constant](https://www.e-olymp.com/en/problems/5064)                                             | [5xxx/5064/main.py](5xxx/5064/main.py)                 |
@@ -386,6 +393,9 @@ Compilers:
 | 8201 | [Alphabet](https://www.e-olymp.com/en/problems/8201)                                                   | [8xxx/8201/main.py](8xxx/8201/main.py)                 |
 | 8216 | [Gravity](https://www.e-olymp.com/en/problems/8216)                                                    | [8xxx/8216/main.py](8xxx/8216/main.py)                 |
 | 8217 | [Islands](https://www.e-olymp.com/en/problems/8217)                                                    | [8xxx/8217/main.cpp](8xxx/8217/main.cpp)               |
+| 8222 | [The length of the substring](https://www.e-olymp.com/en/problems/8222)                                | [8xxx/8222/main.py](8xxx/8222/main.py)                 |
+| 8223 | [Prefixes of a substring](https://www.e-olymp.com/en/problems/8223)                                    | [8xxx/8223/main.py](8xxx/8223/main.py)                 |
+| 8224 | [Suffixes of a substring](https://www.e-olymp.com/en/problems/8224)                                    | [8xxx/8224/main.py](8xxx/8224/main.py)                 |
 | 8239 | [Function - 1](https://www.e-olymp.com/en/problems/8239)                                               | [8xxx/8239/main.py](8xxx/8239/main.py)                 |
 | 8240 | [Function - 2](https://www.e-olymp.com/en/problems/8240)                                               | [8xxx/8240/main.py](8xxx/8240/main.py)                 |
 | 8241 | [Function - 3](https://www.e-olymp.com/en/problems/8241)                                               | [8xxx/8241/main.py](8xxx/8241/main.py)                 |
@@ -411,6 +421,20 @@ Compilers:
 | L    | [Kastenlauf](https://www.e-olymp.com/en/problems/6033)                                                 | [~contest-10040/L/main.cpp](~contest-10040/L/main.cpp) |
 | M    | [Strahler Order](https://www.e-olymp.com/en/problems/6389)                                             | [~contest-10040/M/main.cpp](~contest-10040/M/main.cpp) |
 | N    | [Minibus](https://www.e-olymp.com/en/problems/5107)                                                    | [~contest-10040/N/main.cpp](~contest-10040/N/main.cpp) |
+|      | [Just fun contest](https://www.e-olymp.com/en/contests/10063)                                          | [~contest-10063/](~contest-10063/)                     |
+| A    | [Divide on three!](https://www.e-olymp.com/en/problems/2163)                                           | [~contest-10063/A/main.py](~contest-10063/A/main.py)   |
+| B    | [Делится ли на 2, 4 и 8?](https://www.e-olymp.com/en/problems/4733)                                    | [~contest-10063/B/main.cpp](~contest-10063/B/main.cpp) |
+| C    | [Inattention](https://www.e-olymp.com/en/problems/4281)                                                | [~contest-10063/C/main.py](~contest-10063/C/main.py)   |
+| D    | [First and last appearance](https://www.e-olymp.com/en/problems/4726)                                  | [~contest-10063/D/main.py](~contest-10063/D/main.py)   |
+| E    | [Remove spaces](https://www.e-olymp.com/en/problems/5049)                                              | [~contest-10063/E/main.py](~contest-10063/E/main.py)   |
+| F    | [Tournament](https://www.e-olymp.com/en/problems/3002)                                                 | [~contest-10063/F/main.py](~contest-10063/F/main.py)   |
+| G    | [Automated Telephone Exchange](https://www.e-olymp.com/en/problems/2370)                               | [~contest-10063/G/main.py](~contest-10063/G/main.py)   |
+| H    | [Lucky tickets](https://www.e-olymp.com/en/problems/128)                                               | [~contest-10063/H/main.py](~contest-10063/H/main.py)   |
+| I    | [Olympiad](https://www.e-olymp.com/en/problems/125)                                                    | [~contest-10063/I/main.cpp](~contest-10063/I/main.cpp) |
+| J    | [Time for Nicholas](https://www.e-olymp.com/en/problems/514)                                           | [~contest-10063/J/main.cpp](~contest-10063/J/main.cpp) |
+| K    | [The length of the substring](https://www.e-olymp.com/en/problems/8222)                                | [~contest-10063/K/main.py](~contest-10063/K/main.py)   |
+| L    | [Prefixes of a substring](https://www.e-olymp.com/en/problems/8223)                                    | [~contest-10063/L/main.py](~contest-10063/L/main.py)   |
+| M    | [Suffixes of a substring](https://www.e-olymp.com/en/problems/8224)                                    | [~contest-10063/M/main.py](~contest-10063/M/main.py)   |
 |      | [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)                                     | [~contest-8860/](~contest-8860/)                       |
 | A    | [GCD](https://www.e-olymp.com/en/contests/8860/problems/76518)                                         | [~contest-8860/A/main.cpp](~contest-8860/A/main.cpp)   |
 | B    | [Cleaning the territory](https://www.e-olymp.com/en/contests/8860/problems/76519)                      | [~contest-8860/B/main.cpp](~contest-8860/B/main.cpp)   |
