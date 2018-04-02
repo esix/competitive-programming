@@ -23,4 +23,6 @@
 | 1753 | [Flip Game](http://poj.org/problem?id=1753)         | [volume-08/1753/main.cpp](volume-08/1753/main.cpp) |
 |      | [Volume 9](http://poj.org/problemlist?volume=9)     | [volume-09/](volume-09/)                           |
 | 1860 | [Currency Exchange](http://poj.org/problem?id=1860) | [volume-09/1860/main.cpp](volume-09/1860/main.cpp) |
+|      | [Volume 10](http://poj.org/problemlist?volume=10)   | [volume-10/](volume-10/)                           |
+| 1979 | [Red and Black](http://poj.org/problem?id=1979)     | [volume-10/1979/main.cpp](volume-10/1979/main.cpp) |
 
