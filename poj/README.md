@@ -27,4 +27,6 @@
 | 1979 | [Red and Black](http://poj.org/problem?id=1979)     | [volume-10/1979/main.cpp](volume-10/1979/main.cpp) |
 |      | [Volume 11](http://poj.org/problemlist?volume=11)   | [volume-11/](volume-11/)                           |
 | 2027 | [No Brainer](http://poj.org/problem?id=2027)        | [volume-11/2027/main.cpp](volume-11/2027/main.cpp) |
+|      | [Volume 12](http://poj.org/problemlist?volume=12)   | [volume-12/](volume-12/)                           |
+| 2104 | [K-th Number](http://poj.org/problem?id=2104)       | [volume-12/2104/main.cpp](volume-12/2104/main.cpp) |
 
