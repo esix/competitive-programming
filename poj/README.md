@@ -25,4 +25,6 @@
 | 1860 | [Currency Exchange](http://poj.org/problem?id=1860) | [volume-09/1860/main.cpp](volume-09/1860/main.cpp) |
 |      | [Volume 10](http://poj.org/problemlist?volume=10)   | [volume-10/](volume-10/)                           |
 | 1979 | [Red and Black](http://poj.org/problem?id=1979)     | [volume-10/1979/main.cpp](volume-10/1979/main.cpp) |
+|      | [Volume 11](http://poj.org/problemlist?volume=11)   | [volume-11/](volume-11/)                           |
+| 2027 | [No Brainer](http://poj.org/problem?id=2027)        | [volume-11/2027/main.cpp](volume-11/2027/main.cpp) |
 
