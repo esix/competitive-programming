@@ -29,4 +29,6 @@
 | 2027 | [No Brainer](http://poj.org/problem?id=2027)        | [volume-11/2027/main.cpp](volume-11/2027/main.cpp) |
 |      | [Volume 12](http://poj.org/problemlist?volume=12)   | [volume-12/](volume-12/)                           |
 | 2104 | [K-th Number](http://poj.org/problem?id=2104)       | [volume-12/2104/main.cpp](volume-12/2104/main.cpp) |
+|      | [Volume 13](http://poj.org/problemlist?volume=13)   | [volume-13/](volume-13/)                           |
+| 2299 | [Ultra-QuickSort](http://poj.org/problem?id=2299)   | [volume-13/2299/main.cpp](volume-13/2299/main.cpp) |
 
