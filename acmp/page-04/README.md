@@ -3,4 +3,5 @@
 | ID   | Problem statement                                                          | Solution                     |
 |------|----------------------------------------------------------------------------|------------------------------|
 | 0163 | [Уравнение для 5 класса!](https://acmp.ru/index.asp?main=task&id_task=163) | [0163/main.py](0163/main.py) |
+| 0164 | [Счастливый билет - 2](https://acmp.ru/index.asp?main=task&id_task=164)    | [0164/main.py](0164/main.py) |
 
