@@ -167,6 +167,7 @@ Compilers:
 | 0163 | [Уравнение для 5 класса!](https://acmp.ru/index.asp?main=task&id_task=163)             | [page-04/0163/main.py](page-04/0163/main.py)         |
 | 0164 | [Счастливый билет - 2](https://acmp.ru/index.asp?main=task&id_task=164)                | [page-04/0164/main.py](page-04/0164/main.py)         |
 | 0168 | [Натуральный ряд чисел](https://acmp.ru/index.asp?main=task&id_task=168)               | [page-04/0168/main.py](page-04/0168/main.py)         |
+| 0173 | [Число - палиндром](https://acmp.ru/index.asp?main=task&id_task=173)                   | [page-04/0173/main.py](page-04/0173/main.py)         |
 |      | [Тренировка №2](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40478)          | [~contest-40478/](~contest-40478/)                   |
 | A    | Мышка                                                                                  | [~contest-40478/A/main.py](~contest-40478/A/main.py) |
 | B    | Перевязь                                                                               | [~contest-40478/B/main.py](~contest-40478/B/main.py) |
