@@ -38,8 +38,13 @@ function comparator(a, b) {
 }
 
 
+function extractFileExtension(fileName) {
+  return fileName.match(/\.(\w+)$/) ? RegExp.$1 : '';
+}
+
 function getSolutionFiles(dir) {
-  const solutions = fs.readdirSync(dir).filter(file => file.match(/^[Mm]ain/));   // only files name `main.ext'
+  let solutions = fs.readdirSync(dir).filter(file => file.match(/^[Mm]ain/) || file.match(/^[Ss]olution/));   // only files name `main.ext' or 'solution.ext'
+  solutions = solutions.filter(fileName => !['class'].includes(extractFileExtension(fileName)));              // forbidden extensions
   return solutions.sort();
 }
 
