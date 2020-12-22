@@ -3,17 +3,18 @@
  * @return {number}
  */
 var maxProduct = function(nums) {
-  let m = 1, M = 1, result = 0;
-  for (let i = 0; i < nums.length; i++) {
-      if (nums[i] > 0) {
-          [m, M] = [Math.min(m * nums[i], 1), M * nums[i]];
-      } else if (nums[i] == 0) {
-          [m, M] = [1, 1];
+  let m = null, M = null, result = 0;
+  const mul = (a, b) => a === null ? b : a * b;
+  for (let n of nums) {
+      if (n > 0) {
+          [m, M] = [Math.min(mul(m, n), 0) || null, mul(M, n)];
+      } else if (n === 0) {
+          [m, M] = [null, null];
       } else {
-          [m, M] = [M * nums[i], Math.max(m * nums[i], 1)];
+          [m, M] = [mul(M, n), Math.max(mul(m, n), 0) || null];
       }
-      result = Math.max(result, M);
+      result = Math.max(result, M) || null;
   }
-  if (result === 1) result = Math.max.apply(Math, nums);
+  if (result === null) result = Math.max.apply(Math, nums);
   return result;
 };
