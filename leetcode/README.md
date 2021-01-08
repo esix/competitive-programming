@@ -32,6 +32,7 @@ Languages
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [0001-0050/0015/main.js](0001-0050/0015/main.js)   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [0001-0050/0020/main.js](0001-0050/0020/main.js)   |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [0001-0050/0021/main.js](0001-0050/0021/main.js)   |
+| 0051 | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                                                         | [0051-0100/0051/main.js](0051-0100/0051/main.js)   |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | [0101-0150/0127/main.js](0101-0150/0127/main.js)   |
 | 0152 | 152. Maximum Product Subarray                                                                                                   | [0151-0200/0152/main.js](0151-0200/0152/main.js)   |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
