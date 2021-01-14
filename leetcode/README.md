@@ -40,4 +40,5 @@ Languages
 | 0152 | 152. Maximum Product Subarray                                                                                                   | [0151-0200/0152/main.js](0151-0200/0152/main.js)   |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
+| 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
 
