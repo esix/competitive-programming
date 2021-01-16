@@ -38,7 +38,9 @@ Languages
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | [0101-0150/0127/main.js](0101-0150/0127/main.js)   |
 | 0151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                      | [0151-0200/0151/main.js](0151-0200/0151/main.js)   |
 | 0152 | 152. Maximum Product Subarray                                                                                                   | [0151-0200/0152/main.js](0151-0200/0152/main.js)   |
+| 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
+| 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)       | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
 
