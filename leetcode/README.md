@@ -42,6 +42,8 @@ Languages
 | 0202 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                                                                | [0201-0250/0202/main.js](0201-0250/0202/main.js)   |
 |      | [251-300](https://leetcode.com/problemset/all/#page-6)                                                                          | [0251-0300/](0251-0300/)                           |
 | 0257 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                      | [0251-0300/0257/main.js](0251-0300/0257/main.js)   |
+|      | [301-350](https://leetcode.com/problemset/all/#page-8)                                                                          | [0301-0350/](0301-0350/)                           |
+| 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                    | [0301-0350/0303/main.js](0301-0350/0303/main.js)   |
 | 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
