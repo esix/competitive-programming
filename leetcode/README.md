@@ -42,6 +42,7 @@ Languages
 | 0202 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                                                                | [0201-0250/0202/main.js](0201-0250/0202/main.js)   |
 |      | [251-300](https://leetcode.com/problemset/all/#page-6)                                                                          | [0251-0300/](0251-0300/)                           |
 | 0257 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                      | [0251-0300/0257/main.js](0251-0300/0257/main.js)   |
+| 0258 | [258. Add Digits](https://leetcode.com/problems/add-digits/)                                                                    | [0251-0300/0258/main.js](0251-0300/0258/main.js)   |
 |      | [301-350](https://leetcode.com/problemset/all/#page-8)                                                                          | [0301-0350/](0301-0350/)                           |
 | 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                    | [0301-0350/0303/main.js](0301-0350/0303/main.js)   |
 | 0304 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                              | [0301-0350/0304/main.js](0301-0350/0304/main.js)   |
