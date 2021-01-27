@@ -5,4 +5,5 @@
 |------|----------------------------------------------------------------------------------------------------|------------------------------|
 | 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)       | [0303/main.js](0303/main.js) |
 | 0304 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [0304/main.js](0304/main.js) |
+| 0338 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                 | [0338/main.js](0338/main.js) |
 
