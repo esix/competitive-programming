@@ -43,9 +43,10 @@ Languages
 |      | [251-300](https://leetcode.com/problemset/all/#page-6)                                                                          | [0251-0300/](0251-0300/)                           |
 | 0257 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                      | [0251-0300/0257/main.js](0251-0300/0257/main.js)   |
 | 0258 | [258. Add Digits](https://leetcode.com/problems/add-digits/)                                                                    | [0251-0300/0258/main.js](0251-0300/0258/main.js)   |
-|      | [301-350](https://leetcode.com/problemset/all/#page-8)                                                                          | [0301-0350/](0301-0350/)                           |
+|      | [301-350](https://leetcode.com/problemset/all/#page-7)                                                                          | [0301-0350/](0301-0350/)                           |
 | 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                    | [0301-0350/0303/main.js](0301-0350/0303/main.js)   |
 | 0304 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                              | [0301-0350/0304/main.js](0301-0350/0304/main.js)   |
+| 0306 | [306. Additive Number](https://leetcode.com/problems/additive-number/)                                                          | [0301-0350/0306/main.js](0301-0350/0306/main.js)   |
 | 0338 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                              | [0301-0350/0338/main.js](0301-0350/0338/main.js)   |
 |      | [351-400](https://leetcode.com/problemset/all/#page-9)                                                                          | [0351-0400/](0351-0400/)                           |
 | 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
