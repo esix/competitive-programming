@@ -47,8 +47,10 @@ Languages
 | 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                    | [0301-0350/0303/main.js](0301-0350/0303/main.js)   |
 | 0304 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                              | [0301-0350/0304/main.js](0301-0350/0304/main.js)   |
 | 0338 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                              | [0301-0350/0338/main.js](0301-0350/0338/main.js)   |
+|      | [351-400](https://leetcode.com/problemset/all/#page-8)                                                                          | [0351-0400/](0351-0400/)                           |
 | 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
+| 0374 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                | [0351-0400/0374/main.js](0351-0400/0374/main.js)   |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)       | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
