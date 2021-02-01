@@ -52,6 +52,8 @@ Languages
 | 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
 | 0357 | [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                        | [0351-0400/0357/main.js](0351-0400/0357/main.js)   |
 | 0373 | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                          | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
+|      | [401-450](https://leetcode.com/problemset/all/#page-9)                                                                          | [0401-0450/](0401-0450/)                           |
+| 0401 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                | [0401-0450/0401/main.js](0401-0450/0401/main.js)   |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)       | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
