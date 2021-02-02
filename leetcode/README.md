@@ -16,6 +16,7 @@ Languages
 
 | ID   | Problem statement                                                                                                               | Solution                                           |
 |------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|      | [1-50](https://leetcode.com/problemset/all/#page-1)                                                                             | [0001-0050/](0001-0050/)                           |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [0001-0050/0001/main.js](0001-0050/0001/main.js)   |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [0001-0050/0002/main.js](0001-0050/0002/main.js)   |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [0001-0050/0003/main.js](0001-0050/0003/main.js)   |
@@ -30,6 +31,7 @@ Languages
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [0001-0050/0013/main.js](0001-0050/0013/main.js)   |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [0001-0050/0014/main.js](0001-0050/0014/main.js)   |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [0001-0050/0015/main.js](0001-0050/0015/main.js)   |
+| 0016 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                 | [0001-0050/0016/main.js](0001-0050/0016/main.js)   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [0001-0050/0020/main.js](0001-0050/0020/main.js)   |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [0001-0050/0021/main.js](0001-0050/0021/main.js)   |
 | 0051 | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                                                         | [0051-0100/0051/main.js](0051-0100/0051/main.js)   |
