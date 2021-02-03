@@ -34,8 +34,10 @@ Languages
 | 0016 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                 | [0001-0050/0016/main.js](0001-0050/0016/main.js)   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [0001-0050/0020/main.js](0001-0050/0020/main.js)   |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [0001-0050/0021/main.js](0001-0050/0021/main.js)   |
+|      | [51-100](https://leetcode.com/problemset/all/#page-2)                                                                           | [0051-0100/](0051-0100/)                           |
 | 0051 | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                                                         | [0051-0100/0051/main.js](0051-0100/0051/main.js)   |
 | 0052 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                   | [0051-0100/0052/main.js](0051-0100/0052/main.js)   |
+| 0053 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                         | [0051-0100/0053/main.js](0051-0100/0053/main.js)   |
 | 0101 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                            | [0101-0150/0101/main.js](0101-0150/0101/main.js)   |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | [0101-0150/0127/main.js](0101-0150/0127/main.js)   |
 | 0151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                      | [0151-0200/0151/main.js](0151-0200/0151/main.js)   |
