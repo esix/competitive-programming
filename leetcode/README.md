@@ -38,7 +38,9 @@ Languages
 | 0051 | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                                                         | [0051-0100/0051/main.js](0051-0100/0051/main.js)   |
 | 0052 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                   | [0051-0100/0052/main.js](0051-0100/0052/main.js)   |
 | 0053 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                         | [0051-0100/0053/main.js](0051-0100/0053/main.js)   |
+|      | [101-150](https://leetcode.com/problemset/all/#page-3)                                                                          | [0101-0150/](0101-0150/)                           |
 | 0101 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                            | [0101-0150/0101/main.js](0101-0150/0101/main.js)   |
+| 0112 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                        | [0101-0150/0112/main.js](0101-0150/0112/main.js)   |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | [0101-0150/0127/main.js](0101-0150/0127/main.js)   |
 | 0151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                      | [0151-0200/0151/main.js](0151-0200/0151/main.js)   |
 | 0152 | 152. Maximum Product Subarray                                                                                                   | [0151-0200/0152/main.js](0151-0200/0152/main.js)   |
