@@ -16,6 +16,7 @@ Languages
 
 | ID   | Problem statement                                                                                                               | Solution                                           |
 |------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|      | [1-50](https://leetcode.com/problemset/all/#page-1)                                                                             | [0001-0050/](0001-0050/)                           |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [0001-0050/0001/main.js](0001-0050/0001/main.js)   |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [0001-0050/0002/main.js](0001-0050/0002/main.js)   |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [0001-0050/0003/main.js](0001-0050/0003/main.js)   |
@@ -30,10 +31,13 @@ Languages
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [0001-0050/0013/main.js](0001-0050/0013/main.js)   |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [0001-0050/0014/main.js](0001-0050/0014/main.js)   |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | [0001-0050/0015/main.js](0001-0050/0015/main.js)   |
+| 0016 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                 | [0001-0050/0016/main.js](0001-0050/0016/main.js)   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [0001-0050/0020/main.js](0001-0050/0020/main.js)   |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [0001-0050/0021/main.js](0001-0050/0021/main.js)   |
+|      | [51-100](https://leetcode.com/problemset/all/#page-2)                                                                           | [0051-0100/](0051-0100/)                           |
 | 0051 | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                                                         | [0051-0100/0051/main.js](0051-0100/0051/main.js)   |
 | 0052 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                   | [0051-0100/0052/main.js](0051-0100/0052/main.js)   |
+| 0053 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                         | [0051-0100/0053/main.js](0051-0100/0053/main.js)   |
 | 0101 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                            | [0101-0150/0101/main.js](0101-0150/0101/main.js)   |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | [0101-0150/0127/main.js](0101-0150/0127/main.js)   |
 | 0151 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                      | [0151-0200/0151/main.js](0151-0200/0151/main.js)   |
@@ -43,14 +47,18 @@ Languages
 |      | [251-300](https://leetcode.com/problemset/all/#page-6)                                                                          | [0251-0300/](0251-0300/)                           |
 | 0257 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                      | [0251-0300/0257/main.js](0251-0300/0257/main.js)   |
 | 0258 | [258. Add Digits](https://leetcode.com/problems/add-digits/)                                                                    | [0251-0300/0258/main.js](0251-0300/0258/main.js)   |
-|      | [301-350](https://leetcode.com/problemset/all/#page-8)                                                                          | [0301-0350/](0301-0350/)                           |
+|      | [301-350](https://leetcode.com/problemset/all/#page-7)                                                                          | [0301-0350/](0301-0350/)                           |
 | 0303 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                    | [0301-0350/0303/main.js](0301-0350/0303/main.js)   |
 | 0304 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                              | [0301-0350/0304/main.js](0301-0350/0304/main.js)   |
+| 0306 | [306. Additive Number](https://leetcode.com/problems/additive-number/)                                                          | [0301-0350/0306/main.js](0301-0350/0306/main.js)   |
 | 0338 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                              | [0301-0350/0338/main.js](0301-0350/0338/main.js)   |
 |      | [351-400](https://leetcode.com/problemset/all/#page-8)                                                                          | [0351-0400/](0351-0400/)                           |
 | 0352 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)                      | [0351-0400/0352/main.js](0351-0400/0352/main.js)   |
-| 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                               | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
+| 0357 | [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                        | [0351-0400/0357/main.js](0351-0400/0357/main.js)   |
+| 0373 | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                          | [0351-0400/0373/main.cpp](0351-0400/0373/main.cpp) |
 | 0374 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                | [0351-0400/0374/main.js](0351-0400/0374/main.js)   |
+|      | [401-450](https://leetcode.com/problemset/all/#page-9)                                                                          | [0401-0450/](0401-0450/)                           |
+| 0401 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                | [0401-0450/0401/main.js](0401-0450/0401/main.js)   |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)       | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
