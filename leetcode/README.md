@@ -67,6 +67,8 @@ Languages
 | 0401 | [401. Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                | [0401-0450/0401/main.js](0401-0450/0401/main.js)   |
 |      | [451-500](https://leetcode.com/problemset/all/#page-10)                                                                         | [0451-0500/](0451-0500/)                           |
 | 0451 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                | [0451-0500/0451/main.js](0451-0500/0451/main.js)   |
+|      | [251-300](https://leetcode.com/problemset/all/#page-11)                                                                         | [0501-0550/](0501-0550/)                           |
+| 0501 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                          | [0501-0550/0501/main.js](0501-0550/0501/main.js)   |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                               | [0851-0900/0880/main.js](0851-0900/0880/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)       | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)     | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
