@@ -8,7 +8,6 @@ An encoded string `S` is given.  To find and write the decoded string to a tape,
 Now for some encoded string S, and an index `K`, find and return the `K`-th letter (1 indexed) in the decoded string.
 
  
-
 ## Example 1:
 ```
 Input: S = "leet2code3", K = 10
