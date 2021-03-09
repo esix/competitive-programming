@@ -75,6 +75,7 @@ Languages
 | 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [page-16/0762/main.js](page-16/0762/main.js)       |
 |      | [17 (801-850)](https://leetcode.com/problemset/all/#page-17)                                                                               | [page-17/](page-17/)                               |
 | 0801 | [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)               | [page-17/0801/main.js](page-17/0801/main.js)       |
+| 0804 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                     | [page-17/0804/main.js](page-17/0804/main.js)       |
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                               | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                       | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
