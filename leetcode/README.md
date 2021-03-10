@@ -73,6 +73,7 @@ Languages
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
 |      | [16 (751-800)](https://leetcode.com/problemset/all/#page-16)                                                                               | [page-16/](page-16/)                               |
 | 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [page-16/0762/main.js](page-16/0762/main.js)       |
+| 0766 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                     | [page-16/0766/main.js](page-16/0766/main.js)       |
 |      | [17 (801-850)](https://leetcode.com/problemset/all/#page-17)                                                                               | [page-17/](page-17/)                               |
 | 0801 | [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)               | [page-17/0801/main.js](page-17/0801/main.js)       |
 | 0804 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                     | [page-17/0804/main.js](page-17/0804/main.js)       |

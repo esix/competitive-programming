@@ -4,4 +4,5 @@
 | ID   | Problem statement                                                                                                                          | Solution                     |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
 | 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [0762/main.js](0762/main.js) |
+| 0766 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                     | [0766/main.js](0766/main.js) |
 
