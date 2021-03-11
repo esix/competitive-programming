@@ -71,6 +71,8 @@ Languages
 | 0501 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                                     | [0501-0550/0501/main.js](0501-0550/0501/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)                  | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
+|      | [15 (701-750)](https://leetcode.com/problemset/all/#page-15)                                                                               | [page-15/](page-15/)                               |
+| 0703 | [703. Kth Largest Element in a Stream]()                                                                                                   | [page-15/0703/main.js](page-15/0703/main.js)       |
 |      | [16 (751-800)](https://leetcode.com/problemset/all/#page-16)                                                                               | [page-16/](page-16/)                               |
 | 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [page-16/0762/main.js](page-16/0762/main.js)       |
 | 0766 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                     | [page-16/0766/main.js](page-16/0766/main.js)       |
