@@ -73,6 +73,7 @@ Languages
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
 |      | [15 (701-750)](https://leetcode.com/problemset/all/#page-15)                                                                               | [page-15/](page-15/)                               |
 | 0703 | [703. Kth Largest Element in a Stream]()                                                                                                   | [page-15/0703/main.js](page-15/0703/main.js)       |
+| 0704 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                         | [page-15/0704/main.js](page-15/0704/main.js)       |
 |      | [16 (751-800)](https://leetcode.com/problemset/all/#page-16)                                                                               | [page-16/](page-16/)                               |
 | 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [page-16/0762/main.js](page-16/0762/main.js)       |
 | 0766 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                     | [page-16/0766/main.js](page-16/0766/main.js)       |
