@@ -70,7 +70,6 @@ Languages
 |      | [251-300](https://leetcode.com/problemset/all/#page-11)                                                                                    | [0501-0550/](0501-0550/)                           |
 | 0501 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                                     | [0501-0550/0501/main.js](0501-0550/0501/main.js)   |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)                  | [1600-1650/1649/main.js](1600-1650/1649/main.js)   |
-| 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [1651-1700/1662/main.js](1651-1700/1662/main.js)   |
 |      | [14 (651-700)](https://leetcode.com/problemset/all/#page-14)                                                                               | [page-14/](page-14/)                               |
 | 0653 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                               | [page-14/0653/main.js](page-14/0653/main.js)       |
 | 0657 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                       | [page-14/0657/main.js](page-14/0657/main.js)       |
@@ -86,4 +85,6 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                               | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                       | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
+|      | [34 (1651-1700)](https://leetcode.com/problemset/all/#page-34)                                                                             | [page-34/](page-34/)                               |
+| 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [page-34/1662/main.js](page-34/1662/main.js)       |
 
