@@ -85,6 +85,7 @@ Languages
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                       | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [33 (1601-1650)](https://leetcode.com/problemset/all/#page-33)                                                                             | [page-33/](page-33/)                               |
+| 1629 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)                                                                            | [page-33/1629/main.js](page-33/1629/main.js)       |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)                  | [page-33/1649/main.js](page-33/1649/main.js)       |
 |      | [34 (1651-1700)](https://leetcode.com/problemset/all/#page-34)                                                                             | [page-34/](page-34/)                               |
 | 1662 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                | [page-34/1662/main.js](page-34/1662/main.js)       |
