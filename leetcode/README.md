@@ -84,6 +84,8 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                               | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                       | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
+|      | [32 (1551-1600)](https://leetcode.com/problemset/all/#page-32)                                                                             | [page-32/](page-32/)                               |
+| 1556 | [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)                                                              | [page-32/1556/main.js](page-32/1556/main.js)       |
 |      | [33 (1601-1650)](https://leetcode.com/problemset/all/#page-33)                                                                             | [page-33/](page-33/)                               |
 | 1629 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)                                                                            | [page-33/1629/main.js](page-33/1629/main.js)       |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)                  | [page-33/1649/main.js](page-33/1649/main.js)       |
