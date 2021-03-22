@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [32 (1551-1600)](https://leetcode.com/problemset/all/#page-32)                                                                             | [page-32/](page-32/)                               |
 | 1556 | [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)                                                              | [page-32/1556/main.js](page-32/1556/main.js)       |
+| 1560 | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                    | [page-32/1560/main.js](page-32/1560/main.js)       |
 |      | [33 (1601-1650)](https://leetcode.com/problemset/all/#page-33)                                                                             | [page-33/](page-33/)                               |
 | 1629 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)                                                                            | [page-33/1629/main.js](page-33/1629/main.js)       |
 | 1649 | [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)                  | [page-33/1649/main.js](page-33/1649/main.js)       |
