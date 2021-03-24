@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                          | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [31 (1501-1550)](https://leetcode.com/problemset/all/#page-31)                                                                             | [page-31/](page-31/)                               |
 | 1502 | [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)        | [page-31/1502/main.js](page-31/1502/main.js)       |
+| 1507 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/)                                                                        | [page-31/1507/main.js](page-31/1507/main.js)       |
 |      | [32 (1551-1600)](https://leetcode.com/problemset/all/#page-32)                                                                             | [page-32/](page-32/)                               |
 | 1556 | [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)                                                              | [page-32/1556/main.js](page-32/1556/main.js)       |
 | 1560 | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                    | [page-32/1560/main.js](page-32/1560/main.js)       |
