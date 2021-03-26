@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [30 (1451-1500)](https://leetcode.com/problemset/all/#page-30)                                                                                          | [page-30/](page-30/)                               |
 | 1456 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [page-30/1456/main.js](page-30/1456/main.js)       |
+| 1460 | [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                     | [page-30/1460/main.js](page-30/1460/main.js)       |
 |      | [31 (1501-1550)](https://leetcode.com/problemset/all/#page-31)                                                                                          | [page-31/](page-31/)                               |
 | 1502 | [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)                     | [page-31/1502/main.js](page-31/1502/main.js)       |
 | 1507 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date/)                                                                                     | [page-31/1507/main.js](page-31/1507/main.js)       |
