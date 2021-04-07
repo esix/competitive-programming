@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [29 (1401-1450)](https://leetcode.com/problemset/all/#page-29)                                                                                          | [page-29/](page-29/)                               |
 | 1403 | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)                         | [page-29/1403/main.js](page-29/1403/main.js)       |
+| 1408 | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                         | [page-29/1408/main.js](page-29/1408/main.js)       |
 |      | [30 (1451-1500)](https://leetcode.com/problemset/all/#page-30)                                                                                          | [page-30/](page-30/)                               |
 | 1456 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [page-30/1456/main.js](page-30/1456/main.js)       |
 | 1460 | [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                     | [page-30/1460/main.js](page-30/1460/main.js)       |
