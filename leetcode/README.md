@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [28 (1351-1400)](https://leetcode.com/problemset/all/#page-29)                                                                                          | [page-28/](page-28/)                               |
 | 1351 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                             | [page-28/1351/main.js](page-28/1351/main.js)       |
+| 1356 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                     | [page-28/1356/main.js](page-28/1356/main.js)       |
 |      | [29 (1401-1450)](https://leetcode.com/problemset/all/#page-29)                                                                                          | [page-29/](page-29/)                               |
 | 1403 | [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)                         | [page-29/1403/main.js](page-29/1403/main.js)       |
 | 1408 | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                         | [page-29/1408/main.js](page-29/1408/main.js)       |
