@@ -84,7 +84,9 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                                            | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                    | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
-|      | [28 (1351-1400)](https://leetcode.com/problemset/all/#page-29)                                                                                          | [page-28/](page-28/)                               |
+|      | [27 (1301-1350)](https://leetcode.com/problemset/all/#page-27)                                                                                          | [page-27/](page-27/)                               |
+| 1304 | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                     | [page-27/1304/main.js](page-27/1304/main.js)       |
+|      | [28 (1351-1400)](https://leetcode.com/problemset/all/#page-28)                                                                                          | [page-28/](page-28/)                               |
 | 1351 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                             | [page-28/1351/main.js](page-28/1351/main.js)       |
 | 1356 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                     | [page-28/1356/main.js](page-28/1356/main.js)       |
 |      | [29 (1401-1450)](https://leetcode.com/problemset/all/#page-29)                                                                                          | [page-29/](page-29/)                               |

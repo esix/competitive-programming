@@ -1,4 +1,4 @@
-# [28 (1351-1400)](https://leetcode.com/problemset/all/#page-29)
+# [28 (1351-1400)](https://leetcode.com/problemset/all/#page-28)
 
 
 | ID   | Problem statement                                                                                                           | Solution                     |
