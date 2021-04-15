@@ -84,6 +84,8 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                                            | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                    | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
+|      | [26 (1251-1300)](https://leetcode.com/problemset/all/#page-26)                                                                                          | [page-26/](page-26/)                               |
+| 1252 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                             | [page-26/1252/main.js](page-26/1252/main.js)       |
 |      | [27 (1301-1350)](https://leetcode.com/problemset/all/#page-27)                                                                                          | [page-27/](page-27/)                               |
 | 1304 | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                     | [page-27/1304/main.js](page-27/1304/main.js)       |
 | 1309 | [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)                 | [page-27/1309/main.js](page-27/1309/main.js)       |
