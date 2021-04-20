@@ -10,6 +10,9 @@ We need to move all the chips to **the same position**. In one step, we can chan
 Return the *minimum cost* needed to move all the chips to the same position.
 
 ### Example 1:
+
+![chips_e1.jpg](chips_e1.jpg)
+
 ```
 Input: position = [1,2,3]
 Output: 1
@@ -19,6 +22,9 @@ Total cost is 1.
 ```
 
 ### Example 2:
+
+![chip_e2.jpg](chip_e2.jpg)
+
 ```
 Input: position = [2,2,2,3,3]
 Output: 2
