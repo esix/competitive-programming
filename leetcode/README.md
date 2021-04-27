@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [22 (1051-1100)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-22/](page-22/)                               |
 | 1051 | [1051. Height Checker](https://leetcode.com/problems/height-checker/)                                                                                   | [page-22/1051/main.js](page-22/1051/main.js)       |
+| 1052 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | [page-22/1052/main.js](page-22/1052/main.js)       |
 |      | [24 (1151-1200)](https://leetcode.com/problemset/all/#page-24)                                                                                          | [page-24/](page-24/)                               |
 | 1154 | [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/)                                                                                 | [page-24/1154/main.js](page-24/1154/main.js)       |
 | 1160 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)                         | [page-24/1160/main.js](page-24/1160/main.js)       |
