@@ -84,6 +84,8 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                                            | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                    | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
+|      | [21 (1001-1050)](https://leetcode.com/problemset/all/#page-21)                                                                                          | [page-21/](page-21/)                               |
+| 1002 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                                                   | [page-21/1002/main.js](page-21/1002/main.js)       |
 |      | [22 (1051-1100)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-22/](page-22/)                               |
 | 1051 | [1051. Height Checker](https://leetcode.com/problems/height-checker/)                                                                                   | [page-22/1051/main.js](page-22/1051/main.js)       |
 | 1052 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | [page-22/1052/main.js](page-22/1052/main.js)       |
