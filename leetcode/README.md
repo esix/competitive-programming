@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [21 (1001-1050)](https://leetcode.com/problemset/all/#page-21)                                                                                          | [page-21/](page-21/)                               |
 | 1002 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                                                   | [page-21/1002/main.js](page-21/1002/main.js)       |
+| 1005 | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                 | [page-21/1005/main.cpp](page-21/1005/main.cpp)     |
 |      | [22 (1051-1100)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-22/](page-22/)                               |
 | 1051 | [1051. Height Checker](https://leetcode.com/problems/height-checker/)                                                                                   | [page-22/1051/main.js](page-22/1051/main.js)       |
 | 1052 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | [page-22/1052/main.js](page-22/1052/main.js)       |
