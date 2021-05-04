@@ -86,6 +86,7 @@ Languages
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
 |      | [20 (951-1000)](https://leetcode.com/problemset/all/#page-20)                                                                                           | [page-20/](page-20/)                               |
 | 953  | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                      | [page-20/953/main.js](page-20/953/main.js)         |
+| 961  | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                                          | [page-20/961/main.js](page-20/961/main.js)         |
 |      | [21 (1001-1050)](https://leetcode.com/problemset/all/#page-21)                                                                                          | [page-21/](page-21/)                               |
 | 1002 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                                                   | [page-21/1002/main.js](page-21/1002/main.js)       |
 | 1005 | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                 | [page-21/1005/main.cpp](page-21/1005/main.cpp)     |
