@@ -84,6 +84,8 @@ Languages
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                                            | [page-18/](page-18/)                               |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                    | [page-18/0852/main.js](page-18/0852/main.js)       |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)       |
+|      | [19 (901-950)](https://leetcode.com/problemset/all/#page-19)                                                                                            | [page-19/](page-19/)                               |
+| 905  | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                        | [page-19/905/main.js](page-19/905/main.js)         |
 |      | [20 (951-1000)](https://leetcode.com/problemset/all/#page-20)                                                                                           | [page-20/](page-20/)                               |
 | 953  | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                      | [page-20/953/main.js](page-20/953/main.js)         |
 | 961  | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                                          | [page-20/961/main.js](page-20/961/main.js)         |
