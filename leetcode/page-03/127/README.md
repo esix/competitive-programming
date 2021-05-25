@@ -1,4 +1,4 @@
-# [Word Ladder](https://leetcode.com/problems/word-ladder/)
+# [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 Given two words (_beginWord_ and _endWord_), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
 
