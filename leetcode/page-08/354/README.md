@@ -1,4 +1,4 @@
-# [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+# [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 
 You are given a 2D array of integers `envelopes` where `envelopes[i] = [wᵢ, hᵢ]` represents the width and the height of an envelope.
 

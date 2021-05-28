@@ -1,4 +1,4 @@
-# [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+# [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 Given an integer `x`, return true if `x` is palindrome integer.
 

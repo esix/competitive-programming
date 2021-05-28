@@ -1,4 +1,4 @@
-# [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+# [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
 Given a data stream input of non-negative integers a₁, a₂, ..., aₙ, ..., summarize the numbers seen so far as a list of disjoint intervals.
 

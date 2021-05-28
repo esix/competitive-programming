@@ -1,4 +1,4 @@
-# [306. Additive Number](https://leetcode.com/problems/additive-number/)
+# [Additive Number](https://leetcode.com/problems/additive-number/)
 
 Additive number is a string whose digits can form additive sequence.
 
