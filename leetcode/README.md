@@ -1,18 +1,5 @@
 # [https://leetcode.com/](https://leetcode.com/)
 
-Languages
-
-- C++
-- Java
-- Python
-- Python 3
-- C
-- C#
-- JavaScript
-- Ruby
-- Swift
-- Go
-
 
 | ID   | Problem statement                                                                                                                                       | Solution                                       |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -80,8 +67,9 @@ Languages
 | 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                             | [page-10/451/main.js](page-10/451/main.js)     |
 | 459  | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                                                 | [page-10/459/main.js](page-10/459/main.js)     |
 |      | [11 (501-550)](https://leetcode.com/problemset/all/#page-11)                                                                                            | [page-11/](page-11/)                           |
-| 501  | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                                                  | [page-11/501/main.js](page-11/501/main.js)     |
-| 504  | [504. Base 7](https://leetcode.com/problems/base-7/)                                                                                                    | [page-11/504/main.js](page-11/504/main.js)     |
+| 501  | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                                                       | [page-11/501/main.js](page-11/501/main.js)     |
+| 503  | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)                                                                       | [page-11/503/main.js](page-11/503/main.js)     |
+| 504  | [Base 7](https://leetcode.com/problems/base-7/)                                                                                                         | [page-11/504/main.js](page-11/504/main.js)     |
 |      | [12 (551-600)](https://leetcode.com/problemset/all/#page-12)                                                                                            | [page-12/](page-12/)                           |
 | 551  | [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)                                                          | [page-12/551/main.js](page-12/551/main.js)     |
 | 557  | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                      | [page-12/557/main.js](page-12/557/main.js)     |
