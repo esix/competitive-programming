@@ -87,8 +87,9 @@
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | [page-15/704/main.js](page-15/704/main.js)     |
 | 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                           | [page-15/709/main.js](page-15/709/main.js)     |
 |      | [16 (751-800)](https://leetcode.com/problemset/all/#page-16)                                                                                            | [page-16/](page-16/)                           |
-| 0762 | [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)              | [page-16/0762/main.js](page-16/0762/main.js)   |
-| 0766 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                  | [page-16/0766/main.js](page-16/0766/main.js)   |
+| 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)                   | [page-16/762/main.js](page-16/762/main.js)     |
+| 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                       | [page-16/766/main.js](page-16/766/main.js)     |
+| 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                                   | [page-16/771/main.js](page-16/771/main.js)     |
 |      | [17 (801-850)](https://leetcode.com/problemset/all/#page-17)                                                                                            | [page-17/](page-17/)                           |
 | 801  | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)                                 | [page-17/801/main.js](page-17/801/main.js)     |
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                       | [page-17/804/main.js](page-17/804/main.js)     |
