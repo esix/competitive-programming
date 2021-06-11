@@ -1,4 +1,4 @@
-# [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+# [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 
 In a array `A` of size `2N`, there are `N+1` unique elements, and exactly one of these elements is repeated `N` times.
 
