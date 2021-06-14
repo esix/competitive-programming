@@ -109,8 +109,9 @@
 | 1002 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                                                   | [page-21/1002/main.js](page-21/1002/main.js)   |
 | 1005 | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                 | [page-21/1005/main.cpp](page-21/1005/main.cpp) |
 |      | [22 (1051-1100)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-22/](page-22/)                           |
-| 1051 | [1051. Height Checker](https://leetcode.com/problems/height-checker/)                                                                                   | [page-22/1051/main.js](page-22/1051/main.js)   |
-| 1052 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | [page-22/1052/main.js](page-22/1052/main.js)   |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/)                                                                                         | [page-22/1051/main.js](page-22/1051/main.js)   |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                         | [page-22/1052/main.js](page-22/1052/main.js)   |
+| 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)                                                 | [page-22/1053/main.js](page-22/1053/main.js)   |
 |      | [23 (1101-1150)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-23/](page-23/)                           |
 | 1103 | [1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)                                                       | [page-23/1103/main.js](page-23/1103/main.js)   |
 | 1108 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                                 | [page-23/1108/main.js](page-23/1108/main.js)   |
