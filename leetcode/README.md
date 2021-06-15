@@ -121,8 +121,9 @@
 | 1207 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                       | [page-25/1207/main.js](page-25/1207/main.js)   |
 | 1217 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)                 | [page-25/1217/main.js](page-25/1217/main.js)   |
 |      | [26 (1251-1300)](https://leetcode.com/problemset/all/#page-26)                                                                                          | [page-26/](page-26/)                           |
-| 1252 | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                             | [page-26/1252/main.js](page-26/1252/main.js)   |
-| 1260 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)                                                                                     | [page-26/1260/main.js](page-26/1260/main.js)   |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                                   | [page-26/1252/main.js](page-26/1252/main.js)   |
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)                                                   | [page-26/1253/main.js](page-26/1253/main.js)   |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)                                                                                           | [page-26/1260/main.js](page-26/1260/main.js)   |
 |      | [27 (1301-1350)](https://leetcode.com/problemset/all/#page-27)                                                                                          | [page-27/](page-27/)                           |
 | 1304 | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                     | [page-27/1304/main.js](page-27/1304/main.js)   |
 | 1309 | [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)                 | [page-27/1309/main.js](page-27/1309/main.js)   |
