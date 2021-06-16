@@ -119,8 +119,9 @@
 | 1154 | [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/)                                                                                 | [page-24/1154/main.js](page-24/1154/main.js)   |
 | 1160 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)                         | [page-24/1160/main.js](page-24/1160/main.js)   |
 |      | [25 (1201-1250)](https://leetcode.com/problemset/all/#page-25)                                                                                          | [page-25/](page-25/)                           |
-| 1207 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                       | [page-25/1207/main.js](page-25/1207/main.js)   |
-| 1217 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)                 | [page-25/1217/main.js](page-25/1217/main.js)   |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)                                                                                       | [page-25/1201/main.js](page-25/1201/main.js)   |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                             | [page-25/1207/main.js](page-25/1207/main.js)   |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)                       | [page-25/1217/main.js](page-25/1217/main.js)   |
 |      | [26 (1251-1300)](https://leetcode.com/problemset/all/#page-26)                                                                                          | [page-26/](page-26/)                           |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                                   | [page-26/1252/main.js](page-26/1252/main.js)   |
 | 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)                                                   | [page-26/1253/main.js](page-26/1253/main.js)   |
