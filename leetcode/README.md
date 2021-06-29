@@ -108,6 +108,7 @@
 |      | [21 (1001-1050)](https://leetcode.com/problemset/all/#page-21)                                                                                          | [page-21/](page-21/)                           |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)                                                                         | [page-21/1002/main.js](page-21/1002/main.js)   |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)                                 | [page-21/1003/main.js](page-21/1003/main.js)   |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                                     | [page-21/1004/main.js](page-21/1004/main.js)   |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                       | [page-21/1005/main.cpp](page-21/1005/main.cpp) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                     | [page-21/1047/main.js](page-21/1047/main.js)   |
 |      | [22 (1051-1100)](https://leetcode.com/problemset/all/#page-22)                                                                                          | [page-22/](page-22/)                           |
