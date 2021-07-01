@@ -29,6 +29,7 @@
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                                               | [page-02/52/main.js](page-02/52/main.js)       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     | [page-02/53/main.js](page-02/53/main.js)       |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                           | [page-02/54/main.js](page-02/54/main.js)       |
+| 89   | [Gray Code](https://leetcode.com/problems/gray-code/)                                                                                                   | [page-02/89/main.js](page-02/89/main.js)       |
 |      | [03 (101-150)](https://leetcode.com/problemset/all/#page-3)                                                                                             | [page-03/](page-03/)                           |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                         | [page-03/101/main.js](page-03/101/main.js)     |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                             | [page-03/104/main.js](page-03/104/main.js)     |
