@@ -137,6 +137,7 @@
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)                                                                                 | [page-27/1302/main.js](page-27/1302/main.js)   |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                           | [page-27/1304/main.js](page-27/1304/main.js)   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)                       | [page-27/1309/main.js](page-27/1309/main.js)   |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                                                           | [page-27/1338/main.js](page-27/1338/main.js)   |
 |      | [28 (1351-1400)](https://leetcode.com/problemset/all/#page-28)                                                                                          | [page-28/](page-28/)                           |
 | 1351 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                             | [page-28/1351/main.js](page-28/1351/main.js)   |
 | 1356 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                     | [page-28/1356/main.js](page-28/1356/main.js)   |
