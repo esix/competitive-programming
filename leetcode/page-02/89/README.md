@@ -12,19 +12,19 @@ Given an integer `n`, return *any valid **n-bit gray code sequence***.
 
 ### Example 1:
 <pre>
-Input: n = 2
-Output: [0,1,3,2]
-Explanation:
+<b>Input:</b> n = 2
+<b>Output:</b> [0,1,3,2]
+<b>Explanation:</b>
 The binary representation of [0,1,3,2] is [00,01,11,10].
-- 00 and 01 differ by one bit
-- 01 and 11 differ by one bit
-- 11 and 10 differ by one bit
-- 10 and 00 differ by one bit
+- 0<u>0</u> and 0<u>1</u> differ by one bit
+- <u>0</u>1 and <u>1</u>1 differ by one bit
+- 1<u>1</u> and 1<u>0</u> differ by one bit
+- <u>1</u>0 and <u>0</u>0 differ by one bit
 [0,2,3,1] is also a valid gray code sequence, whose binary representation is [00,10,11,01].
-- 00 and 10 differ by one bit
-- 10 and 11 differ by one bit
-- 11 and 01 differ by one bit
-- 01 and 00 differ by one bit
+- <u>0</u>0 and <u>1</u>0 differ by one bit
+- 1<u>0</u> and 1<u>1</u> differ by one bit
+- <u>1</u>1 and <u>0</u>1 differ by one bit
+- 0<u>1</u> and 0<u>0</u> differ by one bit
 </pre>
 
 ### Example 2:
