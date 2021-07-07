@@ -62,6 +62,7 @@
 | 357  | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                                                     | [page-08/357/main.js](page-08/357/main.js)     |
 | 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                                                       | [page-08/373/main.cpp](page-08/373/main.cpp)   |
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                             | [page-08/374/main.js](page-08/374/main.js)     |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                                       | [page-08/378/main.js](page-08/378/main.js)     |
 |      | [09 (401-450)](https://leetcode.com/problemset/all/#page-9)                                                                                             | [page-09/](page-09/)                           |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                                             | [page-09/401/main.js](page-09/401/main.js)     |
 | 404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                 | [page-09/404/main.js](page-09/404/main.js)     |
