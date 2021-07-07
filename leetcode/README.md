@@ -76,6 +76,7 @@
 | 551  | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)                                                               | [page-12/551/main.js](page-12/551/main.js)     |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                           | [page-12/557/main.js](page-12/557/main.js)     |
 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)                                                               | [page-12/559/main.js](page-12/559/main.js)     |
+| 566  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                                 | [page-12/566/main.js](page-12/566/main.js)     |
 |      | [13 (601-650)](https://leetcode.com/problemset/all/#page-13)                                                                                            | [page-13/](page-13/)                           |
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   | [page-13/605/main.js](page-13/605/main.js)     |
 | 606  | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                   | [page-13/606/main.js](page-13/606/main.js)     |
@@ -84,6 +85,7 @@
 | 652  | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                                                                       | [page-14/652/main.js](page-14/652/main.js)     |
 | 653  | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                 | [page-14/653/main.js](page-14/653/main.js)     |
 | 657  | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                                         | [page-14/657/main.js](page-14/657/main.js)     |
+| 658  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                                                       | [page-14/658/main.js](page-14/658/main.js)     |
 |      | [15 (701-750)](https://leetcode.com/problemset/all/#page-15)                                                                                            | [page-15/](page-15/)                           |
 | 703  | [Kth Largest Element in a Stream]()                                                                                                                     | [page-15/703/main.js](page-15/703/main.js)     |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | [page-15/704/main.js](page-15/704/main.js)     |
@@ -135,6 +137,7 @@
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)                                                                                 | [page-27/1302/main.js](page-27/1302/main.js)   |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                           | [page-27/1304/main.js](page-27/1304/main.js)   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)                       | [page-27/1309/main.js](page-27/1309/main.js)   |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)                                                           | [page-27/1338/main.js](page-27/1338/main.js)   |
 |      | [28 (1351-1400)](https://leetcode.com/problemset/all/#page-28)                                                                                          | [page-28/](page-28/)                           |
 | 1351 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                             | [page-28/1351/main.js](page-28/1351/main.js)   |
 | 1356 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                     | [page-28/1356/main.js](page-28/1356/main.js)   |
