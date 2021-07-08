@@ -91,6 +91,7 @@
 | 703  | [Kth Largest Element in a Stream]()                                                                                                                     | [page-15/703/main.js](page-15/703/main.js)     |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           | [page-15/704/main.js](page-15/704/main.js)     |
 | 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                           | [page-15/709/main.js](page-15/709/main.js)     |
+| 718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                                               | [page-15/718/main.js](page-15/718/main.js)     |
 |      | [16 (751-800)](https://leetcode.com/problemset/all/#page-16)                                                                                            | [page-16/](page-16/)                           |
 | 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)                   | [page-16/762/main.js](page-16/762/main.js)     |
 | 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                       | [page-16/766/main.js](page-16/766/main.js)     |
