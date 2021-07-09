@@ -50,6 +50,7 @@
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                                                   | [page-06/257/main.js](page-06/257/main.js)     |
 | 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                 | [page-06/258/main.js](page-06/258/main.js)     |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                               | [page-06/263/main.js](page-06/263/main.js)     |
+| 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                         | [page-06/300/main.js](page-06/300/main.js)     |
 |      | [07 (301-350)](https://leetcode.com/problemset/all/#page-7)                                                                                             | [page-07/](page-07/)                           |
 | 303  | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                                 | [page-07/303/main.js](page-07/303/main.js)     |
 | 304  | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)                                                           | [page-07/304/main.js](page-07/304/main.js)     |
