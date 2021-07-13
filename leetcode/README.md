@@ -40,6 +40,7 @@
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                     | [page-04/152/main.js](page-04/152/main.js)     |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                             | [page-04/153/main.js](page-04/153/main.js)     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                                   | [page-04/155/main.cpp](page-04/155/main.cpp)   |
+| 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                                   | [page-04/162/main.js](page-04/162/main.js)     |
 |      | [05 (201-250)](https://leetcode.com/problemset/all/#page-5)                                                                                             | [page-05/](page-05/)                           |
 | 201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                                             | [page-05/201/main.js](page-05/201/main.js)     |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                             | [page-05/202/main.js](page-05/202/main.js)     |

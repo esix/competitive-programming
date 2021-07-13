@@ -8,4 +8,5 @@
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                         | [152/main.js](152/main.js)   |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [153/main.js](153/main.js)   |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                       | [155/main.cpp](155/main.cpp) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                       | [162/main.js](162/main.js)   |
 
