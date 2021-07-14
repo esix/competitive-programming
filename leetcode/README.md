@@ -99,6 +99,7 @@
 | 762  | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)                   | [page-16/762/main.js](page-16/762/main.js)     |
 | 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                       | [page-16/766/main.js](page-16/766/main.js)     |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                                   | [page-16/771/main.js](page-16/771/main.js)     |
+| 791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                 | [page-16/791/main.js](page-16/791/main.js)     |
 |      | [17 (801-850)](https://leetcode.com/problemset/all/#page-17)                                                                                            | [page-17/](page-17/)                           |
 | 801  | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)                                 | [page-17/801/main.js](page-17/801/main.js)     |
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                       | [page-17/804/main.js](page-17/804/main.js)     |
