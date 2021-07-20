@@ -10,4 +10,5 @@
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)                 | [373/main.cpp](373/main.cpp) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                       | [374/main.js](374/main.js)   |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [378/main.js](378/main.js)   |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)                                               | [384/main.js](384/main.js)   |
 
