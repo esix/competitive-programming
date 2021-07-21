@@ -108,6 +108,7 @@
 | 801  | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)                                 | [page-17/801/main.js](page-17/801/main.js)     |
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                       | [page-17/804/main.js](page-17/804/main.js)     |
 | 806  | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)                                                       | [page-17/806/main.js](page-17/806/main.js)     |
+| 838  | [Push Dominoes](https://leetcode.com/problems/push-dominoes/)                                                                                           | [page-17/838/main.js](page-17/838/main.js)     |
 |      | [18 (851-900)](https://leetcode.com/problemset/all/#page-18)                                                                                            | [page-18/](page-18/)                           |
 | 0852 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                                    | [page-18/0852/main.js](page-18/0852/main.js)   |
 | 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                                       | [page-18/0880/main.js](page-18/0880/main.js)   |
