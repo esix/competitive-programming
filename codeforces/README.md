@@ -32,8 +32,9 @@
 | B  | [Электронные таблицы](http://codeforces.com/problemset/problem/1/B)                                | [001/B/main.ml](001/B/main.ml)   |
 | C  | [Древнеберляндский цирк](http://codeforces.com/problemset/problem/1/C)                             | [001/C/main.ml](001/C/main.ml)   |
 |    | [Codeforces Round #304 (Div. 2)](http://codeforces.com/contest/546)                                | [546/](546/)                     |
-| A  | [Солдат и бананы](http://codeforces.com/problemset/problem/546/A)                                  | [546/A/main.py](546/A/main.py)   |
-| C  | [Солдат и карты](http://codeforces.com/problemset/problem/546/C)                                   | [546/C/main.py](546/C/main.py)   |
+| A  | [Солдат и бананы](https://codeforces.com/contest/546/problem/A)                                    | [546/A/main.py](546/A/main.py)   |
+| B  | [Солдат и значки](https://codeforces.com/contest/546/problem/B)                                    | [546/B/main.cpp](546/B/main.cpp) |
+| C  | [Солдат и карты](https://codeforces.com/contest/546/problem/C)                                     | [546/C/main.py](546/C/main.py)   |
 |    | [Codeforces Round #305 (Div. 2)](http://codeforces.com/contest/548)                                | [548/](548/)                     |
 | A  | [Майк и факс](http://codeforces.com/problemset/problem/548/A)                                      | [548/A/main.py](548/A/main.py)   |
 | B  | [Майк и весёлая игра](http://codeforces.com/problemset/problem/548/B)                              | [548/B/main.py](548/B/main.py)   |
