@@ -8,6 +8,7 @@
 | 0004 | [Two circles](https://www.e-olymp.com/en/problems/4)                               | [0004/main.cpp](0004/main.cpp) |
 | 0007 | [Roman numerals](https://www.e-olymp.com/en/problems/7)                            | [0007/main.py](0007/main.py)   |
 | 0019 | [Degree of symmetry](https://www.e-olymp.com/en/problems/19)                       | [0019/main.py](0019/main.py)   |
+| 0023 | [New-year tree](https://www.eolymp.com/en/problems/23)                             | [0023/main.py](0023/main.py)   |
 | 0027 | [Cycle shifts](https://www.e-olymp.com/en/problems/27)                             | [0027/main.py](0027/main.py)   |
 | 0031 | [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31)                | [0031/main.py](0031/main.py)   |
 | 0041 | [Command of the Mayor](https://www.e-olymp.com/en/problems/41)                     | [0041/main.py](0041/main.py)   |
