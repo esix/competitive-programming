@@ -10,4 +10,5 @@
 | 04 | [Camp Cleanup](https://adventofcode.com/2022/day/4)            | [2022/04/main.py](2022/04/main.py) |
 | 05 | [Supply Stacks](https://adventofcode.com/2022/day/5)           | [2022/05/main.py](2022/05/main.py) |
 | 06 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)   | [2022/06/main.py](2022/06/main.py) |
+| 07 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [2022/07/main.py](2022/07/main.py) |
 
