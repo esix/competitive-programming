@@ -12,4 +12,5 @@
 | 06 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)   | [2022/06/main.py](2022/06/main.py) |
 | 07 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [2022/07/main.py](2022/07/main.py) |
 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8)      | [2022/08/main.py](2022/08/main.py) |
+| 09 | [Rope Bridge](https://adventofcode.com/2022/day/9)             | [2022/09/main.py](2022/09/main.py) |
 
