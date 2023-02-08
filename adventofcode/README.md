@@ -13,4 +13,5 @@
 | 07 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [2022/07/main.py](2022/07/main.py) |
 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8)      | [2022/08/main.py](2022/08/main.py) |
 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9)             | [2022/09/main.py](2022/09/main.py) |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)       | [2022/10/main.py](2022/10/main.py) |
 
