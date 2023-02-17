@@ -43,4 +43,6 @@
 | 2710 | [Consecutive Digits](http://poj.org/problem?id=2710)       | [volume-18/2710/main.cpp](volume-18/2710/main.cpp) |
 |      | [Volume 19](http://poj.org/problemlist?volume=19)          | [volume-19/](volume-19/)                           |
 | 2897 | [Dramatic Multiplications](http://poj.org/problem?id=2897) | [volume-19/2897/main.cpp](volume-19/2897/main.cpp) |
+|      | [Volume 20](http://poj.org/problemlist?volume=20)          | [volume-20/](volume-20/)                           |
+| 2909 | [Goldbach's Conjecture](http://poj.org/problem?id=2909)    | [volume-20/2909/main.cpp](volume-20/2909/main.cpp) |
 
