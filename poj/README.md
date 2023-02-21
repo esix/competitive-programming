@@ -47,4 +47,6 @@
 | 2909 | [Goldbach's Conjecture](http://poj.org/problem?id=2909)                          | [volume-20/2909/main.cpp](volume-20/2909/main.cpp) |
 |      | [Volume 21](http://poj.org/problemlist?volume=21)                                | [volume-21/](volume-21/)                           |
 | 3006 | [Dirichlet's Theorem on Arithmetic Progressions](http://poj.org/problem?id=3006) | [volume-21/3006/main.cpp](volume-21/3006/main.cpp) |
+|      | [Volume 22](http://poj.org/problemlist?volume=22)                                | [volume-22/](volume-22/)                           |
+| 3100 | [Root of the Problem](http://poj.org/problem?id=3100)                            | [volume-22/3100/main.cpp](volume-22/3100/main.cpp) |
 
