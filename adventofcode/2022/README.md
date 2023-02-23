@@ -13,4 +13,5 @@
 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8)      | [08/main.py](08/main.py) |
 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9)             | [09/main.py](09/main.py) |
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)       | [10/main.py](10/main.py) |
+| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11)   | [11/main.py](11/main.py) |
 
