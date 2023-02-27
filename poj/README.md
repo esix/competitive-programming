@@ -51,4 +51,6 @@
 | 3100 | [Root of the Problem](http://poj.org/problem?id=3100)                            | [volume-22/3100/main.cpp](volume-22/3100/main.cpp) |
 |      | [Volume 23](http://poj.org/problemlist?volume=23)                                | [volume-23/](volume-23/)                           |
 | 3208 | [Apocalypse Someday](http://poj.org/problem?id=3208)                             | [volume-23/3208/main.cpp](volume-23/3208/main.cpp) |
+|      | [Volume 24](http://poj.org/problemlist?volume=24)                                | [volume-24/](volume-24/)                           |
+| 3364 | [Black and white painting](http://poj.org/problem?id=3364)                       | [volume-24/3364/main.cpp](volume-24/3364/main.cpp) |
 
