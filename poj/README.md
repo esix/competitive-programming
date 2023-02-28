@@ -53,4 +53,6 @@
 | 3208 | [Apocalypse Someday](http://poj.org/problem?id=3208)                             | [volume-23/3208/main.cpp](volume-23/3208/main.cpp) |
 |      | [Volume 24](http://poj.org/problemlist?volume=24)                                | [volume-24/](volume-24/)                           |
 | 3364 | [Black and white painting](http://poj.org/problem?id=3364)                       | [volume-24/3364/main.cpp](volume-24/3364/main.cpp) |
+|      | [Volume 25](http://poj.org/problemlist?volume=25)                                | [volume-25/](volume-25/)                           |
+| 3438 | [Look and Say](http://poj.org/problem?id=3438)                                   | [volume-25/3438/main.cpp](volume-25/3438/main.cpp) |
 
