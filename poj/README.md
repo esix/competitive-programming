@@ -55,4 +55,6 @@
 | 3364 | [Black and white painting](http://poj.org/problem?id=3364)                       | [volume-24/3364/main.cpp](volume-24/3364/main.cpp) |
 |      | [Volume 25](http://poj.org/problemlist?volume=25)                                | [volume-25/](volume-25/)                           |
 | 3438 | [Look and Say](http://poj.org/problem?id=3438)                                   | [volume-25/3438/main.cpp](volume-25/3438/main.cpp) |
+|      | [Volume 26](http://poj.org/problemlist?volume=26)                                | [volume-26/](volume-26/)                           |
+| 3597 | [Polygon Division](http://poj.org/problem?id=3597)                               | [volume-26/3597/main.cpp](volume-26/3597/main.cpp) |
 

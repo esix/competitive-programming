@@ -1,8 +1,8 @@
 #include <iostream>
 
 // https://oeis.org/A001002
-// a = (n) => n < 2 ? 1n : (BigInt(n)*(22n*BigInt(n)-11n)* a(n-1) + (9n*BigInt(n)-6n)*(3n*BigInt(n)-4n)*a(n-2))/(5n*BigInt(n)*BigInt(n+1))
-
+// cache = [1n, 1n]
+// a = (n) => cache[n] || (cache[n] = (BigInt(n)*(22n*BigInt(n)-11n)* a(n-1) + (9n*BigInt(n)-6n)*(3n*BigInt(n)-4n)*a(n-2))/(5n*BigInt(n)*BigInt(n+1)))
 
 using namespace std;
 
@@ -28,20 +28,12 @@ int main() {
     t[MAX * n + 0] = 0;
   }
 
-  INT a[MAX + 1];
-  a[0] = 1;
-  a[1] = 1;
-  for (INT n = 2; n <= MAX; n++) {
-    // a[n] = (INT(11) * n * (2ULL * n - 1ULL) * a[n-1] + 3ULL*(3ULL*n-2ULL)*(3ULL*n-4ULL) * a[n-2]) / INT(5 * n * (n+1));
-    // a[n] = A038112[n-1] / n;
-    // a[n] = tt(n, 1);
-    a[n] = t[MAX * n + 1];
-  }
-  
   while (!cin.eof()) {
-    int n;
+    int n = 0;
     cin >> n;
-    cout << *(unsigned long int *)(a + n - 1) << endl;
+    if (n == 0) break;
+
+    cout /*<< n - 2 << " "*/ << t[MAX * (n - 1) + 1] << endl;
   }
 
   return 0;
