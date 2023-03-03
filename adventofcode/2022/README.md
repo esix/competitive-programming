@@ -16,4 +16,5 @@
 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11)    | [11/main.py](11/main.py) |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [12/main.py](12/main.py) |
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13)         | [13/main.py](13/main.py) |
+| 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14)      | [14/main.py](14/main.py) |
 
