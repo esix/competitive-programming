@@ -57,4 +57,6 @@
 | 3438 | [Look and Say](http://poj.org/problem?id=3438)                                   | [volume-25/3438/main.cpp](volume-25/3438/main.cpp) |
 |      | [Volume 26](http://poj.org/problemlist?volume=26)                                | [volume-26/](volume-26/)                           |
 | 3597 | [Polygon Division](http://poj.org/problem?id=3597)                               | [volume-26/3597/main.cpp](volume-26/3597/main.cpp) |
+|      | [Volume 27](http://poj.org/problemlist?volume=27)                                | [volume-27/](volume-27/)                           |
+| 3602 | [Typographical Ligatures](http://poj.org/problem?id=3602)                        | [volume-27/3602/main.cpp](volume-27/3602/main.cpp) |
 
