@@ -59,4 +59,6 @@
 | 3597 | [Polygon Division](http://poj.org/problem?id=3597)                               | [volume-26/3597/main.cpp](volume-26/3597/main.cpp) |
 |      | [Volume 27](http://poj.org/problemlist?volume=27)                                | [volume-27/](volume-27/)                           |
 | 3602 | [Typographical Ligatures](http://poj.org/problem?id=3602)                        | [volume-27/3602/main.cpp](volume-27/3602/main.cpp) |
+|      | [Volume 28](http://poj.org/problemlist?volume=28)                                | [volume-28/](volume-28/)                           |
+| 3783 | [Balls](http://poj.org/problem?id=3783)                                          | [volume-28/3783/main.cpp](volume-28/3783/main.cpp) |
 
