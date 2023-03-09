@@ -61,4 +61,6 @@
 | 3602 | [Typographical Ligatures](http://poj.org/problem?id=3602)                        | [volume-27/3602/main.cpp](volume-27/3602/main.cpp) |
 |      | [Volume 28](http://poj.org/problemlist?volume=28)                                | [volume-28/](volume-28/)                           |
 | 3783 | [Balls](http://poj.org/problem?id=3783)                                          | [volume-28/3783/main.cpp](volume-28/3783/main.cpp) |
+|      | [Volume 29](http://poj.org/problemlist?volume=29)                                | [volume-29/](volume-29/)                           |
+| 3869 | [Headshot](http://poj.org/problem?id=3869)                                       | [volume-29/3869/main.cpp](volume-29/3869/main.cpp) |
 
