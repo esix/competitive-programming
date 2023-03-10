@@ -63,4 +63,6 @@
 | 3783 | [Balls](http://poj.org/problem?id=3783)                                          | [volume-28/3783/main.cpp](volume-28/3783/main.cpp) |
 |      | [Volume 29](http://poj.org/problemlist?volume=29)                                | [volume-29/](volume-29/)                           |
 | 3869 | [Headshot](http://poj.org/problem?id=3869)                                       | [volume-29/3869/main.cpp](volume-29/3869/main.cpp) |
+|      | [Volume 30](http://poj.org/problemlist?volume=30)                                | [volume-30/](volume-30/)                           |
+| 3907 | [Build Your Home](http://poj.org/problem?id=3907)                                | [volume-30/3907/main.cpp](volume-30/3907/main.cpp) |
 
