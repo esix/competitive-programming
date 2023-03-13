@@ -65,4 +65,6 @@
 | 3869 | [Headshot](http://poj.org/problem?id=3869)                                       | [volume-29/3869/main.cpp](volume-29/3869/main.cpp) |
 |      | [Volume 30](http://poj.org/problemlist?volume=30)                                | [volume-30/](volume-30/)                           |
 | 3907 | [Build Your Home](http://poj.org/problem?id=3907)                                | [volume-30/3907/main.cpp](volume-30/3907/main.cpp) |
+|      | [Volume 31](http://poj.org/problemlist?volume=31)                                | [volume-31/](volume-31/)                           |
+| 4011 | [Automated Telephone Exchange](http://poj.org/problem?id=4011)                   | [volume-31/4011/main.cpp](volume-31/4011/main.cpp) |
 
