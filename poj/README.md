@@ -6,6 +6,7 @@
 |      | [Volume 1](http://poj.org/problemlist?volume=1)                                  | [volume-01/](volume-01/)                           |
 | 1000 | [A+B Problem](http://poj.org/problem?id=1000)                                    | [volume-01/1000/main.cpp](volume-01/1000/main.cpp) |
 | 1000 | [A+B Problem](http://poj.org/problem?id=1000)                                    | [volume-01/1000/main.f95](volume-01/1000/main.f95) |
+| 1001 | [Exponentiation](http://poj.org/problem?id=1001)                                 | [volume-01/1001/main.cpp](volume-01/1001/main.cpp) |
 |      | [Volume 2](http://poj.org/problemlist?volume=2)                                  | [volume-02/](volume-02/)                           |
 | 1163 | [The Triangle](http://poj.org/problem?id=1163)                                   | [volume-02/1163/main.cpp](volume-02/1163/main.cpp) |
 | 1163 | [The Triangle](http://poj.org/problem?id=1163)                                   | [volume-02/1163/main.f95](volume-02/1163/main.f95) |
