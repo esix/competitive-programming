@@ -28,4 +28,6 @@ Languages:
 |       | [Volume 1](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3)                                                | [volume-01/](volume-01/)                           |
 | 0100  | [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)   | [volume-01/0100/main.cpp](volume-01/0100/main.cpp) |
 | 0100  | [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)   | [volume-01/0100/main.pas](volume-01/0100/main.pas) |
+|       | [Volume 8](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10)                                               | [volume-08/](volume-08/)                           |
+| 0821  | [821 - Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)       | [volume-08/0821/main.cpp](volume-08/0821/main.cpp) |
 
