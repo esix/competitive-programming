@@ -15,6 +15,7 @@
 | 1207 | [The 3n + 1 problem](http://poj.org/problem?id=1207)                             | [volume-03/1207/main.cpp](volume-03/1207/main.cpp) |
 | 1273 | [Drainage Ditches](http://poj.org/problem?id=1273)                               | [volume-03/1273/main.cpp](volume-03/1273/main.cpp) |
 |      | [Volume 4](http://poj.org/problemlist?volume=4)                                  | [volume-04/](volume-04/)                           |
+| 1320 | [Street Numbers](http://poj.org/problem?id=1320)                                 | [volume-04/1320/main.cpp](volume-04/1320/main.cpp) |
 | 1321 | [棋盘问题](http://poj.org/problem?id=1321)                                           | [volume-04/1321/main.cpp](volume-04/1321/main.cpp) |
 |      | [Volume 5](http://poj.org/problemlist?volume=5)                                  | [volume-05/](volume-05/)                           |
 | 1442 | [Black Box](http://poj.org/problem?id=1442)                                      | [volume-05/1442/main.cpp](volume-05/1442/main.cpp) |
