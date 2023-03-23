@@ -24,6 +24,7 @@
 | 1502 | [MPI Maelstrom](http://poj.org/problem?id=1502)                                  | [volume-06/1502/main.cpp](volume-06/1502/main.cpp) |
 | 1503 | [Integer Inquiry](http://poj.org/problem?id=1503)                                | [volume-06/1503/main.cpp](volume-06/1503/main.cpp) |
 |      | [Volume 7](http://poj.org/problemlist?volume=7)                                  | [volume-07/](volume-07/)                           |
+| 1604 | [Just the Facts](http://poj.org/problem?id=1604)                                 | [volume-07/1604/main.cpp](volume-07/1604/main.cpp) |
 | 1664 | [放苹果](http://poj.org/problem?id=1664)                                            | [volume-07/1664/main.cpp](volume-07/1664/main.cpp) |
 |      | [Volume 8](http://poj.org/problemlist?volume=8)                                  | [volume-08/](volume-08/)                           |
 | 1753 | [Flip Game](http://poj.org/problem?id=1753)                                      | [volume-08/1753/main.cpp](volume-08/1753/main.cpp) |
