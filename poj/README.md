@@ -27,6 +27,7 @@
 | 1604 | [Just the Facts](http://poj.org/problem?id=1604)                                 | [volume-07/1604/main.cpp](volume-07/1604/main.cpp) |
 | 1664 | [放苹果](http://poj.org/problem?id=1664)                                            | [volume-07/1664/main.cpp](volume-07/1664/main.cpp) |
 |      | [Volume 8](http://poj.org/problemlist?volume=8)                                  | [volume-08/](volume-08/)                           |
+| 1700 | [Crossing River](http://poj.org/problem?id=1700)                                 | [volume-08/1700/main.cpp](volume-08/1700/main.cpp) |
 | 1753 | [Flip Game](http://poj.org/problem?id=1753)                                      | [volume-08/1753/main.cpp](volume-08/1753/main.cpp) |
 |      | [Volume 9](http://poj.org/problemlist?volume=9)                                  | [volume-09/](volume-09/)                           |
 | 1860 | [Currency Exchange](http://poj.org/problem?id=1860)                              | [volume-09/1860/main.cpp](volume-09/1860/main.cpp) |
