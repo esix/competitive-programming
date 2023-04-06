@@ -29,6 +29,7 @@ Languages:
 | 0100  | [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)   | [volume-01/0100/main.pas](volume-01/0100/main.pas) |
 |       | [Volume 2](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4)                                                | [volume-02/](volume-02/)                           |
 | 0200  | [200 - Rare Order](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)          | [volume-02/0200/main.cpp](volume-02/0200/main.cpp) |
+| 0201  | [Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137)                   | [volume-02/0201/main.cpp](volume-02/0201/main.cpp) |
 |       | [Volume 8](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10)                                               | [volume-08/](volume-08/)                           |
 | 0821  | [821 - Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)       | [volume-08/0821/main.cpp](volume-08/0821/main.cpp) |
 
