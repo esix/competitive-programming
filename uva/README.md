@@ -25,11 +25,11 @@ Languages:
 | 10099 | [The Tourist Guide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1040)   | [10099/main.cpp](10099/main.cpp)                   |
 | 10763 | [Foreign Exchange](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1704)    | [10763/main.cpp](10763/main.cpp)                   |
 |       | [Volume 1](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3)                                                | [volume-01/](volume-01/)                           |
-| 0100  | [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)   | [volume-01/0100/main.cpp](volume-01/0100/main.cpp) |
-| 0100  | [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)   | [volume-01/0100/main.pas](volume-01/0100/main.pas) |
+| 0100  | [The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)         | [volume-01/0100/main.cpp](volume-01/0100/main.cpp) |
+| 0100  | [The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)         | [volume-01/0100/main.pas](volume-01/0100/main.pas) |
 |       | [Volume 2](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4)                                                | [volume-02/](volume-02/)                           |
-| 0200  | [200 - Rare Order](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)          | [volume-02/0200/main.cpp](volume-02/0200/main.cpp) |
+| 0200  | [Rare Order](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)                | [volume-02/0200/main.cpp](volume-02/0200/main.cpp) |
 | 0201  | [Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137)                   | [volume-02/0201/main.cpp](volume-02/0201/main.cpp) |
 |       | [Volume 8](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10)                                               | [volume-08/](volume-08/)                           |
-| 0821  | [821 - Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)       | [volume-08/0821/main.cpp](volume-08/0821/main.cpp) |
+| 0821  | [Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)             | [volume-08/0821/main.cpp](volume-08/0821/main.cpp) |
 

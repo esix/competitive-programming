@@ -1,4 +1,4 @@
-# [821 - Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)
+# [Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)
 
 It was recently reported that, on the average, only 19 clicks are necessary to move from any page on
 the World Wide Web to any other page. That is, if the pages on the web are viewed as nodes in a
