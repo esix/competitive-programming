@@ -16,6 +16,7 @@ Debug
 solution
 *.hi
 *.pyc
+.DS_Store
 
 # ocaml
 *.cmi
