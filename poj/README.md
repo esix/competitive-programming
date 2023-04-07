@@ -33,6 +33,7 @@
 | 1800 | [Magic Trick](http://poj.org/problem?id=1800)                                    | [volume-09/1800/main.cpp](volume-09/1800/main.cpp) |
 | 1860 | [Currency Exchange](http://poj.org/problem?id=1860)                              | [volume-09/1860/main.cpp](volume-09/1860/main.cpp) |
 |      | [Volume 10](http://poj.org/problemlist?volume=10)                                | [volume-10/](volume-10/)                           |
+| 1900 | [Game](http://poj.org/problem?id=1900)                                           | [volume-10/1900/main.cpp](volume-10/1900/main.cpp) |
 | 1979 | [Red and Black](http://poj.org/problem?id=1979)                                  | [volume-10/1979/main.cpp](volume-10/1979/main.cpp) |
 |      | [Volume 11](http://poj.org/problemlist?volume=11)                                | [volume-11/](volume-11/)                           |
 | 2000 | [Gold Coins](http://poj.org/problem?id=2000)                                     | [volume-11/2000/main.cpp](volume-11/2000/main.cpp) |

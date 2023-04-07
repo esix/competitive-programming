@@ -1,3 +1,5 @@
+// I hate TLE
+
 #include <iostream>
 #include <utility>
 #include <vector>
@@ -24,10 +26,6 @@ int main() {
 
   int N, M;
   cin >> N >> M;
-  // typedef list< pair<int, int> > pairs_t;
-
-  // pairs_t pairs;
-  // pairs_t::iterator it = pairs.begin();
 
   item_t START;
   item_t items[200 * 200];
@@ -36,7 +34,6 @@ int main() {
   int C = 0;
   for (int a = 1; a < N; a++) {
     for (int b = a + 1; b <= N; b++) {
-      // pairs.push_back(make_pair(a, b));
       items[C].a = a;
       items[C].b = b;
       items[C].s = a + b;
@@ -55,18 +52,6 @@ int main() {
     bool something_changed = false;
     
     if (i % 2 == 0) {                           // summ case
-
-      // for (it = pairs.begin(); it != pairs.end(); ++it) count[it->first + it->second]++;
-      // it = pairs.begin();
-      // while (it != pairs.end()) {
-      //   if (count[it->first + it->second] == 1) {
-      //     pairs.erase(it++);
-      //     something_changed = true;
-      //   } else {
-      //     it++;
-      //   }
-      // }
-
       for (item_t* it = &START; it->next; it = it->next) count[it->next->s]++;
 
       for (item_t* it = &START; it->next; ) {
@@ -79,21 +64,7 @@ int main() {
         }
       }
 
-
     } else {                                    // product case
-      // for (it = pairs.begin(); it != pairs.end(); ++it) count[it->first * it->second]++;
-
-      // it = pairs.begin();
-      // while (it != pairs.end()) {
-      //   if (count[it->first * it->second] == 1) {
-      //     pairs.erase(it++);
-      //     something_changed = true;
-      //   } else {
-      //     it++;
-      //   }
-      // }
-
-
       for (item_t* it = &START; it->next; it = it->next) count[it->next->p]++;
 
       for (item_t* it = &START; it->next; ) {
@@ -107,10 +78,6 @@ int main() {
       }
     }
 
-    // cout << "STEP " << i << endl;
-    // for (item_t* it = &START; it->next; it = it->next) cout << '(' << it->next->a << ", " << it->next->b << ") ";
-    // cout << endl;
-
     if (!something_changed) break;
   }
 
@@ -119,17 +86,6 @@ int main() {
   memset(count, 0, sizeof(count));
 
   if (M % 2 == 0) {                           // summ case
-    // for (it = pairs.begin(); it != pairs.end(); ++it) count[it->first + it->second]++;
-
-    // it = pairs.begin();
-    // while (it != pairs.end()) {
-    //   if (count[it->first + it->second] > 1) {
-    //     pairs.erase(it++);
-    //   } else {
-    //     it++;
-    //   }
-    // }
-
     for (item_t* it = &START; it->next; it = it->next) count[it->next->s]++;
 
     for (item_t* it = &START; it && it->next; ) {
@@ -141,19 +97,7 @@ int main() {
       }
     }
 
-
   } else {                                    // product case
-    // for (it = pairs.begin(); it != pairs.end(); ++it) count[it->first * it->second]++;
-
-    // it = pairs.begin();
-    // while (it != pairs.end()) {
-    //   if (count[it->first * it->second] > 1) {
-    //     pairs.erase(it++);
-    //   } else {
-    //     it++;
-    //   }
-    // }
-
     for (item_t* it = &START; it->next; it = it->next) count[it->next->p]++;
 
     for (item_t* it = &START; it && it->next; ) {
@@ -164,18 +108,11 @@ int main() {
         it = it->next;
       }
     }
-
-
   }
 
 
   cout << C << endl;
   for (item_t* it = &START; it->next; it = it->next) cout << it->next->a << ' ' << it->next->b << endl;
-
-  // cout << pairs.size() << endl;
-  // for (pairs_t::iterator it = pairs.begin(); it != pairs.end(); ++it) cout << it->first << ' ' << it->second << endl;
-  // cout << endl;
-
 
   return 0;
 }
