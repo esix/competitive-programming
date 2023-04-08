@@ -250,7 +250,7 @@
 [FrogJmp](codility/FrogJmp), 
 [Kalium 2015](codility/Kalium)
 
-## [https://www.e-olymp.com/en/problems](http://www.e-olymp.com/en/problems)
+## [Eolymp](http://www.eolymp.com/en/problems)
 
 [Simple problem?](e-olymp/0xxx/0001), 
 [Digits](e-olymp/0xxx/0002), 
@@ -479,7 +479,7 @@
 [Олимпийская лотерея](e-olymp/3xxx/3608), 
 [Least Common Multiple](e-olymp/3xxx/3733), 
 [Factorial Again!](e-olymp/3xxx/3744), 
-[Dr Who`s Banquet](e-olymp/3xxx/3841), 
+[Dr Whos Banquet](e-olymp/3xxx/3841), 
 [Lazy Misha](e-olymp/3xxx/3867), 
 [MegaGCD](e-olymp/3xxx/3920), 
 [Towers of Hanoi](e-olymp/3xxx/3936), 
@@ -851,7 +851,7 @@
 [Easy Problemset](e-olymp/~contest-9571/E), 
 [Bus](e-olymp/~contest-9571/F), 
 [Garage](e-olymp/~contest-9571/G), 
-[Dr Who`s Banquet](e-olymp/~contest-9571/H), 
+[Dr Whos Banquet](e-olymp/~contest-9571/H), 
 [Boiling Vegetables](e-olymp/~contest-9571/I), 
 [Increase by 2](e-olymp/~contest-9608/A), 
 [The first is not greater for 2,5](e-olymp/~contest-9608/B), 
@@ -1206,7 +1206,7 @@
 [Opposite Task](lightoj/1001), 
 [Country Roads](lightoj/1002), 
 [Hex-a-bonacci](lightoj/1006), 
-[Fibsieve`s Fantabulous Birthday](lightoj/1008), 
+[Fibsieves Fantabulous Birthday](lightoj/1008), 
 [Knights in Chessboard](lightoj/1010), 
 [Brush I](lightoj/1015), 
 [Circle in Square](lightoj/1022), 

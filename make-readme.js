@@ -93,7 +93,7 @@ function processSolution(dir) {
         throw new Error('Invalid readme');
     }
 
-    const title = RegExp.$1.replace(/[()]/g, '');
+    const title = RegExp.$1.replace(/[()`]/g, '');
     const taskUrl = RegExp.$2 || '';
 
     let solutionFiles = getSolutionFiles(dir);
