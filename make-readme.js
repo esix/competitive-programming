@@ -81,6 +81,8 @@ function recursiveDirWalk(dir, process) {
 
 
 function processSolution(dir) {
+  if (!fs.existsSync(`${dir}/README.md`)) throw new Error('No readme in ' + dir);
+
   try {
     let readme = fs.readFileSync(`${dir}/README.md`, 'utf8');
     readme = readme.replace(/^\uFEFF/, '');                         // bom
@@ -91,76 +93,108 @@ function processSolution(dir) {
         throw new Error('Invalid readme');
     }
 
-    const taskTitle = RegExp.$1;
+    const title = RegExp.$1.replace(/[()]/g, '');
     const taskUrl = RegExp.$2 || '';
 
-    let solutions = [];
+    let solutionFiles = getSolutionFiles(dir);
+    const files =  solutionFiles.map(file => `${dir}/${file}`.replace(/\.\//, ''));
 
-    if (isSolutionDir(dir)) {
-      let mainFiles = getSolutionFiles(dir);
-
-      solutions = solutions.concat(mainFiles.map(mainFile => ({
-        taskId: path.basename(dir),
-        taskTitle,
-        taskUrl,
-        solutionFile: `${dir}/${mainFile}`.replace(/\.\//, ''),
-      })));
-
-    } else if (hasSolutionSubDirs(dir)) {
-      solutions.push({
-        taskId: '',
-        taskTitle,
-        taskUrl,
-        solutionFile: `${dir}/`.replace(/\.\//, ''),
-      });
+    let children = [];
+    
+    const subdirs = fs.readdirSync(dir);
+    subdirs.sort(comparator);
+  
+    for (let subdir of subdirs) {
+      const subdirName = `${dir}/${subdir}`;
+      if (fs.lstatSync(subdirName).isDirectory()) {
+        try {
+          let subsolution = processSolution(subdirName);
+          children.push(subsolution);
+        } catch (err) {
+          // its ok
+        }
+      }
     }
 
-    return solutions;
+    const taskId = path.basename(dir);
+
+    let solution = { taskId, title, taskUrl,  dir: dir.replace(/\.\//, ''),  files,  children };
+
+    return solution;
     
   } catch (err) {
     console.error('Error processing dir', dir);
     console.error(err);
-    return [];
+    throw err;
   }
 }
 
 
+let root = processSolution('.');
 
-let solutions = [];
+let treeToArray = (root) => {
+  let solutions = [];
 
-recursiveDirWalk('.', (dir) => {
-  solutions = solutions.concat(processSolution(dir));
-});
-  
+  let rec = (el) => {
+    if (el.files.length) {
+      el.files.forEach(solutionFile => 
+        solutions.push({taskId: el.taskId, title: el.title, taskUrl:el.taskUrl, dir: el.dir, solutionFile }));
+    } else {
+      solutions.push({taskId: '', title: el.title, taskUrl:el.taskUrl, dir: el.dir, solutionFile: el.dir + '/' });
+    }
+    el.children.forEach(rec);
+  }
+  root.children.forEach(rec);
+  return solutions;
+}
 
-const makeProblemLink = (s) => s.taskUrl ? `[${s.taskTitle}](${s.taskUrl})` : s.taskTitle;
+let newReadmeLines = [];
 
-const makeSolutionLink = (s) => `[${s.solutionFile}](${s.solutionFile})`;
+if (root.title === 'Competitive programming') {
+  newReadmeLines = ['# Competitive programming', ''];
 
-strLength = s => s.length;
+  root.children.forEach(c => {
+    if (!c.children.length) return;
+    console.log(c);
 
-let idColWidth = Math.max.apply(Math, solutions.map(s => s.taskId).map(strLength));
-let problemColWidth = Math.max.apply(Math, solutions.map(makeProblemLink).map(strLength));
-let solutionColWidth = Math.max.apply(Math, solutions.map(makeSolutionLink).map(strLength));
+    newReadmeLines.push(`## [${c.title}](${c.taskUrl})`);
+    newReadmeLines.push('');
+    let solutions = treeToArray(c);
+    newReadmeLines.push(
+      solutions.filter(s => s.taskId).map(s => `[${s.title}](${s.dir})`).join(', \n'));
+    newReadmeLines.push('');
+  })
 
-idColWidth = Math.max(idColWidth, 'ID'.length);
-problemColWidth = Math.max(problemColWidth, 'Problem statement'.length);
-solutionColWidth = Math.max(solutionColWidth, 'Solution'.length);
+} else {
+  let solutions = treeToArray(root);
+  const makeProblemLink = (s) => s.taskUrl ? `[${s.title}](${s.taskUrl})` : s.title;
 
-const wide = (str, w) => { while(str.length < w) str += ' '; return str;};
-const dashes = (w) => { let str = '-'; while(str.length < w) str += '-'; return str;};
+  const makeSolutionLink = (s) => `[${s.solutionFile}](${s.solutionFile})`;
 
-const makeSolutionLine = (s) => `| ${wide(s.taskId, idColWidth)} | ${wide(makeProblemLink(s), problemColWidth)} | ${wide(makeSolutionLink(s), solutionColWidth)} |`;
+  strLength = s => s.length;
 
+  let idColWidth = Math.max.apply(Math, solutions.map(s => s.taskId).map(strLength));
+  let problemColWidth = Math.max.apply(Math, solutions.map(makeProblemLink).map(strLength));
+  let solutionColWidth = Math.max.apply(Math, solutions.map(makeSolutionLink).map(strLength));
 
-// make readme file
-let newReadmeLines = loadMainReadmeFileLines();
-newReadmeLines.push(`| ${wide('ID', idColWidth)} | ${wide('Problem statement', problemColWidth)} | ${wide('Solution', solutionColWidth)} |`);
-newReadmeLines.push(`|${dashes(idColWidth+2)}|${dashes(problemColWidth+2)}|${dashes(solutionColWidth+2)}|`);
-newReadmeLines = newReadmeLines.concat(solutions.map(makeSolutionLine));
-newReadmeLines.push('\n');
+  idColWidth = Math.max(idColWidth, 'ID'.length);
+  problemColWidth = Math.max(problemColWidth, 'Problem statement'.length);
+  solutionColWidth = Math.max(solutionColWidth, 'Solution'.length);
 
-console.log(newReadmeLines.join('\n'))
+  const wide = (str, w) => { while(str.length < w) str += ' '; return str;};
+  const dashes = (w) => { let str = '-'; while(str.length < w) str += '-'; return str;};
+
+  const makeSolutionLine = (s) => `| ${wide(s.taskId, idColWidth)} | ${wide(makeProblemLink(s), problemColWidth)} | ${wide(makeSolutionLink(s), solutionColWidth)} |`;
+
+  // make readme file
+  newReadmeLines = loadMainReadmeFileLines();
+  newReadmeLines.push(`| ${wide('ID', idColWidth)} | ${wide('Problem statement', problemColWidth)} | ${wide('Solution', solutionColWidth)} |`);
+  newReadmeLines.push(`|${dashes(idColWidth+2)}|${dashes(problemColWidth+2)}|${dashes(solutionColWidth+2)}|`);
+  newReadmeLines = newReadmeLines.concat(solutions.map(makeSolutionLine));
+  newReadmeLines.push('\n');
+}
+
+console.log(newReadmeLines.join('\n'));
 
 //if (process.argv.length > 2) {
 // let fileName = process.argv[2];
