@@ -42,6 +42,7 @@
 | 2100 | [Graveyard Design](http://poj.org/problem?id=2100)                               | [volume-12/2100/main.cpp](volume-12/2100/main.cpp) |
 | 2104 | [K-th Number](http://poj.org/problem?id=2104)                                    | [volume-12/2104/main.cpp](volume-12/2104/main.cpp) |
 |      | [Volume 13](http://poj.org/problemlist?volume=13)                                | [volume-13/](volume-13/)                           |
+| 2200 | [A Card Trick](http://poj.org/problem?id=2200)                                   | [volume-13/2200/main.cpp](volume-13/2200/main.cpp) |
 | 2299 | [Ultra-QuickSort](http://poj.org/problem?id=2299)                                | [volume-13/2299/main.cpp](volume-13/2299/main.cpp) |
 |      | [Volume 14](http://poj.org/problemlist?volume=14)                                | [volume-14/](volume-14/)                           |
 | 2301 | [Beat the Spread!](http://poj.org/problem?id=2301)                               | [volume-14/2301/main.cpp](volume-14/2301/main.cpp) |

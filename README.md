@@ -1310,6 +1310,7 @@
 [No Brainer](poj/volume-11/2027), 
 [Graveyard Design](poj/volume-12/2100), 
 [K-th Number](poj/volume-12/2104), 
+[A Card Trick](poj/volume-13/2200), 
 [Ultra-QuickSort](poj/volume-13/2299), 
 [Beat the Spread!](poj/volume-14/2301), 
 [Palindrome Numbers](poj/volume-15/2402), 
