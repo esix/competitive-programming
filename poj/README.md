@@ -51,6 +51,7 @@
 |      | [Volume 16](http://poj.org/problemlist?volume=16)                                | [volume-16/](volume-16/)                           |
 | 2502 | [Subway](http://poj.org/problem?id=2502)                                         | [volume-16/2502/main.cpp](volume-16/2502/main.cpp) |
 |      | [Volume 17](http://poj.org/problemlist?volume=17)                                | [volume-17/](volume-17/)                           |
+| 2600 | [Geometrical dreams](http://poj.org/problem?id=2600)                             | [volume-17/2600/main.cpp](volume-17/2600/main.cpp) |
 | 2601 | [Simple calculations](http://poj.org/problem?id=2601)                            | [volume-17/2601/main.cpp](volume-17/2601/main.cpp) |
 |      | [Volume 18](http://poj.org/problemlist?volume=18)                                | [volume-18/](volume-18/)                           |
 | 2710 | [Consecutive Digits](http://poj.org/problem?id=2710)                             | [volume-18/2710/main.cpp](volume-18/2710/main.cpp) |

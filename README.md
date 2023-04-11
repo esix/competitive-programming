@@ -1315,6 +1315,7 @@
 [Beat the Spread!](poj/volume-14/2301), 
 [Palindrome Numbers](poj/volume-15/2402), 
 [Subway](poj/volume-16/2502), 
+[Geometrical dreams](poj/volume-17/2600), 
 [Simple calculations](poj/volume-17/2601), 
 [Consecutive Digits](poj/volume-18/2710), 
 [Dramatic Multiplications](poj/volume-19/2897), 
