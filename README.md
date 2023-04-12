@@ -1314,6 +1314,7 @@
 [Ultra-QuickSort](poj/volume-13/2299), 
 [Beat the Spread!](poj/volume-14/2301), 
 [Palindrome Numbers](poj/volume-15/2402), 
+[Average Speed](poj/volume-16/2501), 
 [Subway](poj/volume-16/2502), 
 [Geometrical dreams](poj/volume-17/2600), 
 [Simple calculations](poj/volume-17/2601), 

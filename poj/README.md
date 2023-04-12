@@ -49,6 +49,7 @@
 |      | [Volume 15](http://poj.org/problemlist?volume=15)                                | [volume-15/](volume-15/)                           |
 | 2402 | [Palindrome Numbers](http://poj.org/problem?id=2402)                             | [volume-15/2402/main.cpp](volume-15/2402/main.cpp) |
 |      | [Volume 16](http://poj.org/problemlist?volume=16)                                | [volume-16/](volume-16/)                           |
+| 2501 | [Average Speed](http://poj.org/problem?id=2501)                                  | [volume-16/2501/main.cpp](volume-16/2501/main.cpp) |
 | 2502 | [Subway](http://poj.org/problem?id=2502)                                         | [volume-16/2502/main.cpp](volume-16/2502/main.cpp) |
 |      | [Volume 17](http://poj.org/problemlist?volume=17)                                | [volume-17/](volume-17/)                           |
 | 2600 | [Geometrical dreams](http://poj.org/problem?id=2600)                             | [volume-17/2600/main.cpp](volume-17/2600/main.cpp) |
