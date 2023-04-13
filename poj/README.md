@@ -46,6 +46,7 @@
 | 2299 | [Ultra-QuickSort](http://poj.org/problem?id=2299)                                | [volume-13/2299/main.cpp](volume-13/2299/main.cpp) |
 |      | [Volume 14](http://poj.org/problemlist?volume=14)                                | [volume-14/](volume-14/)                           |
 | 2301 | [Beat the Spread!](http://poj.org/problem?id=2301)                               | [volume-14/2301/main.cpp](volume-14/2301/main.cpp) |
+| 2304 | [Combination Lock](http://poj.org/problem?id=2304)                               | [volume-14/2304/main.cpp](volume-14/2304/main.cpp) |
 |      | [Volume 15](http://poj.org/problemlist?volume=15)                                | [volume-15/](volume-15/)                           |
 | 2402 | [Palindrome Numbers](http://poj.org/problem?id=2402)                             | [volume-15/2402/main.cpp](volume-15/2402/main.cpp) |
 |      | [Volume 16](http://poj.org/problemlist?volume=16)                                | [volume-16/](volume-16/)                           |

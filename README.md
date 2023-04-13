@@ -1313,6 +1313,7 @@
 [A Card Trick](poj/volume-13/2200), 
 [Ultra-QuickSort](poj/volume-13/2299), 
 [Beat the Spread!](poj/volume-14/2301), 
+[Combination Lock](poj/volume-14/2304), 
 [Palindrome Numbers](poj/volume-15/2402), 
 [Average Speed](poj/volume-16/2501), 
 [Subway](poj/volume-16/2502), 
