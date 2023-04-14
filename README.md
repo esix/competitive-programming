@@ -1320,6 +1320,7 @@
 [Geometrical dreams](poj/volume-17/2600), 
 [Simple calculations](poj/volume-17/2601), 
 [Consecutive Digits](poj/volume-18/2710), 
+[Buy Tickets](poj/volume-19/2828), 
 [Dramatic Multiplications](poj/volume-19/2897), 
 [Goldbach's Conjecture](poj/volume-20/2909), 
 [Dirichlet's Theorem on Arithmetic Progressions](poj/volume-21/3006), 
