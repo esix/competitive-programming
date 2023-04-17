@@ -4,4 +4,5 @@
 | ID   | Problem statement                                       | Solution                       |
 |------|---------------------------------------------------------|--------------------------------|
 | 2909 | [Goldbach's Conjecture](http://poj.org/problem?id=2909) | [2909/main.cpp](2909/main.cpp) |
+| 2948 | [Martian Mining](http://poj.org/problem?id=2948)        | [2948/main.cpp](2948/main.cpp) |
 
