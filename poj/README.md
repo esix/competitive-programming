@@ -63,6 +63,7 @@
 |      | [Volume 20](http://poj.org/problemlist?volume=20)                                | [volume-20/](volume-20/)                           |
 | 2909 | [Goldbach's Conjecture](http://poj.org/problem?id=2909)                          | [volume-20/2909/main.cpp](volume-20/2909/main.cpp) |
 | 2948 | [Martian Mining](http://poj.org/problem?id=2948)                                 | [volume-20/2948/main.cpp](volume-20/2948/main.cpp) |
+| 2996 | [Help Me with the Game](http://poj.org/problem?id=2996)                          | [volume-20/2996/main.cpp](volume-20/2996/main.cpp) |
 |      | [Volume 21](http://poj.org/problemlist?volume=21)                                | [volume-21/](volume-21/)                           |
 | 3006 | [Dirichlet's Theorem on Arithmetic Progressions](http://poj.org/problem?id=3006) | [volume-21/3006/main.cpp](volume-21/3006/main.cpp) |
 |      | [Volume 22](http://poj.org/problemlist?volume=22)                                | [volume-22/](volume-22/)                           |

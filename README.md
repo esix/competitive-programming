@@ -1324,6 +1324,7 @@
 [Dramatic Multiplications](poj/volume-19/2897), 
 [Goldbach's Conjecture](poj/volume-20/2909), 
 [Martian Mining](poj/volume-20/2948), 
+[Help Me with the Game](poj/volume-20/2996), 
 [Dirichlet's Theorem on Arithmetic Progressions](poj/volume-21/3006), 
 [Root of the Problem](poj/volume-22/3100), 
 [Apocalypse Someday](poj/volume-23/3208), 
