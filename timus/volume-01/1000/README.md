@@ -1,24 +1,36 @@
-# [A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)
+# [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
 
-_Ограничение времени: 1.0 секунды_
+Calculate a + b
 
-_Ограничение памяти: 64 МБ_
+## Input
 
-Вычислите a+b
+`a` and `b`
 
-###Исходные данные
-a и b
+## Output
 
-###Результат
-a+b
+`a+b`
 
-###Пример
+## Sample
 
-#####исходные данные
-    1 5
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre>
+1 5
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre>
+6
+</pre>
+</td>
+</tr>
+</table>
 
-#####результат
-    6
+## Notes
 
-###Замечания
-Используйте +
+Use + operator

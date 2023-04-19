@@ -1,23 +1,32 @@
-# [Произведение цифр](http://acm.timus.ru/problem.aspx?space=1&num=1014)
-
-_Ограничение времени: 1.0 секунды_
-
-_Ограничение памяти: 64 МБ_
-
-Ваша задача — найти минимальное положительное целое число Q такое, что произведение цифр числа Q в точности
-равняется N.
-
-###Исходные данные
-Целое число N (0 ≤ N ≤ 10^9).
-
-###Результат
-Выведите целое число Q. Если такого числа не существует, выведите −1.
+# [Product of Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014)
 
 
-###Пример
+Your task is to find the minimal positive integer number `Q` so that the product of digits of `Q` is exactly equal to `N`.
 
-#####исходные данные
-    10
+## Input
+The input contains the single integer number `N` (`0 ≤ N ≤ 10⁹`).
 
-#####результат
-    25
+## Output
+
+Your program should print to the output the only number `Q`. If such a number does not exist print `−1`.
+
+## Sample
+
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre>
+1 5
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre>
+6
+</pre>
+</td>
+</tr>
+</table>

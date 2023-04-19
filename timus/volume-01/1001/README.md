@@ -1,31 +1,38 @@
-# [Обратный корень](http://acm.timus.ru/problem.aspx?space=1&num=1001)
+# [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 
-_Ограничение времени: 2.0 секунды_
+The problem is so easy, that the authors were lazy to write a statement for it!
 
-_Ограничение памяти: 64 МБ_
+## Input
+The input stream contains a set of integer numbers `Aᵢ` (`0 ≤ Aᵢ ≤ 10¹⁸`). The numbers are separated by any number of spaces and line breaks. A size of the input stream does not exceed 256 KB.
 
-Эта задача настолько проста, что авторы даже поленились сочинить для нее условие!
+## Output
+For each number `Aᵢ` from the last one till the first one you should output its square root. Each square root should be printed in a separate line with at least four digits after decimal point.
 
-###Исходные данные
-Входной поток содержит набор целых чисел Ai (0 ≤ Ai ≤ 10^18) отделённых друг от друга произвольным количеством
-пробелов и переводов строк. Размер входного потока не превышает 256 КБ.
+## Sample
 
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre>
+&nbsp;1427&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;
 
-###Результат
-Для каждого числа Ai, начиная с последнего и заканчивая первым, в отдельной строке вывести его квадратный корень
-не менее чем с четырьмя знаками после десятичной точки.
-
-
-###Пример
-
-#####исходные данные
-     1427  0   
-
-       876652098643267843
-    5276538
-
-#####результат
-    2297.0716
-    936297014.1164
-    0.0000
-    37.7757
+&nbsp;&nbsp;&nbsp;876652098643267843 
+5276538
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre>
+2297.0716
+936297014.1164
+0.0000
+37.7757
+</pre>
+</td>
+</tr>
+</table>

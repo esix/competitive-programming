@@ -1,59 +1,57 @@
-# [Телефонные номера](http://acm.timus.ru/problem.aspx?space=1&num=1002)
-
-_Ограничение времени: 2.0 секунды_
-
-_Ограничение памяти: 64 МБ_
-
-В современном мире вы встречаетесь с огромным количеством телефонных номеров, которые со временем становятся всё
-длиннее и длиннее. И вам приходится запоминать эти номера. Одним из простых способов запоминания является
-сопоставление букв каждой цифре, как показано на следующем рисунке:
-
-    1 ij    2 abc   3 def
-    4 gh    5 kl    6 mn
-    7 prs   8 tuv   9 wxy
-            0 oqz
-
-Таким образом, каждому слову или группе слов может быть сопоставлен уникальный номер, так что можно запоминать
-слова вместо телефонных номеров. Очевидно, есть особый шарм в том, чтобы найти простую взаимосвязь между словом,
-используемым для запоминания телефонного номера, и владельцем этого номера. Так, телефонный номер 941837296 вашего
-друга, играющего в шахматы, может быть прочитан как WHITEPAWN (белая пешка), а номер 2855304 Вашего любимого
-учителя может быть прочитан как BULLDOG (бульдог).
-
-Напишите программу, находящую самую короткую последовательность слов (имеющую наименьшее количество слов), которая
-соответствует заданному номеру телефона и заданному списку слов. Соответствие описано на рисунке выше.
-
-###Исходные данные
-Ввод состоит из набора тестов. Первая строка каждого теста содержит номер телефона, к которому нужно подобрать
-мнемонику. Номер состоит не более чем из 100 цифр. Вторая строка содержит общее количество слов в словаре
-(максимум 50 000). Каждая из оставшихся строк содержит одно слово, состоящее не более чем из 50 строчных латинских
-букв. Общий размер ввода не превосходит 300 килобайт. Последняя строка ввода содержит число −1.
-
-###Результат
-Каждая строка вывода должна содержать кратчайшую последовательность слов, найденную вашей программой. Слова должны
-быть разделены одиночными пробелами. Если для входных данных нет решения, соответствующая строка вывода должна
-содержать текст “No solution.”. Если существует несколько решений, имеющих одинаковое количество слов, можете
-выбрать любое из них.
+# [Phone Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1002)
 
 
-###Пример
+In the present world you frequently meet a lot of call numbers and they are going to be longer and longer. You need to remember such a kind of numbers. One method to do it in an easy way is to assign letters to digits as shown in the following picture:
+```
+1 ij    2 abc   3 def
+4 gh    5 kl    6 mn
+7 prs   8 tuv   9 wxy
+        0 oqz
+```
 
-#####исходные данные
-    7325189087
-    5
-    it
-    your
-    reality
-    real
-    our
-    4294967296
-    5
-    it
-    your
-    reality
-    real
-    our
-    -1
+This way every word or a group of words can be assigned a unique number, so you can remember words instead of call numbers. It is evident that it has its own charm if it is possible to find some simple relationship between the word and the person itself. So you can learn that the call number `941837296` of a chess-playing friend of yours can be read as `WHITEPAWN`, and the call number `2855304` of your favourite teacher is read `BULLDOG`.
 
-#####результат
-    reality our
-    No solution.
+Write a program to find the shortest sequence of words (i.e. one having the smallest possible number of words) which corresponds to a given number and a given list of words. The correspondence is described by the picture above.
+
+## Input
+
+Input contains a series of tests. The first line of each test contains the call number, the transcription of which you have to find. The number consists of at most 100 digits. The second line contains the total number of the words in the dictionary (maximum is 50 000). Each of the remaining lines contains one word, which consists of maximally 50 small letters of the English alphabet. The total size of the input doesn't exceed 300 KB. The last line contains call number −1.
+
+## Output
+Each line of output contains the shortest sequence of words which has been found by your program. The words are separated by single spaces. If there is no solution to the input data, the line contains text “`No solution.`”. If there are more solutions having the minimum number of words, you can choose any single one of them.
+
+## Sample
+
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre>
+7325189087
+5
+it
+your
+reality
+real
+our
+4294967296
+5
+it
+your
+reality
+real
+our
+-1
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre>
+reality our
+No solution.
+</pre>
+</td>
+</tr>
+</table>

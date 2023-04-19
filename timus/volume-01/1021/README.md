@@ -1,45 +1,55 @@
-# [Таинство суммы](http://acm.timus.ru/problem.aspx?space=1&num=1021)
+# [Sacrament of the Sum](https://acm.timus.ru/problem.aspx?space=1&num=1021)
 
-_Ограничение времени: 1.0 секунды_
+## Background
+<i>
+— The Brother of mine, the Head of Monastic Order wants to know tomorrow about the results long-term researches. He wants to see neither more nor less than the Summering Machine! Even moreover, he wants our Machine — only a machine — to demonstrate its comprehension of the Sacrament of the Sum as deeply as it is possible. He wants our Machine to find two numbers that give the sum equal to the Sacred Number 10 000.
 
-_Ограничение памяти: 64 МБ_
+— Tsh-sh-sh! This is madness that borders on blasphemy! How can the Machine calculate the Sacred Number? Twenty seven years we work on it, but we’ve could teach it to tell if the sum of two introduced numbers greater or lower than 10 000. Can an ordinary mortal find two numbers that there sum will be equal to 10 000?
 
-###Вступление
+— But we’ll have to do it with the help of our Machine, even if it is not capable. Otherwise we’ll have… let’s say, big problems, if it is possible to call boiling oil like this. However, I have an idea. Do you remember, last week we’ve entered two numbers -7 and 13 into the Machine, and it answered that their sum is lower than 10 000. I don’t know how to check this, but nothing’s left for us than to believe to the fruit of our work. Let’s enter now a greater number than -7 and start up the Machine again. We’ll do like this again and again until we find a number that being added to 13 will give us 10 000. The only thing we are to do is to prepare an ascending list of numbers.
 
-*— Брат мой, Магистр Ордена хочет узнать завтра о результатах наших многолетних изысканий. Он хочет видеть, ни много, ни мало, Суммирующую Машину! Даже более того: он хочет, чтобы наша Машина — всего лишь машина — продемонстрировала свое постижение Таинства Суммы настолько глубоко, насколько это возможно. Он хочет, чтобы Машина нашла каких-нибудь два числа, дающих в сумме священное число 10000!*
+— I don’t believe in this… Let’s start with the sum that is obviously greater than the Sacred Number and we’ll decrease one of the summand. So we have more chances to avoid boilin… big problems.
+</i>
 
-*— Тс-с-с! Но это же безумство, граничащее с кощунством! Как Машина может ВЫЧИСЛИТЬ священное число? Двадцать семь лет мы работаем над ней, и смогли только лишь научить ее отвечать на вопрос: «Больше сумма двух введенных чисел, чем 10000, или меньше?». Но разве может смертный найти два таких числа, чтобы их сумма оказалась равна 10000?*
+Haven’t come to an agreement, the Brothers went away to their cells. By next day everyone of them has prepared a list of numbers that, to his opinion, could save them… Can both of the lists save them together?
 
-*— И все же нам придется сделать это с помощью нашей Машины, пусть она и неспособна на это. Иначе у нас будут… ну, скажем так, крупные неприятности, если кипящее масло можно назвать таким словом. Впрочем, у меня есть идея. Помнишь, на той неделе мы ввели в Машину числа −7 и 13, она ответила, что их Сумма меньше 10000. Я не знаю, как это проверить, но нам ничего не остается, как доверять созданию наших рук. Что, если теперь мы возьмем число большее, чем −7 и снова запустим Машину? И будем так делать снова и снова, пока не найдем такое число, которое в сумме с 13 даст 10000! Надо только подготовить список возрастающих чисел.*
+## Problem
 
-*— Не верю я в эту идею… Давай лучше начнем с суммы, заведомо большей, чем Священное число и будем уменьшать одно из слагаемых, так у нас больше шансов избегнуть кипяще… крупных неприятностей.*
+Your program should decide, if it is possible to choose from two lists of integers such two numbers that their sum would be equal to 10 000.
 
-Так ни о чём и не договорившись, Братья разошлись по своим кельям. К следующему дню, каждый из них подготовил такой список чисел, который, по его мнению, мог бы их спасти… Смогут ли спасти их оба списка вместе?
+## Input
 
-###Задача
-Ваша программа должна определять, можно ли из двух списков целых чисел выбрать по одному числу так, чтобы в сумме они составили 10000.
+You are given both of these lists one by one. Format of each of these lists is as follows: in the first line of the list the quantity of numbers `Nᵢ` of the `i`-th list is written. Further there is an i-th list of numbers each number in its line (`Nᵢ` lines).The following conditions are satisfied: `1 ≤ Nᵢ ≤ 50 000`, each element of the lists lays in the range from -32768 to 32767. The first list is ascending and the second one is descending.
 
+## Output
 
-###Исходные данные
-Состоят из двух списков — одного, потом другого. Формат каждого из этих списков таков: в первой строчке записано количество Ni чисел в i-м списке, далее в Ni строчках по одному числу в строке записаны сами списки. Выполняются неравенства 1 ≤ Ni ≤ 50000, все элементы списков лежат в диапазоне от –32768 до 32767. Первый список упорядочен по возрастанию, второй — по убыванию.
+You should write "`YES`" to the standard output if it is possible to choose from the two lists of integers such two numbers that their sum would be equal to 10 000. Otherwise you should write "`NO`".
 
+## Sample
 
-###Результат
-На выходе следует записать YES, если из списков можно выбрать по числу, которые в сумме дадут 10000 и NO в противном случае.
-
-
-###Пример
-
-#####исходные данные
-    4
-    -175
-    19
-    19
-    10424
-    3
-    8951
-    -424
-    -788
-
-#####результат
-    YES
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre>
+4
+-175
+19
+19
+10424
+3
+8951
+-424
+-788
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre>
+YES
+</pre>
+</td>
+</tr>
+</table>
