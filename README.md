@@ -1063,7 +1063,7 @@
 [Solve me second](hackerrank/algorithms/solve-me-second), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children)
 
-## https://leetcode.com/ [⬀](https://leetcode.com/)
+## LeetCode [⬀](https://leetcode.com/)
 
 [Two Sum](leetcode/page-01/1), 
 [Add Two Numbers](leetcode/page-01/2), 
