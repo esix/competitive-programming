@@ -1,4 +1,4 @@
-# [Stars](https://acm.timus.ru/problem.aspx?space=1&num=1028)
+# Stars [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1028)
 
 
 Astronomers often examine star maps where stars are represented by points on a plane and each star has Cartesian coordinates. Let the level of a star be an amount of the stars that are not higher and not to the right of the given star. Astronomers want to know the distribution of the levels of the stars.

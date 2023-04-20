@@ -1,4 +1,4 @@
-# [Staircases](https://acm.timus.ru/problem.aspx?space=1&num=1017)
+# Staircases [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1017)
 
 
 One curious child has a set of N little bricks. From these bricks he builds different staircases. Staircase consists of steps of different sizes in a strictly descending order. It is not allowed for staircase to have steps equal sizes. Every staircase consists of at least two steps and each step contains at least one brick. Picture gives examples of staircase for `N=11` and `N=5`:

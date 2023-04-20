@@ -1,4 +1,4 @@
-# [Conductors](https://acm.timus.ru/problem.aspx?space=1&num=1011)
+# Conductors [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1011)
 
 ## Background
 Everyone making translations from English to Russian knows an English phrase "Naked conductor runs along the bus". It has two very different meanings.

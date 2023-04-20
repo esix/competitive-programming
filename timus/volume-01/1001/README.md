@@ -1,4 +1,4 @@
-# [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
+# Reverse Root [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 
 The problem is so easy, that the authors were lazy to write a statement for it!
 

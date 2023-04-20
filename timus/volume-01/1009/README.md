@@ -1,4 +1,4 @@
-# [K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+# K-based Numbers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1009)
 
 Let’s consider `K`-based numbers, containing exactly `N` digits. We define a number to be valid if its `K`-based notation doesn’t contain two successive zeros. For example:
 

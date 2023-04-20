@@ -1,4 +1,4 @@
-# [Phone Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1002)
+# Phone Numbers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1002)
 
 
 In the present world you frequently meet a lot of call numbers and they are going to be longer and longer. You need to remember such a kind of numbers. One method to do it in an easy way is to assign letters to digits as shown in the following picture:

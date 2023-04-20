@@ -1,4 +1,4 @@
-# [Square Country](https://acm.timus.ru/problem.aspx?space=1&num=1073)
+# Square Country [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1073)
 
 
 There live square people in a square country. Everything in this country is square also. Thus, the Square Parliament has passed a law about a land. According to the law each citizen of the country has a right to buy land. A land is sold in squares, surely. Moreover, a length of a square side must be a positive integer amount of meters. Buying a square of land with a side `a` one pays `a²` quadrics (a local currency) and gets a square certificate of a landowner.

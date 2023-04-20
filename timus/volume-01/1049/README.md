@@ -1,4 +1,4 @@
-# [Brave Balloonists](https://acm.timus.ru/problem.aspx?space=1&num=1049)
+# Brave Balloonists [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1049)
 
 
 Ten mathematicians are flying on a balloon over the Pacific ocean. When they are crossing the equator they decide to celebrate this event and open a bottle of champagne. Unfortunately, the cork makes a hole in the balloon. Hydrogen is leaking out and the balloon is descending now. Soon it will fall into the ocean and all the balloonists will be eaten by hungry sharks.

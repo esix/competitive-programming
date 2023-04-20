@@ -1,4 +1,4 @@
-# [Maximum](https://acm.timus.ru/problem.aspx?space=1&num=1079)
+# Maximum [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1079)
 
 Consider the sequence of numbers `aᵢ`, `i = 0, 1, 2, …`, which satisfies the following requirements:
 - `a₀ = 0`

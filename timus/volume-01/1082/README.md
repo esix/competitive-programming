@@ -1,4 +1,4 @@
-# [Gaby Ivanushka](https://acm.timus.ru/problem.aspx?space=1&num=1082)
+# Gaby Ivanushka [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1082)
 
 Once upon a time there lived a tsar that has a daughter — Vasilisa the Beautiful. There were many of the young men that wanted to marry her but she repelled all suitors. The tsar was tired of her jigs, he got angry and issued an order: "The first who solves my puzzle, will marry Vasilisa!" Ivanushka decided to try his fortune. He came to the tsar and the tsar told him: "This is a program for you. Input N numbers and the program will tell you who you should marry. I give you a day to think." Ivanuska looked at the program and got upset: there were unknown letters, omnifarious symbols. The time passed. Ivanushka has thought out nothing.
 

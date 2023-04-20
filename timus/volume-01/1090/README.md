@@ -1,4 +1,4 @@
-# [In the Army Now](https://acm.timus.ru/problem.aspx?space=1&num=1090)
+# In the Army Now [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1090)
 
 The sergeant ordered that all the recruits stand in rows. The recruits have formed `K` rows with `N` people in each, but failed to stand according to their height. The right way to stand in a row is as following: the first soldier must be the highest, the second must be the second highest and so on; the last soldier in a row must be the shortest. In order to teach the young people how to form rows, the sergeant ordered that each of the recruits jump as many times as there are recruits before him in his row who are shorter than he. Note that there are no two recruits of the same height.
 

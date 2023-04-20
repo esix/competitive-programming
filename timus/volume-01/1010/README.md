@@ -1,4 +1,4 @@
-# [Discrete Function](https://acm.timus.ru/problem.aspx?space=1&num=1010)
+# Discrete Function [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1010)
 
 There is a discrete function. It is specified for integer arguments from `1` to `N`. Each value of the function is from `−2³¹` to `2³¹−1`. You have to find such two points of the function for which all points between them are strictly below than straight line connecting them and inclination of this straight line is the largest.
 

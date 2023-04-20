@@ -1,4 +1,4 @@
-# [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
+# Stone Pile [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1005)
 
 
 You have a number of stones with known weights `w₁`, …, `wₙ`. Write a program that will rearrange the stones into two piles such that weight difference between the piles is minimal.

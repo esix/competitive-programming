@@ -1,4 +1,4 @@
-# [Factorials!!!](https://acm.timus.ru/problem.aspx?space=1&num=1083)
+# Factorials!!! [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1083)
 
 ### Definition 1.
 - `n!!…! = n(n−k)(n−2k)…(n mod k)`, if `k` doesn’t divide `n`

@@ -1,8 +1,7 @@
 # Competitive programming
 
-## [http://acmp.ru/](http://acmp.ru/)
+## http://acmp.ru/ [⬀](http://acmp.ru/)
 
-[A+B](acmp/page-01/0001), 
 [A+B](acmp/page-01/0001), 
 [Сумма](acmp/page-01/0002), 
 [Пятью пять - двадцать пять!](acmp/page-01/0003), 
@@ -168,7 +167,7 @@
 [Шары](acmp/~contest-40495/C), 
 [Военная академия](acmp/~contest-40495/D)
 
-## [Advent of Code](https://adventofcode.com/)
+## Advent of Code [⬀](https://adventofcode.com/)
 
 [Calorie Counting](adventofcode/2022/01), 
 [Rock Paper Scissors](adventofcode/2022/02), 
@@ -186,7 +185,7 @@
 [Regolith Reservoir](adventofcode/2022/14), 
 [Beacon Exclusion Zone](adventofcode/2022/15)
 
-## [Codeforces](http://codeforces.com/)
+## Codeforces [⬀](http://codeforces.com/)
 
 [Театральная площадь](codeforces/001/A), 
 [Электронные таблицы](codeforces/001/B), 
@@ -244,13 +243,13 @@
 [Лабиринт](codeforces/616/C), 
 [Сумма остатков](codeforces/616/E)
 
-## [Codility](https://codility.com/programmers/)
+## Codility [⬀](https://codility.com/programmers/)
 
 [Equi](codility/Equi), 
 [FrogJmp](codility/FrogJmp), 
 [Kalium 2015](codility/Kalium)
 
-## [Eolymp](http://www.eolymp.com/en/problems)
+## Eolymp [⬀](http://www.eolymp.com/en/problems)
 
 [Simple problem?](e-olymp/0xxx/0001), 
 [Digits](e-olymp/0xxx/0002), 
@@ -1057,14 +1056,14 @@
 [Number of hanging vertices 1](e-olymp/~contest-9960/S), 
 [Number of hanging vertices 2](e-olymp/~contest-9960/T)
 
-## [HackerRank](https://www.hackerrank.com/)
+## HackerRank [⬀](https://www.hackerrank.com/)
 
 [A very big sum](hackerrank/algorithms/a-very-big-sum), 
 [Solve me first](hackerrank/algorithms/solve-me-first), 
 [Solve me second](hackerrank/algorithms/solve-me-second), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children)
 
-## [https://leetcode.com/](https://leetcode.com/)
+## https://leetcode.com/ [⬀](https://leetcode.com/)
 
 [Two Sum](leetcode/page-01/1), 
 [Add Two Numbers](leetcode/page-01/2), 
@@ -1200,7 +1199,7 @@
 [1656. Design an Ordered Stream](leetcode/page-34/1656), 
 [1662. Check If Two String Arrays are Equivalent](leetcode/page-34/1662)
 
-## [LightOJ](http://www.lightoj.com/index.php)
+## LightOJ [⬀](http://www.lightoj.com/index.php)
 
 [Greetings from LightOJ](lightoj/1000), 
 [Opposite Task](lightoj/1001), 
@@ -1230,7 +1229,7 @@
 [Nabab Siraj-Ud-Dowla](lightoj/~contest-727/A), 
 [Kukurer Voy](lightoj/~contest-727/B)
 
-## [mcme](http://informatics.mccme.ru/)
+## mcme [⬀](http://informatics.mccme.ru/)
 
 [Города и дороги](mccme/174), 
 [Светофорчики](mccme/175), 
@@ -1261,12 +1260,10 @@
 [Корень из перестановки](mccme/1884), 
 [Обрати меня!](mccme/111539)
 
-## [El Judge](http://acm.mipt.ru/judge/problems.pl?lang=en)
+## El Judge [⬀](http://acm.mipt.ru/judge/problems.pl?lang=en)
 
 [Sum of two integers](mipt/000), 
-[Sum of two integers](mipt/000), 
 [Max of Integers](mipt/001), 
-[Set Intersection](mipt/002), 
 [Set Intersection](mipt/002), 
 [Contest Table](mipt/003), 
 [Athletes](mipt/004), 
@@ -1282,13 +1279,11 @@
 [Number of solutions](mipt/201), 
 [Pete in love](mipt/202)
 
-## [Peking University Judge Online for ACM/ACPC](http://poj.org/problemlist)
+## Peking University Judge Online for ACM/ACPC [⬀](http://poj.org/problemlist)
 
-[A+B Problem](poj/volume-01/1000), 
 [A+B Problem](poj/volume-01/1000), 
 [Exponentiation](poj/volume-01/1001), 
 [Transmitters](poj/volume-02/1106), 
-[The Triangle](poj/volume-02/1163), 
 [The Triangle](poj/volume-02/1163), 
 [The 3n + 1 problem](poj/volume-03/1207), 
 [Drainage Ditches](poj/volume-03/1273), 
@@ -1337,11 +1332,11 @@
 [Build Your Home](poj/volume-30/3907), 
 [Automated Telephone Exchange](poj/volume-31/4011)
 
-## [Saratov State University :: Online Contester](http://acm.sgu.ru/olimp/)
+## Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/olimp/)
 
 [Маскарад](sgu/volume-1/100)
 
-## [Saratov State University :: Online Contester](http://acm.sgu.ru/index.php)
+## Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/index.php)
 
 [A+B](sgu.old/volume-1/100), 
 [Domino](sgu.old/volume-1/101), 
@@ -1360,7 +1355,7 @@
 [Scientific Problem](sgu.old/volume-4/403), 
 [3D City Model](sgu.old/volume-5/519)
 
-## [Sphere Online Judge](http://www.spoj.com/)
+## Sphere Online Judge [⬀](http://www.spoj.com/)
 
 [Adding Reversed Numbers](spoj/ADDREV), 
 [BAISED - Biased Standings](spoj/BAISED), 
@@ -1372,11 +1367,9 @@
 [TEST - Life, the Universe, and Everything](spoj/TEST), 
 [TESTINT - Test 1](spoj/TESTINT)
 
-## [Timus Online Judge](https://acm.timus.ru/)
+## Timus Online Judge [⬀](https://acm.timus.ru/)
 
 [A+B Problem](timus/volume-01/1000), 
-[A+B Problem](timus/volume-01/1000), 
-[Reverse Root](timus/volume-01/1001), 
 [Reverse Root](timus/volume-01/1001), 
 [Phone Numbers](timus/volume-01/1002), 
 [Parity](timus/volume-01/1003), 
@@ -1385,7 +1378,6 @@
 [Discrete Function](timus/volume-01/1010), 
 [Conductors](timus/volume-01/1011), 
 [K-based Numbers. Version 2](timus/volume-01/1012), 
-[Product of Digits](timus/volume-01/1014), 
 [Product of Digits](timus/volume-01/1014), 
 [Staircases](timus/volume-01/1017), 
 [Rope](timus/volume-01/1020), 
@@ -1435,7 +1427,6 @@
 [Экзамен по истории](timus/volume-02/1196), 
 [Один в поле воин](timus/volume-02/1197), 
 [Научная конференция](timus/volume-03/1203), 
-[Научная конференция](timus/volume-03/1203), 
 [Сумма цифр суммы чисел](timus/volume-03/1206), 
 [1, 10, 100, 1000...](timus/volume-03/1209), 
 [Добрые духи](timus/volume-03/1210), 
@@ -1446,7 +1437,6 @@
 [Флаги](timus/volume-03/1225), 
 [йынтарбО кодяроп](timus/volume-03/1226), 
 [Массив](timus/volume-03/1228), 
-[Развод семи гномов](timus/volume-03/1243), 
 [Развод семи гномов](timus/volume-03/1243), 
 [Фотограф-зануда](timus/volume-03/1260), 
 [Выборы](timus/volume-03/1263), 
@@ -1553,7 +1543,7 @@
 [Простое выражение](timus/volume-11/2066), 
 [Игра с орехами](timus/volume-11/2068)
 
-## [UVa Online Judge](http://uva.onlinejudge.org/)
+## UVa Online Judge [⬀](http://uva.onlinejudge.org/)
 
 [Ecological Bin Packing](uva/102), 
 [300 - Maya Calendar](uva/300), 
@@ -1568,7 +1558,6 @@
 [Date Bugs](uva/700), 
 [The Tourist Guide](uva/10099), 
 [Foreign Exchange](uva/10763), 
-[The 3n + 1 problem](uva/volume-01/0100), 
 [The 3n + 1 problem](uva/volume-01/0100), 
 [Rare Order](uva/volume-02/0200), 
 [Squares](uva/volume-02/0201), 

@@ -1,4 +1,4 @@
-# [Questions and Answers](https://acm.timus.ru/problem.aspx?space=1&num=1026)
+# Questions and Answers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1026)
 
 
 ## Background

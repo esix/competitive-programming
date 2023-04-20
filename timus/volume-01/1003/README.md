@@ -1,4 +1,4 @@
-# [Parity](https://acm.timus.ru/problem.aspx?space=1&num=1003)
+# Parity [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1003)
 
 
 Now and then you play the following game with your friend. Your friend writes down a sequence consisting of zeroes and ones. You choose a continuous subsequence (for example the subsequence from the third to the fifth digit inclusively) and ask him, whether this subsequence contains even or odd number of ones. Your friend answers your question and you can ask him about another subsequence and so on.

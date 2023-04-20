@@ -1,4 +1,4 @@
-# [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
+# A+B Problem [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1000)
 
 Calculate a + b
 

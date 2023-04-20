@@ -1,4 +1,4 @@
-# [Map Coloring](https://acm.timus.ru/problem.aspx?space=1&num=1080)
+# Map Coloring [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1080)
 
 We consider a geographical map with `N` countries numbered from `1` to `N` (`0 < N < 99`). For every country we know the numbers of other countries which are connected with its border. From every country we can reach to any other one, eventually crossing some borders. Write a program which determines whether it is possible to color the map only in two colors — red and blue in such a way that if two countries are connected their colors are different. The color of the first country is red. Your program must output one possible coloring for the other countries, or show, that such coloring is impossible.
 

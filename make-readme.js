@@ -86,8 +86,9 @@ function processSolution(dir) {
   try {
     let readme = fs.readFileSync(`${dir}/README.md`, 'utf8');
     readme = readme.replace(/^\uFEFF/, '');                         // bom
-    if (!readme.match(/^\#\s\[(.+?)\]\((.+?)\)/) &&                  // # [title](url)
-        !readme.match(/^\#\s(.+)\n?/)) {
+    if (!readme.match(/^\# \[(.+?)\]\((.+?)\)/) &&                  // # [title](url)
+        !readme.match(/^\# (.+?) \[⬀\]\((.+?)\)/) &&                // # title [⬀](url)
+        !readme.match(/^\# (.+)\n?/)) {                
         console.error('File: ', `${dir}/README.md`, 'has invalid first line in README.md');
         console.error(readme)
         throw new Error('Invalid readme');
@@ -137,10 +138,9 @@ let treeToArray = (root) => {
 
   let rec = (el) => {
     if (el.files.length) {
-      el.files.forEach(solutionFile => 
-        solutions.push({taskId: el.taskId, title: el.title, taskUrl:el.taskUrl, dir: el.dir, solutionFile }));
+      solutions.push(el);
     } else {
-      solutions.push({taskId: '', title: el.title, taskUrl:el.taskUrl, dir: el.dir, solutionFile: el.dir + '/' });
+      solutions.push({taskId: '', title: el.title, taskUrl:el.taskUrl, dir: el.dir, files: [el.dir + '/'] });
     }
     el.children.forEach(rec);
   }
@@ -157,7 +157,7 @@ if (root.title === 'Competitive programming') {
     if (!c.children.length) return;
     console.log(c);
 
-    newReadmeLines.push(`## [${c.title}](${c.taskUrl})`);
+    newReadmeLines.push(`## ${c.title} [⬀](${c.taskUrl})`);
     newReadmeLines.push('');
     let solutions = treeToArray(c);
     newReadmeLines.push(
@@ -167,9 +167,9 @@ if (root.title === 'Competitive programming') {
 
 } else {
   let solutions = treeToArray(root);
-  const makeProblemLink = (s) => s.taskUrl ? `[${s.title}](${s.taskUrl})` : s.title;
+  const makeProblemLink = (s) => s.taskUrl ? `${s.title} [⬀](${s.taskUrl})` : s.title;
 
-  const makeSolutionLink = (s) => `[${s.solutionFile}](${s.solutionFile})`;
+  const makeSolutionLink = (s) => s.files.map(f => `[${f.replace(/^.*\//,'')}](${f})`).join(', ');
 
   strLength = s => s.length;
 

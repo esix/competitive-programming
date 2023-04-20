@@ -1,4 +1,4 @@
-# [Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020)
+# Rope [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1020)
 
 Plotters have barbarously hammered `N` nails into an innocent plane shape, so that one can see now only heads. Moreover, pursuing their mean object, they have hammered all the nails into the vertices of a convex polygon. After that they… it is awful… have roped off the nails, so that the shape felt upset (the rope was very thin). They’ve done it as it is shown in the figure.
 

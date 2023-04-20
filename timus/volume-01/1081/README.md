@@ -1,4 +1,4 @@
-# [Binary Lexicographic Sequence](https://acm.timus.ru/problem.aspx?space=1&num=1081)
+# Binary Lexicographic Sequence [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1081)
 
 
 Consider all the sequences with length (`0 < N < 44`), containing only the elements `0` and `1`, and no two ones are adjacent (`110` is not a valid sequence of length 3, `0101` is a valid sequence of length 4). Write a program which finds the sequence, which is on `K`-th place (`0 < K < 10⁹`) in the lexicographically sorted in ascending order collection of the described sequences.

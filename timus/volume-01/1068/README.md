@@ -1,5 +1,4 @@
-# [Sum](https://acm.timus.ru/problem.aspx?space=1&num=1068)
-
+# Sum [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1068)
 
 Your task is to find the sum of all integer numbers lying between `1` and `N` inclusive.
 

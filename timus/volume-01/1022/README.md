@@ -1,4 +1,4 @@
-# [Genealogical Tree](https://acm.timus.ru/problem.aspx?space=1&num=1022)
+# Genealogical Tree [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1022)
 
 ## Background
 

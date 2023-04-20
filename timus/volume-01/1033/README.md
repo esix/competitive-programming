@@ -1,4 +1,4 @@
-# [Labyrinth](https://acm.timus.ru/problem.aspx?space=1&num=1033)
+# Labyrinth [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1033)
 
 
 Administration of the labyrinth has decided to start a new season with new wallpapers. For this purpose they need a program to calculate the surface area of the walls inside the labyrinth. This job is just for you!

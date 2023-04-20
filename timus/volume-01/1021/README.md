@@ -1,4 +1,4 @@
-# [Sacrament of the Sum](https://acm.timus.ru/problem.aspx?space=1&num=1021)
+# Sacrament of the Sum [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1021)
 
 ## Background
 <i>

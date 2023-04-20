@@ -1,4 +1,4 @@
-# [The Time to Take Stones](https://acm.timus.ru/problem.aspx?space=1&num=1087)
+# The Time to Take Stones [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1087)
 
 
 You probably know the game where two players in turns take 1 to 3 stones from a pile. Looses the one who takes the last stone. We'll generalize this well known game. Assume that both of the players can take not 1, 2 or 3 stones, but `k₁`, `k₂`, …, `kₘ` ones. Again we'll be interested in one question: who wins in the perfect game. It is guaranteed that it is possible to make next move irrespective to already made moves.

@@ -1,4 +1,4 @@
-# [Superlong Sums](https://acm.timus.ru/problem.aspx?space=1&num=1048)
+# Superlong Sums [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1048)
 
 
 The creators of a new programming language D++ have found out that whatever limit for SuperLongInt type they make, sometimes programmers need to operate even larger numbers. A limit of `1000` digits is so small… You have to find the sum of two numbers with maximal size of `1 000 000` digits.
