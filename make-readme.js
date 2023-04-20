@@ -178,7 +178,7 @@ if (root.title === 'Competitive programming') {
   let solutionColWidth = Math.max.apply(Math, solutions.map(makeSolutionLink).map(strLength));
 
   idColWidth = Math.max(idColWidth, 'ID'.length);
-  problemColWidth = Math.max(problemColWidth, 'Problem statement'.length);
+  problemColWidth = Math.max(problemColWidth, 'Problem'.length);
   solutionColWidth = Math.max(solutionColWidth, 'Solution'.length);
 
   const wide = (str, w) => { while(str.length < w) str += ' '; return str;};

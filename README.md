@@ -1,6 +1,6 @@
 # Competitive programming
 
-## http://acmp.ru/ [⬀](http://acmp.ru/)
+## acmp.ru - Школа программиста [⬀](http://acmp.ru/)
 
 [A+B](acmp/page-01/0001), 
 [Сумма](acmp/page-01/0002), 
