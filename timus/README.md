@@ -39,30 +39,30 @@
 | 1086 | Cryptography [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1086)                  | [main.go](volume-01/1086/main.go)                                        |
 | 1087 | The Time to Take Stones [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1087)       | [main.go](volume-01/1087/main.go)                                        |
 | 1090 | In the Army Now [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1090)               | [main.cpp](volume-01/1090/main.cpp)                                      |
-|      | Volume 2 [⬀](http://acm.timus.ru/problemset.aspx?space=1&page=2)                      | [](volume-02/)                                                           |
-| 1100 | 1100. Таблица результатов [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1100)      | [main.cpp](volume-02/1100/main.cpp)                                      |
-| 1104 | Не спрашивай даму о возрасте [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1104)   | [main.go](volume-02/1104/main.go)                                        |
-| 1106 | Две команды [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1106)                    | [main.go](volume-02/1106/main.go)                                        |
-| 1110 | Степень [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1110)                        | [main.go](volume-02/1110/main.go)                                        |
-| 1118 | Нетривиальные числа [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1118)            | [main.go](volume-02/1118/main.go)                                        |
-| 1119 | Метро [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1119)                          | [main.go](volume-02/1119/main.go)                                        |
-| 1120 | Сумма последовательных чисел [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1120)   | [main.go](volume-02/1120/main.go)                                        |
-| 1121 | 1121. Филиалы [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1121)                  | [main.cpp](volume-02/1121/main.cpp)                                      |
-| 1123 | Зарплата [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1123)                       | [main.go](volume-02/1123/main.go)                                        |
-| 1126 | Магнитные бури [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1126)                 | [main.cpp](volume-02/1126/main.cpp)                                      |
-| 1131 | Копирование [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1131)                    | [main.go](volume-02/1131/main.go)                                        |
-| 1136 | Парламент [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1136)                      | [main.go](volume-02/1136/main.go)                                        |
-| 1139 | Городские кварталы [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1139)             | [main.go](volume-02/1139/main.go)                                        |
-| 1142 | Отношения [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1142)                      | [main.go](volume-02/1142/main.go)                                        |
-| 1146 | Maximum Sum [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1146)                    | [main.go](volume-02/1146/main.go)                                        |
-| 1149 | Танцы синуса [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1149)                   | [main.go](volume-02/1149/main.go)                                        |
-| 1161 | Stripies [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1161)                       | [main.go](volume-02/1161/main.go)                                        |
-| 1178 | Дороги Акбардина [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1178)               | [main.go](volume-02/1178/main.go)                                        |
-| 1180 | Игра с камушками [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1180)               | [main.go](volume-02/1180/main.go)                                        |
-| 1192 | Мячик во сне [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1192)                   | [main.go](volume-02/1192/main.go)                                        |
-| 1194 | Рукопожатия [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1194)                    | [main.go](volume-02/1194/main.go)                                        |
-| 1196 | Экзамен по истории [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1196)             | [main.cpp](volume-02/1196/main.cpp)                                      |
-| 1197 | Один в поле воин [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1197)               | [main.go](volume-02/1197/main.go)                                        |
+|      | Volume 2 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=2)                     | [](volume-02/)                                                           |
+| 1100 | Final Standings [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1100)               | [main.cpp](volume-02/1100/main.cpp)                                      |
+| 1104 | Don’t Ask Woman about Her Age [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1104) | [main.go](volume-02/1104/main.go)                                        |
+| 1106 | Two Teams [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1106)                     | [main.go](volume-02/1106/main.go)                                        |
+| 1110 | Power [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1110)                         | [main.go](volume-02/1110/main.go)                                        |
+| 1118 | Nontrivial Numbers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1118)            | [main.go](volume-02/1118/main.go)                                        |
+| 1119 | Conference [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1109)                    | [main.go](volume-02/1119/main.go)                                        |
+| 1120 | Sum of Sequential Numbers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1120)     | [main.go](volume-02/1120/main.go)                                        |
+| 1121 | Branches [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1121)                      | [main.cpp](volume-02/1121/main.cpp)                                      |
+| 1123 | Salary [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1123)                        | [main.go](volume-02/1123/main.go)                                        |
+| 1126 | Magnetic Storms [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1126)               | [main.cpp](volume-02/1126/main.cpp)                                      |
+| 1131 | Copying [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1131)                       | [main.go](volume-02/1131/main.go)                                        |
+| 1136 | Parliament [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1136)                    | [main.go](volume-02/1136/main.go)                                        |
+| 1139 | City Blocks [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1139)                   | [main.go](volume-02/1139/main.go)                                        |
+| 1142 | RSA Attack [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1141)                    | [main.go](volume-02/1142/main.go)                                        |
+| 1146 | Maximum Sum [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1146)                   | [main.go](volume-02/1146/main.go)                                        |
+| 1149 | Sinus Dances [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1149)                  | [main.go](volume-02/1149/main.go)                                        |
+| 1161 | Stripies [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1161)                      | [main.go](volume-02/1161/main.go)                                        |
+| 1178 | Akbardin’s Roads [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1178)              | [main.go](volume-02/1178/main.go)                                        |
+| 1180 | Stone Game [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1180)                    | [main.go](volume-02/1180/main.go)                                        |
+| 1192 | Ball in a Dream [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1192)               | [main.go](volume-02/1192/main.go)                                        |
+| 1194 | Handshakes [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1194)                    | [main.go](volume-02/1194/main.go)                                        |
+| 1196 | History Exam [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1196)                  | [main.cpp](volume-02/1196/main.cpp)                                      |
+| 1197 | Lonesome Knight [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1197)               | [main.go](volume-02/1197/main.go)                                        |
 |      | Volume 3 [⬀](http://acm.timus.ru/problemset.aspx?space=1&page=3)                      | [](volume-03/)                                                           |
 | 1203 | Научная конференция [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1203)            | [main.cpp](volume-03/1203/main.cpp), [main.go](volume-03/1203/main.go)   |
 | 1206 | Сумма цифр суммы чисел [⬀](http://acm.timus.ru/problem.aspx?space=1&num=1206)         | [main.go](volume-03/1206/main.go)                                        |
