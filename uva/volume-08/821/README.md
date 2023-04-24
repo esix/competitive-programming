@@ -1,4 +1,4 @@
-# [Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)
+# Page Hopping [⬀](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=762)
 
 It was recently reported that, on the average, only 19 clicks are necessary to move from any page on
 the World Wide Web to any other page. That is, if the pages on the web are viewed as nodes in a
@@ -37,14 +37,14 @@ For each test case, determine the average shortest path length between every pai
 three fractional digits. Display this length and the test case identifier (theyre numbered sequentially
 starting with 1) in a form similar to that shown in the sample output below.
 
-### Sample Input
+## Sample Input
 ```
 1 2 2 4 1 3 3 1 4 3 0 0
 1 2 1 4 4 2 2 7 7 1 0 0
 0 0
 ```
 
-### Sample Output
+## Sample Output
 ```
 Case 1: average length between pages = 1.833 clicks
 Case 2: average length between pages = 1.750 clicks

@@ -1,4 +1,4 @@
-# [Squares](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137)
+# Squares [⬀](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=137)
 
 A children’s board game consists of a square array of dots that contains lines connecting some of the
 pairs of adjacent dots. One part of the game requires that the players count the number of squares of
@@ -35,7 +35,7 @@ For each record, label the corresponding output with `Problem #1`, `Problem #2`,
 
 If no squares of any size exist, your program should print an appropriate message indicating so. Separate output for successive input records by a line of asterisks between two blank lines, like in the sample below.
 
-### Sample Input
+## Sample Input
 ```
 4
 16
@@ -62,7 +62,7 @@ H 2 1
 V 2 1
 ```
 
-### Sample Output
+## Sample Output
 
 ```
 Problem #1

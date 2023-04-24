@@ -1543,22 +1543,22 @@
 [Простое выражение](timus/volume-11/2066), 
 [Игра с орехами](timus/volume-11/2068)
 
-## UVa Online Judge [⬀](http://uva.onlinejudge.org/)
+## UVa Online Judge [⬀](https://onlinejudge.org/)
 
-[Ecological Bin Packing](uva/102), 
-[300 - Maya Calendar](uva/300), 
-[400 - Unix ls](uva/400), 
-[MPI Maelstrom](uva/423), 
-[Black Box](uva/501), 
-[King](uva/515), 
-[Frogger](uva/534), 
-[Wormholes](uva/558), 
 [601 - The PATH](uva/601), 
 [Self Numbers](uva/640), 
 [Date Bugs](uva/700), 
 [The Tourist Guide](uva/10099), 
 [Foreign Exchange](uva/10763), 
-[The 3n + 1 problem](uva/volume-01/0100), 
-[Rare Order](uva/volume-02/0200), 
-[Squares](uva/volume-02/0201), 
-[Page Hopping](uva/volume-08/0821)
+[The 3n + 1 problem](uva/volume-01/100), 
+[Ecological Bin Packing](uva/volume-01/102), 
+[Rare Order](uva/volume-02/200), 
+[Squares](uva/volume-02/201), 
+[Maya Calendar](uva/volume-03/300), 
+[Unix ls](uva/volume-04/400), 
+[MPI Maelstrom](uva/volume-04/423), 
+[Black Box](uva/volume-05/501), 
+[King](uva/volume-05/515), 
+[Frogger](uva/volume-05/534), 
+[Wormholes](uva/volume-05/558), 
+[Page Hopping](uva/volume-08/821)

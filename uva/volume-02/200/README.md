@@ -1,4 +1,4 @@
-# [Rare Order](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)
+# Rare Order [⬀](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=136)
 
 A rare book collector recently discovered a book written in an unfamiliar language that used the same
 characters as the English language. The book contained a short index, but the ordering of the items
@@ -23,7 +23,7 @@ are used.
 Your output should be a single line containing uppercase letters in the order that specifies the collating
 sequence used to produce the input data file.
 
-### Sample Input
+## Sample Input
 ```
 XWY
 ZX
@@ -33,7 +33,7 @@ YWWX
 #
 ```
 
-### Sample Output
+## Sample Output
 ```
 XZYW
 ```
