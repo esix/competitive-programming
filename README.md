@@ -1545,11 +1545,6 @@
 
 ## UVa Online Judge [⬀](https://onlinejudge.org/)
 
-[601 - The PATH](uva/601), 
-[Self Numbers](uva/640), 
-[Date Bugs](uva/700), 
-[The Tourist Guide](uva/10099), 
-[Foreign Exchange](uva/10763), 
 [The 3n + 1 problem](uva/volume-01/100), 
 [Ecological Bin Packing](uva/volume-01/102), 
 [Rare Order](uva/volume-02/200), 
@@ -1561,4 +1556,9 @@
 [King](uva/volume-05/515), 
 [Frogger](uva/volume-05/534), 
 [Wormholes](uva/volume-05/558), 
-[Page Hopping](uva/volume-08/821)
+[The PATH](uva/volume-06/601), 
+[Self Numbers](uva/volume-06/640), 
+[Date Bugs](uva/volume-07/700), 
+[Page Hopping](uva/volume-08/821), 
+[The Tourist Guide](uva/volume-100/10099), 
+[Foreign Exchange](uva/volume-107/10763)
