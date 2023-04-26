@@ -140,7 +140,7 @@ let treeToArray = (root) => {
     if (el.files.length) {
       solutions.push(el);
     } else {
-      solutions.push({taskId: '', title: el.title, taskUrl:el.taskUrl, dir: el.dir, files: [el.dir + '/'] });
+      solutions.push({taskId: '', title: el.title, taskUrl: el.taskUrl, dir: el.dir, files: [el.dir + '/'] });
     }
     el.children.forEach(rec);
   }
@@ -169,7 +169,7 @@ if (root.title === 'Competitive programming') {
   let solutions = treeToArray(root);
   const makeProblemLink = (s) => s.taskUrl ? `${s.title} [⬀](${s.taskUrl})` : s.title;
 
-  const makeSolutionLink = (s) => s.files.map(f => `[${f.replace(/^.*\//,'')}](${f})`).join(', ');
+  const makeSolutionLink = (s) => s.files.map(f => `[${f.replace(/^.*\//,'') || f.replace(/^.*\/^$/,'').replace(/\/$/, '')}](${f})`).join(', ');
 
   strLength = s => s.length;
 
