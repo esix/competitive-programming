@@ -1,4 +1,4 @@
-# [Grave](https://www.e-olymp.com/en/problems/7498)
+# Grave [⬀](https://www.e-olymp.com/en/problems/7498)
 Gerard develops a Halloween computer game. The game is played on a rectangular graveyard with a rectangular chapel in it. During the game, the player places new rectangular graves on the graveyard. The grave should completely fit inside graveyard territory and should not overlap with the chapel. The grave may touch borders of the graveyard or the chapel.
 
 ![prb7498.gif](fedac56d85d5ac7c4ab99452e429be16.gif)

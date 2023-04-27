@@ -1,4 +1,4 @@
-# [Equilateral triangle](https://www.e-olymp.com/en/contests/8947/problems/77341)
+# Equilateral triangle [⬀](https://www.e-olymp.com/en/contests/8947/problems/77341)
 
 
 Find the perimeter and the area of equilateral triangle.

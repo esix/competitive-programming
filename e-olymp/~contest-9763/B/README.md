@@ -1,4 +1,4 @@
-# [Sorting](https://www.e-olymp.com/en/problems/4738)
+# Sorting [⬀](https://www.e-olymp.com/en/problems/4738)
 Sort the array of integers in non-increasing order.
 
 ## Input

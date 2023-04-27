@@ -1,4 +1,4 @@
-# [Perimeter and area of triangle](https://www.e-olymp.com/en/contests/8947/problems/77343)
+# Perimeter and area of triangle [⬀](https://www.e-olymp.com/en/contests/8947/problems/77343)
 
 The real numbers x1, y1, x2, y2, x3, y3 - the coordinates of triangle vertices are given. Find the perimeter and the area of a triangle.
 

@@ -1,4 +1,4 @@
-# [Число - палиндром](https://acmp.ru/index.asp?main=task&id_task=173)
+# Число - палиндром [⬀](https://acmp.ru/index.asp?main=task&id_task=173)
 
 *(Время: 1 сек. Память: 16 Мб Сложность: 29%)*
 

@@ -1,1 +1,1 @@
-# [Нео-Венеция](http://acm.timus.ru/problem.aspx?space=1&num=1902)
+# Нео-Венеция [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1902)

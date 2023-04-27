@@ -1,4 +1,4 @@
-# [Tram](https://www.e-olymp.com/en/contests/9208/problems/80037)
+# Tram [⬀](https://www.e-olymp.com/en/contests/9208/problems/80037)
 
 Tram network in Zagreb consists of a number of intersections and rails connecting some of them. In every intersection there is a switch pointing to the one of the rails going out of the intersection. When the tram enters the intersection it can leave only in the direction the switch is pointing. If the driver wants to go some other way, he/she has to manually change the switch.
 

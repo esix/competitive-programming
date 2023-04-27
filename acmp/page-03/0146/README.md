@@ -1,1 +1,1 @@
-# [Длинный корень](http://acmp.ru/index.asp?main=task&id_task=146)
+# Длинный корень [⬀](http://acmp.ru/index.asp?main=task&id_task=146)

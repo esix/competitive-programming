@@ -1,4 +1,4 @@
-# [n-digit numbers](https://www.e-olymp.com/en/problems/8255)
+# n-digit numbers [⬀](https://www.e-olymp.com/en/problems/8255)
 Find all n-digit numbers with sum of digits equals to s.
 
 ## Input

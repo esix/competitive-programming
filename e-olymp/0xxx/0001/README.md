@@ -1,4 +1,4 @@
-# [Simple problem?](https://www.e-olymp.com/en/problems/1)
+# Simple problem? [⬀](https://www.e-olymp.com/en/problems/1)
 
 Program reads two-digit number and prints every digit separately, separated by a space.
 

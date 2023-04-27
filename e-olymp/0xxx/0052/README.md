@@ -1,4 +1,4 @@
-# [The Cheese for Anfisa](https://www.e-olymp.com/en/problems/52)
+# The Cheese for Anfisa [⬀](https://www.e-olymp.com/en/problems/52)
 
 ![prb52](1256242722.gif) 
 

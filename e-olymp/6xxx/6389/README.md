@@ -1,4 +1,4 @@
-# [Strahler Order](https://www.e-olymp.com/en/problems/6389)
+# Strahler Order [⬀](https://www.e-olymp.com/en/problems/6389)
 
 In geology, a river system can be represent as a direct graph. Each river segment is an edge; with the edge pointing the same way the waters flows. Nodes are either the source of a river segment (for example, a lake or spring), where rivers segments merge of diverge, or the mouth of the river.
 

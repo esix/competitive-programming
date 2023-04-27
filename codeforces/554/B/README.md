@@ -1,1 +1,1 @@
-# [Охана прибирается в комнате](http://codeforces.com/problemset/problem/554B)
+# Охана прибирается в комнате [⬀](http://codeforces.com/problemset/problem/554B)

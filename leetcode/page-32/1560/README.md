@@ -1,4 +1,4 @@
-# [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
+# 1560. Most Visited Sector in a Circular Track [⬀](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
 
 Given an integer `n` and an integer array `rounds`. We have a circular track which consists of `n` sectors labeled from `1` to `n`. A marathon will be held on this track, the marathon consists of `m` rounds. The `iᵗʰ` round starts at sector `rounds[i - 1]` and ends at sector `rounds[i]`. For example, round 1 starts at sector `rounds[0]` and ends at sector `rounds[1]`
 

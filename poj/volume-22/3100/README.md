@@ -1,4 +1,4 @@
-# [Root of the Problem](http://poj.org/problem?id=3100)
+# Root of the Problem [⬀](http://poj.org/problem?id=3100)
 
 ## Description
 

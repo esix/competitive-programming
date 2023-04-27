@@ -1,4 +1,4 @@
-# [Volume (100 - 199)](http://acm.sgu.ru/problemset.php?contest=0&volume=1)
+# Volume (100 - 199) [⬀](http://acm.sgu.ru/problemset.php?contest=0&volume=1)
 
 
 

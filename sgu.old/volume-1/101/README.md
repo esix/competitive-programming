@@ -1,4 +1,4 @@
-# [Domino](http://acm.sgu.ru/problem.php?contest=0&problem=101)
+# Domino [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=101)
 
 
 _time limit per test: 0.25 sec._

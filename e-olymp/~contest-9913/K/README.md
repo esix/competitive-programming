@@ -1,4 +1,4 @@
-# [Replacement](https://www.e-olymp.com/en/problems/4892)
+# Replacement [⬀](https://www.e-olymp.com/en/problems/4892)
 Given a sequence of n positive integers. You must replace each element with the next nearest one (with a larger index) that is strictly larger than its value. If there is no larger element, replace this element with zero.
 
 ## Input

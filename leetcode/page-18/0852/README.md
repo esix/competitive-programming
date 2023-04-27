@@ -1,4 +1,4 @@
-# [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+# 852. Peak Index in a Mountain Array [⬀](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 Let's call an array arr a mountain if the following properties hold:
 

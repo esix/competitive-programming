@@ -1,4 +1,4 @@
-# [Conscription](https://www.e-olymp.com/en/contests/9151/problems/79565)
+# Conscription [⬀](https://www.e-olymp.com/en/contests/9151/problems/79565)
 
 
 To organize a campaign on Azeroth Orgrim Doomhammer needs one more squad. On war appeal arrived n orcs. Doomhammer immediately estimated the abilities of each orc in close combat and javelin throw. Now he must determine which of them to be appointed soldier-infantryman (grunt), and who the bounty hunter (headhunter). At the same time, in order for the troop to be combat-ready, it is necessary that the troop should have at least g grunts and at least h headhunters. After determining each orc into some type of troop, the strength of all troop can be determined as the sum of abilities of all orcs in the specialization assigned to them.

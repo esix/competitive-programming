@@ -1,4 +1,4 @@
-# [Minimum Sum LCM](https://www.e-olymp.com/en/problems/1246)
+# Minimum Sum LCM [⬀](https://www.e-olymp.com/en/problems/1246)
 
 LCM (Least Common Multiple) of a set of integers is defined as the minimum number, which is a multiple of all integers in that set. It is interesting to note that any positive integer can be expressed as the LCM of a set of positive integers. For example 12 can be expressed as the LCM of 1, 12 or 12, 12 or 3, 4 or 4, 6 or 1, 2, 3, 4 etc.
 

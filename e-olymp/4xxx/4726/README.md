@@ -1,4 +1,4 @@
-# [First and last appearance](https://www.e-olymp.com/en/problems/4726)
+# First and last appearance [⬀](https://www.e-olymp.com/en/problems/4726)
 Given a string of letters. If the letter f appears only once, print its index (indexes are numbered starting from 0).
 
 If the letter f appears two or more times, print the index of the first and of the last appearance.

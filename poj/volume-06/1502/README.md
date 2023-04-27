@@ -1,4 +1,4 @@
-# [MPI Maelstrom](http://poj.org/problem?id=1502)
+# MPI Maelstrom [⬀](http://poj.org/problem?id=1502)
 
 ## Description
 

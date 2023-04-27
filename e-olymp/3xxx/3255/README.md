@@ -1,4 +1,4 @@
-# [Arithmetic](https://www.e-olymp.com/en/problems/3255)
+# Arithmetic [⬀](https://www.e-olymp.com/en/problems/3255)
 Specifies the expression that contains only numbers and operations + and *. Calculate the value of the expression, assuming that the operations * and + have the same priority. In this case 2 + 2 * 2 equals 8.
 
 ## Input

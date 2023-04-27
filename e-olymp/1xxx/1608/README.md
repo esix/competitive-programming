@@ -1,4 +1,4 @@
-# [The number-palindrome](https://www.e-olymp.com/en/problems/1608)
+# The number-palindrome [⬀](https://www.e-olymp.com/en/problems/1608)
 Check if the given number is a palindrome.
 
 The number is a palindrome if it remains the same when its digits are reversed.

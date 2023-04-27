@@ -1,4 +1,4 @@
-# [08 (351-400)](https://leetcode.com/problemset/all/#page-8)
+# 08 (351-400) [⬀](https://leetcode.com/problemset/all/#page-8)
 
 
 

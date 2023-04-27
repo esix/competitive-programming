@@ -1,4 +1,4 @@
-# [Martian Mining](http://poj.org/problem?id=2948)
+# Martian Mining [⬀](http://poj.org/problem?id=2948)
 
 ## Description
 

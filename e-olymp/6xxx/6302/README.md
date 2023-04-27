@@ -1,4 +1,4 @@
-# [Garland](https://www.e-olymp.com/en/problems/6302)
+# Garland [⬀](https://www.e-olymp.com/en/problems/6302)
 
 There are n lamps. For each lamp the flashing period is given in seconds. Initially all the lamps are flashed. Determine when they all simultaneously flash next time.
 

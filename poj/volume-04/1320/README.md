@@ -1,4 +1,4 @@
-# [Street Numbers](http://poj.org/problem?id=1320)
+# Street Numbers [⬀](http://poj.org/problem?id=1320)
 
 ## Description
 

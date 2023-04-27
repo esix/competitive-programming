@@ -1,4 +1,4 @@
-# [Divisibility by 11](https://www.e-olymp.com/en/problems/2607)
+# Divisibility by 11 [⬀](https://www.e-olymp.com/en/problems/2607)
 Divisibility by 11 is often stated as follows: add the digits standing separately at even and at odd positions. If the difference of these sums is divisible by 11, then the number is divisible by 11. Calculate these sums.
 
 ## Input

@@ -1,4 +1,4 @@
-# [Fractional Lotion](https://www.e-olymp.com/en/problems/6613)
+# Fractional Lotion [⬀](https://www.e-olymp.com/en/problems/6613)
 Freddy practices various kinds of alternative medicine, such as homeopathy. This practice is based on the belief that successively diluting some substances in water or alcohol while shaking them thoroughly produces remedies for many diseases.
 
 This year, Freddy’s vegetables appear to have caught some disease and he decided to experiment a little bit and investigate whether homeopathy works for vegetables too. As Freddy is also a big fan of mathematics, he does not strictly insist that the substances have small concentrations, but he instead requires the concentrations to be reciprocals of integers (1/n). In experiments, some of the vegetables really got much better.

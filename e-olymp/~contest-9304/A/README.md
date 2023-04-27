@@ -1,4 +1,4 @@
-# [Удвоение](https://www.e-olymp.com/en/contests/9304/problems/81177)
+# Удвоение [⬀](https://www.e-olymp.com/en/contests/9304/problems/81177)
 
 Удвоить каждую цифру заданного трицифрового числа.
 

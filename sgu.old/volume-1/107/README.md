@@ -1,4 +1,4 @@
-# [987654321 problem](http://acm.sgu.ru/problem.php?contest=0&problem=107)
+# 987654321 problem [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=107)
 
 _time limit per test: 0.25 sec._
 

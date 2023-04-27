@@ -1,4 +1,4 @@
-# [Parking](https://www.e-olymp.com/en/problems/504)
+# Parking [⬀](https://www.e-olymp.com/en/problems/504)
 You want to park the car guests who have come to the party, on the street. According to the rules the cars cannot park:
 
 - In front of the private departure;

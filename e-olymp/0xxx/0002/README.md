@@ -1,4 +1,4 @@
-# [Digits](https://www.e-olymp.com/en/problems/2)
+# Digits [⬀](https://www.e-olymp.com/en/problems/2)
 
 Find the number of digits in a nonnegative integer n.
 

@@ -1,4 +1,4 @@
-# [Instruction](https://www.e-olymp.com/en/contests/9666/problems/84871)
+# Instruction [⬀](https://www.e-olymp.com/en/contests/9666/problems/84871)
 Ingrid is a head of a big railway station and, among other duties, is responsible for routing trains to the right platforms. The station has one entrance, and there are many switches that direct trains to other switches and platforms.
 
 Each switch has one inbound track and two outbound tracks, platforms have one inbound track, and station entrance has one outbound track. Each outbound track is connected to one inbound track and vice versa. Every switch and platform is reachable from station entrance.

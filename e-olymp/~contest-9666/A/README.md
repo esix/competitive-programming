@@ -1,4 +1,4 @@
-# [Alarm Clock](https://www.e-olymp.com/en/contests/9666/problems/84863)
+# Alarm Clock [⬀](https://www.e-olymp.com/en/contests/9666/problems/84863)
 
 Alice likes her digital alarm clock. She sets them up every evening. Last night Alice had a dream about her clock. Unfortunately, the only thing she is able to remember is the number of highlighted segments of the clock. Alice wonders what time was set on the clock in her dream.
 

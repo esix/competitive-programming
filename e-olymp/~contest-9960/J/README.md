@@ -1,4 +1,4 @@
-# [Complete graph](https://www.e-olymp.com/en/problems/3987)
+# Complete graph [⬀](https://www.e-olymp.com/en/problems/3987)
 Undirected graph is called complete, if any pair of its different vertices is connected with at least one edge. For a given list of graph edges, check whether it is complete.
 
 ## Input

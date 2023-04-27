@@ -1,4 +1,4 @@
-# [From adjacency list to adjacency matrix](https://www.e-olymp.com/en/problems/3982)
+# From adjacency list to adjacency matrix [⬀](https://www.e-olymp.com/en/problems/3982)
 
 Simple oriented graph is given by adjacency list. Print its representation in the form of adjacency matrix.
 

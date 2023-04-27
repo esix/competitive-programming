@@ -1,1 +1,1 @@
-# [Отличная команда](http://acm.timus.ru/problem.aspx?space=1&num=1931)
+# Отличная команда [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1931)

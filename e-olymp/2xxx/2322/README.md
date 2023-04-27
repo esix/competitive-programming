@@ -1,4 +1,4 @@
-# [Columns](https://www.e-olymp.com/en/problems/2322)
+# Columns [⬀](https://www.e-olymp.com/en/problems/2322)
 Given a table n × n, filled with integers. Peter finds the column good, if it contains number x. For each column find out is it good.
 
 ## Input

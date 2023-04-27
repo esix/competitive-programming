@@ -1,4 +1,4 @@
-# [Factorial](http://poj.org/problem?id=1401)
+# Factorial [⬀](http://poj.org/problem?id=1401)
 
 ## Description
 

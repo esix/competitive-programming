@@ -1,1 +1,1 @@
-﻿# [Симметрия](http://acmp.ru/index.asp?main=task&id_task=28)
+﻿# Симметрия [⬀](http://acmp.ru/index.asp?main=task&id_task=28)

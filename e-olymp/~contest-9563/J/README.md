@@ -1,4 +1,4 @@
-# [The number in reverse order](https://www.e-olymp.com/en/contests/9563/problems/83872)
+# The number in reverse order [⬀](https://www.e-olymp.com/en/contests/9563/problems/83872)
 Write a nonnegative integer n in reverse order.
 
 ## Input

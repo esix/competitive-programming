@@ -1,4 +1,4 @@
-# [Black and white graphics](https://www.e-olymp.com/en/problems/458)
+# Black and white graphics [⬀](https://www.e-olymp.com/en/problems/458)
 
 One of the basic tasks of computer graphics is black-and-white images. Images can be represented in the form of rectangles of width w and height h, divided into w × h unit squares, each of which is either white or black. Such individual squares are called pixels. In computer memory the images are stored in the form of rectangular tables containing zeros and ones.
 

@@ -1,1 +1,1 @@
-﻿# [Художник](http://acmp.ru/index.asp?main=task&id_task=27)
+﻿# Художник [⬀](http://acmp.ru/index.asp?main=task&id_task=27)

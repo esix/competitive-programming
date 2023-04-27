@@ -1,4 +1,4 @@
-# [The Directors’ Visitors](https://www.e-olymp.com/en/problems/66)
+# The Directors’ Visitors [⬀](https://www.e-olymp.com/en/problems/66)
 
 The secretary of school Martha Georgiyivna began her working day with pretension to director every day:
 

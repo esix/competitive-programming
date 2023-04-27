@@ -1,4 +1,4 @@
-# [Who will get the "avtomat"?](https://www.e-olymp.com/en/contests/9608/problems/84256)
+# Who will get the "avtomat"? [⬀](https://www.e-olymp.com/en/contests/9608/problems/84256)
 In Altai State Technical University the students receive grades according to 100-point scale, that is, from zero to one hundred. Professor Pavel Ivanovich has promised the students that those whose semester rating will be higher than the average for the group, will receive an "avtomat". The elder of the group Petya Petrov has promised to everybody who will get "avtomat" to give one chocolate bar (Petya's Dad delivers the chocolate into shops, and Petya reached an agreement with him about sponsorship).
 
 And now Peter has a problem - he needs to figure out how much chocolate bars he should bring to the university. Help him in good endeavor. Imagine how it will be good if every entrepreneur will help performing students!

@@ -1,4 +1,4 @@
-# [Number of operations](https://www.e-olymp.com/en/problems/901)
+# Number of operations [⬀](https://www.e-olymp.com/en/problems/901)
 
 Find the total quantity of operations of addition (+), subtraction (-) and multiplication (*) in the given arithmetic expression.
 

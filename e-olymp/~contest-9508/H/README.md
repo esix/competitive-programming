@@ -1,4 +1,4 @@
-# [Stepan Friends](https://www.e-olymp.com/en/contests/9508/problems/83308)
+# Stepan Friends [⬀](https://www.e-olymp.com/en/contests/9508/problems/83308)
 
 Stepan returned from International Olympiad in Informatics (IOI) and brought with him n colored stones as souvenirs. Stepan is not a greedy boy, so he decided to share stones with his friends. Stepan gave to each friend exactly one stone. It turned out that Stepan has now also only one stone. Determine how many friends has Stepan.
 

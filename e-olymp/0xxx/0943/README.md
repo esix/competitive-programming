@@ -1,4 +1,4 @@
-# [Swap the digits](https://www.e-olymp.com/en/problems/943)
+# Swap the digits [⬀](https://www.e-olymp.com/en/problems/943)
 In a given three-digit positive integer swap the first and the last digits.
 
 ## Input

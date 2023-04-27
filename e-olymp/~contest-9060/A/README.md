@@ -1,4 +1,4 @@
-# [Ancient manuscripts](https://www.e-olymp.com/en/contests/9060/problems/78596)
+# Ancient manuscripts [⬀](https://www.e-olymp.com/en/contests/9060/problems/78596)
 
 In some ancient country there lived brothers. How many were them, we do not know exactly, but in historical sources mentioned that there were at least three. Time passed and they got children that scattered all over the world, and like their parents, each of them built own city. Again, over the time the number of relatives began to increase rapidly and they decided to build roads between some cities, and some relatives already even built the circular roads around their cities. The manuscript mentions that the number of cities in the country did not exceed 8000. Кроме того, в тех же рукописях содержались схематические карты, которые показывали наличие дорог между городами, или объездной дороги вокруг города. Карты имели вид квадратных матриц, в которых цифра 1 указывала на наличие дороги между городами, или вокруг города, или 0 в случае отсутствия таковой.
 

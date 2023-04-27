@@ -1,4 +1,4 @@
-# [GCD two numbers](https://www.e-olymp.com/en/contests/8860/problems/76522)
+# GCD two numbers [⬀](https://www.e-olymp.com/en/contests/8860/problems/76522)
 
 Find the GCD (greatest common divisor) of two nonnegative integers.
 

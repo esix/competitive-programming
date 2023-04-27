@@ -1,4 +1,4 @@
-# [Sum of two integers](http://acm.mipt.ru/judge/problems.pl?problem=000&lang=en)
+# Sum of two integers [⬀](http://acm.mipt.ru/judge/problems.pl?problem=000&lang=en)
 
 _Time limit = 3 second(s)_
 

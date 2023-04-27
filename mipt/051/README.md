@@ -1,4 +1,4 @@
-# [Strange Tower](http://acm.mipt.ru/judge/problems.pl?problem=051&lang=en)
+# Strange Tower [⬀](http://acm.mipt.ru/judge/problems.pl?problem=051&lang=en)
 
 _Time limit = 5 second(s)_
 

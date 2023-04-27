@@ -1,1 +1,1 @@
-# [Полтора землекопа](http://acm.timus.ru/problem.aspx?space=1&num=1756)
+# Полтора землекопа [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1756)

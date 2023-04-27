@@ -1,4 +1,4 @@
-# [Twice the minimum](https://www.e-olymp.com/en/problems/917)
+# Twice the minimum [⬀](https://www.e-olymp.com/en/problems/917)
 The array of real numbers is given. Calculate the twice value of the minimum element in array.
 
 ## Input

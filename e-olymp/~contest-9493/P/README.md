@@ -1,4 +1,4 @@
-# [Least Common Multiple](https://www.e-olymp.com/en/contests/9493/problems/83165)
+# Least Common Multiple [⬀](https://www.e-olymp.com/en/contests/9493/problems/83165)
 
 Find the Least Common Multiple of all positive integers from 1 to n.
 

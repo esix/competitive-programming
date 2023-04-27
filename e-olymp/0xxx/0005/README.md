@@ -1,4 +1,4 @@
-# [Two factors](https://www.e-olymp.com/en/problems/5)
+# Two factors [⬀](https://www.e-olymp.com/en/problems/5)
 
 Find the least number n that can we represented as a product n = a ∙ b in k (1 ≤ k ≤ 50) ways. Products a ∙ b and b ∙ a are the same, all numbers are positive integers.
 

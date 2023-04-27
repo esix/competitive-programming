@@ -1,4 +1,4 @@
-# [Hello world! Read & write the data](https://www.e-olymp.com/en/contests/9508)
+# Hello world! Read & write the data [⬀](https://www.e-olymp.com/en/contests/9508)
 
 
 

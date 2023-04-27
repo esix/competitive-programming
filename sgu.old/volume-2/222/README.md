@@ -1,4 +1,4 @@
-# [Little Rooks](http://acm.sgu.ru/problem.php?contest=0&problem=222)
+# Little Rooks [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=222)
 
 _time limit per test: 0.25 sec._
 

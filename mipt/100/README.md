@@ -1,4 +1,4 @@
-# [Nim Game -- who is the winner?](http://acm.mipt.ru/judge/problems.pl?problem=100&lang=en)
+# Nim Game -- who is the winner? [⬀](http://acm.mipt.ru/judge/problems.pl?problem=100&lang=en)
 
 *Time limit: 3 seconds.*
 

@@ -1,4 +1,4 @@
-# [Little shop of flowers](http://acm.sgu.ru/problem.php?contest=0&problem=104)
+# Little shop of flowers [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=104)
 
 _time limit per test: 0.25 sec. _
 

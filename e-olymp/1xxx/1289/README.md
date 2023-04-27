@@ -1,4 +1,4 @@
-# [Lunch](https://www.e-olymp.com/en/problems/1289)
+# Lunch [⬀](https://www.e-olymp.com/en/problems/1289)
 
 Vlad wants to take for lunch a couple of fruits. He has a different bananas, b different apples and c different pears. In how many ways can he choose 2 different fruits from available?
 

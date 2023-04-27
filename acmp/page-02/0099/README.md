@@ -1,1 +1,1 @@
-# [Лабиринт](http://acmp.ru/index.asp?main=task&id_task=99)
+# Лабиринт [⬀](http://acmp.ru/index.asp?main=task&id_task=99)

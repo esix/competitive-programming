@@ -1,4 +1,4 @@
-# [Game](http://poj.org/problem?id=1900)
+# Game [⬀](http://poj.org/problem?id=1900)
 
 ## Description
 

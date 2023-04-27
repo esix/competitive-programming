@@ -1,4 +1,4 @@
-# [Easy](https://www.e-olymp.com/en/problems/7440)
+# Easy [⬀](https://www.e-olymp.com/en/problems/7440)
 Given a string s, determine if it can be a palindrome after deleting exactly one character.
 
 ## Input

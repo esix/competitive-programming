@@ -1,4 +1,4 @@
-# [Vocabulary](https://www.e-olymp.com/en/problems/5089)
+# Vocabulary [⬀](https://www.e-olymp.com/en/problems/5089)
 Peter decided to create a dictionary of Orc language. He came to each of n Orcs, and each Orc told him one word and Peter wrote this word. Peter decided not to write the definitions to these words because every Orc knows their meaning. So, all you have left (Peter is already tired of this idea) is to sort the list of words in lexicographical order.
 
 ## Input

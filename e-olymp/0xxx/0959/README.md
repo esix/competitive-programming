@@ -1,4 +1,4 @@
-# [Sum of digits](https://www.e-olymp.com/en/problems/959)
+# Sum of digits [⬀](https://www.e-olymp.com/en/problems/959)
 Find the sum of the first and the last digit in four-digit positive integer.
 
 ## Input

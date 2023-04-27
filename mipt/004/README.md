@@ -1,4 +1,4 @@
-# [Athletes](http://acm.mipt.ru/judge/problems.pl?problem=004&lang=en)
+# Athletes [⬀](http://acm.mipt.ru/judge/problems.pl?problem=004&lang=en)
 
 _Time limit = 3 second(s)_
 

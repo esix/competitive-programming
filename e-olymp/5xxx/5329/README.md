@@ -1,4 +1,4 @@
-# [Party](https://www.e-olymp.com/en/problems/5329)
+# Party [⬀](https://www.e-olymp.com/en/problems/5329)
 
 In how many ways can we choose among n students exactly k of them, who will get yogurt? Print the answer modulo 9929.
 

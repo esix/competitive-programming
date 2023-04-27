@@ -1,4 +1,4 @@
-# [Contr-operation](https://www.e-olymp.com/en/problems/1952)
+# Contr-operation [⬀](https://www.e-olymp.com/en/problems/1952)
 Hacker Vasily got an access to the class book and wants to change all his minimum marks to maximum. Write a program that changes Vasily's marks, but vice versa.
 
 ## Input

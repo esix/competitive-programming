@@ -1,4 +1,4 @@
-# [Silver medal](https://www.e-olymp.com/en/problems/1957)
+# Silver medal [⬀](https://www.e-olymp.com/en/problems/1957)
 Vasiliy athlete competed in hokkeybol and got in the individual event silver medal. It is known that participants who scored the same number of points will be awarded the same awards. We also know that were raffled off with gold, silver and bronze medals. In this problem we do not ask the hokkeybol rules. You only need to determine how many points were scored by Vasiliy.
 
 ## Input

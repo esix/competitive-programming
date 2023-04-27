@@ -1,4 +1,4 @@
-# [The shortest path](https://www.e-olymp.com/en/contests/9208/problems/80032)
+# The shortest path [⬀](https://www.e-olymp.com/en/contests/9208/problems/80032)
 
 The not oriented graph is given. Find the shortest path from vertex a to vertex b.
 

@@ -1,4 +1,4 @@
-# [Maximum GCD](https://www.e-olymp.com/en/contests/8903/problems/76956)
+# Maximum GCD [⬀](https://www.e-olymp.com/en/contests/8903/problems/76956)
 
 Given the n integers, you have to find the maximum GCD (greatest common divisor) of every possible pair of these integers.
 

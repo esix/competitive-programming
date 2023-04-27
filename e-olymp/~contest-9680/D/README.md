@@ -1,4 +1,4 @@
-# [Lazybones](https://www.e-olymp.com/en/contests/9680/problems/85015)
+# Lazybones [⬀](https://www.e-olymp.com/en/contests/9680/problems/85015)
 Student Valera is a classic example of the idler. In classes, he almost did not go, and only appears at the end of the semester at the university and deliver "tails". His dream: to find a day when it will be possible to pass at once all the debts. He has a schedule of work for teachers, of whom know exactly what to and what day of the month, each teacher will be available daily. Help Valera write a program that is scheduled to determine whether Valera pass all debts in one day or not.
 
 ## Input

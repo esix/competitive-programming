@@ -1,4 +1,4 @@
-# [Maximum by minimum](https://www.e-olymp.com/en/contests/9208/problems/80030)
+# Maximum by minimum [⬀](https://www.e-olymp.com/en/contests/9208/problems/80030)
 
 An oriented unweighted graph is given. Find in it a vertex, the shortest distance from which to the given one is maximum, and print this distance.
 

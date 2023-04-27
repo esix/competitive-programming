@@ -1,4 +1,4 @@
-# [Gravity](https://www.e-olymp.com/en/contests/9290/problems/80900)
+# Gravity [⬀](https://www.e-olymp.com/en/contests/9290/problems/80900)
 
 You would like to implement a simple simulation of gravity on a 2-dimensional grid, consisting of n rows and m columns.
 

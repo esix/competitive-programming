@@ -1,4 +1,4 @@
-# [Egg Drop](https://www.e-olymp.com/en/contests/9151/problems/79574)
+# Egg Drop [⬀](https://www.e-olymp.com/en/contests/9151/problems/79574)
 
 There is a classic riddle where you are given two eggs and a k-floor building and you want to know the highest floor from which you can drop the egg and not have it break.
 

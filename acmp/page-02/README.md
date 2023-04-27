@@ -1,4 +1,4 @@
-# [0051-0100](http://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)
+0051-0100 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)
 
 | ID   | Problem statement                                                            | Solution                       |
 |------|------------------------------------------------------------------------------|--------------------------------|

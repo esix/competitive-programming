@@ -1,4 +1,4 @@
-# [Cake from Tolya](https://www.e-olymp.com/en/problems/1033)
+# Cake from Tolya [⬀](https://www.e-olymp.com/en/problems/1033)
 
 ![1257493652.gif](1257493652.gif]
 

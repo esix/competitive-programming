@@ -1,4 +1,4 @@
-# [Number by 3](https://www.e-olymp.com/en/contests/9608/problems/84248)
+# Number by 3 [⬀](https://www.e-olymp.com/en/contests/9608/problems/84248)
 The sequence of real numbers a1, a2,..., an is given. Find the sum and the number of positive elements which indexes are divisible by 3.
 
 ## Input

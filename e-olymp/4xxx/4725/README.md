@@ -1,4 +1,4 @@
-# [Sum of squares](https://www.e-olymp.com/en/problems/4725)
+# Sum of squares [⬀](https://www.e-olymp.com/en/problems/4725)
 Given positive integer n. Find the sum 1² + 2² + 3² + ... + n².
 
 ## Input

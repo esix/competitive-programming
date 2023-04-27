@@ -1,4 +1,4 @@
-# [Islands](https://www.e-olymp.com/en/problems/8217)
+# Islands [⬀](https://www.e-olymp.com/en/problems/8217)
 
 You are mapping a faraway planet using a satellite.
 

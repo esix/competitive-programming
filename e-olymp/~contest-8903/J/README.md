@@ -1,4 +1,4 @@
-# [Bishops on a Toral Board](https://www.e-olymp.com/en/contests/8903/problems/76958)
+# Bishops on a Toral Board [⬀](https://www.e-olymp.com/en/contests/8903/problems/76958)
 
 A bishop is a chess piece that can move in any diagonal direction to any number of cells.
 

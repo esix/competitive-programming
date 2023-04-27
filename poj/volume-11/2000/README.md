@@ -1,4 +1,4 @@
-# [Gold Coins](http://poj.org/problem?id=2000)
+# Gold Coins [⬀](http://poj.org/problem?id=2000)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [MegaGCD](https://www.e-olymp.com/en/contests/8860/problems/76525)
+# MegaGCD [⬀](https://www.e-olymp.com/en/contests/8860/problems/76525)
 
 
 Given some numbers. Find the biggest number that divides all these numbers.

@@ -1,4 +1,4 @@
-# [Cities and roads](https://www.e-olymp.com/en/problems/992)
+# Cities and roads [⬀](https://www.e-olymp.com/en/problems/992)
 
 In the galaxy of "Milky Way" on the planet "Neptune" there are n cities, some of them are connected by roads. Emperor "Maximus" of Galaxy "Milky Way" has decided to make an inventory of roads on the planet "Neptune". But as it turned out he was not good at math, so he asks you to count the number of roads.
 

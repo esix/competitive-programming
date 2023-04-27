@@ -1,1 +1,1 @@
-# [Волшебная шляпа](http://acm.timus.ru/problem.aspx?space=1&num=1446)
+# Волшебная шляпа [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1446)

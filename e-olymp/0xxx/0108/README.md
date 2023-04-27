@@ -1,4 +1,4 @@
-# [Median number](https://www.e-olymp.com/en/problems/108)
+# Median number [⬀](https://www.e-olymp.com/en/problems/108)
 Three different numbers a, b, c are given. Print the median number.
 
 ## Input

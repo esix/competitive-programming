@@ -1,4 +1,4 @@
-# [Very Easy!!!](https://www.e-olymp.com/en/problems/1210)
+# Very Easy!!! [⬀](https://www.e-olymp.com/en/problems/1210)
 You are given the value of n and a. Determine the answer for the following series:
 
 ![prb1210](1283721632.JPG)

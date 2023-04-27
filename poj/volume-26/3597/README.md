@@ -1,4 +1,4 @@
-# [Polygon Division](http://poj.org/problem?id=3597)
+# Polygon Division [⬀](http://poj.org/problem?id=3597)
 
 ## Description
 

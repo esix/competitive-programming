@@ -1,4 +1,4 @@
-# [The 3n + 1 problem](http://poj.org/problem?id=1207)
+# The 3n + 1 problem [⬀](http://poj.org/problem?id=1207)
 
 ## Description
 

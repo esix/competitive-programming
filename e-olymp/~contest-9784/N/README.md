@@ -1,4 +1,4 @@
-# [Saddle points](https://www.e-olymp.com/en/problems/5282)
+# Saddle points [⬀](https://www.e-olymp.com/en/problems/5282)
 The matrix K is given. It contains n rows and m columns. The saddle point of the matrix is an element that is minimum in its row and the maximum in its column.
 
 Find the number of saddle points in a given matrix.

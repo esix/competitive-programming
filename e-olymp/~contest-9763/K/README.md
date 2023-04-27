@@ -1,4 +1,4 @@
-# [Sort the letters](https://www.e-olymp.com/en/problems/8316)
+# Sort the letters [⬀](https://www.e-olymp.com/en/problems/8316)
 A string consisting of lowercase Latin letters is given. Sort its letters in ascending and then in descending lexicographical orders.
 
 ## Input

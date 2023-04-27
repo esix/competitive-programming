@@ -1,4 +1,4 @@
-# [Уравнение для 5 класса!](https://acmp.ru/index.asp?main=task&id_task=163)
+# Уравнение для 5 класса! [⬀](https://acmp.ru/index.asp?main=task&id_task=163)
 
 *(Время: 1 сек. Память: 16 Мб Сложность: 25%)*
 

@@ -1,4 +1,4 @@
-# [Odd elements](https://www.e-olymp.com/en/problems/7841)
+# Odd elements [⬀](https://www.e-olymp.com/en/problems/7841)
 Given array of n integers. Print all its odd elements.
 
 ## Input

@@ -1,4 +1,4 @@
-# [Tournament](https://www.e-olymp.com/en/problems/3002)
+# Tournament [⬀](https://www.e-olymp.com/en/problems/3002)
 Two players started a darts tournament. The tournament is a series of n games. In each game, participants perform a number of shots, gaining points. The game is considered won by the player who scored more points in it than the opponent. If the players scored an equal number of points in the game, then its outcome is considered to be a draw. The winner of the tournament is the one who get the most wins.
 
 Write a program that determines the winner of the tournament.

@@ -1,4 +1,4 @@
-# [Function - 2](https://www.e-olymp.com/en/contests/9646/problems/84661)
+# Function - 2 [⬀](https://www.e-olymp.com/en/contests/9646/problems/84661)
 Implement a function f(x) = sqrt(x) + 2 * x + sin(x), where sqrt is a square root function.
 
 ## Input

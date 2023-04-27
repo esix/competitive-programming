@@ -1,4 +1,4 @@
-# [Multifactorial](https://www.e-olymp.com/en/contests/9680/problems/85018)
+# Multifactorial [⬀](https://www.e-olymp.com/en/contests/9680/problems/85018)
 The k-multifactorial of n is denoted by fack(n) and is defined as the product of every positive number of the form n – k * x, x = 0, 1, 2, … .
 
 A formal definition of multifactorial is:

@@ -1,4 +1,4 @@
-# [Insert Parentheses](https://www.e-olymp.com/en/problems/7311)
+# Insert Parentheses [⬀](https://www.e-olymp.com/en/problems/7311)
 
 Milhouse need to solve a school task by tomorrow and needs your help. Here is the task:
 

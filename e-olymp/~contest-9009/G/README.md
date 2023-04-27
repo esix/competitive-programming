@@ -1,4 +1,4 @@
-# [Point on a segment](https://www.e-olymp.com/en/contests/9009/problems/78063)
+# Point on a segment [⬀](https://www.e-olymp.com/en/contests/9009/problems/78063)
 
 Determine whether a given point belongs to a given segment.
 

@@ -1,4 +1,4 @@
-# [Minimum and maximum](https://www.e-olymp.com/en/contests/9646/problems/84657)
+# Minimum and maximum [⬀](https://www.e-olymp.com/en/contests/9646/problems/84657)
 Find minimum and maximum between two positive integers.
 
 ## Input

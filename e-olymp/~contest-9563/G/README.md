@@ -1,4 +1,4 @@
-# [The ratio of product to the sum](https://www.e-olymp.com/en/contests/9563/problems/83869)
+# The ratio of product to the sum [⬀](https://www.e-olymp.com/en/contests/9563/problems/83869)
 Find the ratio of the product of digits of natural number to their sum.
 
 ## Input

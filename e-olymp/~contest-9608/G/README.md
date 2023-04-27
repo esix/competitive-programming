@@ -1,4 +1,4 @@
-# [Shift the elements](https://www.e-olymp.com/en/contests/9608/problems/84250)
+# Shift the elements [⬀](https://www.e-olymp.com/en/contests/9608/problems/84250)
 The linear array of n integers is given. Shift its elements cyclically one position to the right.
 
 ## Input

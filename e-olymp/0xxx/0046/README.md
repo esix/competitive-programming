@@ -1,4 +1,4 @@
-# [The Segments](https://www.e-olymp.com/en/problems/46)
+# The Segments [⬀](https://www.e-olymp.com/en/problems/46)
 
 Cut a segment with length L on the most quantity of parts the lengths of which are natural numbers, that from them it is not impossible to make a single triangle.
 

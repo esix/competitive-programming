@@ -1,4 +1,4 @@
-# [Odd positions](https://www.e-olymp.com/en/problems/7459)
+# Odd positions [⬀](https://www.e-olymp.com/en/problems/7459)
 
 Find the product of digits in five-digit integer n, standing at the odd positions.
 

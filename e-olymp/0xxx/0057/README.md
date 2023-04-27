@@ -1,4 +1,4 @@
-# [The Butterfly – Medical Attendan](https://www.e-olymp.com/en/problems/57)
+# The Butterfly – Medical Attendan [⬀](https://www.e-olymp.com/en/problems/57)
 
 When pupils are going from home to school or from school to home they like to eat candies. But, as usual, this pleasant matter sometimes has unpleasant consequences. They sometimes throw out wrappings on a school yard .
 

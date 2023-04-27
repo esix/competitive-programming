@@ -1,4 +1,4 @@
-# [Prime numbers](https://www.e-olymp.com/en/problems/830)
+# Prime numbers [⬀](https://www.e-olymp.com/en/problems/830)
 List all prime numbers from m to n inclusive.
 
 ## Input

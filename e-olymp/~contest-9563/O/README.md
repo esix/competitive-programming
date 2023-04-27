@@ -1,4 +1,4 @@
-# [The first digit of the number](https://www.e-olymp.com/en/contests/9563/problems/83877)
+# The first digit of the number [⬀](https://www.e-olymp.com/en/contests/9563/problems/83877)
 Find the first digit of an integer. Start count digits from the leftmost one.
 
 ## Input

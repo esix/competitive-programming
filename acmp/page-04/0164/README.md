@@ -1,4 +1,4 @@
-# [Счастливый билет - 2](https://acmp.ru/index.asp?main=task&id_task=164)
+# Счастливый билет - 2 [⬀](https://acmp.ru/index.asp?main=task&id_task=164)
 
 *(Время: 1 сек. Память: 16 Мб Сложность: 26%)*
 

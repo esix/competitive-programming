@@ -1,4 +1,4 @@
-# [15 (701-750)](https://leetcode.com/problemset/all/#page-15)
+# 15 (701-750) [⬀](https://leetcode.com/problemset/all/#page-15)
 
 
 | ID  | Problem statement                                                                                         | Solution                   |

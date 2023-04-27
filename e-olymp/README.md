@@ -1,4 +1,4 @@
-# [Eolymp](http://www.eolymp.com/en/problems)
+# Eolymp [⬀](http://www.eolymp.com/en/problems)
 
 Compilers:
 

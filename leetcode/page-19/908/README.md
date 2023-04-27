@@ -1,4 +1,4 @@
-# [Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
+# Smallest Range I [⬀](https://leetcode.com/problems/smallest-range-i/)
 
 Given an array `A` of integers, for each integer `A[i]` we may choose any `x` with `-K <= x <= K`, and add `x` to `A[i]`.
 

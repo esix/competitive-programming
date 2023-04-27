@@ -1,4 +1,4 @@
-# [Square root](https://www.e-olymp.com/en/problems/957)
+# Square root [⬀](https://www.e-olymp.com/en/problems/957)
 Find the square root of the sum of digits of three digit number.
 
 ## Input

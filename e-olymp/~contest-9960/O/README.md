@@ -1,4 +1,4 @@
-# [Count number of edges](https://www.e-olymp.com/en/problems/5072)
+# Count number of edges [⬀](https://www.e-olymp.com/en/problems/5072)
 
 The directed graph is given with an adjacency matrix. Find the number of edges in a graph.
 

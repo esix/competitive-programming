@@ -1,4 +1,4 @@
-# [Equation](https://www.e-olymp.com/en/problems/414)
+# Equation [⬀](https://www.e-olymp.com/en/problems/414)
 The positive integer n is given. How many solutions in positive integers has the equation 1 / n = 1 / x + 1 / y ?
 
 ## Input

@@ -1,4 +1,4 @@
-# [Function 9](https://www.e-olymp.com/en/contests/8860/problems/76524)
+# Function 9 [⬀](https://www.e-olymp.com/en/contests/8860/problems/76524)
 
 Given the function which arguments are positive integers
 

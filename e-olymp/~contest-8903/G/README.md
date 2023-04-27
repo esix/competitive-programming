@@ -1,4 +1,4 @@
-# [Papa Carlo](https://www.e-olymp.com/en/contests/8903/problems/76955)
+# Papa Carlo [⬀](https://www.e-olymp.com/en/contests/8903/problems/76955)
 
 Papa Carlo was making Buratino all his life. He made dozens, hundreds or maybe thousands of beautiful and well-dressed boys with long noses. Papa Carlo had a bunch of wooden sticks in his barn. He kept them for future noses. Last Friday Papa Carlo received an urgent order to produce batch of Buratino with the same noses. He decided to use all his wooden sticks for the noses.
 

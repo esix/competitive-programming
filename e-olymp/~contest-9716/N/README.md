@@ -1,4 +1,4 @@
-# [B-Casting](https://www.e-olymp.com/en/problems/5124)
+# B-Casting [⬀](https://www.e-olymp.com/en/problems/5124)
 Casting around for problems leads us to combine modular arithmetic with different integer bases, particularly the problem of computing values modulo b - 1, where b is the base in which the value is represented. For example,
 
 7829₁₀ mod 9 = 8

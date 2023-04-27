@@ -1,4 +1,4 @@
-# [Regular graph](https://www.e-olymp.com/en/contests/9060/problems/78613)
+# Regular graph [⬀](https://www.e-olymp.com/en/contests/9060/problems/78613)
 
 Undirected graph is called regular, if all its vertices have the same degree.
 

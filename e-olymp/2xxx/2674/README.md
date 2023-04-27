@@ -1,4 +1,4 @@
-# [Reduce a fraction](https://www.e-olymp.com/en/problems/2674)
+# Reduce a fraction [⬀](https://www.e-olymp.com/en/problems/2674)
 
 Reduce the given fraction to lowest terms.
 

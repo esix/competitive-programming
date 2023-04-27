@@ -1,4 +1,4 @@
-# [1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+# 1103. Distribute Candies to People [⬀](https://leetcode.com/problems/distribute-candies-to-people/)
 
 We distribute some number of `candies`, to a row of **`n = num_people`** people in the following way:
 

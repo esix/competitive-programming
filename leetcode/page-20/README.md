@@ -1,4 +1,4 @@
-# [20 (951-1000)](https://leetcode.com/problemset/all/#page-20)
+# 20 (951-1000) [⬀](https://leetcode.com/problemset/all/#page-20)
 
 
 | ID  | Problem statement                                                                                         | Solution                   |

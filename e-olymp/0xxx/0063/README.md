@@ -1,4 +1,4 @@
-# [Anfisa and the flowers](https://www.e-olymp.com/en/problems/63)
+# Anfisa and the flowers [⬀](https://www.e-olymp.com/en/problems/63)
 
 ![prb63](1256151144.gif)
 

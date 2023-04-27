@@ -1,4 +1,4 @@
-# [19 (901-950)](https://leetcode.com/problemset/all/#page-19)
+# 19 (901-950) [⬀](https://leetcode.com/problemset/all/#page-19)
 
 
 | ID  | Problem statement                                                                               | Solution                   |

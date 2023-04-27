@@ -1,4 +1,4 @@
-# [Intro to geometry - 2](https://www.e-olymp.com/en/contests/9009)
+# Intro to geometry - 2 [⬀](https://www.e-olymp.com/en/contests/9009)
 
 
 

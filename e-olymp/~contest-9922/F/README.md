@@ -1,4 +1,4 @@
-# [Factors](https://www.e-olymp.com/en/problems/3259)
+# Factors [⬀](https://www.e-olymp.com/en/problems/3259)
 Find the smallest possible integer x, that has exactly n dividers.
 
 ## Input

@@ -1,4 +1,4 @@
-# [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+# Decrypt String from Alphabet to Integer Mapping [⬀](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 
 Given a string `s` formed by digits (`'0'` - `'9'`) and `'#'` . We want to map `s` to English lowercase characters as follows:
 

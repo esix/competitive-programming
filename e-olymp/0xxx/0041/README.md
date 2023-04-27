@@ -1,4 +1,4 @@
-# [Command of the Mayor](https://www.e-olymp.com/en/problems/41)
+# Command of the Mayor [⬀](https://www.e-olymp.com/en/problems/41)
 
 To ensure victory in the elections, the mayor decided to build a team of his friends, where everyone is a friend of each other. Knowing the relationship between an all N acquaintances mayor to build a team the greatest number of M. When the existence of multiple solutions is sufficient to derive only one of them.
 

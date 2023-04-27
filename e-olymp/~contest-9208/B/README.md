@@ -1,4 +1,4 @@
-# [Arson](https://www.e-olymp.com/en/contests/9208/problems/80029)
+# Arson [⬀](https://www.e-olymp.com/en/contests/9208/problems/80029)
 
 There is a common web in front of you. However, as an experienced contester, you noticed that it is a connected graph with n vertices and m edges. If you fire some vertex, it will lights up, after a second all adjacent vertices light up, then all adjacent ones with already burning will light up, etc.
 

@@ -1,4 +1,4 @@
-# [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+# 1502. Can Make Arithmetic Progression From Sequence [⬀](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 
 Given an array of numbers `arr`. A sequence of numbers is called an arithmetic progression if the difference between any two consecutive elements is the same.
 

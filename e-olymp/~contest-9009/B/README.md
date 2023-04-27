@@ -1,4 +1,4 @@
-# [Polar angle of point](https://www.e-olymp.com/en/contests/9009/problems/78058)
+# Polar angle of point [⬀](https://www.e-olymp.com/en/contests/9009/problems/78058)
 
 Find the polar angle of the point.
 

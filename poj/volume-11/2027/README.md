@@ -1,4 +1,4 @@
-# [No Brainer](http://poj.org/problem?id=2027)
+# No Brainer [⬀](http://poj.org/problem?id=2027)
 
 ## Description
 

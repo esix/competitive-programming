@@ -1,4 +1,4 @@
-# [An ordinary boy](https://www.e-olymp.com/en/problems/7792)
+# An ordinary boy [⬀](https://www.e-olymp.com/en/problems/7792)
 Petya is an ordinary boy. Each time before the beginning of each academic year, he has a desire to take up his mind. And this year he did not retreat from his goal immediately after the beginning of his studies. Attentively listening to the teacher and doing all the homework, he became the best student in the class.
 
 The teacher noticed the Peter's success and gave him the most difficult version of the math exam. Almost all the tasks the boy solved during the lesson, but with one he failed.

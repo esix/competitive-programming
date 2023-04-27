@@ -1,4 +1,4 @@
-# [Sweets for mushrooms](https://www.e-olymp.com/en/problems/4359)
+# Sweets for mushrooms [⬀](https://www.e-olymp.com/en/problems/4359)
 It seems strange, but mushrooms like soda. Moreover, Michael likes to make experiments with it. Each kind of soda has it's own level of sweetness. Michael has n containers with soda of different levels. If Michael mix two containers with levels x and y, instead of these two he will get soda with level 2 · min(x,y).
 
 Help Michael to get soda with the highest possible level of sweetness.

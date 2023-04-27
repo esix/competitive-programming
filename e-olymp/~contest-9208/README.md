@@ -1,4 +1,4 @@
-# [Breadth First Search](https://www.e-olymp.com/ru/contests/9208)
+# Breadth First Search [⬀](https://www.e-olymp.com/ru/contests/9208)
 
 
 

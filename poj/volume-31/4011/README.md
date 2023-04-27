@@ -1,4 +1,4 @@
-# [Automated Telephone Exchange](http://poj.org/problem?id=4011)
+# Automated Telephone Exchange [⬀](http://poj.org/problem?id=4011)
 
 In St Petersburg phone numbers are formatted as “XXX–XX–XX”, where the first 
 three digits represent index of the Automated Telephone Exchange (ATE). Each ATE 

@@ -1,4 +1,4 @@
-# [White cubes](https://www.e-olymp.com/en/contests/9527/problems/83484)
+# White cubes [⬀](https://www.e-olymp.com/en/contests/9527/problems/83484)
 Professor Samodelkin plans to make cubes out of white bars. The length of each cube side is 1 dm. After producing cubes professor decided to make all them white. How many cubes of side 1 dm will be able to make professor out of one bar, and how many faces he has to paint, if it is known that the lengths of bar sides are integers, and also given in decimetres.
 
 ## Input

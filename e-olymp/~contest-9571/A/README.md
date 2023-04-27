@@ -1,4 +1,4 @@
-# [Brazil](https://www.e-olymp.com/en/contests/9571/problems/83967)
+# Brazil [⬀](https://www.e-olymp.com/en/contests/9571/problems/83967)
 In Terry Gilliam’s movie “Brazil” we are introduced to a dystopian world that is governed by an overgrown, all-encompassing bureaucratic system.
 
 And while there is some basic similarity to the world Orwell imagined in Nineteen Eighty-Four, the world in Brazil lacks the efficiency. The bureaucratic system is completely dysfunctional, and the entire world over-relies on old and poorly maintained machinery.

@@ -1,4 +1,4 @@
-# [Breadth First Search](https://www.e-olymp.com/en/problems/2401)
+# Breadth First Search [⬀](https://www.e-olymp.com/en/problems/2401)
 
 Given an undirected graph. Find the distance from one given vertex to another.
 

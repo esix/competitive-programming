@@ -1,4 +1,4 @@
-# [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+# Previous Permutation With One Swap [⬀](https://leetcode.com/problems/previous-permutation-with-one-swap/)
 
 Given an array of positive integers `arr` (not necessarily distinct), return the *lexicographically largest permutation that is smaller than* `arr`, that can be **made with exactly one swap** (A *swap* exchanges the positions of two numbers `arr[i]` and `arr[j]`). If it cannot be done, then return the same array.
 

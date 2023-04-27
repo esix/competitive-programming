@@ -1,4 +1,4 @@
-# [Sightseeing trip](https://www.e-olymp.com/en/contests/9527/problems/83488)
+# Sightseeing trip [⬀](https://www.e-olymp.com/en/contests/9527/problems/83488)
 
 The pupils from 10-B class decided in the autumn holiday to go on an excursion to the capital. Knowing the number of boys n and girls m, determine how many rooms you need to book in a hotel, if each room has k beds and it is forbidden to settle boys and girls together.
 

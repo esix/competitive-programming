@@ -1,4 +1,4 @@
-# [The circle and line](https://www.e-olymp.com/en/problems/359)
+# The circle and line [⬀](https://www.e-olymp.com/en/problems/359)
 
 There is a circle of radius R with center at (x, y) and the line that is given with the coordinates of its two points. Find the length of the line segment inside the circle.
 

@@ -1,4 +1,4 @@
-# [Number of divisors](https://www.e-olymp.com/en/problems/4742)
+# Number of divisors [⬀](https://www.e-olymp.com/en/problems/4742)
 The integer n is given. Find the number of its divisors, excluding the number n itself and 1.
 
 The program must contain the function

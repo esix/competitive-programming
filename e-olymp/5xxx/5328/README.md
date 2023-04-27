@@ -1,4 +1,4 @@
-# [Find Minimum](https://www.e-olymp.com/en/problems/5328)
+# Find Minimum [⬀](https://www.e-olymp.com/en/problems/5328)
 Alarm in Summer Computer School! Minimum is lost. You must find it.
 
 ## Input

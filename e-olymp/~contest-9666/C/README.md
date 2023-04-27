@@ -1,4 +1,4 @@
-# [Combinator Expression](https://www.e-olymp.com/en/contests/9666/problems/84865)
+# Combinator Expression [⬀](https://www.e-olymp.com/en/contests/9666/problems/84865)
 Combinatory logic may be thought as one of computational models allowing to express any computable function as a composition of functions from a small finite basis. In this problem we consider a restricted variant of BCKW basis, BCKI.
 
 Combinator expression in BCKI basis is a string, corresponding to the following grammar:

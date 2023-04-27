@@ -1,4 +1,4 @@
-# [Number of words](https://www.e-olymp.com/en/problems/909)
+# Number of words [⬀](https://www.e-olymp.com/en/problems/909)
 Find the number of words in the given text.
 
 ## Input

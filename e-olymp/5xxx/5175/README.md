@@ -1,4 +1,4 @@
-# [The last digit](https://www.e-olymp.com/en/problems/5175)
+# The last digit [⬀](https://www.e-olymp.com/en/problems/5175)
 Print the last digit of a number.
 
 ## Input

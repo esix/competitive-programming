@@ -1,4 +1,4 @@
-# [Function](https://www.e-olymp.com/en/contests/9646/problems/84669)
+# Function [⬀](https://www.e-olymp.com/en/contests/9646/problems/84669)
 Let function f(x) is defined as
 
 ![prb4812.gif](77b1814b6c20c9aaf2ad845222e18752.gif)

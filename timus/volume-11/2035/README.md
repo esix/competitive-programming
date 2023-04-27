@@ -1,1 +1,1 @@
-# [Очередной пробный тур](http://acm.timus.ru/problem.aspx?space=1&num=2035)
+# Очередной пробный тур [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2035)

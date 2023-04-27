@@ -1,4 +1,4 @@
-# [Different-different](https://www.e-olymp.com/en/problems/5337)
+# Different-different [⬀](https://www.e-olymp.com/en/problems/5337)
 n integers are given. How many of them are different?
 
 ## Input

@@ -1,4 +1,4 @@
-# [Volume (500 - 553)](http://acm.sgu.ru/problemset.php?contest=0&volume=5)
+# Volume (500 - 553) [⬀](http://acm.sgu.ru/problemset.php?contest=0&volume=5)
 
 
 

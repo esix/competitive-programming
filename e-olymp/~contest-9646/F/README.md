@@ -1,4 +1,4 @@
-# [Function tabulation](https://www.e-olymp.com/en/contests/9646/problems/84658)
+# Function tabulation [⬀](https://www.e-olymp.com/en/contests/9646/problems/84658)
 Write a program that prints the values of a function y = 3 · sin(x) on segment from a to b inclusively with step h.
 
 ## Input

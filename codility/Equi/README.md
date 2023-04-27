@@ -1,1 +1,1 @@
-# [Equi](https://codility.com/c/run/demo3NSACC-RB2)
+# Equi [⬀](https://codility.com/c/run/demo3NSACC-RB2)

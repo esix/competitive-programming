@@ -1,4 +1,4 @@
-# [Knight move](https://www.e-olymp.com/en/problems/4021)
+# Knight move [⬀](https://www.e-olymp.com/en/problems/4021)
 
 The rectangular board of size n × m (n rows and m columns) is given. The chess knight is located in the left upper corner. You must relocate it to the right lower corner. The knight can move only either two cells down and one right, or one cell down and two cells right.
 

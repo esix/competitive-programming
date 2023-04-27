@@ -1,4 +1,4 @@
-# [Remove spaces](https://www.e-olymp.com/en/problems/5049)
+# Remove spaces [⬀](https://www.e-olymp.com/en/problems/5049)
 One string is given. Transform all sequential spaces into one.
 
 ## Input

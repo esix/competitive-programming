@@ -1,4 +1,4 @@
-# [Quadrilateral](https://www.e-olymp.com/en/problems/1120)
+# Quadrilateral [⬀](https://www.e-olymp.com/en/problems/1120)
 
 ![prb1120](1281597701.JPG)
 

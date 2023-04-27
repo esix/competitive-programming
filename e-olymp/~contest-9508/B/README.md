@@ -1,4 +1,4 @@
-# [12345](https://www.e-olymp.com/en/contests/9508/problems/83302)
+# 12345 [⬀](https://www.e-olymp.com/en/contests/9508/problems/83302)
 
 Print the digits 1, 2, 3, 4, 5, each in a separate line.
 

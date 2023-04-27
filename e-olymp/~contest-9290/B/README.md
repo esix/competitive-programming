@@ -1,4 +1,4 @@
-# [Majority](https://www.e-olymp.com/en/contests/9290/problems/80892)
+# Majority [⬀](https://www.e-olymp.com/en/contests/9290/problems/80892)
 
 The votes are in! Mathematicians world-wide have been polled, and each has chosen their favorite number between 1 and 1000. Your goal is to tally the votes and determine what the most popular number is.
 

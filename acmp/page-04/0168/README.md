@@ -1,4 +1,4 @@
-# [Натуральный ряд чисел](https://acmp.ru/index.asp?main=task&id_task=168)
+# Натуральный ряд чисел [⬀](https://acmp.ru/index.asp?main=task&id_task=168)
 
 *(Время: 1 сек. Память: 16 Мб Сложность: 28%)*
 

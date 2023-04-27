@@ -1,4 +1,4 @@
-# [Depth First Search - Basics](https://www.e-olymp.com/en/contests/9116)
+# Depth First Search - Basics [⬀](https://www.e-olymp.com/en/contests/9116)
 
 
 

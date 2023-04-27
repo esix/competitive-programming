@@ -1,4 +1,4 @@
-# [Warm-Up Contest](http://lightoj.com/practice_contest_problemset.php?contest_id=727)
+# Warm-Up Contest [⬀](http://lightoj.com/practice_contest_problemset.php?contest_id=727)
 
 | ID | Problem statement                                                                                    | Solution                 |
 |----|------------------------------------------------------------------------------------------------------|--------------------------|

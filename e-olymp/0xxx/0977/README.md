@@ -1,4 +1,4 @@
-# [Is it a Tree?](https://www.e-olymp.com/en/problems/977)
+# Is it a Tree? [⬀](https://www.e-olymp.com/en/problems/977)
 
 Undirected graph without loops and multiple edges is given with the adjacency matrix. Determine whether the graph is a tree.
 

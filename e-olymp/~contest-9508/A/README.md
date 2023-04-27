@@ -1,4 +1,4 @@
-# [Hello World!](https://www.e-olymp.com/en/contests/9508/problems/83301)
+# Hello World! [⬀](https://www.e-olymp.com/en/contests/9508/problems/83301)
 
 Print the message "Hello World!"
 

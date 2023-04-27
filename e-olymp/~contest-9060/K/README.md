@@ -1,4 +1,4 @@
-# [Loops](https://www.e-olymp.com/en/contests/9060/problems/78606)
+# Loops [⬀](https://www.e-olymp.com/en/contests/9060/problems/78606)
 
 The adjacency matrix of an undirected graph is given. Determine whether it contains loops.
 

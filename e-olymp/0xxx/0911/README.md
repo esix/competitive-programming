@@ -1,4 +1,4 @@
-# [Quadratic equation](https://www.e-olymp.com/en/problems/911)
+# Quadratic equation [⬀](https://www.e-olymp.com/en/problems/911)
 Write a program to solve a quadratic equation ax² + bx + c = 0 (a ≠ 0).
 
 ## Input

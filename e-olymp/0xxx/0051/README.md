@@ -1,4 +1,4 @@
-# [The Cost of the K-dominoes](https://www.e-olymp.com/ru/problems/51)
+# The Cost of the K-dominoes [⬀](https://www.e-olymp.com/ru/problems/51)
 
 The worker of the department of the technical control liked to make with rejects the “dominoes” which have identical values. The enterprise which produced K-dominoes did not know it. It got always claims acted on the sum which equaled to the cost of the K-“dominoes”.
 

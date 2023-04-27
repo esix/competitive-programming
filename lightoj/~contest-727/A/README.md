@@ -1,4 +1,4 @@
-# [Nabab Siraj-Ud-Dowla](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=A)
+# Nabab Siraj-Ud-Dowla [⬀](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=A)
 
 There is a king name Nabab Siraj-Ud-Dowla. He love bananas so much. In his kingdom there is big field which contains many banana trees. We can represent this field as a 2D grid. In this grid some of the cells are contains banana tree, some of them are empty and some of the cells are are for tax area. If you select a cell which contains a banana tree then you can earn a banana and if you select a cell which is tax area then you must pay a banana to Nabab Siraj-Ud-Dowla. 
 

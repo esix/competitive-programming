@@ -1,4 +1,4 @@
-# [A+B](https://www.e-olymp.com/en/problems/6174)
+# A+B [⬀](https://www.e-olymp.com/en/problems/6174)
 
 There is a computer, which has two memory cells (let us denote these cells by the letters a and b). Each cell (variable) stores some integer at any time. The computer can execute only two instructions a+=b and b+=a. The first instruction increases the value of the variable a by the value stored in the variable b. The second one, respectively, increases the value of b by the value a. A program for this computer consists of a sequence (possible empty) of such instructions. Theinstructions are executed in the appropriate order.
 

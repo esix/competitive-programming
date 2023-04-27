@@ -1,4 +1,4 @@
-# [Маскарад](http://acm.sgu.ru/olimp/problem.php?contest=0&problem=100)
+# Маскарад [⬀](http://acm.sgu.ru/olimp/problem.php?contest=0&problem=100)
 
 - _ограничение времени на тест: 0.25 сек._
 - _ограничение памяти на тест: 4096 KB._

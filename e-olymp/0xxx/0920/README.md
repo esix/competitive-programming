@@ -1,4 +1,4 @@
-# [Use the function](https://www.e-olymp.com/en/problems/920)
+# Use the function [⬀](https://www.e-olymp.com/en/problems/920)
 Three real numbers х, y and z are given. Find min(max(x,y), max(y,z), x+y+z) using the auxiliary functions for calculation the minimum and the maximum of two elements.
 
 ## Input

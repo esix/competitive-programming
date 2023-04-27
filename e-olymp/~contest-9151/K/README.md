@@ -1,4 +1,4 @@
-# [Grid](https://www.e-olymp.com/en/contests/9151/problems/79575)
+# Grid [⬀](https://www.e-olymp.com/en/contests/9151/problems/79575)
 
 You are on the top left square of an m * n grid, where each square on the grid has a digit on it. From a given square that has digit k on it, a move consists of jumping exactly k squares in one of the four cardinal directions. What is the minimum number of moves required to get from the top left corner to the bottom right corner?
 

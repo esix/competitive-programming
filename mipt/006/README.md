@@ -1,4 +1,4 @@
-# [Three squares](http://acm.mipt.ru/judge/problems.pl?problem=006&lang=en)
+# Three squares [⬀](http://acm.mipt.ru/judge/problems.pl?problem=006&lang=en)
 
 _Time limit = 3 second(s)_
 

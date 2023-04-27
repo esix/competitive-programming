@@ -1,4 +1,4 @@
-# [LCM two natural numbers](https://www.e-olymp.com/en/problems/1602)
+# LCM two natural numbers [⬀](https://www.e-olymp.com/en/problems/1602)
 
 Find LCM (least common multiple) of two integers.
 

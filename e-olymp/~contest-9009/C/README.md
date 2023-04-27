@@ -1,4 +1,4 @@
-# [The angle between the vectors](https://www.e-olymp.com/en/contests/9009/problems/78059)
+# The angle between the vectors [⬀](https://www.e-olymp.com/en/contests/9009/problems/78059)
 
 Calculate the angle between two vectors.
 

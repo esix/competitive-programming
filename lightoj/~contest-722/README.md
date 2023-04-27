@@ -1,4 +1,4 @@
-# [CUET Practice contest for 13 Batch](http://www.lightoj.com/practice_contest_problemset.php?contest_id=722)
+# CUET Practice contest for 13 Batch [⬀](http://www.lightoj.com/practice_contest_problemset.php?contest_id=722)
 
 | ID | Problem statement                                                                                           | Solution                 |
 |----|-------------------------------------------------------------------------------------------------------------|--------------------------|

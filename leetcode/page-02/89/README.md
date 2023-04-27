@@ -1,4 +1,4 @@
-# [Gray Code](https://leetcode.com/problems/gray-code/)
+# Gray Code [⬀](https://leetcode.com/problems/gray-code/)
 
 An **n-bit gray code sequence** is a sequence of `2ⁿ` integers where:
 

@@ -1,4 +1,4 @@
-# [Double reverse](https://www.e-olymp.com/en/contests/9608/problems/84253)
+# Double reverse [⬀](https://www.e-olymp.com/en/contests/9608/problems/84253)
 Given a sequence of positive integers 1, 2, 3, ..., n. Arrange first in reverse order the part of this sequence starting from the element with number a to the element with number b, and then reverse the subsequence starting from element with number c to the element with number d.
 
 ## Input

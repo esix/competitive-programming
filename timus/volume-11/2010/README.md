@@ -1,1 +1,1 @@
-# [Юный гроссмейстер Саша](http://acm.timus.ru/problem.aspx?space=1&num=2010)
+# Юный гроссмейстер Саша [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2010)

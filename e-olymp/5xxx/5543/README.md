@@ -1,4 +1,4 @@
-# [Business Card Juggling](https://www.e-olymp.com/en/problems/5543)
+# Business Card Juggling [⬀](https://www.e-olymp.com/en/problems/5543)
 Lord Bradley has n friends. Each of them has their own name, titles and history but, to be frank, Bradley has never cared to remember all this information. He simply numbers his friends 1, 2, ..., n. For every friend, Bradley keeps his business card: all n cards (in some random order) form a stack, which is always in his wallet. Whenever a friend comes to visit him, and his proper titles must be quickly recalled, Lord Bradley takes out his stack and moves cards (one by one) from the top to the bottom, until the visitor's card is the front one. Then the stack is put back into Bradley's wallet.
 
 Lord Bradley is a distinguished traveler and explorer, but he doesn't like unnecessary work. Given a sequence of his friends' visits, determine for every visit how many cards he has to shuffle to find the correct one.

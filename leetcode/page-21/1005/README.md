@@ -1,4 +1,4 @@
-# [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+# Maximize Sum Of Array After K Negations [⬀](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
 
 Given an array `A` of integers, we **must** modify the array in the following way: we choose an `i` and replace `A[i]` with `-A[i]`, and we repeat this process `K` times in total.  (We may choose the same index `i` multiple times.)
 

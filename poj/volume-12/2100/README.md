@@ -1,4 +1,4 @@
-# [Graveyard Design](http://poj.org/problem?id=2100)
+# Graveyard Design [⬀](http://poj.org/problem?id=2100)
 
 
 ## Description

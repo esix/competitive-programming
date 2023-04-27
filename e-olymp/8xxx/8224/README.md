@@ -1,4 +1,4 @@
-# [Suffixes of a substring](https://www.e-olymp.com/en/problems/8224)
+# Suffixes of a substring [⬀](https://www.e-olymp.com/en/problems/8224)
 The suffix of a string S is any substring of the form S[k.. size(S)] (1 ≤ k ≤ size(S), size(S) is the length of the string). Suffix can be either empty or match the string itself. If suffix is not empty and does not match with the string S, it is called the proper suffix of string S. Print the number of suffixes and all proper suffixes of substring S[i..j] in the increasing order of their lengths.
 
 ## Input

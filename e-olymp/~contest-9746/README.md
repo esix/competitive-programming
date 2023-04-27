@@ -1,4 +1,4 @@
-# [Math + other](https://www.e-olymp.com/ru/contests/9746)
+# Math + other [⬀](https://www.e-olymp.com/ru/contests/9746)
 
 
 

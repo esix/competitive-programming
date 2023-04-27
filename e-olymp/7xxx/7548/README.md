@@ -1,4 +1,4 @@
-# [Happy Camper](https://www.e-olymp.com/en/problems/7548)
+# Happy Camper [⬀](https://www.e-olymp.com/en/problems/7548)
 
 As Happy Camper Harry pulls into his favorite campground with his family, he notices the sign: 'Campground occupancy is limited to 5 days within any consecutive 8-day period.' Harry is just starting a 20-day vacation. What is the maximum number of days he can occupy a campsite during his vacation?
 

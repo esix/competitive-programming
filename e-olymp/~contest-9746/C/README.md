@@ -1,4 +1,4 @@
-# [The Angle](https://www.e-olymp.com/en/problems/1125)
+# The Angle [⬀](https://www.e-olymp.com/en/problems/1125)
 
 ![prb1125](1282976050.JPG)
 

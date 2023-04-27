@@ -1,4 +1,4 @@
-# [Kalium 2015](https://codility.com/programmers/challenges/kalium2015)
+# Kalium 2015 [⬀](https://codility.com/programmers/challenges/kalium2015)
 
 You are given a table segments with the following structure:
 

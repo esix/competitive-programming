@@ -1,4 +1,4 @@
-# [Two flower beds](https://www.e-olymp.com/en/contests/9009/problems/78066)
+# Two flower beds [⬀](https://www.e-olymp.com/en/contests/9009/problems/78066)
 
 Andrey Sergeevich and Vitaly Borisovich decided to start breeding flowers. Andrei Sergeyevich planted a circle of daisies on the lawn in front of the main building, and Vitaly Borisovich planted a circle of dandelions. Viktor Alexandrovich and Natalia Mikhailovna decided to water the flowers every morning. To evenly distribute the work, they decided that each of them will water exactly half of the daisies and exactly half of the dandelions. At the same time, in order not to get confused, they decided to divide the flowers into appropriate parts by a straight fence.
 

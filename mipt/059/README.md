@@ -1,4 +1,4 @@
-# [CD](http://acm.mipt.ru/judge/problems.pl?problem=059)
+# CD [⬀](http://acm.mipt.ru/judge/problems.pl?problem=059)
 
 _Time limit = 5 second(s)_
 

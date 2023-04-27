@@ -1,4 +1,4 @@
-# [Spiral](https://www.e-olymp.com/en/problems/2668)
+# Spiral [⬀](https://www.e-olymp.com/en/problems/2668)
 Fill the array of size n × n with ones by spiral (see sample).
 
 ## Input

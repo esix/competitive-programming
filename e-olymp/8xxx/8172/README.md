@@ -1,4 +1,4 @@
-# [Polyhedra](https://www.e-olymp.com/en/problems/8172)
+# Polyhedra [⬀](https://www.e-olymp.com/en/problems/8172)
 
 ![prb8172.gif](c2741e9e2e8849493902d62d6dc1953d.gif)
 

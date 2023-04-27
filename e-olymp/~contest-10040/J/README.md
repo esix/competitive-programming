@@ -1,4 +1,4 @@
-# [Money Matters](https://www.e-olymp.com/en/problems/543)
+# Money Matters [⬀](https://www.e-olymp.com/en/problems/543)
 
 
 Our sad tale begins with a tight clique of friends. Together they went on a trip to the picturesque country of Molvania. During their stay, various events which are too horrible to mention occurred. The net result was that the last evening of the trip ended with a momentous exchange of "I never want to see you again!"s. A quick calculation tells you it may have been said almost 50 million times!

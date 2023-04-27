@@ -1,4 +1,4 @@
-# [Coprimes](http://acm.sgu.ru/problem.php?contest=0&problem=102)
+# Coprimes [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=102)
 
 _time limit per test: 0.25 sec. _
 

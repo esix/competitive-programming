@@ -1,4 +1,4 @@
-# [06 (251-300)](https://leetcode.com/problemset/all/#page-6)
+# 06 (251-300) [⬀](https://leetcode.com/problemset/all/#page-6)
 
 
 | ID  | Problem statement                                                                               | Solution                   |

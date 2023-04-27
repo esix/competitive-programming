@@ -1,1 +1,1 @@
-﻿# [Гадание](http://acmp.ru/index.asp?main=task&id_task=23)
+﻿# Гадание [⬀](http://acmp.ru/index.asp?main=task&id_task=23)

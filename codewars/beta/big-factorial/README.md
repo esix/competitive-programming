@@ -1,1 +1,1 @@
-# [Big Factorial](https://www.codewars.com/kata/big-factorial)
+# Big Factorial [⬀](https://www.codewars.com/kata/big-factorial)

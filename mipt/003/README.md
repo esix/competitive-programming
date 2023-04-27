@@ -1,4 +1,4 @@
-# [Contest Table](http://acm.mipt.ru/judge/problems.pl?problem=003&lang=en)
+# Contest Table [⬀](http://acm.mipt.ru/judge/problems.pl?problem=003&lang=en)
 
 _Time limit = 5 seconds_
 

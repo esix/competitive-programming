@@ -1,4 +1,4 @@
-# [Modular Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83164)
+# Modular Exponentiation [⬀](https://www.e-olymp.com/en/contests/9493/problems/83164)
 
 Three positive integers a, b and m are given. Find the value of ab mod m.
 

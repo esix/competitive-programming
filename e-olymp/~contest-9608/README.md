@@ -1,4 +1,4 @@
-# [Linear arrays](https://www.e-olymp.com/en/contests/9608)
+# Linear arrays [⬀](https://www.e-olymp.com/en/contests/9608)
 
 
 

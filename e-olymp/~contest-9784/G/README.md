@@ -1,4 +1,4 @@
-# [Rotation](https://www.e-olymp.com/en/problems/2669)
+# Rotation [⬀](https://www.e-olymp.com/en/problems/2669)
 The array of size n × m is given. Rotate it 90 degrees clockwise.
 
 ## Input

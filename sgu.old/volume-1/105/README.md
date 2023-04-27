@@ -1,4 +1,4 @@
-# [Div 3](http://acm.sgu.ru/problem.php?contest=0&problem=105)
+# Div 3 [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=105)
 
 _time limit per test: 0.25 sec._
 

@@ -1,4 +1,4 @@
-# [10 (451-500)](https://leetcode.com/problemset/all/#page-10)
+# 10 (451-500) [⬀](https://leetcode.com/problemset/all/#page-10)
 
 
 | ID  | Problem statement                                                                           | Solution                   |

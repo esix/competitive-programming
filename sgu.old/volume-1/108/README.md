@@ -1,4 +1,4 @@
-# [Self-numbers 2](http://acm.sgu.ru/problem.php?contest=0&problem=108)
+# Self-numbers 2 [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=108)
 
 _time limit per test: 0.5 sec._
 

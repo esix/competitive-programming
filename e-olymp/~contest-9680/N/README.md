@@ -1,4 +1,4 @@
-# [01110001, That Is the Question](https://www.e-olymp.com/en/contests/9680/problems/85025)
+# 01110001, That Is the Question [⬀](https://www.e-olymp.com/en/contests/9680/problems/85025)
 As you know, the number in binary is written using the digits 0 and 1. You must convert number from binary to decimal.
 
 ## Input

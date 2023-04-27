@@ -1,4 +1,4 @@
-# [Lake with lilies](https://www.e-olymp.com/en/problems/2059)
+# Lake with lilies [⬀](https://www.e-olymp.com/en/problems/2059)
 
 In the forest the lake with lilies started to bloom. On the first day only one lily bloomed, and then every day the number of blooming lilies doubled. On the n-th day the whole lake was covered with blooming lilies. At what day the half of the lake surface was covered with blooming lilies?
 

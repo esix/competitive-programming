@@ -1,4 +1,4 @@
-# [Binary Search Tree 1](https://www.e-olymp.com/en/problems/4146)
+# Binary Search Tree 1 [⬀](https://www.e-olymp.com/en/problems/4146)
 Implement a balanced binary search tree.
 
 ## Input

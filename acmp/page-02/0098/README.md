@@ -1,1 +1,1 @@
-# [Игра в числа](http://acmp.ru/index.asp?main=task&id_task=98)
+# Игра в числа [⬀](http://acmp.ru/index.asp?main=task&id_task=98)

@@ -1,4 +1,4 @@
-# [Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+# Push Dominoes [⬀](https://leetcode.com/problems/push-dominoes/)
 
 There are `n` dominoes in a line, and we place each domino vertically upright. In the beginning, we simultaneously push some of the dominoes either to the left or to the right.
 

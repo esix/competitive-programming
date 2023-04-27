@@ -1,4 +1,4 @@
-# [Godfather](https://www.e-olymp.com/en/contests/9116/problems/79193)
+# Godfather [⬀](https://www.e-olymp.com/en/contests/9116/problems/79193)
 
 Last years Chicago was full of gangster fights and strange murders. The chief of the police got really tired of all these crimes, and decided to arrest the mafia leaders.
 

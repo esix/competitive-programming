@@ -1,4 +1,4 @@
-# [Saratov State University :: Online Contester](http://acm.sgu.ru/olimp/)
+# Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/olimp/)
 
 - C#
 - Free Pascal

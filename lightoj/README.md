@@ -1,4 +1,4 @@
-# [LightOJ](http://www.lightoj.com/index.php)
+# LightOJ [⬀](http://www.lightoj.com/index.php)
 
 - C
 - C++

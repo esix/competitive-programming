@@ -1,4 +1,4 @@
-# [The greatest common divisor](https://www.e-olymp.com/en/problems/571)
+# The greatest common divisor [⬀](https://www.e-olymp.com/en/problems/571)
 
 n natural numbers are given. Write a program that calculates the greatest common divisor of these numbers.
 

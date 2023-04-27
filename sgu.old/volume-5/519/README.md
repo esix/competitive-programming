@@ -1,4 +1,4 @@
-# [3D City Model](http://acm.sgu.ru/problem.php?contest=0&problem=519)
+# 3D City Model [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=519)
 
 _Time limit per test: 0.25 second(s)_
 

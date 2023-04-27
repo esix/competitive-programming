@@ -1,4 +1,4 @@
-# [Consecutive Digits](http://poj.org/problem?id=2710)
+# Consecutive Digits [⬀](http://poj.org/problem?id=2710)
 
 ## Description
 

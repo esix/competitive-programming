@@ -1,4 +1,4 @@
-# [Hilbert Sort](https://www.e-olymp.com/en/contests/9151/problems/79572)
+# Hilbert Sort [⬀](https://www.e-olymp.com/en/contests/9151/problems/79572)
 
 In database storage, arranging data items according to a numeric key not only makes it easier to search for a particular item, but also makes better use of a CPU's cache: any segment of data that's contiguous in memory will describe items with similar keys. This is useful if, for instance, we want to access all items whose keys are in some range. Things get more complicated if the keys represent points on a 2D grid, as might happen in a GPS guidance system. If the points (x, y) are sorted primarily by x, breaking ties by y, then points that are adjacent in memory will have similar x coordinates but not necessarily similar y, potentially placing them far apart on the grid. To better preserve distances, we may sort the data along a continuous space-filling curve.
 

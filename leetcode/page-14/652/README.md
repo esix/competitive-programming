@@ -1,4 +1,4 @@
-# [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+# Find Duplicate Subtrees [⬀](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 Given the `root` of a binary tree, return all **duplicate subtrees**.
 

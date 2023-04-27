@@ -1,4 +1,4 @@
-# [The minimal sum of digits](https://www.e-olymp.com/en/contests/9646/problems/84654)
+# The minimal sum of digits [⬀](https://www.e-olymp.com/en/contests/9646/problems/84654)
 
 How many positive integers from interval [m, n] have the least sum of digits?
 

@@ -1,4 +1,4 @@
-# [Pyramid of the symbols](https://www.e-olymp.com/en/problems/1119)
+# Pyramid of the symbols [⬀](https://www.e-olymp.com/en/problems/1119)
 Vasya wants to print on your printer pyramid of some sort of symbol height h. Write a program that will help him in this, not forgetting that the program must be "economically viable", i.e. to print the least amount of characters.
 
 Examples of pyramids are shown in the examples of input and output data. For clarity, printed blanks are replaced by point.

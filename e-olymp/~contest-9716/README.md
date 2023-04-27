@@ -1,4 +1,4 @@
-# [Char arrays](https://www.e-olymp.com/en/contests/9716)
+# Char arrays [⬀](https://www.e-olymp.com/en/contests/9716)
 
 
 

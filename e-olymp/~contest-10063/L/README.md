@@ -1,4 +1,4 @@
-# [Prefixes of a substring](https://www.e-olymp.com/en/problems/8223)
+# Prefixes of a substring [⬀](https://www.e-olymp.com/en/problems/8223)
 The prefix of a string S is any string of the form S[1..k], k ≤ size(S) (size(S) is the length of a string). Prefix can be either empty or match the string itself. If prefix is not empty and does not match with the string S, it is called the proper prefix of string S. Print the number of prefixes and all proper prefixes of substring S[i..j] in the increasing order of their lengths.
 
 ## Input

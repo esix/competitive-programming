@@ -1,4 +1,4 @@
-# [Sum of squares](https://www.e-olymp.com/en/problems/519)
+# Sum of squares [⬀](https://www.e-olymp.com/en/problems/519)
 Find the sum of the squares of two numbers.
 
 ## Input

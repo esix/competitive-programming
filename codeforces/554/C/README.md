@@ -1,1 +1,1 @@
-# [Кёя и цветные мячи](http://codeforces.com/problemset/problem/553/A)
+# Кёя и цветные мячи [⬀](http://codeforces.com/problemset/problem/553/A)

@@ -1,4 +1,4 @@
-# [Boxes](https://www.e-olymp.com/en/problems/1183)
+# Boxes [⬀](https://www.e-olymp.com/en/problems/1183)
 
 There are two boxes. There are a balls in the first box, and b balls in the second box (0 < a + b < 2147483648). It is possible to move balls from one box to another. From one box into another one should move as many balls as the other box already contains. You have to determine, whether it is possible to move all balls into one box.
 

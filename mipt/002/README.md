@@ -1,4 +1,4 @@
-# [Set Intersection](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en)
+# Set Intersection [⬀](http://acm.mipt.ru/judge/problems.pl?problem=002&lang=en)
 
 _Time limit = 5 second(s)_
 

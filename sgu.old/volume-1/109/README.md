@@ -1,4 +1,4 @@
-# [Magic of David Copperfield II](http://acm.sgu.ru/problem.php?contest=0&problem=109)
+# Magic of David Copperfield II [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=109)
 
 _time limit per test: 0.25 sec._
 

@@ -1,4 +1,4 @@
-# [Typographical Ligatures](http://poj.org/problem?id=3602)
+# Typographical Ligatures [⬀](http://poj.org/problem?id=3602)
 
 ## Description
 

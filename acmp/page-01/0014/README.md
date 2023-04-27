@@ -1,1 +1,1 @@
-# [НОК](http://acmp.ru/index.asp?main=task&id_task=14)
+# НОК [⬀](http://acmp.ru/index.asp?main=task&id_task=14)

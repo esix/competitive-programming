@@ -1,4 +1,4 @@
-# [Assignments](https://www.e-olymp.com/en/problems/6961)
+# Assignments [⬀](https://www.e-olymp.com/en/problems/6961)
 
 When Starfleet headquarters gets a request for an exploration expedition, they need to determine which ship from those currently docked in the docking bay to send. They decide to send whichever ship is currently able to make the expedition based on how much fuel is currently stored on the ship as well as how long it will take the ship to arrive at the expected destination.
 

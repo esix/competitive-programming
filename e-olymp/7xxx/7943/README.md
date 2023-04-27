@@ -1,4 +1,4 @@
-# [Perimeter of rectangle](https://www.e-olymp.com/en/problems/7943)
+# Perimeter of rectangle [⬀](https://www.e-olymp.com/en/problems/7943)
 
 Find the perimeter of rectangle.
 

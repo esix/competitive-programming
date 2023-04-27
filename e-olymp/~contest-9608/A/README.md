@@ -1,4 +1,4 @@
-# [Increase by 2](https://www.e-olymp.com/en/contests/9608/problems/84244)
+# Increase by 2 [⬀](https://www.e-olymp.com/en/contests/9608/problems/84244)
 The one-dimensional array of integers is given. Increase by 2 each its non-negative element.
 
 ## Input

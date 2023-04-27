@@ -1,4 +1,4 @@
-# [The 3n + 1 problem](https://www.e-olymp.com/en/problems/419)
+# The 3n + 1 problem [⬀](https://www.e-olymp.com/en/problems/419)
 Consider the following algorithm: 
 
 - 1. input n

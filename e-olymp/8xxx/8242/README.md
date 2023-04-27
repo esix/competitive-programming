@@ -1,4 +1,4 @@
-# [Positive negative or zero](https://www.e-olymp.com/en/problems/8242)
+# Positive negative or zero [⬀](https://www.e-olymp.com/en/problems/8242)
 Given one integer n. Print is it positive, negative or equals to 0.
 
 ## Input

@@ -1,4 +1,4 @@
-# [The Segment](https://www.e-olymp.com/en/problems/136)
+# The Segment [⬀](https://www.e-olymp.com/en/problems/136)
 
 ![1256011287.JPG](1256011287.JPG)
 

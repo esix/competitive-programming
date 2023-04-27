@@ -1,4 +1,4 @@
-# [Brackets](http://acm.mipt.ru/judge/problems.pl?problem=008&lang=en)
+# Brackets [⬀](http://acm.mipt.ru/judge/problems.pl?problem=008&lang=en)
 
 Some bracket structures are valid while others are not. Your task is to determine whether a given bracket structure is valid.
 

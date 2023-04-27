@@ -1,1 +1,1 @@
-# [Выпуклая оболочка](http://acmp.ru/index.asp?main=task&id_task=84)
+# Выпуклая оболочка [⬀](http://acmp.ru/index.asp?main=task&id_task=84)

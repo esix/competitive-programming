@@ -1,4 +1,4 @@
-# [Ramp Number](https://www.e-olymp.com/en/problems/8177)
+# Ramp Number [⬀](https://www.e-olymp.com/en/problems/8177)
 
 A Ramp Number is a number whose digits only rise or stay the same; they never fall.
 

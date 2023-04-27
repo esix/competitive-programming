@@ -1,4 +1,4 @@
-# [Counting Triangles](https://www.e-olymp.com/en/problems/4556)
+# Counting Triangles [⬀](https://www.e-olymp.com/en/problems/4556)
 We define the LEVEL of a triangle as in the following illustrative image:
 
 ![prb4556.gif](f8c08ad0dcbfc146e013c22102d36b9c.gif)

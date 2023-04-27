@@ -1,1 +1,1 @@
-# [Турнир](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=478)
+# Турнир [⬀](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=478)

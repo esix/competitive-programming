@@ -1,4 +1,4 @@
-# [New-year tree](https://www.eolymp.com/en/problems/23)
+# New-year tree [⬀](https://www.eolymp.com/en/problems/23)
 
 For decoration of the New-year tree Peter has in the order a garland from the `n` lamps and `k` of different paints for their painting. How many methods can he to do it, if he must no two identical colors be alongside?
 

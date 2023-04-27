@@ -1,4 +1,4 @@
-# [Factorial](https://www.e-olymp.com/en/contests/9493/problems/83152)
+# Factorial [⬀](https://www.e-olymp.com/en/contests/9493/problems/83152)
 
 Find the factorial of a number.
 

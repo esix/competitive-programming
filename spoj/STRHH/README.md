@@ -1,4 +1,4 @@
-# [STRHH - Half of the half](http://www.spoj.com/problems/STRHH/)
+# STRHH - Half of the half [⬀](http://www.spoj.com/problems/STRHH/)
 
 Given a sequence of *2&ast;k* characters, please print every second character from the first half of the sequence. Start printing with the first character.
 

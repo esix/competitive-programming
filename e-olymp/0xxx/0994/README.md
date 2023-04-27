@@ -1,4 +1,4 @@
-# [Coloured rain](https://www.e-olymp.com/en/problems/994)
+# Coloured rain [⬀](https://www.e-olymp.com/en/problems/994)
 
 At Banana Republic there is a lot of hills, connected by bridges. At a chemical plant accident occurred, resulting in evaporated experimental fertilizer "summons". The next day fell colored rain, and it was just over the hills. In some places red drops fell, in some blue, and the rest drops are green, and the hills were colored. President of Banana Republic is pleased, but he wants to paint the bridges between the tops of hills so that the bridges will be painted in the colors of the hills it connects. Unfortunately, if the bridge connects the hills of different colors, then painting will not succeed. Find the number of such "bad" bridges.
 

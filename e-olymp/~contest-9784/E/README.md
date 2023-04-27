@@ -1,4 +1,4 @@
-# [Snake](https://www.e-olymp.com/en/problems/2667)
+# Snake [⬀](https://www.e-olymp.com/en/problems/2667)
 Write a program that prints an integer located at line x and column y of matrix n × m that is filled like a snake:
 
 ![prb2667.gif](4b017e5f0eb14eb5b10c45cdc243551f.gif)

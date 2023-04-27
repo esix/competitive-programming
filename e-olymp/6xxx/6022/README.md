@@ -1,4 +1,4 @@
-# [Death Knight Hero](https://www.e-olymp.com/en/problems/6022)
+# Death Knight Hero [⬀](https://www.e-olymp.com/en/problems/6022)
 
 There once was a champion of WoW
 

@@ -1,4 +1,4 @@
-# [Operations on graph](https://www.e-olymp.com/en/contests/9060/problems/78602)
+# Operations on graph [⬀](https://www.e-olymp.com/en/contests/9060/problems/78602)
 
 Create an undirected graph that supports the next operations:
 

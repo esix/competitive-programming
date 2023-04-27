@@ -1,4 +1,4 @@
-# [Flip Game](http://poj.org/problem?id=1753)
+# Flip Game [⬀](http://poj.org/problem?id=1753)
 
 ## Description
 

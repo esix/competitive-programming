@@ -1,4 +1,4 @@
-# [Racing Gems](https://www.e-olymp.com/en/problems/8187)
+# Racing Gems [⬀](https://www.e-olymp.com/en/problems/8187)
 
 You are playing a racing game. Your character starts at the x axis (y = 0) and proceeds up the race track, which has a boundary at the line x = 0 and another at x = w. You may start the race at any horizontal position you want, as long as it is within the track boundary. The finish line is at y = h, and the game ends when you reach that line. You proceed at a fixed vertical velocity v, but you can control your horizontal velocity to be any value between -v / r and v / r, and change it at any time.
 

@@ -1,4 +1,4 @@
-# [Первая личная олимпида](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40495)
+# Первая личная олимпида [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40495)
 
 | ID | Problem statement       | Solution               |
 |----|-------------------------|------------------------|

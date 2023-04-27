@@ -1,1 +1,1 @@
-# [Прямоугольник](http://acmp.ru/index.asp?main=task&id_task=115)
+# Прямоугольник [⬀](http://acmp.ru/index.asp?main=task&id_task=115)

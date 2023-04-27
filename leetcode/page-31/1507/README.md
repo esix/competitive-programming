@@ -1,4 +1,4 @@
-# [1507. Reformat Date](https://leetcode.com/problems/reformat-date/)
+# 1507. Reformat Date [⬀](https://leetcode.com/problems/reformat-date/)
 
 Given a `date` string in the form `Day Month Year`, where:
 

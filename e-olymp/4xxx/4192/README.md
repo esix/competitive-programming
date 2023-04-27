@@ -1,4 +1,4 @@
-# [Olympiad](https://www.e-olymp.com/en/problems/4192)
+# Olympiad [⬀](https://www.e-olymp.com/en/problems/4192)
 n teams arrived to the Informatics Olympiad. Each team consists of aᵢ boys and bᵢ girls (1 ≤ i ≤ n). The participants can live in rooms with m places in each. Find the minimum number of rooms needed to accommodate all the Olympiad participants, if the boys can't be settled with the girls.
 
 ## Input

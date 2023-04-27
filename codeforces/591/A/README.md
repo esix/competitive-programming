@@ -1,1 +1,1 @@
-# [Поединок волшебников](http://codeforces.com/problemset/problem/591/A)
+# Поединок волшебников [⬀](http://codeforces.com/problemset/problem/591/A)

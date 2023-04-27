@@ -1,4 +1,4 @@
-# [Mountain routes](https://www.e-olymp.com/en/contests/9116/problems/79197)
+# Mountain routes [⬀](https://www.e-olymp.com/en/contests/9116/problems/79197)
 
 The mountain tourist resort consists of n hostels, connected with k mountain routes (other routes in mountains are dangerous). Any route between two hostels takes 1 day. The travel group, located in the hostel a, is going to go to the hostel b for no more than d days. How many different routes (without cycles) between a and b exist?
 

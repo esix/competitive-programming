@@ -1,1 +1,1 @@
-# [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+# A very big sum [⬀](https://www.hackerrank.com/challenges/a-very-big-sum)

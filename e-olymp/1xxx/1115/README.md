@@ -1,4 +1,4 @@
-# [Area Ratio](https://www.e-olymp.com/en/problems/1115)
+# Area Ratio [⬀](https://www.e-olymp.com/en/problems/1115)
 
 To make things easier, WishingBone decides to put this simple geometry problem at the beginning. Given a triangle, what is the ratio of the area of its inscribed circle to that of its circum circle?
 

@@ -1,1 +1,1 @@
-# [Маска подсетей](http://acmp.ru/index.asp?main=task&id_task=67)
+# Маска подсетей [⬀](http://acmp.ru/index.asp?main=task&id_task=67)

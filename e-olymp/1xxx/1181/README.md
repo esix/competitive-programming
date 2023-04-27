@@ -1,4 +1,4 @@
-# [Mint](https://www.e-olymp.com/en/problems/1181)
+# Mint [⬀](https://www.e-olymp.com/en/problems/1181)
 
 The Royal Canadian Mint has commissioned a new series of designer coffee tables, with legs that are constructed from stacks of coins. Each table has four legs, each of which uses a different type of coin. For example, one leg might be a stack of quarters, another nickels, another loonies, and another twonies. Each leg must be exactly the same length.
 

@@ -1,1 +1,1 @@
-# [Спамер](http://acm.timus.ru/problem.aspx?space=1&num=1496)
+# Спамер [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1496)

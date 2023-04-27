@@ -1,1 +1,1 @@
-# [Электронные таблицы](http://codeforces.com/problemset/problem/1/B)
+# Электронные таблицы [⬀](http://codeforces.com/problemset/problem/1/B)

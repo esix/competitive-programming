@@ -1,4 +1,4 @@
-# [Interesting Sum](https://www.e-olymp.com/en/problems/2392)
+# Interesting Sum [⬀](https://www.e-olymp.com/en/problems/2392)
 Given a three-digit positive integer n. Find the sum of the largest and the smallest three-digit numbers that can be formed from a permutation of n numbers.
 
 ## Input

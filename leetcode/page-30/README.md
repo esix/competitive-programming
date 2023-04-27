@@ -1,4 +1,4 @@
-# [30 (1451-1500)](https://leetcode.com/problemset/all/#page-30)
+# 30 (1451-1500) [⬀](https://leetcode.com/problemset/all/#page-30)
 
 
 | ID   | Problem statement                                                                                                                                       | Solution                     |

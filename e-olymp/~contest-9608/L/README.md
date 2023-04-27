@@ -1,4 +1,4 @@
-# [Invertor](https://www.e-olymp.com/en/contests/9608/problems/84255)
+# Invertor [⬀](https://www.e-olymp.com/en/contests/9608/problems/84255)
 Given n integers. Print them in reverse order.
 
 ## Input

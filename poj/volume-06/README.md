@@ -1,4 +1,4 @@
-# [Volume 6](http://poj.org/problemlist?volume=6)
+# Volume 6 [⬀](http://poj.org/problemlist?volume=6)
 
 
 | ID   | Problem statement                                 | Solution                       |

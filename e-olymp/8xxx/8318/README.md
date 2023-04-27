@@ -1,4 +1,4 @@
-# [Delete digits](https://www.e-olymp.com/en/problems/8318)
+# Delete digits [⬀](https://www.e-olymp.com/en/problems/8318)
 One positive integer n is given. Remove from this number all digits 3 and 9, leaving the order of other digits the same.
 
 For example, the number 539013 will be transformed to 501.

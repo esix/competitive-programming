@@ -1,4 +1,4 @@
-# [Code CUP 2017 Final round - REVISITED](https://www.e-olymp.com/en/contests/9290)
+# Code CUP 2017 Final round - REVISITED [⬀](https://www.e-olymp.com/en/contests/9290)
 
 
 

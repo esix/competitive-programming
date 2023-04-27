@@ -1,4 +1,4 @@
-# [Triangle](https://www.e-olymp.com/en/contests/8947/problems/77336)
+# Triangle [⬀](https://www.e-olymp.com/en/contests/8947/problems/77336)
 
 ![prb418](1258180114.JPG)
 

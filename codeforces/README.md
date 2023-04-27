@@ -1,4 +1,4 @@
-# [Codeforces](http://codeforces.com/)
+# Codeforces [⬀](http://codeforces.com/)
 
 - GNU GCC 5.1.0
 - GNU GCC C11 5.1.0

@@ -1,4 +1,4 @@
-# [Fibonacci numbers](http://acm.mipt.ru/judge/problems.pl?problem=009&lang=en)
+# Fibonacci numbers [⬀](http://acm.mipt.ru/judge/problems.pl?problem=009&lang=en)
 
 _Time limit: 5 seconds_
 

@@ -1,4 +1,4 @@
-# [The second digit of the number](https://www.e-olymp.com/en/contests/9563/problems/83871)
+# The second digit of the number [⬀](https://www.e-olymp.com/en/contests/9563/problems/83871)
 Find the second digit of an integer. Start count digits from the leftmost one.
 
 ## Input

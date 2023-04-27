@@ -1,4 +1,4 @@
-# [A big plus](https://www.e-olymp.com/en/problems/1966)
+# A big plus [⬀](https://www.e-olymp.com/en/problems/1966)
 
 At site in the results of tournament table based on ACM (Association for Computing Machinery) rules, the correctly solved problem is showed by plus. But it is a small one. Print a big plus with the stars.
 

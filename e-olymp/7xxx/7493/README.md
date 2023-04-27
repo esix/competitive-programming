@@ -1,4 +1,4 @@
-# [Buffcraft](https://www.e-olymp.com/en/problems/7493)
+# Buffcraft [⬀](https://www.e-olymp.com/en/problems/7493)
 Brenda enjoys a new role-playing game Buffcraft. Shields, swords, books and other carry-on items do not affects character stats in Buffcraft. The only way to increase the stats of your character is to buff her.
 
 There are two types of buffs in Buffcraft. Direct buffs increase a base value of the stat, while percentage buffs increase stats by the fraction of the base value. To be precise, if unbuffed base value of your character stat is b, you have buffed her using n direct buffs of strength d1, d2, ..., dn and m percentage buffs of strength p1, p2, ..., pm, the resulting stat will be equal to (b + d1 + d2 + ... + dn)(100 + p1 + p2 + ... + pm) / 100. Note that the resulting stat may be fractional.

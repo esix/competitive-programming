@@ -1,4 +1,4 @@
-# [Educational Codeforces Round 1](http://codeforces.com/contest/598)
+# Educational Codeforces Round 1 [⬀](http://codeforces.com/contest/598)
 
 | ID | Problem statement                                                   | Solution                 |
 |----|---------------------------------------------------------------------|--------------------------|

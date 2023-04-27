@@ -1,4 +1,4 @@
-# [Digits in the number](https://www.e-olymp.com/en/contests/9630)
+# Digits in the number [⬀](https://www.e-olymp.com/en/contests/9630)
 
 
 

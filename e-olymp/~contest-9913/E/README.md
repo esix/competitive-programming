@@ -1,4 +1,4 @@
-# [Andys first dictionary](https://www.e-olymp.com/en/problems/1227)
+# Andys first dictionary [⬀](https://www.e-olymp.com/en/problems/1227)
 
 Andy has a dream - he wants to produce his very own dictionary. This is not an easy task for him, as the number of words that he knows is, well, not quite enough. Instead of thinking up all the words himself, he has a brilliant idea. From his bookshelf he would pick one of his favorite story books, from which he would copy out all the distinct words. By arranging the words in alphabetical order, he is done! Of course, it is a really time-consuming job, and this is where a computer program is helpful.
 

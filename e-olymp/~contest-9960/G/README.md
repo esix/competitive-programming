@@ -1,4 +1,4 @@
-# [From adjacency matrix to adjacency list](https://www.e-olymp.com/en/problems/3981)
+# From adjacency matrix to adjacency list [⬀](https://www.e-olymp.com/en/problems/3981)
 
 A simple directed graph is given with an adjacency matrix. Print its representation in the form of adjacency list.
 

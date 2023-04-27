@@ -1,4 +1,4 @@
-# [Anagrams](https://www.e-olymp.com/en/problems/2166)
+# Anagrams [⬀](https://www.e-olymp.com/en/problems/2166)
 The word is an anagram of another word, if it can be obtained by rearrangement of its letters.
 
 ## Input

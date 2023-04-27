@@ -1,4 +1,4 @@
-# [Towers of Hanoi](https://www.e-olymp.com/en/contests/9520/problems/83423)
+# Towers of Hanoi [⬀](https://www.e-olymp.com/en/contests/9520/problems/83423)
 Three pegs are given. The first peg contains some disks in ascending order of their size from top to bottom. The other two pegs are empty. You must move all disks from the first peg to the second. You can move each time only one disk. It is not allowed to put a larger disk on a smaller one.
 
 ## Input

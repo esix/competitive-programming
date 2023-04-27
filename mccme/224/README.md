@@ -1,4 +1,4 @@
-# [Линейный поиск - 2](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=224)
+# Линейный поиск - 2 [⬀](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=224)
 
 **Данные вводятся с клавиатуры или из файла input.txt, выводятся на экран или в файл output.txt. Первые тесты не
 всегда совпадают с примерами из условия.**

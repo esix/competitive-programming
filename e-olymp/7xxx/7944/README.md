@@ -1,4 +1,4 @@
-# [Area of rectangle](https://www.e-olymp.com/en/problems/7944)
+# Area of rectangle [⬀](https://www.e-olymp.com/en/problems/7944)
 
 Find the area of rectangle.
 

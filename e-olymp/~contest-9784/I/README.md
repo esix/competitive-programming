@@ -1,4 +1,4 @@
-# [Lonely king](https://www.e-olymp.com/en/problems/4557)
+# Lonely king [⬀](https://www.e-olymp.com/en/problems/4557)
 
 ![prb4557-1](1389303917.JPG)
 

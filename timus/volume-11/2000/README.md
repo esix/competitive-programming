@@ -1,1 +1,1 @@
-# [Grand Theft Array V](http://acm.timus.ru/problem.aspx?space=1&num=2000)
+# Grand Theft Array V [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2000)

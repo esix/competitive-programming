@@ -1,4 +1,4 @@
-# [Max Min](https://www.hackerrank.com/challenges/one-month-preparation-kit-angry-children/problem)
+# Max Min [⬀](https://www.hackerrank.com/challenges/one-month-preparation-kit-angry-children/problem)
 
 You will be given a list of integers, `arr`, and a single integer `k`. You must create an array of length `k` from elements of `arr` such that its unfairness is minimized. Call that array `arr'`. Unfairness of an array is calculated as
 

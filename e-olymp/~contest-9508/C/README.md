@@ -1,4 +1,4 @@
-# [abc](https://www.e-olymp.com/en/contests/9508/problems/83303)
+# abc [⬀](https://www.e-olymp.com/en/contests/9508/problems/83303)
 
 In the first line print one letter а. In the second line print two letters b. In the third line print three letters c.
 

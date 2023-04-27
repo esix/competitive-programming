@@ -1,4 +1,4 @@
-# [Black Box](http://poj.org/problem?id=1442)
+# Black Box [⬀](http://poj.org/problem?id=1442)
 Our Black Box represents a primitive database. It can save an integer array and has a special `i` variable. At the initial moment Black Box is empty and `i` equals `0`. This Black Box processes a sequence of commands (transactions). There are two types of transactions:
 
 - `ADD(x)`: put element `x` into Black Box;

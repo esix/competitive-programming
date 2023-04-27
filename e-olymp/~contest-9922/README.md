@@ -1,4 +1,4 @@
-# [Prime numbers + divisors](https://www.e-olymp.com/en/contests/9922)
+# Prime numbers + divisors [⬀](https://www.e-olymp.com/en/contests/9922)
 
 
 

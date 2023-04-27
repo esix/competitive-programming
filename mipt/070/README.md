@@ -1,4 +1,4 @@
-# [Square root of permutation](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en)
+# Square root of permutation [⬀](http://acm.mipt.ru/judge/problems.pl?problem=070&lang=en)
 
 _Time limit = 5 second(s)_
 

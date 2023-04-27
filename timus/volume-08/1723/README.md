@@ -1,4 +1,4 @@
-# [Sandro's Book](http://acm.timus.ru/problem.aspx?space=1&num=1723)
+# Sandro's Book [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1723)
 
 _Time limit: 0.5 second_
 

@@ -1,4 +1,4 @@
-# [Subway](http://poj.org/problem?id=2502)
+# Subway [⬀](http://poj.org/problem?id=2502)
 
 ## Description
 

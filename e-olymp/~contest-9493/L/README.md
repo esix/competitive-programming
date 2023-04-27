@@ -1,4 +1,4 @@
-# [Hailstone HOTPO](https://www.e-olymp.com/en/contests/9493/problems/83161)
+# Hailstone HOTPO [⬀](https://www.e-olymp.com/en/contests/9493/problems/83161)
 
 The hailstone sequence is formed in the following way:
 

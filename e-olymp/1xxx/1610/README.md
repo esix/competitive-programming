@@ -1,4 +1,4 @@
-# [Rabbits in the cells](https://www.e-olymp.com/en/problems/1610)
+# Rabbits in the cells [⬀](https://www.e-olymp.com/en/problems/1610)
 Everyone knows the so-called Dirichlet principle, which reads as follows:
 
 Suppose that a certain number of rabbits are planted in the cells. If the number of rabbits more than the number of cells, at least in one cell will be more than one rabbit.

@@ -1,4 +1,4 @@
-# [Graphs: Depth First Search](https://www.e-olymp.com/ru/contests/10040)
+# Graphs: Depth First Search [⬀](https://www.e-olymp.com/ru/contests/10040)
 
 
 

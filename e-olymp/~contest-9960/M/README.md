@@ -1,4 +1,4 @@
-# [Degrees of vertices](https://www.e-olymp.com/en/problems/4764)
+# Degrees of vertices [⬀](https://www.e-olymp.com/en/problems/4764)
 
 A simple undirected graph is given with adjacency matrix. Find the degrees of all its vertices.
 

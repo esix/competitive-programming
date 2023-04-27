@@ -1,4 +1,4 @@
-# [Олимпийская лотерея](https://www.e-olymp.com/en/contests/9151/problems/79568)
+# Олимпийская лотерея [⬀](https://www.e-olymp.com/en/contests/9151/problems/79568)
 
 _Кто возьмёт билетов пачку, тот получит – водокачку…_
 

@@ -1,4 +1,4 @@
-# [Quadrilateral](https://www.e-olymp.com/en/contests/8947/problems/77334)
+# Quadrilateral [⬀](https://www.e-olymp.com/en/contests/8947/problems/77334)
 
 The arbitrary quadrilateral is given on a plane with coordinates of its successive vertices. Find the number of right angles in quadrilateral.
 

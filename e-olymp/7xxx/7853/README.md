@@ -1,4 +1,4 @@
-# [Cent Savings](https://www.e-olymp.com/en/contests/9811/problems/86500)
+# Cent Savings [⬀](https://www.e-olymp.com/en/contests/9811/problems/86500)
 To host a regional contest like NWERC a lot of preparation is necessary: organizing rooms and computers, making a good problem set, inviting contestants, designing T-shirts, booking hotel rooms and so on. I am responsible for going shopping in the supermarket.
 
 When I get to the cash register, I put all my n items on the conveyor belt and wait until all the other customers in the queue in front of me are served. While waiting, I realize that this supermarket recently started to round the total price of a purchase to the nearest multiple of 10 cents (with 5 cents being rounded upwards). For example, 94 cents are rounded to 90 cents, while 95 are rounded to 100.

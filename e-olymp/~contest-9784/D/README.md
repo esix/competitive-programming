@@ -1,4 +1,4 @@
-# [Half](https://www.e-olymp.com/en/problems/2666)
+# Half [⬀](https://www.e-olymp.com/en/problems/2666)
 Write a program that fills array n × n with the next way: secondary diagonal contains zeros, all cells above it contains twos and all cells below it contains ones.
 
 ## Input

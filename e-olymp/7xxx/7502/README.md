@@ -1,4 +1,4 @@
-# [Kebab House](https://www.e-olymp.com/en/problems/7502)
+# Kebab House [⬀](https://www.e-olymp.com/en/problems/7502)
 The young man Vahtang Bumerang makes kebabs at the world-famous fast-food chain Kebab House. Each kebab contains many ingredients.
 
 This morning Vahtang has received an order to make n kebabs. At first, he should put q₁ ingredients to the first kebab, then q₂ ingredients in the second one and so on. Vahtang spends one second to put one ingredient to a kebab, so it takes qᵢ seconds to make the i-th kebab. When he finishes the kebab he immediately proceeds to the next one.

@@ -1,4 +1,4 @@
-# [Difference](https://www.e-olymp.com/en/problems/941)
+# Difference [⬀](https://www.e-olymp.com/en/problems/941)
 Find the difference between the product and the sum of the digits of a three digit number.
 
 ## Input

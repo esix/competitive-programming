@@ -1,4 +1,4 @@
-# [Guess](https://www.e-olymp.com/en/problems/2826)
+# Guess [⬀](https://www.e-olymp.com/en/problems/2826)
 Write a program that guesses the number. It is known that it is positive integer and does not exceed some predetermined number n.
 
 The guesser is allowed to ask only questions of the form

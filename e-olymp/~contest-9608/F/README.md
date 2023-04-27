@@ -1,4 +1,4 @@
-# [Negative elements](https://www.e-olymp.com/en/contests/9608/problems/84249)
+# Negative elements [⬀](https://www.e-olymp.com/en/contests/9608/problems/84249)
 The one-dimensional array of n real numbers is given. Find the sum and the number of negative elements in array.
 
 ## Input

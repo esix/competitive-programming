@@ -1,4 +1,4 @@
-# [A Card Trick](http://poj.org/problem?id=2200)
+# A Card Trick [⬀](http://poj.org/problem?id=2200)
 
 ## Description
 

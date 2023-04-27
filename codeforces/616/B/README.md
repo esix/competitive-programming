@@ -1,1 +1,1 @@
-# [Ужин с Наташей](http://codeforces.com/contest/616/problem/B)
+# Ужин с Наташей [⬀](http://codeforces.com/contest/616/problem/B)

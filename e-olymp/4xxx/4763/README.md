@@ -1,4 +1,4 @@
-# [From list of edges to adjacency matrix](https://www.e-olymp.com/en/problems/4763)
+# From list of edges to adjacency matrix [⬀](https://www.e-olymp.com/en/problems/4763)
 
 The simple not oriented graph is given by the list of its edges. Print its representation as an adjacency matrix.
 

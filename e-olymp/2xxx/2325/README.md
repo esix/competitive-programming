@@ -1,4 +1,4 @@
-# [Two numbers](https://www.e-olymp.com/en/problems/2325)
+# Two numbers [⬀](https://www.e-olymp.com/en/problems/2325)
 
 Two integers are given. Print the maximum number that can be obtained from their digits.
 

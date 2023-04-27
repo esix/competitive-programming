@@ -1,4 +1,4 @@
-# [Codeforces Beta Round #1](http://codeforces.com/contest/1)
+# Codeforces Beta Round #1 [⬀](http://codeforces.com/contest/1)
 
 | ID | Problem statement                                                      | Solution               |
 |----|------------------------------------------------------------------------|------------------------|

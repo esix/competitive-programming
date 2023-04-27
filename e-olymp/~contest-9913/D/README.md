@@ -1,4 +1,4 @@
-# [Foreign Exchange](https://www.e-olymp.com/en/problems/1226)
+# Foreign Exchange [⬀](https://www.e-olymp.com/en/problems/1226)
 
 Your non-profit organization (iCORE - international Confederation of Revolver Enthusiasts) coordinates a very successful foreign student exchange program. Over the last few years, demand has sky-rocketed and now you need assistance with your task.
 

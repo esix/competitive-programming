@@ -1,4 +1,4 @@
-# [Virus Replication](https://www.e-olymp.com/en/problems/6253)
+# Virus Replication [⬀](https://www.e-olymp.com/en/problems/6253)
 
 Some viruses replicate by replacing a piece of DNA in a living cell with a piece of DNA that the virus carries with it. This makes the cell start to produce viruses identical to the original one that infected the cell. A group of biologists is interested in knowing how much DNA a certain virus inserts into the host genome. To find this out they have sequenced the full genome of a healthy cell as well as that of an identical cell infected by a virus.
 

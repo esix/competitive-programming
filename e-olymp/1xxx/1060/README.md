@@ -1,4 +1,4 @@
-# [Lines](https://www.e-olymp.com/en/problems/1060)
+# Lines [⬀](https://www.e-olymp.com/en/problems/1060)
 
 In the table with n rows and n columns, some cells are occupied with balls, others are free. You choose a ball and a place where you want to move it. In one step the ball can be moved to the next horizontal or vertical empty cell. Determine, is it possible to move the ball from the initial cell to the given, and if it is possible, find a way with the minimum number of steps.
 

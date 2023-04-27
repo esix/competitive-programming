@@ -1,4 +1,4 @@
-# [Recursive functions - ADVANCED](https://www.e-olymp.com/en/contests/9520)
+# Recursive functions - ADVANCED [⬀](https://www.e-olymp.com/en/contests/9520)
 
 
 

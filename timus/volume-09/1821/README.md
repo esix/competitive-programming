@@ -1,1 +1,1 @@
-# [Биатлон](http://acm.timus.ru/problem.aspx?space=1&num=1821)
+# Биатлон [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1821)

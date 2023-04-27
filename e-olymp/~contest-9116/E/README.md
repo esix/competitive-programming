@@ -1,4 +1,4 @@
-# [Electrical Wires](https://www.e-olymp.com/en/contests/9116/problems/79189)
+# Electrical Wires [⬀](https://www.e-olymp.com/en/contests/9116/problems/79189)
 
 You are given an electrical circuit for a home, with a number of nodes possibly connected by wires. Any pair of nodes may be connected by at most one wire, and a node can't be connected to itself. Each node on the circuit is either an electrical outlet for the house or a connection to the main electrical grid.
 

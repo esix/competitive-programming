@@ -1,4 +1,4 @@
-# [07 (301-350)](https://leetcode.com/problemset/all/#page-7)
+# 07 (301-350) [⬀](https://leetcode.com/problemset/all/#page-7)
 
 
 | ID  | Problem statement                                                                             | Solution                   |

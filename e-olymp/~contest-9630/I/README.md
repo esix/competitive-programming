@@ -1,4 +1,4 @@
-# [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84472)
+# The square of sum [⬀](https://www.e-olymp.com/en/contests/9630/problems/84472)
 Find the square of sum of digits for a four digital positive integer.
 
 ## Input

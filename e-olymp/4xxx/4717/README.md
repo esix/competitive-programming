@@ -1,4 +1,4 @@
-# [Divide the apples - 2](https://www.e-olymp.com/en/problems/4717)
+# Divide the apples - 2 [⬀](https://www.e-olymp.com/en/problems/4717)
 
 n schoolchildren divide k apples evenly, the residue remains in the basket. How many apples remains in the basket?
 

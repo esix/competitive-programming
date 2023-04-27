@@ -1,4 +1,4 @@
-# [Two minimums](https://www.e-olymp.com/en/problems/5059)
+# Two minimums [⬀](https://www.e-olymp.com/en/problems/5059)
 Find two different minimal elements in the given sequence of numbers.
 
 ## Input

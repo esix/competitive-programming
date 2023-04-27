@@ -1,1 +1,1 @@
-# [Ребрендинг](http://codeforces.com/problemset/problem/591/B)
+# Ребрендинг [⬀](http://codeforces.com/problemset/problem/591/B)

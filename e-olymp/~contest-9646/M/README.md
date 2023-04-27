@@ -1,4 +1,4 @@
-# [Power of Cryptography](https://www.e-olymp.com/en/contests/9646/problems/84665)
+# Power of Cryptography [⬀](https://www.e-olymp.com/en/contests/9646/problems/84665)
 Given an integer n ≥ 1 and an integer p ≥ 1 you are to write a program that determines  ⁿ√p, the positive n-th root of p. There always exists such integer k that kⁿ = p.
 
 ## Input

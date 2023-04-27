@@ -1,4 +1,4 @@
-# [Sum of fractions](https://www.e-olymp.com/en/problems/7363)
+# Sum of fractions [⬀](https://www.e-olymp.com/en/problems/7363)
 
 Find the sum of two proper fractions a / b and c / d, which numerator and denominator are integers. Give 
 the result in the form of irreducible fraction – numerator and denominator. If the result is integer, print 

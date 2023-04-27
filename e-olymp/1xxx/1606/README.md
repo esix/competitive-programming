@@ -1,4 +1,4 @@
-# [The sum of the first and last digits of the number](https://www.e-olymp.com/en/problems/1606)
+# The sum of the first and last digits of the number [⬀](https://www.e-olymp.com/en/problems/1606)
 Find the sum of the first and the last digit of an integer.
 
 ## Input

@@ -1,4 +1,4 @@
-# [Hiking in the Hills](https://www.e-olymp.com/en/contests/9666/problems/84870)
+# Hiking in the Hills [⬀](https://www.e-olymp.com/en/contests/9666/problems/84870)
 Helen is hiking with her friends in a highland. Their plan is to hike from their camp A to a beautiful showplace B.
 
 Unfortunately, Helen started feeling dizzy due to altitude sickness. Help her group find a route such that the topmost height on that route is as small as possible.

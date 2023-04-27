@@ -1,1 +1,1 @@
-# [Обрати меня!](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539)
+# Обрати меня! [⬀](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=111539)

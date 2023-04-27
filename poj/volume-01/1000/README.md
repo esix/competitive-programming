@@ -1,4 +1,4 @@
-# [A+B Problem](http://poj.org/problem?id=1000)
+# A+B Problem [⬀](http://poj.org/problem?id=1000)
 
 ## Description
 

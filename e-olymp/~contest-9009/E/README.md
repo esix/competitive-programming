@@ -1,4 +1,4 @@
-# [Point on a line](https://www.e-olymp.com/en/contests/9009/problems/78061)
+# Point on a line [⬀](https://www.e-olymp.com/en/contests/9009/problems/78061)
 
 Determine whether a point belongs to the line given by equation Ax + By + C = 0.
 

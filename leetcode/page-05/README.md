@@ -1,4 +1,4 @@
-# [05 (201-250)](https://leetcode.com/problemset/all/#page-5)
+# 05 (201-250) [⬀](https://leetcode.com/problemset/all/#page-5)
 
 
 | ID  | Problem statement                                                                                                               | Solution                   |

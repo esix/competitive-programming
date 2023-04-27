@@ -1,4 +1,4 @@
-# [The height of the triangle](https://www.e-olymp.com/en/contests/8947/problems/77346)
+# The height of the triangle [⬀](https://www.e-olymp.com/en/contests/8947/problems/77346)
 
 The area of the triangle is S. The length of its base is a greater than its height. Find the height of the triangle.
 

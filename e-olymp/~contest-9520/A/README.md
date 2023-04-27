@@ -1,4 +1,4 @@
-# [Fast Exponentiation](https://www.e-olymp.com/en/contests/9520/problems/83413)
+# Fast Exponentiation [⬀](https://www.e-olymp.com/en/contests/9520/problems/83413)
 
 Very often arises the problem of effective calculation `xⁿ` by given **x** and **n**, where **n** is a positive integer.
 

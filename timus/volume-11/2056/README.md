@@ -1,4 +1,4 @@
-# [2056. Стипендия](http://acm.timus.ru/problem.aspx?space=1&num=2056)
+# 2056. Стипендия [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2056)
 
 _Ограничение времени: 1.0 секунды_
 

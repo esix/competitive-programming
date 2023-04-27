@@ -1,4 +1,4 @@
-# [GCD](https://www.e-olymp.com/en/contests/9493/problems/83159)
+# GCD [⬀](https://www.e-olymp.com/en/contests/9493/problems/83159)
 
 Find the Greatest Common Divisor of n numbers.
 

@@ -1,4 +1,4 @@
-# [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+# 1460. Make Two Arrays Equal by Reversing Sub-arrays [⬀](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 
 Given two integer arrays of equal length `target` and `arr`.
 

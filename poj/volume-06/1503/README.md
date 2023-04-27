@@ -1,4 +1,4 @@
-# [Integer Inquiry](http://poj.org/problem?id=1503)
+# Integer Inquiry [⬀](http://poj.org/problem?id=1503)
 
 ## Description
 

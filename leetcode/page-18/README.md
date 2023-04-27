@@ -1,4 +1,4 @@
-# [18 (851-900)](https://leetcode.com/problemset/all/#page-18)
+# 18 (851-900) [⬀](https://leetcode.com/problemset/all/#page-18)
 
 
 | ID   | Problem statement                                                                                    | Solution                     |

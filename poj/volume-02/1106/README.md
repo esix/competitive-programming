@@ -1,4 +1,4 @@
-# [Transmitters](http://poj.org/problem?id=1106)
+# Transmitters [⬀](http://poj.org/problem?id=1106)
 
 ## Description
 

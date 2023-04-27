@@ -1,4 +1,4 @@
-# [Traffic Lights](http://acm.sgu.ru/problem.php?contest=0&problem=103)
+# Traffic Lights [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=103)
 
 _Time limit per test: 0.25 second(s)_
 

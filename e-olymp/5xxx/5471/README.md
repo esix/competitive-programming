@@ -1,4 +1,4 @@
-# [Граф 1, 1/2, 1/3, 1/4](https://www.e-olymp.com/en/problems/5471)
+# Граф 1, 1/2, 1/3, 1/4 [⬀](https://www.e-olymp.com/en/problems/5471)
 
 Given connected, directed graph with edge weights 1, 1/2, 1/3, 1/4. Find the shortest path from vertex 1 to all others.
 

@@ -1,4 +1,4 @@
-# [Number of solutions](http://acm.mipt.ru/judge/problems.pl?problem=201&lang=en)
+# Number of solutions [⬀](http://acm.mipt.ru/judge/problems.pl?problem=201&lang=en)
 
 _Time limit = 5 second(s)_
 

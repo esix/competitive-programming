@@ -1,1 +1,1 @@
-# [Собственные числа Psych Up](http://acm.timus.ru/problem.aspx?space=1&num=1880)
+# Собственные числа Psych Up [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1880)

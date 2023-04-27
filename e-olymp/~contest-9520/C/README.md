@@ -1,4 +1,4 @@
-# [Just Add It](https://www.e-olymp.com/en/contests/9520/problems/83415)
+# Just Add It [⬀](https://www.e-olymp.com/en/contests/9520/problems/83415)
 For two given integers n and k find
 
 (Zn + Zn-1 - 2Zn-2) mod 10000007,

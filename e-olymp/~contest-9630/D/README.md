@@ -1,4 +1,4 @@
-# [The square of sum](https://www.e-olymp.com/en/contests/9630/problems/84467)
+# The square of sum [⬀](https://www.e-olymp.com/en/contests/9630/problems/84467)
 Find the square of sum of digits of two digit positive integer.
 
 ## Input

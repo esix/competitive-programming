@@ -1,4 +1,4 @@
-# [Fibonacci](https://www.e-olymp.com/en/contests/9493/problems/83160)
+# Fibonacci [⬀](https://www.e-olymp.com/en/contests/9493/problems/83160)
 
 Fibonacci numbers is a sequence of numbers F(n), given by the formula:
 

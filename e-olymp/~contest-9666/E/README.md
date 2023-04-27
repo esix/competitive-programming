@@ -1,4 +1,4 @@
-# [Expression](https://www.e-olymp.com/en/contests/9666/problems/84867)
+# Expression [⬀](https://www.e-olymp.com/en/contests/9666/problems/84867)
 In computing, regular expressions is a powerful tool for text search and string matching. In this problem a simplified version of regular expressions is used:
 
 An empty string "" is a regular expression, only the empty string matches it.

@@ -1,4 +1,4 @@
-# [Heron](https://www.e-olymp.com/en/problems/926)
+# Heron [⬀](https://www.e-olymp.com/en/problems/926)
 
 ![prb926](1270204289.JPG)
 

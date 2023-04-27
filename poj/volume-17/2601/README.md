@@ -1,4 +1,4 @@
-# [Simple calculations](http://poj.org/problem?id=2601)
+# Simple calculations [⬀](http://poj.org/problem?id=2601)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [Number of hanging vertices 1](https://www.e-olymp.com/en/problems/5080)
+# Number of hanging vertices 1 [⬀](https://www.e-olymp.com/en/problems/5080)
 
 Given a simple undirected unweighted graph. Count the number of hanging vertices in it. The vertex is hanging, if its degree is 1.
 

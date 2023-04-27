@@ -1,4 +1,4 @@
-# [Three rectangles](https://www.e-olymp.com/en/problems/7504)
+# Three rectangles [⬀](https://www.e-olymp.com/en/problems/7504)
 Three rectangles are painted on the white sheet of paper so that their sides lie on the grid lines and the vertices have integer coordinates. Find the total number of painted cells.
 
 ![5775c06574fd8c9b2e9099ca35856fd0.png](5775c06574fd8c9b2e9099ca35856fd0.png)

@@ -1,4 +1,4 @@
-# [2014 ACM NEERC, Northern Subregion](https://www.e-olymp.com/en/contests/9666)
+# 2014 ACM NEERC, Northern Subregion [⬀](https://www.e-olymp.com/en/contests/9666)
 
 
 

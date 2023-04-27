@@ -1,4 +1,4 @@
-# [FCTRL - Factorial](http://www.spoj.com/problems/FCTRL/)
+# FCTRL - Factorial [⬀](http://www.spoj.com/problems/FCTRL/)
 
 The most important part of a GSM network is so called *Base Transceiver Station (BTS)*. These transceivers form the areas called *cells* (this term gave the name to the cellular phone) and every phone connects to the BTS with the strongest signal (in a little simplified view). Of course, BTSes need some attention and technicians need to check their function periodically.
 

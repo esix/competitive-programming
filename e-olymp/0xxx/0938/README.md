@@ -1,4 +1,4 @@
-# [The point on the interval](https://www.e-olymp.com/en/problems/938)
+# The point on the interval [⬀](https://www.e-olymp.com/en/problems/938)
 
 The segment is given by the coordinates of its endpoints: **M(x1, y1)** and **N(x2, y2)**. Find the coordinates of **O(x, y)**, which divides it in ratio **α**.
 

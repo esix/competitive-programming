@@ -1,4 +1,4 @@
-# [33 (1601-1650)](https://leetcode.com/problemset/all/#page-33)
+# 33 (1601-1650) [⬀](https://leetcode.com/problemset/all/#page-33)
 
 
 

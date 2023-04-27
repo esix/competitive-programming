@@ -1,4 +1,4 @@
-# [A square from squares](https://www.e-olymp.com/en/problems/6273)
+# A square from squares [⬀](https://www.e-olymp.com/en/problems/6273)
 
 Find the integer side length of the largest square, that can be obtained from three squares with sides a, b and c, cutting them into rectangles and then putting together to form a square.
 

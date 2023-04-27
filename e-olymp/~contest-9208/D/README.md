@@ -1,4 +1,4 @@
-# [The shortest distance](https://www.e-olymp.com/en/contests/9208/problems/80031)
+# The shortest distance [⬀](https://www.e-olymp.com/en/contests/9208/problems/80031)
 
 The directed graph is given. Find the shortest distance from the vertex x to other vertices of the graph.
 

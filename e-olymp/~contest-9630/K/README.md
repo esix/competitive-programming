@@ -1,4 +1,4 @@
-# [The product of even digits in a number](https://www.e-olymp.com/en/contests/9630/problems/84474)
+# The product of even digits in a number [⬀](https://www.e-olymp.com/en/contests/9630/problems/84474)
 Find the product of all even digits in an integer.
 
 ## Input

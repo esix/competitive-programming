@@ -1,4 +1,4 @@
-# [The triangle](https://www.e-olymp.com/en/problems/653)
+# The triangle [⬀](https://www.e-olymp.com/en/problems/653)
 
 In Euclidean geometry, triangles can be divided into three types depending on the values of their angles. The triangle is acute if all its three angles are less than 90 degrees. The triangle is obtuse, if one of its angles is greater than 90 degrees. Finally, a triangle is right if one of its angles equals to 90 degrees.
 

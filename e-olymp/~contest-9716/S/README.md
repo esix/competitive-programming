@@ -1,4 +1,4 @@
-# [Always Follow the Rules in Zombieland](https://www.e-olymp.com/en/problems/3364)
+# Always Follow the Rules in Zombieland [⬀](https://www.e-olymp.com/en/problems/3364)
 
 Welcome to Zombieland! For the next five hours, your team will battle wits with hordes of the undead. Do you have the cunning, will, and stamina to survive? Follow the rules, and you may live to tell the tale.
 

@@ -1,4 +1,4 @@
-# [BAISED - Biased Standings](http://www.spoj.com/problems/BAISED/)
+# BAISED - Biased Standings [⬀](http://www.spoj.com/problems/BAISED/)
 
 Usually, results of competitions are based on the scores of participants. However, we are planning a change for the next year of IPSC. During the registration each team will be able to enter a single positive integer : their preferred place in the ranklist. We would take all these preferences into account, and at the end of the competition we will simply announce a ranklist that would please all of you.
 

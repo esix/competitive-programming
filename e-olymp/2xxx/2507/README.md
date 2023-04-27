@@ -1,4 +1,4 @@
-# [Border](https://www.e-olymp.com/en/problems/2507)
+# Border [⬀](https://www.e-olymp.com/en/problems/2507)
 In international politics an important concept is a boundary between the states. Unclear understanding of the parties where the border may lead to international conflicts and even wars.
 
 In this problem the situation is somewhat simpler, since the two states have a clear understanding of what territory belongs to any of them.

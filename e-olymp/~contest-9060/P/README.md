@@ -1,4 +1,4 @@
-# [Multiedges](https://www.e-olymp.com/en/contests/9060/problems/78611)
+# Multiedges [⬀](https://www.e-olymp.com/en/contests/9060/problems/78611)
 
 A directed graph is given with a list of edges. Check whether it contains multiedges.
 

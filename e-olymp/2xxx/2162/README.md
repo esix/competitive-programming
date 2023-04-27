@@ -1,4 +1,4 @@
-# [Palindrome](https://www.e-olymp.com/en/problems/2162)
+# Palindrome [⬀](https://www.e-olymp.com/en/problems/2162)
 Palindrome is a sequence of characters that reads the same backwards as well as forwards. Find out whether the given text is a palindrome. Do not forget that space is not pronounced when reading.
 
 ## Input

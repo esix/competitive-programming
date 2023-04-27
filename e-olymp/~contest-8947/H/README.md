@@ -1,4 +1,4 @@
-# [Geometry Paradox](https://www.e-olymp.com/en/contests/8947/problems/77338)
+# Geometry Paradox [⬀](https://www.e-olymp.com/en/contests/8947/problems/77338)
 
 In the picture below you can see two small circles touching each other. The larger circle touches both pf them. The length of the common tangent inscribed inside the larger circle is t and the radiuses of the two smaller circles are r1 and r2. The centers of the three circles are collinear. You will be given the value of r1 and r2 or the value of t. You will have to find the area that is within the larger circle but out of the two smaller circles (marked gray in the picture). If the given data is not enough to find the gray area, print the line "Impossible." in a single line.
 

@@ -1,1 +1,1 @@
-# [Факториалы!!!](http://acmp.ru/index.asp?main=task&id_task=51)
+# Факториалы!!! [⬀](http://acmp.ru/index.asp?main=task&id_task=51)

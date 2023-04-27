@@ -1,4 +1,4 @@
-# [Introduction to classes. OOP](https://www.e-olymp.com/en/contests/9863)
+# Introduction to classes. OOP [⬀](https://www.e-olymp.com/en/contests/9863)
 
 
 | ID | Problem statement                                                         | Solution                 |

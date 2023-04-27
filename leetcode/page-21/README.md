@@ -1,4 +1,4 @@
-# [21 (1001-1050)](https://leetcode.com/problemset/all/#page-21)
+# 21 (1001-1050) [⬀](https://leetcode.com/problemset/all/#page-21)
 
 
 | ID   | Problem statement                                                                                                       | Solution                       |

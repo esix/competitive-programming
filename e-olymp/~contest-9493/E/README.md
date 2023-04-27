@@ -1,4 +1,4 @@
-# [Exponentiation](https://www.e-olymp.com/en/contests/9493/problems/83154)
+# Exponentiation [⬀](https://www.e-olymp.com/en/contests/9493/problems/83154)
 
 Find the value of aᵇ.
 

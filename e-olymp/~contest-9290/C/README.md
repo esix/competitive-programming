@@ -1,4 +1,4 @@
-# [Diamonds](https://www.e-olymp.com/en/contests/9290/problems/80893)
+# Diamonds [⬀](https://www.e-olymp.com/en/contests/9290/problems/80893)
 
 A diamond's overall worth is determined by its mass in carats as well as its overall clarity. A large diamond with many imperfections is not worth as much as a smaller, flawless diamond. The overall clarity of a diamond can be described on a scale from 0.0 - 10.0 adopted by the American Gem Society, where 0.0 represents a flawless diamond and 10.0 represents an imperfect diamond.
 

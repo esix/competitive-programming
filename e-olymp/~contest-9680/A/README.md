@@ -1,4 +1,4 @@
-# [Exchange](https://www.e-olymp.com/en/contests/9680/problems/85012)
+# Exchange [⬀](https://www.e-olymp.com/en/contests/9680/problems/85012)
 On Christmas, in the evening, there were three flowers in the window, from left to right: geranium, crocus and violet. Every morning Masha cleans the dust and changes position of the right flower with central one. In the afternoon, Tanya waters the flowers and swaps left and central flowers. Print the order of the flowers after k days, at night.
 
 Input

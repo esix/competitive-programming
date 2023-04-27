@@ -1,4 +1,4 @@
-# [Reverse Rot](https://www.e-olymp.com/en/problems/7735)
+# Reverse Rot [⬀](https://www.e-olymp.com/en/problems/7735)
 A very simplistic scheme, which was used at one time to encode information, is to rotate the characters within an alphabet and rewrite them. ROT13 is the variant in which the characters A-Z are rotated 13 places, and it was a commonly used insecure scheme that attempted to "hide" data in many applications from the late 1990's and into the early 2000's.
 
 It has been decided by Insecure Inc. to develop a product that "improves" upon this scheme by first reversing the entire string and then rotating it. As an example, if we apply this scheme to string ABCD with a reversal and rotation of 1, after the reversal we would have DCBA and then after rotating that by 1 position we have the result EDCB.

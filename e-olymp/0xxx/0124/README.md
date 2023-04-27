@@ -1,4 +1,4 @@
-# [Square](https://www.e-olymp.com/en/problems/124)
+# Square [⬀](https://www.e-olymp.com/en/problems/124)
 
 Find the perimeter and the area of a square.
 

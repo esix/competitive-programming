@@ -1,4 +1,4 @@
-# [Currency Exchange](http://poj.org/problem?id=1860)
+# Currency Exchange [⬀](http://poj.org/problem?id=1860)
 
 ## Description
 

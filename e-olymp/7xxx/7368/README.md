@@ -1,4 +1,4 @@
-# [Arithmetic mean for figure skaters](https://www.e-olymp.com/en/problems/7368)
+# Arithmetic mean for figure skaters [⬀](https://www.e-olymp.com/en/problems/7368)
 n judges give grades for figure skaters. Technical worker of competition removes all maximum and all minimum grades and calculates the arithmetic mean of the grades left. This result is considered to be the number of points earned by athlete. Find the number of points earned by each athlete.
 
 ## Input

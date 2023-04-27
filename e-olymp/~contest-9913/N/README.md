@@ -1,4 +1,4 @@
-# [I’ve Been Everywhere, Man](https://www.e-olymp.com/en/problems/7546)
+# I’ve Been Everywhere, Man [⬀](https://www.e-olymp.com/en/problems/7546)
 Alice travels a lot for her work. Each time she travels, she visits a single city before returning home.
 
 Someone recently asked her "how many different cities have you visited for work?" Thankfully Alice has kept a log of her trips. Help Alice figure out the number of cities she has visited at least once.

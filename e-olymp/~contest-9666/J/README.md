@@ -1,4 +1,4 @@
-# [Joy of Flight](https://www.e-olymp.com/en/contests/9666/problems/84872)
+# Joy of Flight [⬀](https://www.e-olymp.com/en/contests/9666/problems/84872)
 Jacob likes to play with his radio-controlled aircraft. The weather today is pretty windy and Jacob has to plan flight carefully. He has a weather forecast - the speed and direction of the wind for every second of the planned flight.
 
 The plane may have airspeed up to vmax units per second in any direction. The wind blows away plane in the following way: if airspeed speed of the plane is (vx, vy) and the wind speed is (wx, wy), the plane moves by (vx + wx, vw + wy) each second.

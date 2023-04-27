@@ -1,4 +1,4 @@
-# [01 (1-50)](https://leetcode.com/problemset/all/#page-1)
+# 01 (1-50) [⬀](https://leetcode.com/problemset/all/#page-1)
 
 
 

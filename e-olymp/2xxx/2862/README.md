@@ -1,4 +1,4 @@
-# [Number of divisors](https://www.e-olymp.com/en/problems/2862)
+# Number of divisors [⬀](https://www.e-olymp.com/en/problems/2862)
 Find the number of divisor for number n.
 
 ## Input

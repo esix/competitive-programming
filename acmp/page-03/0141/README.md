@@ -1,1 +1,1 @@
-# [Дерево](http://acmp.ru/index.asp?main=task&id_task=141)
+# Дерево [⬀](http://acmp.ru/index.asp?main=task&id_task=141)

@@ -1,4 +1,4 @@
-# [Factorial Again!](https://www.e-olymp.com/en/problems/3744)
+# Factorial Again! [⬀](https://www.e-olymp.com/en/problems/3744)
 Mathew, an engineering freshman, is developing an original positional notation for representing integer numbers. He called it "A Curious Method" (ACM for short). The ACM notation uses the same digits as the decimal notation, i.e., 0 through 9.
 
 To convert a number A from ACM to decimal notation you must add k terms, where k is the number of digits of A (in the ACM notation). The value of the i-th term, corresponding the i-th digit ai, counting from right to left, is ai × i!. For instance 719[ACM] is equivalent to 53[10], since 7 × 3! + 1 × 2! + 9 × 1! = 53.

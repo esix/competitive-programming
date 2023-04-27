@@ -1,4 +1,4 @@
-# [Солдат и бананы](https://codeforces.com/contest/546/problem/A)
+# Солдат и бананы [⬀](https://codeforces.com/contest/546/problem/A)
 
 - ограничение по времени на тест: 1 секунда
 - ограничение по памяти на тест: 256 мегабайт

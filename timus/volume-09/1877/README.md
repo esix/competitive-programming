@@ -1,1 +1,1 @@
-﻿# [Велосипедные коды](http://acm.timus.ru/problem.aspx?space=1&num=1877)
+﻿# Велосипедные коды [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1877)

@@ -1,4 +1,4 @@
-# [The nearest points](https://www.e-olymp.com/en/problems/555)
+# The nearest points [⬀](https://www.e-olymp.com/en/problems/555)
 
 Anton began to study mathematics at school. His attention was attracted to the new concept of real line. Anton quickly learned how to calculate the distance between two points on this line, to define segments and intervals on it.
 

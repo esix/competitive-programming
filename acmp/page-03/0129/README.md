@@ -1,1 +1,1 @@
-# [Табличка](http://acmp.ru/index.asp?main=task&id_task=129)
+# Табличка [⬀](http://acmp.ru/index.asp?main=task&id_task=129)

@@ -1,4 +1,4 @@
-# [Train](http://acm.sgu.ru/problem.php?contest=0&problem=300)
+# Train [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=300)
 
 _Time limit per test: 0.5 second(s)_
 

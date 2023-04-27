@@ -1,4 +1,4 @@
-# [Two dimensional arrays](https://www.e-olymp.com/en/contests/9784)
+# Two dimensional arrays [⬀](https://www.e-olymp.com/en/contests/9784)
 
 
 

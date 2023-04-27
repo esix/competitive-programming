@@ -1,4 +1,4 @@
-# [Just fun contest](https://www.e-olymp.com/en/contests/10063)
+# Just fun contest [⬀](https://www.e-olymp.com/en/contests/10063)
 
 
 | ID | Problem statement                                                        | Solution                 |

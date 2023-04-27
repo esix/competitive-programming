@@ -1,4 +1,4 @@
-# [Get a tree](https://www.e-olymp.com/en/contests/9116/problems/79186)
+# Get a tree [⬀](https://www.e-olymp.com/en/contests/9116/problems/79186)
 
 The connected undirected graph without loops and multiple edges is given. You are allowed to remove the edges from it. Obtain a tree from the graph.
 

@@ -1,4 +1,4 @@
-# [Match’s model](https://www.e-olymp.com/en/problems/3)
+# Match’s model [⬀](https://www.e-olymp.com/en/problems/3)
 
 ![1254417764.gif](1254417764.gif)
 

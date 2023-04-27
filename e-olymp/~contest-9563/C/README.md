@@ -1,4 +1,4 @@
-# [The sum of two](https://www.e-olymp.com/en/contests/9563/problems/83865)
+# The sum of two [⬀](https://www.e-olymp.com/en/contests/9563/problems/83865)
 Find the sum of two numbers.
 
 ## Input

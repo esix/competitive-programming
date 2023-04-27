@@ -1,4 +1,4 @@
-# [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+# Find K Pairs with Smallest Sums [⬀](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 You are given two integer arrays **nums1** and **nums2** sorted in ascending order and an integer **k**.
 

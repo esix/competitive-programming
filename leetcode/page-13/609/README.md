@@ -1,4 +1,4 @@
-# [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+# Find Duplicate File in System [⬀](https://leetcode.com/problems/find-duplicate-file-in-system/)
 
 Given a list `paths` of directory info, including the directory path, and all the files with contents in this directory, return *all the duplicate files in the file system in terms of their paths*. You may return the answer in **any order**.
 

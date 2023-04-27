@@ -1,4 +1,4 @@
-# [The Area of the Polygon](https://www.e-olymp.com/en/problems/60)
+# The Area of the Polygon [⬀](https://www.e-olymp.com/en/problems/60)
 
 The coordinates of n consecutive points of polygon are given. Find the area of the polygon.
 

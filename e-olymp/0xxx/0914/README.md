@@ -1,4 +1,4 @@
-# [Maximum of absolute values](https://www.e-olymp.com/en/problems/914)
+# Maximum of absolute values [⬀](https://www.e-olymp.com/en/problems/914)
 The sequence of real numbers is given. Lets find their absolute values. Find the maximum value among these absolute values.
 
 ## Input

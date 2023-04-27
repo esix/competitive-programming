@@ -1,4 +1,4 @@
-# [Babel](https://www.e-olymp.com/en/problems/2717)
+# Babel [⬀](https://www.e-olymp.com/en/problems/2717)
 
 During the construction of the Tower of Babel, as you know, God confused all languages. The result was that each person knows a lot of languages. Two people can give each other information, if there is a language which they both know. Head building conveys the team on his well-known languages. Those who received these commands, can they pass on, translating into languages known to them. Determine the number of people to reach are the team leader.
 

@@ -1,4 +1,4 @@
-# [Azerbaijan CodeCUP 2017 elimination round - REVISITED](https://www.e-olymp.com/en/contests/9151)
+# Azerbaijan CodeCUP 2017 elimination round - REVISITED [⬀](https://www.e-olymp.com/en/contests/9151)
 
 
 

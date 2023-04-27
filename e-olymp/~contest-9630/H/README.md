@@ -1,4 +1,4 @@
-# [Two digits from four digits](https://www.e-olymp.com/en/contests/9630/problems/84471)
+# Two digits from four digits [⬀](https://www.e-olymp.com/en/contests/9630/problems/84471)
 You are given a four digit positive integer. Obtain from it a two digit number consisting of its middle digits.
 
 ## Input

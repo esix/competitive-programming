@@ -1,4 +1,4 @@
-# [Graphs Representation](https://www.e-olymp.com/en/contests/9060)
+# Graphs Representation [⬀](https://www.e-olymp.com/en/contests/9060)
 
 
 

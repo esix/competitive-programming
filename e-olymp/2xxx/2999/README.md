@@ -1,4 +1,4 @@
-# [Function-10](https://www.e-olymp.com/en/problems/2999)
+# Function-10 [⬀](https://www.e-olymp.com/en/problems/2999)
 
 The function is given with nonnegative integer arguments m and n (m ≤ n):
 

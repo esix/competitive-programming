@@ -1,4 +1,4 @@
-# [Fragmentation](https://www.e-olymp.com/en/contests/9666/problems/84868)
+# Fragmentation [⬀](https://www.e-olymp.com/en/contests/9666/problems/84868)
 Felix is working on a startup project in his garage. He has already found a great name for his project: SuperFastZilla. By now he is not sure what SuperFastZilla should do, but he is pretty sure it should do it fast, super fast.
 
 Once he noticed that SuperFastZilla is working too slow, inspite of the fast algorithms used in it. Felix thinks that the problem may be caused by storage fragmentation.

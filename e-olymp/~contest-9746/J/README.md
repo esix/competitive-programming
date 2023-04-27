@@ -1,4 +1,4 @@
-# [Number of zeroes in factorial](https://www.e-olymp.com/en/problems/123)
+# Number of zeroes in factorial [⬀](https://www.e-olymp.com/en/problems/123)
 Find the number of zeros at the end of n! (n factorial).
 
 ## Input

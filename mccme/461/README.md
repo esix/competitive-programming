@@ -1,1 +1,1 @@
-# [Петли](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=461)
+# Петли [⬀](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=461)

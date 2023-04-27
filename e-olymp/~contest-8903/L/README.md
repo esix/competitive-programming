@@ -1,4 +1,4 @@
-# [Sum of GCD](https://www.e-olymp.com/en/contests/8903/problems/76960)
+# Sum of GCD [⬀](https://www.e-olymp.com/en/contests/8903/problems/76960)
 
 Given n positive integers, you have to find the summation of GCD (greatest common divisor) of every possible pair of these integers.
 

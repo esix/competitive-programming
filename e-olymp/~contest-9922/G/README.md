@@ -1,4 +1,4 @@
-# [Stepan and pairs](https://www.e-olymp.com/en/problems/4283)
+# Stepan and pairs [⬀](https://www.e-olymp.com/en/problems/4283)
 At the last time Stepan is very interested in pairs of numbers, and instead of pairs he is interested in greater common divisor, lets denote it as `GCD(x, y)`. Now Stepan has an integer n and he is interested in the next information: how many pairs of integers `(i, j)` exist such that `1 ≤ i`, `j ≤ n` and `i = GCD(i, j)`.
 
 Help him to solve this problem.

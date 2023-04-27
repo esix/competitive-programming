@@ -1,4 +1,4 @@
-# [Spiral](https://www.e-olymp.com/en/problems/85)
+# Spiral [⬀](https://www.e-olymp.com/en/problems/85)
 
 ![prb85](1256099433.JPG)
 

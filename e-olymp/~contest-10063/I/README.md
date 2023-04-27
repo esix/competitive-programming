@@ -1,4 +1,4 @@
-# [Olympiad](https://www.e-olymp.com/en/problems/125)
+# Olympiad [⬀](https://www.e-olymp.com/en/problems/125)
 The Olympiad started at h1 hours m1 minutes s1 seconds, and finished at the same calendar day at h2 hours m2 minutes s2 seconds. What is the duration (hour min sec) of Olympiad?
 
 ## Input

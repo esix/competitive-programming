@@ -1,4 +1,4 @@
-# [Exponentiation](http://poj.org/problem?id=1001)
+# Exponentiation [⬀](http://poj.org/problem?id=1001)
 
 ## Description
 

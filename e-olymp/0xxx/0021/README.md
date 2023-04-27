@@ -1,4 +1,4 @@
-# [Corruption](https://www.e-olymp.com/en/problems/21)
+# Corruption [⬀](https://www.e-olymp.com/en/problems/21)
 
 With the purpose of fight against a shadow economy a bank inculcated merging of the N accounts of a company into one. For one operation 2 accounts are merged into one and bank automatically takes its own charge fee of Р% from the new account total for this operation. What is the most funds which could remain on the company' account? Each account has maximum charge of G UAH before merging.
 

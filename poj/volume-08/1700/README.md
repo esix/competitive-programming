@@ -1,4 +1,4 @@
-# [Crossing River](http://poj.org/problem?id=1700)
+# Crossing River [⬀](http://poj.org/problem?id=1700)
 
 ## Description
 

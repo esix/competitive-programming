@@ -1,4 +1,4 @@
-# [Three digit numbers](https://www.e-olymp.com/en/problems/2097)
+# Three digit numbers [⬀](https://www.e-olymp.com/en/problems/2097)
 From the given interval [a, b] print in ascending order all three digit numbers with different digits.
 
 ## Input

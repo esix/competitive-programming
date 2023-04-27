@@ -1,4 +1,4 @@
-# [16 (751-800)](https://leetcode.com/problemset/all/#page-16)
+# 16 (751-800) [⬀](https://leetcode.com/problemset/all/#page-16)
 
 
 | ID  | Problem statement                                                                                                                     | Solution                   |

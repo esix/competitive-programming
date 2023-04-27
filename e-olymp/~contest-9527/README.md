@@ -1,4 +1,4 @@
-# [Conditional statement](https://www.e-olymp.com/en/contests/9527)
+# Conditional statement [⬀](https://www.e-olymp.com/en/contests/9527)
 
 
 

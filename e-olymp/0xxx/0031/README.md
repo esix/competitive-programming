@@ -1,4 +1,4 @@
-# [Superstitious Santa Claus](https://www.e-olymp.com/en/problems/31)
+# Superstitious Santa Claus [⬀](https://www.e-olymp.com/en/problems/31)
 
 How ‘s you know in different years interchange and different Santa Clauses transport the presents. But all of they are superstitious and transport presents all the year, except that days, when "Friday, 13" on the calendar of Santa Claus.
 

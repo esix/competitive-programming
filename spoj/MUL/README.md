@@ -1,4 +1,4 @@
-# [MUL - Fast Multiplication](http://www.spoj.com/problems/MUL/)
+# MUL - Fast Multiplication [⬀](http://www.spoj.com/problems/MUL/)
 
 Multiply the given numbers.
 

@@ -1,4 +1,4 @@
-# [Time for Nicholas](https://www.e-olymp.com/en/problems/514)
+# Time for Nicholas [⬀](https://www.e-olymp.com/en/problems/514)
 Vasilyek know that St. Nicholas starts to deliver gifts when it gets dark, and finishes when it dawns. He wonders: how much time will have Nicholas to deliver all his gifts.
 
 ## Input

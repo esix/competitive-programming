@@ -1,4 +1,4 @@
-# [Balls](http://poj.org/problem?id=3783)
+# Balls [⬀](http://poj.org/problem?id=3783)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [Two circles](https://www.e-olymp.com/en/contests/8947/problems/77331)
+# Two circles [⬀](https://www.e-olymp.com/en/contests/8947/problems/77331)
 
 How many points in common two given circles have? 
 

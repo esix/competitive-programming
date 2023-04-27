@@ -1,4 +1,4 @@
-# [Bell](https://www.e-olymp.com/en/problems/2329)
+# Bell [⬀](https://www.e-olymp.com/en/problems/2329)
 
 Write a program that in array of n integers put smallest element to the first place, the smallest of the remaining - to the last, the next smallest - to the second place, the next - to the second to the last place, and so on - until the middle of the array.
 

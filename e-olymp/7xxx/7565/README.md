@@ -1,4 +1,4 @@
-# [Easy Problemset](https://www.e-olymp.com/en/problems/7565)
+# Easy Problemset [⬀](https://www.e-olymp.com/en/problems/7565)
 Perhaps one of the hardest problems of any ACM ICPC contest is to create a problemset with a reasonable number of easy problems. On Not Easy European Regional Contest this problem is solved as follows.
 
 There are n jury members (judges). They are numbered from 1 to n. Judge number i had prepared pi easy problems before the jury meeting. Each of these problems has a hardness between 0 and 49 (the higher the harder). Each judge also knows a very large (say infinite) number of hard problems (their hardness is 50). Judges need to select k problems to be used on the contest during this meeting.

@@ -1,4 +1,4 @@
-# [Apocalypse Someday](http://poj.org/problem?id=3208)
+# Apocalypse Someday [⬀](http://poj.org/problem?id=3208)
 
 ## Description
 

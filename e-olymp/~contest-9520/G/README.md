@@ -1,4 +1,4 @@
-# [Cinema+](https://www.e-olymp.com/en/contests/9520/problems/83419)
+# Cinema+ [⬀](https://www.e-olymp.com/en/contests/9520/problems/83419)
 Once the pupils of the B-th school of city G decided to go to cinema. Cinema Administration has placed them in the hall of size n × m, which has been specially selected so that all the seats were occupied by pupils. Each cinema visitor was given a number.
 
 Pupils took their places in the following way: they entered the hall in the order of their numbers, and fully occupied initially the first row, then second row, then third row, etc.

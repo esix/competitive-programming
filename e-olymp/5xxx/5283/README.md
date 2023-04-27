@@ -1,4 +1,4 @@
-# [Thaw](https://www.e-olymp.com/en/problems/5283)
+# Thaw [⬀](https://www.e-olymp.com/en/problems/5283)
 Tired of the unusually warm winter the residents of Sudislavl decided to find out whether this is a long thaw in the history of weather observations. They appealed to the forecasters, and those, in turn, do research statistics for previous years. They are interested in how many days it lasted the longest thaw.
 
 The thaw is a period when the daily average temperature exceeds 0 degrees Celsius. Write a program that helps forecasters to work.

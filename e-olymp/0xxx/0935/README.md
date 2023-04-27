@@ -1,4 +1,4 @@
-# [Decomposition of three digit number](https://www.e-olymp.com/en/problems/935)
+# Decomposition of three digit number [⬀](https://www.e-olymp.com/en/problems/935)
 Decompose a given 3-digit number to digits.
 
 ## Input

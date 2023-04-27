@@ -1,4 +1,4 @@
-# [Black and white painting](http://poj.org/problem?id=3364)
+# Black and white painting [⬀](http://poj.org/problem?id=3364)
 
 ## Description
 

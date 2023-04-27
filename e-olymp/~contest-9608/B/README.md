@@ -1,4 +1,4 @@
-# [The first is not greater for 2,5](https://www.e-olymp.com/en/contests/9608/problems/84245)
+# The first is not greater for 2,5 [⬀](https://www.e-olymp.com/en/contests/9608/problems/84245)
 Array of real numbers is given. Find the first element in array which value does not exceed 2.5.
 
 ## Input

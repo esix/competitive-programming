@@ -1,4 +1,4 @@
-# [Product of digits](https://www.e-olymp.com/en/problems/906)
+# Product of digits [⬀](https://www.e-olymp.com/en/problems/906)
 Three digital number is given. Find the product of its digits.
 
 ## Input

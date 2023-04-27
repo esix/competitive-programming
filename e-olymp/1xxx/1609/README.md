@@ -1,4 +1,4 @@
-# [The number of specified digits](https://www.e-olymp.com/en/problems/1609)
+# The number of specified digits [⬀](https://www.e-olymp.com/en/problems/1609)
 Count the number of digits a in number n.
 
 ## Input

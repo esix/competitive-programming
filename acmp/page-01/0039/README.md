@@ -1,1 +1,1 @@
-﻿# [Волосатый бизнес](http://acmp.ru/index.asp?main=task&id_task=39)
+﻿# Волосатый бизнес [⬀](http://acmp.ru/index.asp?main=task&id_task=39)

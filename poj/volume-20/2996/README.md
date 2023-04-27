@@ -1,4 +1,4 @@
-# [Help Me with the Game](http://poj.org/problem?id=2996)
+# Help Me with the Game [⬀](http://poj.org/problem?id=2996)
 
 ## Description
 

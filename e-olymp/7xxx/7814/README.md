@@ -1,4 +1,4 @@
-# [Two-digit number from three-digit](https://www.e-olymp.com/en/problems/7814)
+# Two-digit number from three-digit [⬀](https://www.e-olymp.com/en/problems/7814)
 Three digit number is given. Remove from it one digit so that to get the minimum possible two-digit number.
 
 ## Input

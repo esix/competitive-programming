@@ -1,4 +1,4 @@
-# [mcme](http://informatics.mccme.ru/)
+# mcme [⬀](http://informatics.mccme.ru/)
 
 Mirror: [http://informatics.msk.ru/](http://informatics.msk.ru/)
 

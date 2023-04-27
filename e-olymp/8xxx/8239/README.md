@@ -1,4 +1,4 @@
-# [Function - 1](https://www.e-olymp.com/en/problems/8239)
+# Function - 1 [⬀](https://www.e-olymp.com/en/problems/8239)
 Implement a function f(x) = x³ + 2 * x² - 3.
 
 ## Input

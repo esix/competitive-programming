@@ -1,1 +1,1 @@
-# [Фонарики](http://acmp.ru/index.asp?main=task&id_task=55)
+# Фонарики [⬀](http://acmp.ru/index.asp?main=task&id_task=55)

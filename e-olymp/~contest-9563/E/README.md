@@ -1,4 +1,4 @@
-# [The arithmetic mean of positive](https://www.e-olymp.com/en/contests/9563/problems/83867)
+# The arithmetic mean of positive [⬀](https://www.e-olymp.com/en/contests/9563/problems/83867)
 The sequence of real numbers is given. Find the arithmetic mean of positive numbers.
 
 ## Input

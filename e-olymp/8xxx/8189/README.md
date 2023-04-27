@@ -1,4 +1,4 @@
-# [Coverage](https://www.e-olymp.com/en/problems/8189)
+# Coverage [⬀](https://www.e-olymp.com/en/problems/8189)
 
 A cellular provider has installed n towers to support their network. Each tower provides coverage in a 1 km radius, and no two towers are closer than 1 km to one another. The coverage region of this network is therefore the set of all points that are no more than 1 km away from at least one tower. The provider wants as much of this region as possible to be connected, in the sense that a user at any point within a connected subregion can travel to any other point within the connected subregion without having to exit the subregion. Their current installation of towers may or may not already form a single connected region, but they have the resources to build one more tower wherever they want, including within 1 km of an existing tower.
 

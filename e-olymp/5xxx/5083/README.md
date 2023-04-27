@@ -1,4 +1,4 @@
-# [Sum of digits](https://www.e-olymp.com/en/problems/5083)
+# Sum of digits [⬀](https://www.e-olymp.com/en/problems/5083)
 
 n integers are given. Find among them the number with minimal sum of digits (in the case if there are some of them with the same sum – print the last number from the input sequence).
 

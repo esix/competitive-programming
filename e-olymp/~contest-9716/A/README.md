@@ -1,4 +1,4 @@
-# [Robot](https://www.e-olymp.com/en/problems/87)
+# Robot [⬀](https://www.e-olymp.com/en/problems/87)
 
 ![prb87](1256097421.jpg)
 

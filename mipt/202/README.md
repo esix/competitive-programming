@@ -1,4 +1,4 @@
-# [Pete in love](http://acm.mipt.ru/judge/problems.pl?problem=202&lang=en)
+# Pete in love [⬀](http://acm.mipt.ru/judge/problems.pl?problem=202&lang=en)
 
 _Time limit: 2 seconds_
 

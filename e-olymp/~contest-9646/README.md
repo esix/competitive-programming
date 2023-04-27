@@ -1,4 +1,4 @@
-# [Functions](https://www.e-olymp.com/en/contests/9646)
+# Functions [⬀](https://www.e-olymp.com/en/contests/9646)
 
 
 

@@ -1,4 +1,4 @@
-# [Function - 3](https://www.e-olymp.com/en/contests/9646/problems/84662)
+# Function - 3 [⬀](https://www.e-olymp.com/en/contests/9646/problems/84662)
 Implement a function f(x, y) = x² + sin(x * y) - y².
 
 ## Input

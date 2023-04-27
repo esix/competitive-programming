@@ -1,4 +1,4 @@
-# [Data Structures Contest](https://www.e-olymp.com/en/contests/9571)
+# Data Structures Contest [⬀](https://www.e-olymp.com/en/contests/9571)
 
 
 

@@ -1,1 +1,1 @@
-# [Золото племени АББА](http://acmp.ru/index.asp?main=task&id_task=7)
+# Золото племени АББА [⬀](http://acmp.ru/index.asp?main=task&id_task=7)

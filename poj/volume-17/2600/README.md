@@ -1,4 +1,4 @@
-# [Geometrical dreams](http://poj.org/problem?id=2600)
+# Geometrical dreams [⬀](http://poj.org/problem?id=2600)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [Build Your Home](http://poj.org/problem?id=3907)
+# Build Your Home [⬀](http://poj.org/problem?id=3907)
 
 ## Description
 

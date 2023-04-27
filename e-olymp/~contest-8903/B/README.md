@@ -1,4 +1,4 @@
-# [Simple division](https://www.e-olymp.com/en/contests/8903/problems/76950)
+# Simple division [⬀](https://www.e-olymp.com/en/contests/8903/problems/76950)
 
 ![prb1182](1284187239.JPG)
 

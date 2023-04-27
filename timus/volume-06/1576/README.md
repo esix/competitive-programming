@@ -1,1 +1,1 @@
-# [Телефонные тарифы](http://acm.timus.ru/problem.aspx?space=1&num=1576)
+# Телефонные тарифы [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1576)

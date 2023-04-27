@@ -1,4 +1,4 @@
-# [Average Speed](http://poj.org/problem?id=2501)
+# Average Speed [⬀](http://poj.org/problem?id=2501)
 
 ## Description
 

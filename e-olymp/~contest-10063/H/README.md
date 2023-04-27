@@ -1,4 +1,4 @@
-# [Lucky tickets](https://www.e-olymp.com/en/problems/128)
+# Lucky tickets [⬀](https://www.e-olymp.com/en/problems/128)
 Find the number of lucky tickets with the sum of the first three digits n. Ticket is called lucky if it is a six-digit number and the sum of the first three digits equals to the sum of the last three digits.
 
 ## Input

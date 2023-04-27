@@ -1,1 +1,1 @@
-# [Сверхпростые числа](http://acmp.ru/index.asp?main=task&id_task=60)
+# Сверхпростые числа [⬀](http://acmp.ru/index.asp?main=task&id_task=60)

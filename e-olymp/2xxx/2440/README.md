@@ -1,4 +1,4 @@
-# [n-th Largest Value](https://www.e-olymp.com/en/problems/2440)
+# n-th Largest Value [⬀](https://www.e-olymp.com/en/problems/2440)
 
 You must write a program that prints the n-th largest value in a fixed sized array of integers. To make things simple, n will be 3 and the array will always be have 10 decimal integer values.
 

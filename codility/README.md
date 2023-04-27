@@ -1,4 +1,4 @@
-# [Codility](https://codility.com/programmers/)
+# Codility [⬀](https://codility.com/programmers/)
 
 Languages:
 

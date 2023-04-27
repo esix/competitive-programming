@@ -1,1 +1,1 @@
-# [Издевательство](http://acmp.ru/index.asp?main=task&id_task=126)
+# Издевательство [⬀](http://acmp.ru/index.asp?main=task&id_task=126)

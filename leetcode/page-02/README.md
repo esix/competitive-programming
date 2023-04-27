@@ -1,4 +1,4 @@
-# [02 (51-100)](https://leetcode.com/problemset/all/#page-2)
+# 02 (51-100) [⬀](https://leetcode.com/problemset/all/#page-2)
 
 
 

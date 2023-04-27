@@ -1,4 +1,4 @@
-# [Coins](https://www.e-olymp.com/en/problems/2218)
+# Coins [⬀](https://www.e-olymp.com/en/problems/2218)
 There are n coins on the table. Some of them have heads up, and some of them have tails up. Find the minimum number of coins to reverse, so that all coins will be turned up with the same side.
 
 ![prb2218](1311975011.JPG)

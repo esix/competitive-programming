@@ -1,4 +1,4 @@
-# [Тренировка №4](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40480)
+# Тренировка №4 [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40480)
 
 | ID | Problem statement         | Solution               |
 |----|---------------------------|------------------------|

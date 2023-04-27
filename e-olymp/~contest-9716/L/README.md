@@ -1,4 +1,4 @@
-# [Replace digit](https://www.e-olymp.com/en/problems/2611)
+# Replace digit [⬀](https://www.e-olymp.com/en/problems/2611)
 Given the number n, as well as digits a and b. Replace in this number every occurrence of the digit a to digit b.
 
 ## Input

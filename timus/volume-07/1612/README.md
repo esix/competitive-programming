@@ -1,1 +1,1 @@
-# [Трамвайный форум](http://acm.timus.ru/problem.aspx?space=1&num=1612)
+# Трамвайный форум [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1612)

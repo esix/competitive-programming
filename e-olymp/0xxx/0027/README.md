@@ -1,4 +1,4 @@
-# [Cycle shifts](https://www.e-olymp.com/en/problems/27)
+# Cycle shifts [⬀](https://www.e-olymp.com/en/problems/27)
 
 Lets write the decimal integer **n** in binary notation and create all its left cycle shifts where first digit of the number goes to the end.
 

@@ -1,4 +1,4 @@
-# [Without the middle](https://www.e-olymp.com/en/contests/9630/problems/84470)
+# Without the middle [⬀](https://www.e-olymp.com/en/contests/9630/problems/84470)
 Print the three digit number without the middle digit.
 
 ## Input

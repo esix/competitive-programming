@@ -1,4 +1,4 @@
-# [Quick Sort](https://www.e-olymp.com/en/problems/4848)
+# Quick Sort [⬀](https://www.e-olymp.com/en/problems/4848)
 Sort the given sequence.
 
 ## Input

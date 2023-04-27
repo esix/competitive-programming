@@ -1,4 +1,4 @@
-# [Солдат и значки](https://codeforces.com/contest/546/problem/B)
+# Солдат и значки [⬀](https://codeforces.com/contest/546/problem/B)
 
 - ограничение по времени на тест: 3 секунды
 - ограничение по памяти на тест: 256 мегабайт

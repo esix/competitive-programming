@@ -1,4 +1,4 @@
-# [Солдат и карты](https://codeforces.com/contest/546/problem/C)
+# Солдат и карты [⬀](https://codeforces.com/contest/546/problem/C)
 
 - ограничение по времени на тест: 2 секунды
 - ограничение по памяти на тест: 256 мегабайт

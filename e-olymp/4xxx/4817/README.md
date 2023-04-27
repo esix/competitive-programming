@@ -1,4 +1,4 @@
-# [Rectangle](https://www.e-olymp.com/en/problems/4817)
+# Rectangle [⬀](https://www.e-olymp.com/en/problems/4817)
 Find the perimeter and the area of a rectangle.
 
 ## Input

@@ -1,2 +1,2 @@
-# [Зайчик](http://acmp.ru/index.asp?main=task&id_task=11)
+# Зайчик [⬀](http://acmp.ru/index.asp?main=task&id_task=11)
 

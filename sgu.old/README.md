@@ -1,4 +1,4 @@
-# [Saratov State University :: Online Contester](http://acm.sgu.ru/index.php)
+# Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/index.php)
 
 - GNU C (MinGW, GCC 5)
 - GNU CPP (MinGW, GCC 5)

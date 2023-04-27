@@ -1,4 +1,4 @@
-# [Sources and sinks](https://www.e-olymp.com/en/problems/3986)
+# Sources and sinks [⬀](https://www.e-olymp.com/en/problems/3986)
 
 The vertex of directed graph is called source if no edge comes into it, and sink if no edge comes out of it.
 

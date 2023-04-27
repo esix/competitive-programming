@@ -1,4 +1,4 @@
-# [Number of toys](https://www.e-olymp.com/en/problems/927)
+# Number of toys [⬀](https://www.e-olymp.com/en/problems/927)
 You are given the number of kinds of the toys in the shop, the number of toys of each kind and cost of a toy of each kind. Find the number of toys with cost less than 50 grn.
 
 ## Input

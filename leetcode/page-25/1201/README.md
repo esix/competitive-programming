@@ -1,4 +1,4 @@
-# [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
+# Ugly Number III [⬀](https://leetcode.com/problems/ugly-number-iii/)
 
 An **ugly number** is a positive integer that is divisible by `a`, `b`, or `c`.
 

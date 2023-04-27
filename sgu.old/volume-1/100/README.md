@@ -1,4 +1,4 @@
-# [A+B](http://acm.sgu.ru/problem.php?contest=0&problem=100)
+# A+B [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=100)
 
 
 time limit per test: 0.25 sec. 

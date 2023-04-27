@@ -1,4 +1,4 @@
-# [Degrees of vertices by a list of edges](https://www.e-olymp.com/en/problems/5074)
+# Degrees of vertices by a list of edges [⬀](https://www.e-olymp.com/en/problems/5074)
 
 Undirected graph is given with a list of edges. Find the degrees of all its vertices.
 

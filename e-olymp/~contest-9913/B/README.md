@@ -1,4 +1,4 @@
-# [Double Queue](https://www.e-olymp.com/en/problems/790)
+# Double Queue [⬀](https://www.e-olymp.com/en/problems/790)
 
 The new founded Balkan Investment Group Bank (BIG-Bank) opened a new office in Bucharest, equipped with a modern computing environment provided by IBM Romania, and using modern information technologies. As usual, each client of the bank is identified by a positive integer k and, upon arriving to the bank for some services, he or she receives a positive integer priority p. One of the inventions of the young managers of the bank shocked the software engineer of the serving system. They proposed to break the tradition by sometimes calling the serving desk with the lowest priority instead of that with the highest priority. Thus, the system will receive the following types of request:
 

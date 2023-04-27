@@ -1,4 +1,4 @@
-# [Numbers from digits](https://www.e-olymp.com/en/problems/2323)
+# Numbers from digits [⬀](https://www.e-olymp.com/en/problems/2323)
 
 Given nonnegative integer n. Create from all its digits the biggest and then the smallest number. Print the sum of obtained numbers.
 

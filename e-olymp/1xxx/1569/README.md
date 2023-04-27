@@ -1,4 +1,4 @@
-# [Divisors](https://www.e-olymp.com/en/problems/1569)
+# Divisors [⬀](https://www.e-olymp.com/en/problems/1569)
 Define the function f(x) that equals to the number of divisors of x. Given two integers a and b (a ≤ b), calculate the sum f(a) + f(a + 1) + ... + f(b).
 
 ## Input

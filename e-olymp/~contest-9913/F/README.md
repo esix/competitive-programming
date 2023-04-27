@@ -1,4 +1,4 @@
-# [Two arrays](https://www.e-olymp.com/en/problems/2099)
+# Two arrays [⬀](https://www.e-olymp.com/en/problems/2099)
 Two arrays of integers are given. Print the elements from the first array (in the same order like they are given in the first array), that are absent in the second array.
 
 ## Input

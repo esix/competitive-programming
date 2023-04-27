@@ -1,4 +1,4 @@
-# [Loops - 1](https://www.e-olymp.com/en/contests/9563)
+# Loops - 1 [⬀](https://www.e-olymp.com/en/contests/9563)
 
 
 

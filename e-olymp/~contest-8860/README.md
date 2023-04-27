@@ -1,4 +1,4 @@
-# [Greater Common Divisor](https://www.e-olymp.com/en/contests/8860)
+# Greater Common Divisor [⬀](https://www.e-olymp.com/en/contests/8860)
 
 
 | ID | Problem statement                                                                      | Solution                 |

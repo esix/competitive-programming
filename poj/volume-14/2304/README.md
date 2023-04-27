@@ -1,4 +1,4 @@
-# [Combination Lock](http://poj.org/problem?id=2304)
+# Combination Lock [⬀](http://poj.org/problem?id=2304)
 
 ## Description
 

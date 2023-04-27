@@ -1,4 +1,4 @@
-# [1 Stage Azerbaijan Republic School Olympiad in Informatics](https://www.e-olymp.com/en/contests/9763)
+# 1 Stage Azerbaijan Republic School Olympiad in Informatics [⬀](https://www.e-olymp.com/en/contests/9763)
 
 
 

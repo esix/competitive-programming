@@ -1,4 +1,4 @@
-# [El Judge](http://acm.mipt.ru/judge/problems.pl?lang=en)
+# El Judge [⬀](http://acm.mipt.ru/judge/problems.pl?lang=en)
 
 Online MIPT programming contest	
 

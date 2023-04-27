@@ -1,4 +1,4 @@
-# [Minimal Sum](https://www.e-olymp.com/en/problems/6198)
+# Minimal Sum [⬀](https://www.e-olymp.com/en/problems/6198)
 Two arrays of positive integers are given: a[1..n] and b[1..n]. Find the permutation i[1], i[2], ..., i[n] of numbers 1, 2, ..., n, for which the sum
 
 a[1] * b[i1] + ... + a[n] * b[in]

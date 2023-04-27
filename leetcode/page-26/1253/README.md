@@ -1,4 +1,4 @@
-# [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
+# Reconstruct a 2-Row Binary Matrix [⬀](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
 
 Given the following details of a matrix with `n` columns and `2` rows :
 

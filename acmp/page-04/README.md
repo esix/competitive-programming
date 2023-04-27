@@ -1,4 +1,4 @@
-# [0151-0200](https://acmp.ru/index.asp?main=tasks&str=%20&page=3&id_type=0)
+# 0151-0200 [⬀](https://acmp.ru/index.asp?main=tasks&str=%20&page=3&id_type=0)
 
 | ID   | Problem statement                                                          | Solution                     |
 |------|----------------------------------------------------------------------------|------------------------------|

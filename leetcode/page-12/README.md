@@ -1,4 +1,4 @@
-# [12 (551-600)](https://leetcode.com/problemset/all/#page-12)
+# 12 (551-600) [⬀](https://leetcode.com/problemset/all/#page-12)
 
 
 | ID  | Problem statement                                                                             | Solution                   |

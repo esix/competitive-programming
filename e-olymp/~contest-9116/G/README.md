@@ -1,4 +1,4 @@
-# [Portals](https://www.e-olymp.com/en/contests/9116/problems/79191)
+# Portals [⬀](https://www.e-olymp.com/en/contests/9116/problems/79191)
 
 Some planets of the galaxy, where Peter Pyatochkin recently moved, are connected with portals. If planets A and B are connected, it means that each planet has a special device - portal - for teleportation between them. The creature that enters the portal on the planet A, instantly appears on the planet B and vice versa.
 

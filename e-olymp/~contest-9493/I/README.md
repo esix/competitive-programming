@@ -1,4 +1,4 @@
-# [LCM of two positive integers](https://www.e-olymp.com/en/contests/9493/problems/83158)
+# LCM of two positive integers [⬀](https://www.e-olymp.com/en/contests/9493/problems/83158)
 
 Find LCM (least common multiple) of two integers.
 

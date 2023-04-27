@@ -1,4 +1,4 @@
-# [LCM Cardinality](https://www.e-olymp.com/en/problems/1247)
+# LCM Cardinality [⬀](https://www.e-olymp.com/en/problems/1247)
 
 A pair of numbers has a unique LCM but a single number can be the LCM of more than one possible pairs. For example 12 is the LCM of (1, 12), (2, 12), (3,4) etc. For a given positive integer N, the number of different integer pairs with LCM is equal to N can be called the LCM cardinality of that number N. In this problem your job is to find out the LCM cardinality of a number.
 

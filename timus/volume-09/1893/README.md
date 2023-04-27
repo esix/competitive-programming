@@ -1,1 +1,1 @@
-# [A380](http://acm.timus.ru/problem.aspx?space=1&num=1893)
+# A380 [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1893)

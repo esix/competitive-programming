@@ -1,4 +1,4 @@
-# [Headshot](http://poj.org/problem?id=3869)
+# Headshot [⬀](http://poj.org/problem?id=3869)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [First or last?](https://www.e-olymp.com/en/problems/903)
+# First or last? [⬀](https://www.e-olymp.com/en/problems/903)
 Three digit number is given. What digit is bigger: the first digit or the last digit?
 
 ## Input

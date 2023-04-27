@@ -1,4 +1,4 @@
-# [Max of Integers](http://acm.mipt.ru/judge/problems.pl?problem=001&lang=en)
+# Max of Integers [⬀](http://acm.mipt.ru/judge/problems.pl?problem=001&lang=en)
 
 _Time limit = 5 second(s)_
 

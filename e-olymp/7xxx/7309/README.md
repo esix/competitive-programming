@@ -1,4 +1,4 @@
-# [Deal!](https://www.e-olymp.com/en/problems/7309)
+# Deal! [⬀](https://www.e-olymp.com/en/problems/7309)
 
 Homer Simpson was very busy watching TV when Bart asked to play outside. It was pretty hot outside and Homer was much into playing.
 

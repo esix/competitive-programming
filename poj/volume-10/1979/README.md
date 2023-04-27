@@ -1,4 +1,4 @@
-# [Red and Black](http://poj.org/problem?id=1979)
+# Red and Black [⬀](http://poj.org/problem?id=1979)
 
 ## Description
 

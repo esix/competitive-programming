@@ -1,1 +1,1 @@
-# [Числа-перевёртыши](http://acm.timus.ru/problem.aspx?space=1&num=2031)
+# Числа-перевёртыши [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2031)

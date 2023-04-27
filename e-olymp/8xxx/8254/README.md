@@ -1,4 +1,4 @@
-# [Sum of squares from 1 to n](https://www.e-olymp.com/en/problems/8254)
+# Sum of squares from 1 to n [⬀](https://www.e-olymp.com/en/problems/8254)
 
 Given positive integer n. Find the sum of squares S = 12 + 22 + ... + n2.
 

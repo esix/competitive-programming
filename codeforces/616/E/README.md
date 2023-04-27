@@ -1,1 +1,1 @@
-# [Сумма остатков](http://codeforces.com/contest/616/problem/E)
+# Сумма остатков [⬀](http://codeforces.com/contest/616/problem/E)

@@ -1,4 +1,4 @@
-# [Permutation](https://www.e-olymp.com/en/problems/496)
+# Permutation [⬀](https://www.e-olymp.com/en/problems/496)
 
 If you read Harry Potter, you know that the lord of evil Lord Voldemort created his name by reversing the letters in his real name. Because of the name "Tom Marvolo Riddle" he received "I am Lord Voldemort".
 

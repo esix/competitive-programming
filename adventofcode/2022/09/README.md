@@ -1,4 +1,4 @@
-# [Rope Bridge](https://adventofcode.com/2022/day/9)
+# Rope Bridge [⬀](https://adventofcode.com/2022/day/9)
 
 This rope bridge creaks as you walk along it. You aren't sure how old it is, or whether it can even support your weight.
 

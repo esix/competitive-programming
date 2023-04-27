@@ -1,4 +1,4 @@
-# [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+# Remove All Adjacent Duplicates In String [⬀](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 You are given a string `s` consisting of lowercase English letters. A **duplicate removal** consists of choosing two **adjacent** and **equal** letters and removing them.
 

@@ -1,4 +1,4 @@
-# [Least Common Multiple](https://www.e-olymp.com/en/contests/8903/problems/76952)
+# Least Common Multiple [⬀](https://www.e-olymp.com/en/contests/8903/problems/76952)
 
 The least common multiple (LCM) of a set of positive integers is the smallest positive integer which is divisible by all the numbers in the set. For example, the LCM of 5, 7 and 15 is 105.
 

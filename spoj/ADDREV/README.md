@@ -1,4 +1,4 @@
-# [Adding Reversed Numbers](http://www.spoj.com/problems/ADDREV/)
+# Adding Reversed Numbers [⬀](http://www.spoj.com/problems/ADDREV/)
 
 The Antique Comedians of Malidinesia prefer comedies to tragedies. Unfortunately, most of the ancient plays are tragedies. Therefore the dramatic advisor of ACM has decided to transfigure some tragedies into comedies. Obviously, this work is very hard because the basic sense of the play must be kept intact, although all the things change to their opposites. For example the numbers: if any number appears in the tragedy, it must be converted to its reversed form before being accepted into the comedy play.
 

@@ -1,4 +1,4 @@
-# [Price labels](https://www.e-olymp.com/en/problems/2661)
+# Price labels [⬀](https://www.e-olymp.com/en/problems/2661)
 The company "Black Label" has received two orders for manufacturing the supermarket price labels. For each order the number of labels and prices that should be printed are given. Print all the prices for which the labels would be manufactured after the performance of these two orders. Each price must be printed only once.
 
 ## Input

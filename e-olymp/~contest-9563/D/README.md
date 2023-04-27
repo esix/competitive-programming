@@ -1,4 +1,4 @@
-# [The sum of all](https://www.e-olymp.com/en/contests/9563/problems/83866)
+# The sum of all [⬀](https://www.e-olymp.com/en/contests/9563/problems/83866)
 Find the sum of all given numbers.
 
 ## Input

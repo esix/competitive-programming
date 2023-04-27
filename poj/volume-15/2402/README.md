@@ -1,4 +1,4 @@
-# [Palindrome Numbers](http://poj.org/problem?id=2402)
+# Palindrome Numbers [⬀](http://poj.org/problem?id=2402)
 
 ## Description
 

@@ -1,4 +1,4 @@
-# [The sum of digits](https://www.e-olymp.com/en/problems/1603)
+# The sum of digits [⬀](https://www.e-olymp.com/en/problems/1603)
 
 Find the sum of digits of an integer.
 

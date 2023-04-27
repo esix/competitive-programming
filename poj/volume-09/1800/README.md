@@ -1,4 +1,4 @@
-# [Magic Trick](http://poj.org/problem?id=1800)
+# Magic Trick [⬀](http://poj.org/problem?id=1800)
 
 ## Description
 

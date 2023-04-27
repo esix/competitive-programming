@@ -1,4 +1,4 @@
-# [Look and Say](http://poj.org/problem?id=3438)
+# Look and Say [⬀](http://poj.org/problem?id=3438)
 
 ## Description
 

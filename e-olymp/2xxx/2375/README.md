@@ -1,4 +1,4 @@
-# [Flat](https://www.e-olymp.com/en/problems/2375)
+# Flat [⬀](https://www.e-olymp.com/en/problems/2375)
 You are one of the developers of software for a real estate agency. One of the functions you are to implement is calculating different kinds of statistics for flats the agency is selling. Each flat consists of different types of rooms: bedroom, bathroom, kitchen, balcony and others.
 
 The cost of the flat is equal to the product of reduced total area and the cost of one square meter. Reduced total area is the total area of all rooms except for balconies plus one half of balconies total area.

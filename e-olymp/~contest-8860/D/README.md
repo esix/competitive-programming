@@ -1,4 +1,4 @@
-# [Circle of choirs](https://www.e-olymp.com/en/contests/8860/problems/76521)
+# Circle of choirs [⬀](https://www.e-olymp.com/en/contests/8860/problems/76521)
 
 In a school operates a circle of choral singing. Start mug always happen consistently: the signal head mug all N participants are in a circle and every M-th for raspevki singing styles.
 

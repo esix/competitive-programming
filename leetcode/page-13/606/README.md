@@ -1,4 +1,4 @@
-# [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+# Construct String from Binary Tree [⬀](https://leetcode.com/problems/construct-string-from-binary-tree/)
 
 Given the `root` of a binary tree, construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way, and return it.
 

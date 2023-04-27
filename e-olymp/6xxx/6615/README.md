@@ -1,4 +1,4 @@
-# [Furry Nuisance](https://www.e-olymp.com/en/problems/6615)
+# Furry Nuisance [⬀](https://www.e-olymp.com/en/problems/6615)
 In order to protect himself from evil bunnies, Freddy decided to install an automatic system to detect them in pictures from surveillance cameras. Sophisticated software detects important points in the picture and lines between them. Unfortunately, the terrain in the pictures is quite varied and lot of the points and lines are actually not bunnies.
 
 You have made the following observation: Each bunny has four paws and a body joining them. Based on this observation, write a program to decide whether a given picture can possibly contain a bunny.

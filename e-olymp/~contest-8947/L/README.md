@@ -1,4 +1,4 @@
-# [Ring](https://www.e-olymp.com/en/contests/8947/problems/77342)
+# Ring [⬀](https://www.e-olymp.com/en/contests/8947/problems/77342)
 
 ![prb924](1270459685.JPG)
 

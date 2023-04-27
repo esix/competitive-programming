@@ -1,4 +1,4 @@
-# [Rectangles and nails](https://www.e-olymp.com/en/problems/1363)
+# Rectangles and nails [⬀](https://www.e-olymp.com/en/problems/1363)
 
 On the coordinate plane given N rectangles - kozhdy pair of opposite vertices, sides are parallel to coordinate axes and coordinates of the vertices - integers from the interval [-50, 50]. What is the maximal number of rectangles can be nailed to the plane of a single nail? Rectangle is considered to be nailed, if a nail hammered into the inner point of the rectangle.
 

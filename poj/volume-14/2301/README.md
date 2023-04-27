@@ -1,4 +1,4 @@
-# [Beat the Spread!](http://poj.org/problem?id=2301)
+# Beat the Spread! [⬀](http://poj.org/problem?id=2301)
 
 ## Description
 

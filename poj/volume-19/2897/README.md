@@ -1,4 +1,4 @@
-# [Dramatic Multiplications](http://poj.org/problem?id=2897)
+# Dramatic Multiplications [⬀](http://poj.org/problem?id=2897)
 
 ## Description
 

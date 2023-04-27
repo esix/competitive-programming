@@ -1,4 +1,4 @@
-# [The Triangle](http://poj.org/problem?id=1163)
+# The Triangle [⬀](http://poj.org/problem?id=1163)
 
 - Time Limit: 1000MS
 - Memory Limit: 10000K

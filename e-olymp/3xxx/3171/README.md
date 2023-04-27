@@ -1,4 +1,4 @@
-# [Point within a circle](https://www.e-olymp.com/en/problems/3171)
+# Point within a circle [⬀](https://www.e-olymp.com/en/problems/3171)
 
 Check, if the point is inside the circle.
 

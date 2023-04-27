@@ -1,4 +1,4 @@
-# [New-year presents](https://www.e-olymp.com/en/problems/26)
+# New-year presents [⬀](https://www.e-olymp.com/en/problems/26)
 
 Santa Claus and Snow-maiden must deliver `n` presents for children. You know packing time `t₁` every present by Snow-maiden and delivering time `t₂` by Santa Claus. Find the least time for what they can do all orders. Santa Claus can put only one present in his sack.
 

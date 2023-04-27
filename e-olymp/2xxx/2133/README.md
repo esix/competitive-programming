@@ -1,4 +1,4 @@
-# [Point on a ray](https://www.e-olymp.com/en/problems/2133)
+# Point on a ray [⬀](https://www.e-olymp.com/en/problems/2133)
 
 Determine whether a given point belongs to the ray.
 

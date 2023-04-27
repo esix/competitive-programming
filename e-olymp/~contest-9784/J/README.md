@@ -1,4 +1,4 @@
-# [Theater revenue](https://www.e-olymp.com/en/problems/4749)
+# Theater revenue [⬀](https://www.e-olymp.com/en/problems/4749)
 The theater has n rows with m seats. Two matrices are given. The first one contains the ticket prices for each seat. The second matrix tells which tickets are sold and which are not (1 means the ticket is sold for a corresponding seat, 0 - is not sold).
 
 Determine the total revenue from the performance.

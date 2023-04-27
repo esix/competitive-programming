@@ -1,4 +1,4 @@
-# [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+# Check If Word Is Valid After Substitutions [⬀](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 
 Given a string `s`, determine if it is **valid**.
 

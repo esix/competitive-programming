@@ -1,4 +1,4 @@
-# [Binomial coefficients 1](https://www.e-olymp.com/en/contests/9520/problems/83421)
+# Binomial coefficients 1 [⬀](https://www.e-olymp.com/en/contests/9520/problems/83421)
 Let n be a non-negative integer. Let n! = 1 * 2 *... * n (0! = 1) and
 
 ![prb318.jpg](prb318.jpg)

@@ -1,4 +1,4 @@
-# [Cost of call](https://www.e-olymp.com/en/problems/2391)
+# Cost of call [⬀](https://www.e-olymp.com/en/problems/2391)
 
 Find the cost of a phone call in kopecks with duration of n seconds, if the connecting cost is a kop., 
 the tariffication is per minute, that is the first second of each minute is charged to pay b kop.

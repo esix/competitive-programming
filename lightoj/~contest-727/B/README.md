@@ -1,4 +1,4 @@
-# [Kukurer Voy](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=B)
+# Kukurer Voy [⬀](http://lightoj.com/practice_contest_showproblem.php?contest_id=727&problem=B)
 
 Maksudur Rahman Maateen lives in a city consists of n intersections connected by n-1 roads, in a way that can go from any intersection to any other intersection moving along some of these roads.
 

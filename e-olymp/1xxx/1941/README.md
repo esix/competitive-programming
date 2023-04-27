@@ -1,4 +1,4 @@
-# [Parent](https://www.e-olymp.com/en/problems/1941)
+# Parent [⬀](https://www.e-olymp.com/en/problems/1941)
 
 Write a program that determines for two nodes of a tree whether the first one is a parent of another.
 

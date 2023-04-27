@@ -1,4 +1,4 @@
-# [Operations](http://acm.mipt.ru/judge/problems.pl?problem=026&lang=en)
+# Operations [⬀](http://acm.mipt.ru/judge/problems.pl?problem=026&lang=en)
 
 _Time limit = 5 second(s)_
 

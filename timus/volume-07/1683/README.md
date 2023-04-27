@@ -1,1 +1,1 @@
-# [Холодильник](http://acm.timus.ru/problem.aspx?space=1&num=1683)
+# Холодильник [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1683)

@@ -1,1 +1,1 @@
-# [Solve me first](https://www.hackerrank.com/challenges/solve-me-first)
+# Solve me first [⬀](https://www.hackerrank.com/challenges/solve-me-first)

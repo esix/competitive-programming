@@ -1,4 +1,4 @@
-# [Magic constant](https://www.e-olymp.com/en/problems/5064)
+# Magic constant [⬀](https://www.e-olymp.com/en/problems/5064)
 Let k be the magic constant for number n, if 1 + 2 + 3 + . . . + (k - 1) + k = n. Your task is to find the magic constant for a given number.
 
 ## Input

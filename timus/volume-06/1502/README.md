@@ -1,2 +1,2 @@
-# [Точки домино](http://acm.timus.ru/problem.aspx?space=1&num=1502)
+# Точки домино [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1502)
 

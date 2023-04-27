@@ -1,4 +1,4 @@
-# [Intersection of two lines](https://www.e-olymp.com/en/contests/9009/problems/78065)
+# Intersection of two lines [⬀](https://www.e-olymp.com/en/contests/9009/problems/78065)
 
 Find the intersection point of two lines. Each line is given with the pair of points on it.
 

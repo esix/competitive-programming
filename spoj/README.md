@@ -1,4 +1,4 @@
-# [Sphere Online Judge](http://www.spoj.com/)
+# Sphere Online Judge [⬀](http://www.spoj.com/)
 
 
 | ID    | Problem statement                                                        | Solution                            |

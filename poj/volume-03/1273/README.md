@@ -1,4 +1,4 @@
-# [Drainage Ditches](http://poj.org/problem?id=1273)
+# Drainage Ditches [⬀](http://poj.org/problem?id=1273)
 
 ## Description
 

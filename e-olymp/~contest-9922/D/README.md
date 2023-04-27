@@ -1,4 +1,4 @@
-# [Hometask](https://www.e-olymp.com/en/problems/1642)
+# Hometask [⬀](https://www.e-olymp.com/en/problems/1642)
 Kolya is still trying to pass a test on Numbers Theory. The lecturer is so desperate about Kolya's knowledge that she gives him the same task every time.
 
 The problem is to check if n! is divisible by n².

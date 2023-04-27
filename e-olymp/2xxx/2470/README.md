@@ -1,4 +1,4 @@
-# [Checking for an undirected graph](https://www.e-olymp.com/en/problems/2470)
+# Checking for an undirected graph [⬀](https://www.e-olymp.com/en/problems/2470)
 
 
 For a given square matrix n x n of zeros and ones determine whether it can be the adjacency matrix of a simple undirected graph. The simple graph does not contain loops and multiple edges.

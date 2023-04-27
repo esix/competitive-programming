@@ -1,4 +1,4 @@
-# [Young gardener](https://www.e-olymp.com/en/contests/9508/problems/83311)
+# Young gardener [⬀](https://www.e-olymp.com/en/contests/9508/problems/83311)
 
 Mom asked Vasya to water all the young trees in the garden. Vasya knows that while trees are small, they must be very well watered. But how much to water - is unknown. But Vasya is a very clever boy. He carefully read the entire textbook of botany for secondary schools and found that irrigation is directly proportional to the number of leaves on the tree. For a good tree growth enough to pour under the tree every day for one liter of water for each leaf.
 

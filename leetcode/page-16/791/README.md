@@ -1,4 +1,4 @@
-# [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+# Custom Sort String [⬀](https://leetcode.com/problems/custom-sort-string/)
 
 `order` and `str` are strings composed of lowercase letters. In `order`, no letter occurs more than once.
 

@@ -1,4 +1,4 @@
-# [Vector length](https://www.e-olymp.com/en/problems/2131)
+# Vector length [⬀](https://www.e-olymp.com/en/problems/2131)
 
 Find the length of the vector.
 

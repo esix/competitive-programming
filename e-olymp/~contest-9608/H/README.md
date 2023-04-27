@@ -1,4 +1,4 @@
-# [The sum of the largest and the smallest](https://www.e-olymp.com/en/contests/9608/problems/84251)
+# The sum of the largest and the smallest [⬀](https://www.e-olymp.com/en/contests/9608/problems/84251)
 The array of integers is given. Find the sum of the smallest and the largest element in array.
 
 ## Input

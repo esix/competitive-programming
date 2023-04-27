@@ -1,1 +1,1 @@
-# [Клавиатура](http://acmp.ru/index.asp?main=task&id_task=66)
+# Клавиатура [⬀](http://acmp.ru/index.asp?main=task&id_task=66)

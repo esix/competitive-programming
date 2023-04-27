@@ -1,4 +1,4 @@
-# [Codeforces Round #321 (Div. 2)](http://codeforces.com/contest/580)
+# Codeforces Round #321 (Div. 2) [⬀](http://codeforces.com/contest/580)
 
 | ID | Problem statement                                                    | Solution                 |
 |----|----------------------------------------------------------------------|--------------------------|

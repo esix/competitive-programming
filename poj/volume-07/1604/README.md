@@ -1,4 +1,4 @@
-# [Just the Facts](http://poj.org/problem?id=1604)
+# Just the Facts [⬀](http://poj.org/problem?id=1604)
 
 ## Description
 

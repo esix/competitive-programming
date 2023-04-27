@@ -1,4 +1,4 @@
-# [Minibus](https://www.e-olymp.com/en/contests/9116/problems/79196)
+# Minibus [⬀](https://www.e-olymp.com/en/contests/9116/problems/79196)
 
 Minibus in Mendeleevo city moves according to the route from the bus stop number 1 to the bus stop number m. The driver stops at the station only if at least one of the passengers in the cabin wants to get out. At the same time all the passengers waiting for a minibus at this stop, sit in it (number of seats is unlimited). As the bus starts moving from the stop number 1, all passengers at it just sit down in a minibus.
 

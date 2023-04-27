@@ -1,4 +1,4 @@
-# [Regolith Reservoir](https://adventofcode.com/2022/day/14)
+# Regolith Reservoir [⬀](https://adventofcode.com/2022/day/14)
 
 The distress signal leads you to a giant waterfall! Actually, hang on - the signal seems like it's coming from the waterfall itself, and that doesn't make any sense. However, you do notice a little path that leads **behind** the waterfall.
 

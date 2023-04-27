@@ -1,4 +1,4 @@
-# [棋盘问题](http://poj.org/problem?id=1321)
+# 棋盘问题 [⬀](http://poj.org/problem?id=1321)
 
 ## Description
 

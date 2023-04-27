@@ -1,4 +1,4 @@
-# [Build Tower](https://www.codewars.com/kata/build-tower/)
+# Build Tower [⬀](https://www.codewars.com/kata/build-tower/)
 Build Tower by the following given argument:
 number of floors (integer and always greater than 0).
 

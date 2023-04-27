@@ -1,4 +1,4 @@
-# [27 (1301-1350)](https://leetcode.com/problemset/all/#page-27)
+# 27 (1301-1350) [⬀](https://leetcode.com/problemset/all/#page-27)
 
 
 | ID   | Problem statement                                                                                                                 | Solution                     |

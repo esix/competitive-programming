@@ -1,4 +1,4 @@
-# [Fibonacci Sequence](https://www.e-olymp.com/en/problems/3258)
+# Fibonacci Sequence [⬀](https://www.e-olymp.com/en/problems/3258)
 
 The Fibonacci sequence is defined as follows:
 

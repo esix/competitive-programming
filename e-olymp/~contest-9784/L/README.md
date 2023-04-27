@@ -1,4 +1,4 @@
-# [Spiral](https://www.e-olymp.com/en/problems/5057)
+# Spiral [⬀](https://www.e-olymp.com/en/problems/5057)
 Print the two dimentional array of size n × n, filled with the numbers from 1 to n² by spiral. The spiral of numbers starts at left upper corner and rotates clockwise.
 
 ## Input

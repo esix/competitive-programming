@@ -1,4 +1,4 @@
-# [03 (101-150)](https://leetcode.com/problemset/all/#page-3)
+# 03 (101-150) [⬀](https://leetcode.com/problemset/all/#page-3)
 
 
 | ID  | Problem statement                                                                           | Solution                   |

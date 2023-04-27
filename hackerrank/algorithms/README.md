@@ -1,4 +1,4 @@
-# [Domain - Algorithms](https://www.hackerrank.com/domains/algorithms/warmup)
+# Domain - Algorithms [⬀](https://www.hackerrank.com/domains/algorithms/warmup)
 
 | ID              | Problem statement                                                        | Solution                                           |
 |-----------------|--------------------------------------------------------------------------|----------------------------------------------------|

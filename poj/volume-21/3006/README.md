@@ -1,4 +1,4 @@
-# [Dirichlet's Theorem on Arithmetic Progressions](http://poj.org/problem?id=3006)
+# Dirichlet's Theorem on Arithmetic Progressions [⬀](http://poj.org/problem?id=3006)
 
 ## Description
 

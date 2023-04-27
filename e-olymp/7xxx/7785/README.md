@@ -1,4 +1,4 @@
-# [Bus](https://www.e-olymp.com/en/problems/7785)
+# Bus [⬀](https://www.e-olymp.com/en/problems/7785)
 Every morning Anton goes to work by bus.
 
 The bus route includes n stops, numbered from 1 to n in this order. The bus passes from each stop to the next one minute, and its parking time can be neglected. Anton sits at the first stop and goes out on the last.

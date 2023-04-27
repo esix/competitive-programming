@@ -1,4 +1,4 @@
-# [Kastenlauf](https://www.e-olymp.com/en/contests/9116/problems/79194)
+# Kastenlauf [⬀](https://www.e-olymp.com/en/contests/9116/problems/79194)
 
 Once every year, Jo and his friends want to visit the local fair in Erlangen, called Bergkirchweih. This year, they want to make a Kastenlauf (box run). They start at Jo’s home, and have one box (Kasten) of beer (with twenty bottles). As they are very thirsty, they drink one bottle of beer every 50 metres.
 

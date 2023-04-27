@@ -1,1 +1,1 @@
-# [Secret Origins](http://www.lightoj.com/volume_showproblem.php?problem=1042)
+# Secret Origins [⬀](http://www.lightoj.com/volume_showproblem.php?problem=1042)

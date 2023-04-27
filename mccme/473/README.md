@@ -1,1 +1,1 @@
-# [Полустепени вершин по спискам ребер](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=473)
+# Полустепени вершин по спискам ребер [⬀](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=473)

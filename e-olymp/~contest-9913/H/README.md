@@ -1,4 +1,4 @@
-# [Sets Union](https://www.e-olymp.com/en/problems/2927)
+# Sets Union [⬀](https://www.e-olymp.com/en/problems/2927)
 Sets union is very difficult. Therefore find the amount of numbers that present in at least one of the given sets.
 
 ## Input

@@ -1,4 +1,4 @@
-# [Ford-Bellman](https://www.e-olymp.com/en/problems/1453)
+# Ford-Bellman [⬀](https://www.e-olymp.com/en/problems/1453)
 
 Given a directed graph, that can contain multiple edges and loops. Each edge has a weight that is expressed by a number (possibly negative). It is guaranteed that there are no cycles of negative weight.
 

@@ -1,1 +1,1 @@
-# [Длинное условие](http://acm.timus.ru/problem.aspx?space=1&num=2011)
+# Длинное условие [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2011)

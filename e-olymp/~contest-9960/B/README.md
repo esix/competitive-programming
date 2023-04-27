@@ -1,4 +1,4 @@
-# [Traffic lights](https://www.e-olymp.com/en/problems/993)
+# Traffic lights [⬀](https://www.e-olymp.com/en/problems/993)
 
 In the cave there are m tunnels and n junctions, each tunnel connects two crossroads. Mouse King decided to install the traffic light in every tunnel before every intersection. Write a program to calculate how many traffic lights must be installed on each intersection. Intersections are numbered from 1 to n.
 

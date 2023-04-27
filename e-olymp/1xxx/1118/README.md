@@ -1,4 +1,4 @@
-# [Watermelons](https://www.e-olymp.com/en/problems/1118)
+# Watermelons [⬀](https://www.e-olymp.com/en/problems/1118)
 Ivan Vasilyevich came to the market and decided to buy two watermelons: one for himself and another for the wife's mother. It is clear to choose for himself the heaviest watermelon, and for mother-in-law the lightest. But there is one problem: there are many watermelons and he does not know how to choose the lightest and the heaviest one. Help him!
 
 ## Input

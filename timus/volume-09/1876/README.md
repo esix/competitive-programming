@@ -1,1 +1,1 @@
-# [Утро сороконожки](http://acm.timus.ru/problem.aspx?space=1&num=1876)
+# Утро сороконожки [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1876)

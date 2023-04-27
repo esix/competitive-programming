@@ -1,4 +1,4 @@
-# [Anagrams](https://www.e-olymp.com/en/problems/4111)
+# Anagrams [⬀](https://www.e-olymp.com/en/problems/4111)
 Two strings S1 and S2 are given. Determine, if the first string is an anagram of another. Two strings are anagrams, if one can be obtained from another by rearrangement of its letters. For example "abcde" and "bedca" are anagrams, "beta" and "teta" are not.
 
 ## Input

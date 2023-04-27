@@ -1,4 +1,4 @@
-# [Dr Who`s Banquet](https://www.e-olymp.com/en/contests/9571/problems/83974)
+# Dr Who`s Banquet [⬀](https://www.e-olymp.com/en/contests/9571/problems/83974)
 Dr. Who is organizing a banquet, and will be inviting several guests. A guest is happy, if he can chat with a fixed number of other guests. We assume that guests cannot talk to themselves. Help Dr. Who make all his guests happy, if possible, by organizing chats between guests.
 
 ## Input

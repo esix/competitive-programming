@@ -1,4 +1,4 @@
-# [HackerRank](https://www.hackerrank.com/)
+# HackerRank [⬀](https://www.hackerrank.com/)
 
 
 - Ada

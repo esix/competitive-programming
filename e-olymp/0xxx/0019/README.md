@@ -1,4 +1,4 @@
-# [Degree of symmetry](https://www.e-olymp.com/en/problems/19)
+# Degree of symmetry [⬀](https://www.e-olymp.com/en/problems/19)
 
 For a natural number let's define the degree of symmetry as an amount of pairs of its decimal digits, whose digits are equal and stand symmetrically with respect to the center of the number's decimal notation. If some digit stands in the center of the decimal notation, then it must be accepted too, as in pair with itself. Find the degree of symmetry of a given number n.
 

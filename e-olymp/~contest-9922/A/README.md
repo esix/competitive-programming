@@ -1,4 +1,4 @@
-# [Odd divisors](https://www.e-olymp.com/en/problems/2863)
+# Odd divisors [⬀](https://www.e-olymp.com/en/problems/2863)
 Print all odd divisors for positive integer n.
 
 ## Input

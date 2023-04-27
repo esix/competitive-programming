@@ -1,4 +1,4 @@
-# [Smooth Divisors](https://www.e-olymp.com/en/contests/9563/problems/83864)
+# Smooth Divisors [⬀](https://www.e-olymp.com/en/contests/9563/problems/83864)
 The positive integer m is called a smooth divisor of n if the quotient and remainder of dividing n by m are equal. The positive integer n is given. Find the number of its smooth divisors.
 
 ## Input

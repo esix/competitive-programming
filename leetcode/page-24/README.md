@@ -1,4 +1,4 @@
-# [24 (1151-1200)](https://leetcode.com/problemset/all/#page-24)
+# 24 (1151-1200) [⬀](https://leetcode.com/problemset/all/#page-24)
 
 
 | ID   | Problem statement                                                                                                               | Solution                     |

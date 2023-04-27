@@ -1,4 +1,4 @@
-# [Flat Spots](http://acm.timus.ru/problem.aspx?space=1&num=1617)
+# Flat Spots [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1617)
 
 _Time limit: 0.5 second_
 

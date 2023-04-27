@@ -1,4 +1,4 @@
-# [Stand in order](https://www.e-olymp.com/en/problems/5325)
+# Stand in order [⬀](https://www.e-olymp.com/en/problems/5325)
 At one of the parallels of the Summer Computer School, n schoolchildren go to the parade. They need to stand in order. By the command of one schoolboy, the others stand in a line and start counting. The first student in the line says "first", then the second says "second" and so on. You need to write this part of the script.
 
 ## Input

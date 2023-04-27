@@ -1,1 +1,1 @@
-# [Пингвины](http://acm.timus.ru/problem.aspx?space=1&num=1585)
+# Пингвины [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1585)

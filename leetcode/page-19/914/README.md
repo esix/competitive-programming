@@ -1,4 +1,4 @@
-# [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+# X of a Kind in a Deck of Cards [⬀](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 
 In a deck of cards, each card has an integer written on it.
 

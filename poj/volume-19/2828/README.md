@@ -1,4 +1,4 @@
-# [Buy Tickets](http://poj.org/problem?id=2828)
+# Buy Tickets [⬀](http://poj.org/problem?id=2828)
 
 ## Description
 

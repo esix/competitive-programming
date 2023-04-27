@@ -1,4 +1,4 @@
-# [Scientific Problem](http://acm.sgu.ru/problem.php?contest=0&problem=403)
+# Scientific Problem [⬀](http://acm.sgu.ru/problem.php?contest=0&problem=403)
 
 _Time limit per test: 0.25 second(s)_
 

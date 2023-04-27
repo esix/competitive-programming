@@ -1,4 +1,4 @@
-# [Odd number](http://acm.mipt.ru/judge/problems.pl?problem=027&lang=en)
+# Odd number [⬀](http://acm.mipt.ru/judge/problems.pl?problem=027&lang=en)
 
 _Time limit = 5 seconds_
 
