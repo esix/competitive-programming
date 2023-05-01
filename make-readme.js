@@ -151,11 +151,14 @@ let treeToArray = (root) => {
 let newReadmeLines = [];
 
 if (root.title === 'Competitive programming') {
-  newReadmeLines = ['# Competitive programming', ''];
+  newReadmeLines = [
+    '# Competitive programming', 
+    '', 
+    'This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve my programming skills.',
+    ''];
 
   root.children.forEach(c => {
     if (!c.children.length) return;
-    console.log(c);
 
     newReadmeLines.push(`## ${c.title} [⬀](${c.taskUrl})`);
     newReadmeLines.push('');

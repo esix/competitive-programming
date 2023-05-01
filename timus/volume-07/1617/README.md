@@ -1,8 +1,5 @@
 # Flat Spots [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1617)
 
-_Time limit: 0.5 second_
-
-_Memory limit: 64 MB_
 
 Yekaterinburg has an extensive network of tram routes. Trams of more than ten routes go along some streets. It is clear that rails wear out quickly because of such a load. Rails near tram stops sometimes are wavy. Many citizens hold the city authorities responsible for such a poor state of tram railways: repair works are carried out rarely, and even if rails are replaced, it is only by cheapest ones—made of low-grade metal and with wooden ties.
 
@@ -14,7 +11,7 @@ Repairmen have finished turning all wheels. Some of them have become so small th
 
 ## Input
 
-The first line contains the number n of available wheel pairs (1 ≤ n ≤ 150). In the following n lines, diameters of wheels in millimeters are given (they are integers in the range from 600 to 700).
+The first line contains the number `n` of available wheel pairs (`1 ≤ n ≤ 150`). In the following `n` lines, diameters of wheels in millimeters are given (they are integers in the range from 600 to 700).
 
 ## Output
 
@@ -22,8 +19,14 @@ Output the number of cars that can be equipped with wheels using the given set o
 
 ## Sample
 
-###input
-```
+<table>
+<tr>
+<th>input</th>
+<th>output</th>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<pre style="white-space:pre">
 9
 689
 690
@@ -34,9 +37,12 @@ Output the number of cars that can be equipped with wheels using the given set o
 689
 688
 688
-```
-
-### output
-```
+</pre>
+</td>
+<td style="vertical-align: top">
+<pre style="white-space:pre">
 1
-```
+</pre>
+</td>
+</tr>
+</table>

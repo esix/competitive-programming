@@ -118,34 +118,34 @@
 | 1582 | Bookmakers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1582)                          | [main.go](volume-06/1582/main.go)                                        |
 | 1585 | Penguins [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1585)                            | [main.go](volume-06/1585/main.go)                                        |
 |      | Volume 7 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=7)                           | [volume-07](volume-07/)                                                  |
-| 1601 | АнтиКАПС [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1601)                            | [main.go](volume-07/1601/main.go)                                        |
-| 1607 | Такси [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1607)                               | [main.go](volume-07/1607/main.go)                                        |
-| 1612 | Трамвайный форум [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1612)                    | [main.go](volume-07/1612/main.go)                                        |
+| 1601 | AntiCAPS [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1601)                            | [main.go](volume-07/1601/main.go)                                        |
+| 1607 | Taxi [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1607)                                | [main.go](volume-07/1607/main.go)                                        |
+| 1612 | Tram Forum [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1612)                          | [main.go](volume-07/1612/main.go)                                        |
 | 1617 | Flat Spots [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1617)                          | [main.go](volume-07/1617/main.go)                                        |
-| 1636 | Штрафное время [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1636)                      | [main.go](volume-07/1636/main.go)                                        |
-| 1638 | Книжный червь [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1638)                       | [main.go](volume-07/1638/main.go)                                        |
-| 1639 | Шоколад 2 [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1639)                           | [main.go](volume-07/1639/main.go)                                        |
-| 1642 | Одномерный лабиринт [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1642)                 | [main.go](volume-07/1642/main.go)                                        |
-| 1644 | Куча орехов [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1644)                         | [main.go](volume-07/1644/main.go)                                        |
-| 1654 | Шифровка [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1654)                            | [main.go](volume-07/1654/main.go)                                        |
+| 1636 | Penalty Time [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1636)                        | [main.go](volume-07/1636/main.go)                                        |
+| 1638 | Bookworm [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1638)                            | [main.go](volume-07/1638/main.go)                                        |
+| 1639 | Chocolate 2 [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1639)                         | [main.go](volume-07/1639/main.go)                                        |
+| 1642 | 1D Maze [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1642)                             | [main.go](volume-07/1642/main.go)                                        |
+| 1644 | A Whole Lot of Walnuts [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1644)              | [main.go](volume-07/1644/main.go)                                        |
+| 1654 | Cipher Message [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1654)                      | [main.go](volume-07/1654/main.go)                                        |
 | 1683 | Холодильник [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1683)                         | [main.go](volume-07/1683/main.go)                                        |
 | 1688 | Team.GOV! [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1688)                           | [main.go](volume-07/1688/main.go)                                        |
 |      | Volume 8 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=8)                           | [volume-08](volume-08/)                                                  |
-| 1711 | Кодовые имена [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1711)                       | [main.go](volume-08/1711/main.go)                                        |
-| 1712 | Шифровальная решётка [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1712)                | [main.go](volume-08/1712/main.go)                                        |
+| 1711 | Code Names [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1711)                          | [main.go](volume-08/1711/main.go)                                        |
+| 1712 | Cipher Grille [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1712)                       | [main.go](volume-08/1712/main.go)                                        |
 | 1723 | Sandro's Book [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1723)                       | [main.go](volume-08/1723/main.go)                                        |
-| 1725 | Аншлаг, аншлаг! [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1725)                     | [main.go](volume-08/1725/main.go)                                        |
-| 1731 | Укроп [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1731)                               | [main.go](volume-08/1731/main.go)                                        |
-| 1737 | Мнемоника и палиндромы 3 [⬀](https://acm.timus.ru/problem.aspx?space=76&num=6)              | [main.pas](volume-08/1737/main.pas)                                      |
-| 1740 | А олени лучше! [⬀](https://acm.timus.ru/problem.aspx?space=76&num=9)                        | [main.pas](volume-08/1740/main.pas)                                      |
-| 1756 | Полтора землекопа [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1756)                   | [main.go](volume-08/1756/main.go)                                        |
-| 1777 | Племя аниндилъяква [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1777)                  | [main.go](volume-08/1777/main.go)                                        |
-| 1785 | Трудности локализации [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1785)               | [main.py](volume-08/1785/main.py)                                        |
-| 1786 | Биография Сандро [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1786)                    | [main.go](volume-08/1786/main.go)                                        |
-| 1787 | Поворот на МЕГУ [⬀](https://acm.timus.ru/problem.aspx?space=1&num=17871)                    | [main.go](volume-08/1787/main.go)                                        |
-| 1788 | О пользе зонтов [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1788)                     | [main.go](volume-08/1788/main.go)                                        |
-| 1792 | Код Хэмминга [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1792)                        | [main.go](volume-08/1792/main.go)                                        |
-| 1796 | Парк аттракционов [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1796)                   | [main.go](volume-08/1796/main.go)                                        |
+| 1725 | Sold Out! [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1725)                           | [main.go](volume-08/1725/main.go)                                        |
+| 1731 | Dill [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1731)                                | [main.go](volume-08/1731/main.go)                                        |
+| 1737 | Mnemonics and Palindromes 3 [⬀](https://acm.timus.ru/problem.aspx?space=76&num=6)           | [main.pas](volume-08/1737/main.pas)                                      |
+| 1740 | Deer is Better! [⬀](https://acm.timus.ru/problem.aspx?space=76&num=9)                       | [main.pas](volume-08/1740/main.pas)                                      |
+| 1756 | One and a Half Diggers [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1756)              | [main.go](volume-08/1756/main.go)                                        |
+| 1777 | Anindilyakwa [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1777)                        | [main.go](volume-08/1777/main.go)                                        |
+| 1785 | Lost in Localization [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1785)                | [main.py](volume-08/1785/main.py)                                        |
+| 1786 | Sandro's Biography [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1786)                  | [main.go](volume-08/1786/main.go)                                        |
+| 1787 | Turn for MEGA [⬀](https://acm.timus.ru/problem.aspx?space=1&num=17871)                      | [main.go](volume-08/1787/main.go)                                        |
+| 1788 | On the Benefits of Umbrellas [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1788)        | [main.go](volume-08/1788/main.go)                                        |
+| 1792 | Hamming Code [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1792)                        | [main.go](volume-08/1792/main.go)                                        |
+| 1796 | Amusement Park [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1796)                      | [main.go](volume-08/1796/main.go)                                        |
 |      | Volume 9 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=9)                           | [volume-09](volume-09/)                                                  |
 | 1820 | Уральские бифштексы [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1820)                 | [main.go](volume-09/1820/main.go)                                        |
 | 1821 | Биатлон [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1821)                             | [main.go](volume-09/1821/main.go)                                        |
