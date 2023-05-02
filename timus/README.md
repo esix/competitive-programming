@@ -147,29 +147,29 @@
 | 1792 | Hamming Code [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1792)                        | [main.go](volume-08/1792/main.go)                                        |
 | 1796 | Amusement Park [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1796)                      | [main.go](volume-08/1796/main.go)                                        |
 |      | Volume 9 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=9)                           | [volume-09](volume-09/)                                                  |
-| 1820 | Уральские бифштексы [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1820)                 | [main.go](volume-09/1820/main.go)                                        |
-| 1821 | Биатлон [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1821)                             | [main.go](volume-09/1821/main.go)                                        |
-| 1837 | Число Исенбаева [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1837)                     | [main.go](volume-09/1837/main.go)                                        |
-| 1864 | Посиделки у Дена [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1864)                    | [main.go](volume-09/1864/main.go)                                        |
-| 1868 | Конкурс прогнозов [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1868)                   | [main.go](volume-09/1868/main.go)                                        |
-| 1873 | Летопись GOV [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1873)                        | [main.go](volume-09/1873/main.go)                                        |
-| 1876 | Утро сороконожки [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1876)                    | [main.go](volume-09/1876/main.go)                                        |
-| 1877 | Велосипедные коды [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1877)                   | [main.go](volume-09/1877/main.go)                                        |
-| 1880 | Собственные числа Psych Up [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1880)          | [main.go](volume-09/1880/main.go)                                        |
-| 1881 | Длинное условие задачи [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1881)              | [main.go](volume-09/1881/main.go)                                        |
+| 1820 | Ural Steaks [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1820)                         | [main.go](volume-09/1820/main.go)                                        |
+| 1821 | Biathlon [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1821)                            | [main.go](volume-09/1821/main.go)                                        |
+| 1837 | Isenbaev's Number [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1837)                   | [main.go](volume-09/1837/main.go)                                        |
+| 1864 | Get-Together at Den's [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1864)               | [main.go](volume-09/1864/main.go)                                        |
+| 1868 | Prediction Contest [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1868)                  | [main.go](volume-09/1868/main.go)                                        |
+| 1873 | GOV Chronicles [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1873)                      | [main.go](volume-09/1873/main.go)                                        |
+| 1876 | Centipede's Morning [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1876)                 | [main.go](volume-09/1876/main.go)                                        |
+| 1877 | Bicycle Codes [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1877)                       | [main.go](volume-09/1877/main.go)                                        |
+| 1880 | Psych Up's Eigenvalues [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1880)              | [main.go](volume-09/1880/main.go)                                        |
+| 1881 | Long problem statement [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1881)              | [main.go](volume-09/1881/main.go)                                        |
 | 1893 | A380 [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1893)                                | [main.go](volume-09/1893/main.go)                                        |
 |      | Volume 10 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=10)                         | [volume-10](volume-10/)                                                  |
-| 1902 | Нео-Венеция [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1902)                         | [main.go](volume-10/1902/main.go)                                        |
-| 1910 | Руины титанов: сокрытый вход [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1910)        | [main.go](volume-10/1910/main.go)                                        |
-| 1924 | Четыре чертёнка [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1924)                     | [main.go](volume-10/1924/main.go)                                        |
-| 1925 | О заслуге британских учёных [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1925)         | [main.go](volume-10/1925/main.go)                                        |
-| 1931 | Отличная команда [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1931)                    | [main.go](volume-10/1931/main.go)                                        |
-| 1935 | Слёзы утопленников [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1935)                  | [main.go](volume-10/1935/main.go)                                        |
-| 1964 | Китайский язык [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1964)                      | [main.go](volume-10/1964/main.go)                                        |
-| 1982 | План электрификации [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1982)                 | [main.go](volume-10/1982/main.go)                                        |
-| 1984 | Охранник компота [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1984)                    | [main.go](volume-10/1984/main.go)                                        |
-| 1991 | Битва у болота [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1991)                      | [main.go](volume-10/1991/main.go)                                        |
-| 1993 | Чизбургер этот не нужен тебе [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1993)        | [main.go](volume-10/1993/main.go)                                        |
+| 1902 | Neo-Venice [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1902)                          | [main.go](volume-10/1902/main.go)                                        |
+| 1910 | Titan Ruins: Hidden Entrance [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1910)        | [main.go](volume-10/1910/main.go)                                        |
+| 1924 | Four Imps [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1924)                           | [main.go](volume-10/1924/main.go)                                        |
+| 1925 | British Scientists Save the World [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1925)   | [main.go](volume-10/1925/main.go)                                        |
+| 1931 | Excellent Team [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1931)                      | [main.go](volume-10/1931/main.go)                                        |
+| 1935 | Tears of Drowned [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1935)                    | [main.go](volume-10/1935/main.go)                                        |
+| 1964 | Chinese Dialects [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1964)                    | [main.go](volume-10/1964/main.go)                                        |
+| 1982 | Electrification Plan [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1982)                | [main.go](volume-10/1982/main.go)                                        |
+| 1984 | Dummy Guy [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1984)                           | [main.go](volume-10/1984/main.go)                                        |
+| 1991 | The battle near the swamp [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1991)           | [main.go](volume-10/1991/main.go)                                        |
+| 1993 | This cheeseburger you don't need [⬀](https://acm.timus.ru/problem.aspx?space=1&num=1993)    | [main.go](volume-10/1993/main.go)                                        |
 |      | Volume 11 [⬀](https://acm.timus.ru/problemset.aspx?space=1&page=11)                         | [volume-11](volume-11/)                                                  |
 | 2000 | Grand Theft Array V [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2000)                 | [main.go](volume-11/2000/main.go)                                        |
 | 2001 | Математики и ягоды [⬀](https://acm.timus.ru/problem.aspx?space=1&num=2001)                  | [main.go](volume-11/2001/main.go)                                        |
