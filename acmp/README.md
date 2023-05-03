@@ -6,7 +6,7 @@
 
 | ID   | Problem statement                                                                        | Solution                                                             |
 |------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-|      | 0001-0050 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=0&id_type=0)              | [](page-01/)                                                         |
+|      | 0001-0050 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=0&id_type=0)              | [page-01](page-01/)                                                  |
 | 0001 | A+B [⬀](http://acmp.ru/index.asp?main=task&id_task=1)                                    | [Main.java](page-01/0001/Main.java), [main.py](page-01/0001/main.py) |
 | 0002 | Сумма [⬀](http://acmp.ru/index.asp?main=task&id_task=2)                                  | [main.pas](page-01/0002/main.pas)                                    |
 | 0003 | Пятью пять - двадцать пять! [⬀](http://acmp.ru/index.asp?main=task&id_task=3)            | [main.pas](page-01/0003/main.pas)                                    |
@@ -57,7 +57,7 @@
 | 0048 | Наихудший делитель [⬀](http://acmp.ru/index.asp?main=task&id_task=48)                    | [main.py](page-01/0048/main.py)                                      |
 | 0049 | Шаблоны [⬀](http://acmp.ru/index.asp?main=task&id_task=49)                               | [main.py](page-01/0049/main.py)                                      |
 | 0050 | Строки [⬀](http://acmp.ru/index.asp?main=task&id_task=50)                                | [main.py](page-01/0050/main.py)                                      |
-|      | 0051-0100 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)              | [](page-02/)                                                         |
+|      | 0051-0100 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)              | [page-02](page-02/)                                                  |
 | 0051 | Факториалы!!! [⬀](http://acmp.ru/index.asp?main=task&id_task=51)                         | [main.py](page-02/0051/main.py)                                      |
 | 0052 | Счастливый билет [⬀](http://acmp.ru/index.asp?main=task&id_task=52)                      | [main.py](page-02/0052/main.py)                                      |
 | 0053 | Раскраска таблицы умножения [⬀](http://acmp.ru/index.asp?main=task&id_task=53)           | [main.py](page-02/0053/main.py)                                      |
@@ -108,7 +108,7 @@
 | 0098 | Игра в числа [⬀](http://acmp.ru/index.asp?main=task&id_task=98)                          | [main.py](page-02/0098/main.py)                                      |
 | 0099 | Лабиринт [⬀](http://acmp.ru/index.asp?main=task&id_task=99)                              | [main.py](page-02/0099/main.py)                                      |
 | 0100 | Счастливые билеты [⬀](http://acmp.ru/index.asp?main=task&id_task=100)                    | [main.py](page-02/0100/main.py)                                      |
-|      | 0101-0150 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=2&id_type=0)              | [](page-03/)                                                         |
+|      | 0101-0150 [⬀](http://acmp.ru/index.asp?main=tasks&str=%20&page=2&id_type=0)              | [page-03](page-03/)                                                  |
 | 0101 | Магараджа [⬀](http://acmp.ru/index.asp?main=task&id_task=101)                            | [main.py](page-03/0101/main.py)                                      |
 | 0102 | Треугольник [⬀](http://acmp.ru/index.asp?main=task&id_task=102)                          | [main.py](page-03/0102/main.py)                                      |
 | 0103 | Снова A+B [⬀](http://acmp.ru/index.asp?main=task&id_task=103)                            | [main.py](page-03/0103/main.py)                                      |
@@ -155,24 +155,24 @@
 | 0148 | НОД [⬀](http://acmp.ru/index.asp?main=task&id_task=148)                                  | [main.py](page-03/0148/main.py)                                      |
 | 0149 | Разворот [⬀](http://acmp.ru/index.asp?main=task&id_task=149)                             | [main.py](page-03/0149/main.py)                                      |
 | 0150 | Друзья [⬀](http://acmp.ru/index.asp?main=task&id_task=150)                               | [main.py](page-03/0150/main.py)                                      |
-|      | 0151-0200 [⬀](https://acmp.ru/index.asp?main=tasks&str=%20&page=3&id_type=0)             | [](page-04/)                                                         |
+|      | 0151-0200 [⬀](https://acmp.ru/index.asp?main=tasks&str=%20&page=3&id_type=0)             | [page-04](page-04/)                                                  |
 | 0163 | Уравнение для 5 класса! [⬀](https://acmp.ru/index.asp?main=task&id_task=163)             | [main.py](page-04/0163/main.py)                                      |
 | 0164 | Счастливый билет - 2 [⬀](https://acmp.ru/index.asp?main=task&id_task=164)                | [main.py](page-04/0164/main.py)                                      |
 | 0168 | Натуральный ряд чисел [⬀](https://acmp.ru/index.asp?main=task&id_task=168)               | [main.py](page-04/0168/main.py)                                      |
 | 0173 | Число - палиндром [⬀](https://acmp.ru/index.asp?main=task&id_task=173)                   | [main.py](page-04/0173/main.py)                                      |
-|      | Тренировка №2 [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40478)          | [](~contest-40478/)                                                  |
+|      | Тренировка №2 [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40478)          | [~contest-40478](~contest-40478/)                                    |
 | A    | Мышка                                                                                    | [main.py](~contest-40478/A/main.py)                                  |
 | B    | Перевязь                                                                                 | [main.py](~contest-40478/B/main.py)                                  |
 | C    | Всем известно                                                                            | [main.py](~contest-40478/C/main.py)                                  |
 | D    | Номера автобусов                                                                         | [main.py](~contest-40478/D/main.py)                                  |
 | E    | Упрощение номеров                                                                        | [main.py](~contest-40478/E/main.py)                                  |
-|      | Тренировка №4 [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40480)          | [](~contest-40480/)                                                  |
+|      | Тренировка №4 [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40480)          | [~contest-40480](~contest-40480/)                                    |
 | A    | Время года                                                                               | [main.py](~contest-40480/A/main.py)                                  |
 | B    | Кольцо                                                                                   | [main.py](~contest-40480/B/main.py)                                  |
 | C    | Числа без одинаковых цифр                                                                | [main.py](~contest-40480/C/main.py)                                  |
 | D    | Игра со спичками                                                                         | [main.py](~contest-40480/D/main.py)                                  |
 | E    | Закупка носков                                                                           | [main.py](~contest-40480/E/main.py)                                  |
-|      | Первая личная олимпида [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40495) | [](~contest-40495/)                                                  |
+|      | Первая личная олимпида [⬀](http://acmp.ru/asp/champ/index.asp?main=tasks&id_stage=40495) | [~contest-40495](~contest-40495/)                                    |
 | A    | Камень, ножницы, бумага                                                                  | [main.py](~contest-40495/A/main.py)                                  |
 | B    | В автобусе                                                                               | [main.py](~contest-40495/B/main.py)                                  |
 | C    | Шары                                                                                     | [main.py](~contest-40495/C/main.py)                                  |
