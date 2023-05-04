@@ -1,7 +1,7 @@
-# Codeforces Round #305 (Div. 2) [⬀](http://codeforces.com/contest/548)
+# Codeforces Round #305 (Div. 2) [⬀](https://codeforces.com/contest/548)
 
-| ID | Problem statement                                                     | Solution               |
-|----|-----------------------------------------------------------------------|------------------------|
-| A  | [Майк и факс](http://codeforces.com/problemset/problem/548/A)         | [A/main.py](A/main.py) |
-| B  | [Майк и весёлая игра](http://codeforces.com/problemset/problem/548/B) | [B/main.py](B/main.py) |
+| ID | Problem statement                                                 | Solution             |
+|----|-------------------------------------------------------------------|----------------------|
+| A  | Mike and Fax [⬀](https://codeforces.com/problemset/problem/548/A) | [main.py](A/main.py) |
+| B  | Mike and Fun [⬀](https://codeforces.com/problemset/problem/548/B) | [main.py](B/main.py) |
 

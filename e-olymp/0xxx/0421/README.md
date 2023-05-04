@@ -5,7 +5,7 @@ Write a program that the length of strings l and the coefficient k counts the nu
 
 ## Input
 
-Two integers l (1 ≤ l ≤ 109) and k (2 ≤ k ≤ 100).
+Two integers l (1 ≤ l ≤ 10⁹) and k (2 ≤ k ≤ 100).
 
 ## Output
 Print the number of ascents.

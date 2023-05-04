@@ -1,1 +1,1 @@
-# Стоматолог Геннадий [⬀](http://codeforces.com/problemset/problem/585/A)
+# Стоматолог Геннадий [⬀](https://codeforces.com/problemset/problem/585/A)

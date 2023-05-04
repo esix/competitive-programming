@@ -1,62 +1,59 @@
-# Солдат и карты [⬀](https://codeforces.com/contest/546/problem/C)
+# Soldier and Cards [⬀](https://codeforces.com/contest/546/problem/C)
 
-- ограничение по времени на тест: 2 секунды
-- ограничение по памяти на тест: 256 мегабайт
-- ввод: стандартный ввод
-- вывод: стандартный вывод
+Two bored soldiers are playing card war. Their card deck consists of exactly `n` cards, numbered from `1` to `n`, **all values are different**. They divide cards between them in some manner, it's possible that they have different number of cards. Then they play a "war"-like card game.
 
-Два скучающих солдата играют в карточную войну (эквивалент карточной игры «пьяница» в англоязычных странах). Их колода состоит ровно из `n` карт, пронумерованных **различными числами** от 1 до `n`. Исходно они делят между собой картны некоторым образом, возможно, не равным образом.
+The rules are following. On each turn a fight happens. Each of them picks card from the top of his stack and puts on the table. The one whose card value is bigger wins this fight and takes both cards from the table to the bottom of his stack. More precisely, he first takes his opponent's card and puts to the bottom of his stack, and then he puts his card to the bottom of his stack. If after some turn one of the player's stack becomes empty, he loses and the other one wins.
 
-Правила игры следующие. На каждом ходу происходит сражение. Каждый игрок берет карту с вершины своей стопки и кладет на стол. Тот, у кого значение карты больше, выигрывает в этом сражении, берет обе карты со стола и кладет в низ своей стопки. Точнее говоря, сперва он берет карту противника и кладет в низ своей стопки, затем кладет свою карту в низ своей стопки. Если после какого-то хода стопка одного игрока становится пустой, то он проигрывает, а другой игрок побеждает.
+You have to calculate how many fights will happen and who will win the game, or state that game won't end.
 
-Вам надо подсчитать, после сколько будет сражений и кто победит, в противном случае надо сказать, что игра не прекратится.
+## Input
 
-## Входные данные
+First line contains a single integer `n` (`2 ≤ n ≤ 10`), the number of cards.
 
-В первой строке записано единственное целое число `n (2 ≤ n ≤ 10)`, количество карт.
+Second line contains integer `k₁` (`1 ≤ k₁ ≤ n - 1`), the number of the first soldier's cards. Then follow `k₁` integers that are the values on the first soldier's cards, from top to bottom of his stack.
 
-Во второй строке записано целое число `k₁ (1 ≤ k₁ ≤ n - 1)`, количество карт у первого солдата. Затем следует `k₁` целых чисел — значения карт первого солдата в порядке сверху вниз.
+Third line contains integer `k₂` (`k₁ + k₂ = n`), the number of the second soldier's cards. Then follow `k₂` integers that are the values on the second soldier's cards, from top to bottom of his stack.
 
-В третьей строке записано целое число `k₂ (k₁ + k₂ = n)`, количество карт у второго солдата. Затем следует `k₂` целых чисел — значения карт второго солдата сверху вниз.
+All card values are different.
 
-Все значения карт различны.
+## Output
 
-## Выходные данные
-Если кто-то победит в этой игре, выведите 2 целых чисел, где первое число обозначает количество сражений в игре, а второе — 1 или 2, обозначающее, какой игрок победил.
+If somebody wins in this game, print 2 integers where the first one stands for the number of fights before end of game and the second one is 1 or 2 showing which player has won.
 
-Если игра не закончится, а будет продолжаться вечно, выведите  -1.
+If the game won't end and will continue forever output  `-1`.
 
-## Примеры
+## Examples
 
-### входные данные
+### input
 ```
 4
 2 1 3
 2 4 2
 ```
 
-### выходные данные
+### output
 ```
 6 2
 ```
 
-### входные данные
+### input
 ```
 3
 1 2
 2 1 3
 ```
 
-### выходные данные
+### output
 ```
 -1
 ```
 
-## Примечание
-### Первый пример:
-![Первый пример](1.png)
+## Note
 
-### Второй пример:
-![Второй пример](2.png)
+### First sample:
+![First sample](1.png)
 
+### Second sample:
+
+![Second sample](2.png)
 

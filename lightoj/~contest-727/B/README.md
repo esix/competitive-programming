@@ -8,15 +8,15 @@ His only problem is that he's afraid of dogs. He doesn't even like seeing dogs. 
 
 ## Input
 
-The input starts with an integer T (1 <= T <= 10), the number of test cases. following T blocks describing each test case.
+The input starts with an integer `T` (`1 <= T <= 10`), the number of test cases. following `T` blocks describing each test case.
 
-Each block starts with a line containing an integer n (2 <= n <= 105), the number of intersections in the city. Intersections are numbers 1 through n.
+Each block starts with a line containing an integer `n` (`2 <= n <= 10⁵`), the number of intersections in the city. Intersections are numbers `1` through `n`.
 
-Followed by n-1 lines each containing integers u, v, (1 <= u, v <= n) and d (1 <= d <= 109), the numbers of intersections at the end of this road and the number od dogs Eagle will see walking in this road.
+Followed by `n-1` lines each containing integers `u`, `v`, (`1 <= u, v <= n`) and `d` (`1 <= d <= 10⁹`), the numbers of intersections at the end of this road and the number od dogs Eagle will see walking in this road.
 
 ## Output
 
-For each test case print a line containing n integers, the ith integer represents the maximum number of dogs Eagle might see if he starts his walk at intersection i.
+For each test case print a line containing `n` integers, the `i`th integer represents the maximum number of dogs Eagle might see if he starts his walk at intersection `i`.
 
 ## Example
 

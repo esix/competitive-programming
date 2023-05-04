@@ -1,31 +1,25 @@
-# Солдат и бананы [⬀](https://codeforces.com/contest/546/problem/A)
+# Soldier and Bananas [⬀](https://codeforces.com/contest/546/problem/A)
 
-- ограничение по времени на тест: 1 секунда
-- ограничение по памяти на тест: 256 мегабайт
-- ввод: стандартный ввод
-- вывод: стандартный вывод
+A soldier wants to buy `w` bananas in the shop. He has to pay k dollars for the first banana, `2k` dollars for the second one and so on (in other words, he has to pay `i·k` dollars for the `i`-th banana).
 
-Солдат хочет купить w бананов в магазине. Ему надо заплатить `k` долларов за первый банан, `2k` долларов — за второй и так далее (иными словами, за `i`-й банан надо заплатить `i·k` долларов).
+He has `n` dollars. How many dollars does he have to borrow from his friend soldier to buy w bananas?
 
-У него есть `n` долларов. Сколько долларов ему придется одолжить у однополчанина, чтобы купить `w` бананов?
+## Input
 
-## Входные данные
+The first line contains three positive integers `k`, `n`, `w` (`1  ≤  k, w  ≤  1000`, `0 ≤ n ≤ 10⁹`), the cost of the first banana, initial number of dollars the soldier has and number of bananas he wants.
 
-В первой строке записано три положительных целых числа `k`, `n`, `w` `(1  ≤  k, w  ≤  1000, 0 ≤ n ≤ 10⁹)`, стоимость первого банана, изначальное количество долларов у солдата и количество бананов, которые он хочет купить.
+## Output
 
-## Выходные данные
+Output one integer — the amount of dollars that the soldier must borrow from his friend. If he doesn't have to borrow money, output `0`.
 
-Выведите единственное целое число — количество долларов, которое солдату надо одолжить у однополчанина. Если деньги одалживать не надо, выведите 0.
+## Examples
 
-## Примеры
-
-### входные данные
+### input
 ```
 3 17 4
 ```
 
-### выходные данные
+### output
 ```
 13
 ```
-

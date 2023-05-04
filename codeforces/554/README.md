@@ -1,8 +1,8 @@
-# Codeforces Round #309 (Div. 2) [⬀](http://codeforces.com/contest/554)
+# Codeforces Round #309 (Div. 2) [⬀](https://codeforces.com/contest/554)
 
-| ID | Problem statement                                                            | Solution               |
-|----|------------------------------------------------------------------------------|------------------------|
-| A  | [Кёя и фотокниги](http://codeforces.com/problemset/problem/554/A)            | [A/main.py](A/main.py) |
-| B  | [Охана прибирается в комнате](http://codeforces.com/problemset/problem/554B) | [B/main.py](B/main.py) |
-| C  | [Кёя и цветные мячи](http://codeforces.com/problemset/problem/553/A)         | [C/main.py](C/main.py) |
+| ID | Problem statement                                                            | Solution             |
+|----|------------------------------------------------------------------------------|----------------------|
+| A  | Kyoya and Photobooks [⬀](https://codeforces.com/problemset/problem/554/A)    | [main.py](A/main.py) |
+| B  | Ohana Cleans Up [⬀](https://codeforces.com/problemset/problem/554/B)         | [main.py](B/main.py) |
+| C  | Kyoya and Colored Balls [⬀](https://codeforces.com/problemset/problem/553/A) | [main.py](C/main.py) |
 

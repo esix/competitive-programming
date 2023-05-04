@@ -3,7 +3,7 @@
 How many positive integers from interval [m, n] have the least sum of digits?
 
 ## Input
-Contains two integers m and n (1 ≤ m ≤ n ≤ 106).
+Contains two integers `m` and `n` (`1 ≤ m ≤ n ≤ 10⁶`).
 
 ## Output
 Print the amount of positive integers from interval with minimum sum of digits.

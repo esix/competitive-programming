@@ -1,51 +1,47 @@
-# Солдат и значки [⬀](https://codeforces.com/contest/546/problem/B)
+# Soldier and Badges [⬀](https://codeforces.com/contest/546/problem/B)
 
-- ограничение по времени на тест: 3 секунды
-- ограничение по памяти на тест: 256 мегабайт
-- ввод: стандартный ввод
-- вывод: стандартный вывод
+Colonel has `n` badges. He wants to give one badge to every of his `n` soldiers. Each badge has a coolness factor, which shows how much it's owner reached. Coolness factor can be increased by one for the cost of one coin.
 
-У полковника есть `n` значков. Он хочет дать по значку каждому из `n` его солдатов. У каждого значка есть *коэффициент крутизны*, который показывает уровень, достигнутый владельцем значка. Коэффициент крутизны можно увеличить на 1 за одну монету.
+For every pair of soldiers one of them should get a badge with strictly higher factor than the second one. Exact values of their factors aren't important, they just need to have distinct factors.
 
-Для каждой пары солдат один из них должен получить значок, коэффициент которого строго выше второго. Для солдат не важно, какие у них значения коэффициента, требуется лишь, чтобы их коэффициенты отличались друг от друга.
+Colonel knows, which soldier is supposed to get which badge initially, but there is a problem. Some of badges may have the same factor of coolness. Help him and calculate how much money has to be paid for making all badges have different factors of coolness.
 
-Полковник знает, какому солдату должен достаться какой значок исходно, но есть вот какая проблема. У некоторых значков может быть одинаковый коэффициент крутизны. Помогите ему и подсчитайте, сколько денег надо суммарно заплатить, чтобы у всех значков были различные коэффициенты крутизны.
+## Input
 
-## Входные данные
+First line of input consists of one integer `n` (`1 ≤ n ≤ 3000`).
 
-Первая строка состоит из единственного целого числа `n (1 ≤ n ≤ 3000)` — количества солдат.
+Next line consists of `n` integers `aᵢ` (`1 ≤ aᵢ ≤ n`), which stand for coolness factor of each badge.
 
-В следующей строке записано n целых чисел `ai (1 ≤ aᵢ ≤ n)`, обозначающих коэффициент крутизны каждого значка.
+## Output
 
-## Выходные данные
+Output single integer — minimum amount of coins the colonel has to pay.
 
-Выведите единственное целое число — минимальное количество монет, которые придется выплатить полковнику.
+## Examples
 
-## Примеры
-
-### входные данные
+### input
 ```
 4
 1 3 1 4
 ```
-### выходные данные
+output
 ```
 1
 ```
 
-### входные данные
+### input
 ```
 5
 1 2 3 2 5
 ```
 
-### выходные данные
+### output
 ```
 2
 ```
 
-### Примечание
-В первом тесте из примера мы можем увеличить коэффициент первого значка на 1.
+## Note
 
-Во втором тесте из примера мы можем увеличить коэффициенты второго и третьего значка на 1.
+In first sample test we can increase factor of first badge by 1.
+
+In second sample test we can increase factors of the second and the third badge by 1.
 
