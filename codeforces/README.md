@@ -1,29 +1,6 @@
 # Codeforces [⬀](https://codeforces.com/)
 
-- GNU GCC 5.1.0
-- GNU GCC C11 5.1.0
-- GNU G++ 5.1.0
-- GNU G++11 5.1.0
-- Microsoft Visual C++ 2010
-- C# Mono 3.12.1.0
-- MS C# .NET 4.0.30319
-- D DMD32 Compiler v2.068.1
-- Go 1.5.1
-- Haskell GHC 7.8.3
-- Java 1.7.0_80
-- Java 1.8.0_66
-- OCaml 4.02.1
-- Delphi 7
-- Free Pascal 2.6.4
-- Perl 5.20.1
-- PHP 5.4.42
-- Python 2.7.10
-- Python 3.5.0
-- PyPy 2.7.10 (2.6.1)
-- PyPy 3.2.5 (2.4.0)
-- Ruby 2.0.0p645
-- Scala 2.11.7
-- JavaScript V8 4.8.0
+Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare. Codeforces constantly develops and we plan to improve the platform to give the participants the opportunity to organize their own contests, filling the project with learning content, developing Codeforces as a training and learning platform.
 
 | ID | Problem statement                                                                                     | Solution                   |
 |----|-------------------------------------------------------------------------------------------------------|----------------------------|
@@ -47,21 +24,21 @@
 | B  | Pasha and Tea [⬀](https://codeforces.com/problemset/problem/557/B)                                    | [main.py](557/B/main.py)   |
 | C  | Arthur and Table [⬀](https://codeforces.com/problemset/problem/557/C)                                 | [main.cpp](557/C/main.cpp) |
 |    | Codeforces Round #319 Div. 2                                                                          | [577](577/)                |
-| A  | Таблица умножения [⬀](https://codeforces.com/problemset/problem/577/A)                                | [main.py](577/A/main.py)   |
+| A  | Multiplication Table [⬀](https://codeforces.com/problemset/problem/577/A)                             | [main.py](577/A/main.py)   |
 |    | Codeforces Round #323 Div. 2                                                                          | [579](579/)                |
-| A  | Выращиваем бактерии [⬀](https://codeforces.com/problemset/problem/579/A)                              | [main.py](579/A/main.py)   |
-| C  | Задача про ломаную [⬀](https://codeforces.com/problemset/problem/578/A)                               | [main.py](579/C/main.py)   |
+| A  | Raising Bacteria [⬀](https://codeforces.com/problemset/problem/579/A)                                 | [main.py](579/A/main.py)   |
+| C  | A Problem about Polyline [⬀](https://codeforces.com/problemset/problem/578/A)                         | [main.py](579/C/main.py)   |
 |    | Codeforces Round #321 Div. 2                                                                          | [580](580/)                |
-| A  | Кефа и первые шаги [⬀](https://codeforces.com/problemset/problem/580/A)                               | [main.cpp](580/A/main.cpp) |
-| C  | Кефа и парк [⬀](https://codeforces.com/problemset/problem/580/C)                                      | [main.cpp](580/C/main.cpp) |
+| A  | Kefa and First Steps [⬀](https://codeforces.com/problemset/problem/580/A)                             | [main.cpp](580/A/main.cpp) |
+| C  | Kefa and Park [⬀](https://codeforces.com/problemset/problem/580/C)                                    | [main.cpp](580/C/main.cpp) |
 |    | Codeforces Round #322 Div. 2                                                                          | [581](581/)                |
-| A  | Хипстер Вася [⬀](https://codeforces.com/problemset/problem/581/A)                                     | [main.py](581/A/main.py)   |
-| B  | Элитные дома [⬀](https://codeforces.com/problemset/problem/581/B)                                     | [main.py](581/B/main.py)   |
-| C  | Развитие навыков [⬀](https://codeforces.com/problemset/problem/581/C)                                 | [main.py](581/C/main.py)   |
-| D  | Три логотипа [⬀](https://codeforces.com/problemset/problem/581/D)                                     | [main.py](581/D/main.py)   |
+| A  | Vasya the Hipster [⬀](https://codeforces.com/problemset/problem/581/A)                                | [main.py](581/A/main.py)   |
+| B  | Luxurious Houses [⬀](https://codeforces.com/problemset/problem/581/B)                                 | [main.py](581/B/main.py)   |
+| C  | Developing Skills [⬀](https://codeforces.com/problemset/problem/581/C)                                | [main.py](581/C/main.py)   |
+| D  | Three Logos [⬀](https://codeforces.com/problemset/problem/581/D)                                      | [main.py](581/D/main.py)   |
 |    | Codeforces Round #323 Div. 2 [⬀]https://codeforces.com/contest/583                                    | [583](583/)                |
-| A  | Асфальтирование дорог [⬀](https://codeforces.com/problemset/problem/583/A)                            | [main.py](583/A/main.py)   |
-| B  | Задача робота [⬀](https://codeforces.com/problemset/problem/583/B)                                    | [main.py](583/B/main.py)   |
+| A  | Asphalting Roads [⬀](https://codeforces.com/problemset/problem/583/A)                                 | [main.py](583/A/main.py)   |
+| B  | Robot's Task [⬀](https://codeforces.com/problemset/problem/583/B)                                     | [main.py](583/B/main.py)   |
 |    | Codeforces Round #325 Div. 2                                                                          | [586](586/)                |
 | A  | Расписание Алёны [⬀](https://codeforces.com/problemset/problem/586/A)                                 | [main.py](586/A/main.py)   |
 | B  | Лаврентий и магазин [⬀](https://codeforces.com/problemset/problem/586/B)                              | [main.py](586/B/main.py)   |
