@@ -40,25 +40,25 @@ Codeforces is a project joining people interested in and taking part in programm
 | A  | Asphalting Roads [⬀](https://codeforces.com/problemset/problem/583/A)                                 | [main.py](583/A/main.py)   |
 | B  | Robot's Task [⬀](https://codeforces.com/problemset/problem/583/B)                                     | [main.py](583/B/main.py)   |
 |    | Codeforces Round #325 Div. 2                                                                          | [586](586/)                |
-| A  | Расписание Алёны [⬀](https://codeforces.com/problemset/problem/586/A)                                 | [main.py](586/A/main.py)   |
-| B  | Лаврентий и магазин [⬀](https://codeforces.com/problemset/problem/586/B)                              | [main.py](586/B/main.py)   |
-| C  | Стоматолог Геннадий [⬀](https://codeforces.com/problemset/problem/585/A)                              | [main.cpp](586/C/main.cpp) |
-| D  | Филипп и поезда [⬀](https://codeforces.com/problemset/problem/585/B)                                  | [main.py](586/D/main.py)   |
+| A  | Alena's Schedule [⬀](https://codeforces.com/problemset/problem/586/A)                                 | [main.py](586/A/main.py)   |
+| B  | Laurenty and Shop [⬀](https://codeforces.com/problemset/problem/586/B)                                | [main.py](586/B/main.py)   |
+| C  | Gennady the Dentist [⬀](https://codeforces.com/problemset/problem/585/A)                              | [main.cpp](586/C/main.cpp) |
+| D  | Phillip and Trains [⬀](https://codeforces.com/problemset/problem/585/B)                               | [main.py](586/D/main.py)   |
 |    | Codeforces Round #327 Div. 2                                                                          | [591](591/)                |
-| A  | Поединок волшебников [⬀](https://codeforces.com/problemset/problem/591/A)                             | [main.py](591/A/main.py)   |
-| B  | Ребрендинг [⬀](https://codeforces.com/problemset/problem/591/B)                                       | [main.py](591/B/main.py)   |
-| C  | Медианное сглаживание [⬀](https://codeforces.com/problemset/problem/590/A)                            | [main.cpp](591/C/main.cpp) |
-| D  | Чип и Дейл спешат на помощь [⬀](https://codeforces.com/problemset/problem/590/B)                      | [main.py](591/D/main.py)   |
+| A  | Wizards' Duel [⬀](https://codeforces.com/problemset/problem/591/A)                                    | [main.py](591/A/main.py)   |
+| B  | Rebranding [⬀](https://codeforces.com/problemset/problem/591/B)                                       | [main.py](591/B/main.py)   |
+| C  | Median Smoothing [⬀](https://codeforces.com/problemset/problem/590/A)                                 | [main.cpp](591/C/main.cpp) |
+| D  | Chip 'n Dale Rescue Rangers [⬀](https://codeforces.com/problemset/problem/590/B)                      | [main.py](591/D/main.py)   |
 |    | Educational Codeforces Round 1 [⬀](https://codeforces.com/contest/598)                                | [598](598/)                |
-| A  | Хитрая сумма [⬀](https://codeforces.com/problemset/problem/598/A)                                     | [main.py](598/A/main.py)   |
-| B  | Запросы на строке [⬀](https://codeforces.com/problemset/problem/598/B)                                | [main.cpp](598/B/main.cpp) |
-| C  | Ближайшие вектора [⬀](https://codeforces.com/problemset/problem/598/C)                                | [main.cpp](598/C/main.cpp) |
-| D  | Игорь в музее [⬀](https://codeforces.com/problemset/problem/598/D)                                    | [main.cpp](598/D/main.cpp) |
+| A  | Tricky Sum [⬀](https://codeforces.com/problemset/problem/598/A)                                       | [main.py](598/A/main.py)   |
+| B  | Queries on a String [⬀](https://codeforces.com/problemset/problem/598/B)                              | [main.cpp](598/B/main.cpp) |
+| C  | Nearest vectors [⬀](https://codeforces.com/problemset/problem/598/C)                                  | [main.cpp](598/C/main.cpp) |
+| D  | Igor In the Museum [⬀](https://codeforces.com/problemset/problem/598/D)                               | [main.cpp](598/D/main.cpp) |
 |    | Educational Codeforces Round 2 [⬀](https://codeforces.com/contest/600)                                | [600](600/)                |
-| A  | Выделение чисел [⬀](https://codeforces.com/problemset/problem/600/A)                                  | [main.py](600/A/main.py)   |
-| B  | Запросы о количестве не превосходящих элементов [⬀](https://codeforces.com/problemset/problem/600/B)  | [main.cpp](600/B/main.cpp) |
-| C  | Сделай палиндром [⬀](https://codeforces.com/problemset/problem/600/C)                                 | [main.cpp](600/C/main.cpp) |
-| D  | Площадь пересечения двух кругов [⬀](https://codeforces.com/problemset/problem/600/D)                  | [main.cpp](600/D/main.cpp) |
+| A  | Extract Numbers [⬀](https://codeforces.com/problemset/problem/600/A)                                  | [main.py](600/A/main.py)   |
+| B  | Queries about less or equal elements [⬀](https://codeforces.com/problemset/problem/600/B)             | [main.cpp](600/B/main.cpp) |
+| C  | Make Palindrome [⬀](https://codeforces.com/problemset/problem/600/C)                                  | [main.cpp](600/C/main.cpp) |
+| D  | Area of Two Circles' Intersection [⬀](https://codeforces.com/problemset/problem/600/D)                | [main.cpp](600/D/main.cpp) |
 | E  | Lomsat gelral [⬀](https://codeforces.com/problemset/problem/600/E)                                    | [main.cpp](600/E/main.cpp) |
 |    | Codeforces Round #333 Div. 2                                                                          | [602](602/)                |
 | A  | Два основания [⬀](https://codeforces.com/problemset/problem/602/A)                                    | [main.py](602/A/main.py)   |
