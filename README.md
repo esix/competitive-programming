@@ -231,19 +231,19 @@ This repository contains my solutions to various competitive programming problem
 [Make Palindrome](codeforces/600/C), 
 [Area of Two Circles' Intersection](codeforces/600/D), 
 [Lomsat gelral](codeforces/600/E), 
-[Два основания](codeforces/602/A), 
-[Аппроксимизация постоянного диапазона](codeforces/602/B), 
-[Сайтама громит гостиницу](codeforces/608/A), 
-[Сумма расстояний Хэмминга](codeforces/608/B), 
-[Разбиение текста](codeforces/612/A), 
-[HDD - устаревшая технология](codeforces/612/B), 
-[Заменить до правильной скобочной последовательности](codeforces/612/C), 
-[Объединение k-подотрезков](codeforces/612/D), 
-[Корень квадратный из перестановки](codeforces/612/E), 
-[Сравнение длинных чисел](codeforces/616/A), 
-[Ужин с Наташей](codeforces/616/B), 
-[Лабиринт](codeforces/616/C), 
-[Сумма остатков](codeforces/616/E)
+[Two Bases](codeforces/602/A), 
+[Approximating a Constant Range](codeforces/602/B), 
+[Saitama Destroys Hotel](codeforces/608/A), 
+[Hamming Distance Sum](codeforces/608/B), 
+[The Text Splitting](codeforces/612/A), 
+[HDD is Outdated Technology](codeforces/612/B), 
+[Replace To Make Regular Bracket Sequence](codeforces/612/C), 
+[The Union of k-Segments](codeforces/612/D), 
+[Square Root of Permutation](codeforces/612/E), 
+[Comparing Two Long Integers](codeforces/616/A), 
+[Dinner with Emma](codeforces/616/B), 
+[The Labyrinth](codeforces/616/C), 
+[Sum of Remainders](codeforces/616/E)
 
 ## Codility [⬀](https://codility.com/programmers/)
 
