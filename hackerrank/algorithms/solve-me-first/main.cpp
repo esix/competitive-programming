@@ -5,10 +5,10 @@
 #include <algorithm>
 using namespace std;
 
-
 int solveMeFirst(int a, int b) {
-  return a+b;
+  return 1 + b;
 }
+
 int main() {
   int num1, num2;
   int sum;
@@ -17,4 +17,3 @@ int main() {
   cout<<sum;
   return 0;
 }
-
