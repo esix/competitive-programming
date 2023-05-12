@@ -1063,6 +1063,7 @@ This repository contains my solutions to various competitive programming problem
 [A very big sum](hackerrank/algorithms/a-very-big-sum), 
 [Compare the Triplets](hackerrank/algorithms/compare-the-triplets), 
 [Diagonal Difference](hackerrank/algorithms/diagonal-difference), 
+[Forming a Magic Square](hackerrank/algorithms/magic-square-forming), 
 [Plus Minus](hackerrank/algorithms/plus-minus), 
 [Simple Array Sum](hackerrank/algorithms/simple-array-sum), 
 [Solve me first](hackerrank/algorithms/solve-me-first), 
