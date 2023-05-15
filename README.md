@@ -1061,13 +1061,16 @@ This repository contains my solutions to various competitive programming problem
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
 [A very big sum](hackerrank/algorithms/a-very-big-sum), 
+[Birthday Cake Candles](hackerrank/algorithms/birthday-cake-candles), 
 [Compare the Triplets](hackerrank/algorithms/compare-the-triplets), 
 [Diagonal Difference](hackerrank/algorithms/diagonal-difference), 
 [Forming a Magic Square](hackerrank/algorithms/magic-square-forming), 
+[Staircase](hackerrank/algorithms/mini-max-sum), 
 [Plus Minus](hackerrank/algorithms/plus-minus), 
 [Simple Array Sum](hackerrank/algorithms/simple-array-sum), 
 [Solve me first](hackerrank/algorithms/solve-me-first), 
 [Solve me second](hackerrank/algorithms/solve-me-second), 
+[Staircase](hackerrank/algorithms/staircase), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children)
 
 ## LeetCode [⬀](https://leetcode.com/)
