@@ -11,4 +11,5 @@
 | solve-me-first        | Solve me first [⬀](https://www.hackerrank.com/challenges/solve-me-first)               | [main.cpp](solve-me-first/main.cpp)      |
 | solve-me-second       | Solve me second [⬀](https://www.hackerrank.com/challenges/solve-me-second)             | [main.sh](solve-me-second/main.sh)       |
 | staircase             | Staircase [⬀](https://www.hackerrank.com/challenges/staircase)                         | [main.ts](staircase/main.ts)             |
+| time-conversion       | Time Conversion [⬀](https://www.hackerrank.com/challenges/time-conversion)             | [main.ts](time-conversion/main.ts)       |
 
