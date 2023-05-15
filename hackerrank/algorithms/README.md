@@ -10,4 +10,5 @@
 | simple-array-sum     | Simple Array Sum [⬀](https://www.hackerrank.com/challenges/simple-array-sum)           | [main.ts](simple-array-sum/main.ts)       |
 | solve-me-first       | Solve me first [⬀](https://www.hackerrank.com/challenges/solve-me-first)               | [main.cpp](solve-me-first/main.cpp)       |
 | solve-me-second      | Solve me second [⬀](https://www.hackerrank.com/challenges/solve-me-second)             | [main.sh](solve-me-second/main.sh)        |
+| staircase            | Staircase [⬀](https://www.hackerrank.com/challenges/staircase)                         | [main.ts](staircase/main.ts)              |
 
