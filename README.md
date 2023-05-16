@@ -1060,6 +1060,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
+[Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 

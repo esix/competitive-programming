@@ -3,6 +3,7 @@
 | ID                    | Problem statement                                                                                            | Solution                                                 |
 |-----------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 |                       | Implementation [⬀]https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation | [implementation](implementation/)                        |
+| apple-and-orange      | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                 | [main.ts](implementation/apple-and-orange/main.ts)       |
 | grading               | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                          | [main.ts](implementation/grading/main.ts)                |
 | magic-square-forming  | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                       | [main.cpp](implementation/magic-square-forming/main.cpp) |
 |                       | Warmup [⬀](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)               | [warmup](warmup/)                                        |
