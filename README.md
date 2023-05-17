@@ -1063,6 +1063,7 @@ This repository contains my solutions to various competitive programming problem
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
+[Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
 [Compare the Triplets](hackerrank/algorithms/warmup/compare-the-triplets), 

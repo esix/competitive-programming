@@ -6,6 +6,7 @@
 | apple-and-orange      | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                 | [main.ts](implementation/apple-and-orange/main.ts)       |
 | grading               | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                          | [main.ts](implementation/grading/main.ts)                |
 | magic-square-forming  | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                       | [main.cpp](implementation/magic-square-forming/main.cpp) |
+| matrix-rotation-algo  | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)                        | [main.ts](implementation/matrix-rotation-algo/main.ts)   |
 |                       | Warmup [⬀](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)               | [warmup](warmup/)                                        |
 | a-very-big-sum        | A very big sum [⬀](https://www.hackerrank.com/challenges/a-very-big-sum)                                     | [main.py](warmup/a-very-big-sum/main.py)                 |
 | birthday-cake-candles | Birthday Cake Candles [⬀](https://www.hackerrank.com/challenges/birthday-cake-candles)                       | [main.ts](warmup/birthday-cake-candles/main.ts)          |
