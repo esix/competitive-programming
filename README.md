@@ -1062,6 +1062,7 @@ This repository contains my solutions to various competitive programming problem
 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
+[Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 

@@ -5,6 +5,7 @@
 |--------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------|
 | apple-and-orange         | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                 | [main.ts](apple-and-orange/main.ts)         |
 | climbing-the-leaderboard | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | [main.ts](climbing-the-leaderboard/main.ts) |
+| extra-long-factorials    | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)       | [main.ts](extra-long-factorials/main.ts)    |
 | grading                  | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                          | [main.ts](grading/main.ts)                  |
 | magic-square-forming     | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)       | [main.cpp](magic-square-forming/main.cpp)   |
 | matrix-rotation-algo     | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)        | [main.ts](matrix-rotation-algo/main.ts)     |
