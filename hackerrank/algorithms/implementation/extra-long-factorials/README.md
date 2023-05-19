@@ -6,7 +6,7 @@ The factorial of the integer `n`, written `n!`, is defined as:
 
 Calculate and print the factorial of a given integer.
 
-For example, if `n=30`, we calculate `30 × 29 × 28 × ... × 2 × 1` and get `265252859812191058636308480000000`.
+For example, if `n = 30`, we calculate `30 × 29 × 28 × ... × 2 × 1` and get `265252859812191058636308480000000`.
 
 ## Function Description
 
@@ -41,6 +41,11 @@ Print the factorial of `n`.
 ## Sample Output
 ```
 15511210043330985984000000
+```
+
+## Explanation
+```
+25! = 25 × 24 × 23 
 ```
 
 
