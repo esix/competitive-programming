@@ -10,4 +10,5 @@
 | magic-square-forming     | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)       | [main.cpp](magic-square-forming/main.cpp)   |
 | matrix-rotation-algo     | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)        | [main.ts](matrix-rotation-algo/main.ts)     |
 | non-divisible-subset     | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)         | [main.ts](non-divisible-subset/main.ts)     |
+| queens-attack-2          | Queen's Attack II [⬀](https://www.hackerrank.com/challenges/queens-attack-2)                 | [main.ts](queens-attack-2/main.ts)          |
 
