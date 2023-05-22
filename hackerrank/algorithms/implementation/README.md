@@ -9,4 +9,5 @@
 | grading                  | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                          | [main.ts](grading/main.ts)                  |
 | magic-square-forming     | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)       | [main.cpp](magic-square-forming/main.cpp)   |
 | matrix-rotation-algo     | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)        | [main.ts](matrix-rotation-algo/main.ts)     |
+| non-divisible-subset     | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)         | [main.ts](non-divisible-subset/main.ts)     |
 
