@@ -1061,13 +1061,15 @@ This repository contains my solutions to various competitive programming problem
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
+[Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
+[Encryption](hackerrank/algorithms/implementation/encryption), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
-[Queen's Attack II](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
+[Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
