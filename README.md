@@ -1071,6 +1071,8 @@ This repository contains my solutions to various competitive programming problem
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
+[The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
+[The Time in Words](hackerrank/algorithms/implementation/the-time-in-words), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
 [Compare the Triplets](hackerrank/algorithms/warmup/compare-the-triplets), 
