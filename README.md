@@ -1060,6 +1060,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
+[3D Surface Area](hackerrank/algorithms/implementation/3d-surface-area), 
+[Absolute Permutation](hackerrank/algorithms/implementation/absolute-permutation), 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 

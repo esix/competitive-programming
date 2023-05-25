@@ -3,6 +3,8 @@
 | ID                             | Problem statement                                                                                            | Solution                                                         |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 |                                | Implementation [⬀]https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation | [implementation](implementation/)                                |
+| 3d-surface-area                | 3D Surface Area [⬀](https://www.hackerrank.com/challenges/3d-surface-area)                                   | [main.ts](implementation/3d-surface-area/main.ts)                |
+| absolute-permutation           | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                         | [main.ts](implementation/absolute-permutation/main.ts)           |
 | apple-and-orange               | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                 | [main.ts](implementation/apple-and-orange/main.ts)               |
 | bigger-is-greater              | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                               | [main.ts](implementation/bigger-is-greater/main.ts)              |
 | climbing-the-leaderboard       | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                 | [main.ts](implementation/climbing-the-leaderboard/main.ts)       |
