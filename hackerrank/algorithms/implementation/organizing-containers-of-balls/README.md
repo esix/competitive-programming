@@ -13,13 +13,13 @@ David wants to perform some number of swap operations such that:
 
 David has `n = 2` containers and `2` different types of balls, both of which are numbered from `0` to `n - 1 = 1`. The distribution of ball types per container are shown in the following diagram.
 
-![](1485811368-9e78c98652-swapping-balls.png)
+![](swapping-balls.png)
 
 In a single operation, David can swap two balls located in different containers.
 
 The diagram below depicts a single swap operation:
 
-![](1485811849-e97b84e218-swapping-balls-ps-1.png)
+![](swapping-balls-ps-1.png)
 
 In this case, there is no way to have all green balls in one container and all red in the other using only swap operations. Return `Impossible`.
 
@@ -83,13 +83,13 @@ We perform the following `q = 2` queries:
 
 1. The diagram below depicts one possible way to satisfy David's requirements for the first query:
 
-![](1485813936-37f8a37dad-swapping-balls-sample-0-0.png)
+![](swapping-balls-sample-0-0.png)
 
 Thus, we print `Possible` on a new line.
 
 2. The diagram below depicts the matrix for the second query: 
 
-![](1485814141-d283776840-swapping-balls-sample-0-2.png)
+![](swapping-balls-sample-0-2.png)
 
 
 No matter how many times we swap balls of type `t₀` and `t₁` between the two containers, we'll never end up with one container only containing type `t₀` and the other container only containing type `t₁`. Thus, we print `Impossible` on a new line.
