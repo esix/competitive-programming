@@ -8,7 +8,7 @@ In the diagram below:
 - Assume the trees are located on a single point, where the apple tree is at point `a`, and the orange tree is at point `b`.
 - When a fruit falls from its tree, it lands `d` units of distance from its tree of origin along the `x`-axis. *A negative value of `d` means the fruit fell `d` units to the tree's left, and a positive value of `d` means it falls `d` units to the tree's right. *
 
-![](1474218925-f2a791d52c-Appleandorange2.png)
+![](Appleandorange2.png)
 
 Given the value of `d` for `m` apples and `n` oranges, determine how many apples and oranges will fall on Sam's house (i.e., in the inclusive range `[s, t]`)?
 
