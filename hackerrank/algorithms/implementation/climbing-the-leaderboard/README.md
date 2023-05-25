@@ -99,23 +99,23 @@ For `60%` of the maximum score:
 
 Alice starts playing with `7` players already on the leaderboard, which looks like this:
 
-![](1481263702-9b5e9abd56-climbingrank.png)
+![](climbingrank.png)
  
 After Alice finishes game `0`, her score is `5` and her ranking is `6`:
 
-![](1481263847-2443e11cea-climbingrank1.png)
+![](climbingrank1.png)
 
 After Alice finishes game `1`, her score is `25` and her ranking is `4`:
 
-![](1481264155-cb76495070-climbingrank3.png)
+![](climbingrank3.png)
 
 After Alice finishes game `2`, her score is `50` and her ranking is tied with Caroline at `2`:
 
-![](1481264229-a216b3a974-climbingrank4.png)
+![](climbingrank4.png)
 
 After Alice finishes game `3`, her score is `120` and her ranking is `1`:
 
-![](91481264323-30f93fa8de-climbingrank5.png)
+![](climbingrank5.png)
 
 
 ## Sample Input 2
