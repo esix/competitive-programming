@@ -6,11 +6,11 @@ A queen is standing on an `n × n` chessboard. The chess board's rows are number
 
 The queen is standing at position <code>(r<sub>q</sub>, c<sub>q</sub>)</code>. In a single move, she can attack any square in any of the eight directions (left, right, up, down, and the four diagonals). In the diagram below, the green circles denote all the cells the queen can attack from `(4, 4)`:
 
-![](1485426500-a4039ebb00-chess1.png)
+![](chess1.png)
 
 There are obstacles on the chessboard, each preventing the queen from attacking any square beyond it on that path. For example, an obstacle at location `(3, 5)` in the diagram above prevents the queen from attacking cells `(3, 5)`, `(2, 6)`, and `(1, 7)`:
 
-![](1485459132-3fdc1f1ca3-chess_4_.png)
+![](chess_4_.png)
 
 Given the queen's position and the locations of all the obstacles, find and print the number of squares the queen can attack from her position at <code>(r<sub>q</sub>, c<sub>q</sub>)</code>. In the board above, there are 24 such squares.
 
@@ -67,7 +67,7 @@ Explanation 0
 
 The queen is standing at position `(4, 4)` on a `4 × 4` chessboard with no obstacles:
 
-![](1485426553-3064e08638-chess2.png)
+![](chess2.png)
 
 ## Sample Input 1
 ```
@@ -87,7 +87,7 @@ The queen is standing at position `(4, 4)` on a `4 × 4` chessboard with no obst
 
 The queen is standing at position `(4, 3)` on a `5 × 5` chessboard with `k = 3` obstacles:
 
-![](1485426870-84a6a0ce97-chess3.png)
+![](chess3.png)
 
 The number of squares she can attack from that position is `10`.
 
