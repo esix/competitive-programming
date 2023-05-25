@@ -59,7 +59,7 @@ Each line `i` of the `n` subsequent lines contains a single integer, `grades[i]`
 
 ## Explanation 0
 
-![image](1484768684-54439977a1-curving2.png)
+![](curving2.png)
 
 1. Student `1` received a `73`, and the next multiple of `5` from `73` is `75`. Since `75 - 73 < 3`, the student's grade is rounded to `75`.
 2. Student `2` received a `67`, and the next multiple of `5` from `67` is `70`. Since `70 - 67 = 3`, the grade will not be modified and the student's final grade is `67`.
