@@ -5,6 +5,7 @@
 |--------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | 3d-surface-area                | 3D Surface Area [⬀](https://www.hackerrank.com/challenges/3d-surface-area)                               | [main.ts](3d-surface-area/main.ts)                |
 | absolute-permutation           | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                     | [main.ts](absolute-permutation/main.ts)           |
+| almost-sorted                  | Almost Sorted [⬀](https://www.hackerrank.com/challenges/almost-sorted)                                   | [main.ts](almost-sorted/main.ts)                  |
 | apple-and-orange               | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                             | [main.ts](apple-and-orange/main.ts)               |
 | bigger-is-greater              | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                           | [main.ts](bigger-is-greater/main.ts)              |
 | climbing-the-leaderboard       | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)             | [main.ts](climbing-the-leaderboard/main.ts)       |
