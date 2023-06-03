@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve my programming skills.
 
-## acmp.ru - Школа программиста [⬀](http://acmp.ru/)
+## acmp.ru - Школа программиста [⬀](https://acmp.ru/)
 
 [A+B](acmp/page-01/0001), 
 [Сумма](acmp/page-01/0002), 

@@ -1,1 +1,1 @@
-﻿# 2^N [⬀](http://acmp.ru/index.asp?main=task&id_task=40)
+﻿# 2^N [⬀](https://acmp.ru/index.asp?main=task&id_task=40)

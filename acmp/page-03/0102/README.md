@@ -1,1 +1,1 @@
-# Треугольник [⬀](http://acmp.ru/index.asp?main=task&id_task=102)
+# Треугольник [⬀](https://acmp.ru/index.asp?main=task&id_task=102)

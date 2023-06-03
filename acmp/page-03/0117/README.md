@@ -1,1 +1,1 @@
-# Опасная зона [⬀](http://acmp.ru/index.asp?main=task&id_task=117)
+# Опасная зона [⬀](https://acmp.ru/index.asp?main=task&id_task=117)

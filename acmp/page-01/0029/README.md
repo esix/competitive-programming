@@ -1,1 +1,1 @@
-﻿# Компьютерная игра [⬀](http://acmp.ru/index.asp?main=task&id_task=29)
+﻿# Компьютерная игра [⬀](https://acmp.ru/index.asp?main=task&id_task=29)

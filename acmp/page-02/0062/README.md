@@ -1,1 +1,1 @@
-# Клетки [⬀](http://acmp.ru/index.asp?main=task&id_task=62)
+# Клетки [⬀](https://acmp.ru/index.asp?main=task&id_task=62)

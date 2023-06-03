@@ -1,1 +1,1 @@
-﻿# Нули [⬀](http://acmp.ru/index.asp?main=task&id_task=43)
+﻿# Нули [⬀](https://acmp.ru/index.asp?main=task&id_task=43)

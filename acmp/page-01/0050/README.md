@@ -1,1 +1,1 @@
-# Строки [⬀](http://acmp.ru/index.asp?main=task&id_task=50)
+# Строки [⬀](https://acmp.ru/index.asp?main=task&id_task=50)

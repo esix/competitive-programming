@@ -1,1 +1,1 @@
-# Журавлики [⬀](http://acmp.ru/index.asp?main=task&id_task=92)
+# Журавлики [⬀](https://acmp.ru/index.asp?main=task&id_task=92)

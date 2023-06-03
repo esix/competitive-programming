@@ -1,1 +1,1 @@
-# Простой ряд [⬀](http://acmp.ru/index.asp?main=task&id_task=64)
+# Простой ряд [⬀](https://acmp.ru/index.asp?main=task&id_task=64)

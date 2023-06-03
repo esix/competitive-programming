@@ -1,1 +1,1 @@
-# A*B [⬀](http://acmp.ru/index.asp?main=task&id_task=144)
+# A*B [⬀](https://acmp.ru/index.asp?main=task&id_task=144)

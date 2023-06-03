@@ -1,1 +1,1 @@
-# Числа Фибоначчи [⬀](http://acmp.ru/index.asp?main=task&id_task=147)
+# Числа Фибоначчи [⬀](https://acmp.ru/index.asp?main=task&id_task=147)

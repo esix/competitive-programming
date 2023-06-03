@@ -1,1 +1,1 @@
-# Лесенка [⬀](http://acmp.ru/index.asp?main=task&id_task=16)
+# Лесенка [⬀](https://acmp.ru/index.asp?main=task&id_task=16)

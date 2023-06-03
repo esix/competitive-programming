@@ -1,1 +1,1 @@
-# Судоку [⬀](http://acmp.ru/index.asp?main=task&id_task=88)
+# Судоку [⬀](https://acmp.ru/index.asp?main=task&id_task=88)

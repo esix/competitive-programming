@@ -1,1 +1,1 @@
-# Нолики [⬀](http://acmp.ru/index.asp?main=task&id_task=77)
+# Нолики [⬀](https://acmp.ru/index.asp?main=task&id_task=77)

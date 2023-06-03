@@ -1,1 +1,1 @@
-# Уравнение [⬀](http://acmp.ru/index.asp?main=task&id_task=10)
+# Уравнение [⬀](https://acmp.ru/index.asp?main=task&id_task=10)

@@ -1,4 +1,4 @@
-﻿# A+B [⬀](http://acmp.ru/index.asp?main=task&id_task=1)
+﻿# A+B [⬀](https://acmp.ru/index.asp?main=task&id_task=1)
 
 Требуется сложить два целых числа А и В.
 

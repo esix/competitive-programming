@@ -1,1 +1,1 @@
-# Быстрый поезд [⬀](http://acmp.ru/index.asp?main=task&id_task=89)
+# Быстрый поезд [⬀](https://acmp.ru/index.asp?main=task&id_task=89)

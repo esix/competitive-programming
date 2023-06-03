@@ -1,1 +1,1 @@
-﻿# Больше-меньше [⬀](http://acmp.ru/index.asp?main=task&id_task=25)
+﻿# Больше-меньше [⬀](https://acmp.ru/index.asp?main=task&id_task=25)

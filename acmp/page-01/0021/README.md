@@ -1,1 +1,1 @@
-# Зарплата [⬀](http://acmp.ru/index.asp?main=task&id_task=21)
+# Зарплата [⬀](https://acmp.ru/index.asp?main=task&id_task=21)

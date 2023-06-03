@@ -1,1 +1,1 @@
-# Светофорчики [⬀](http://acmp.ru/index.asp?main=task&id_task=124)
+# Светофорчики [⬀](https://acmp.ru/index.asp?main=task&id_task=124)

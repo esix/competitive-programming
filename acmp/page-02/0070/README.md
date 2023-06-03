@@ -1,1 +1,1 @@
-# Степень строки [⬀](http://acmp.ru/index.asp?main=task&id_task=70)
+# Степень строки [⬀](https://acmp.ru/index.asp?main=task&id_task=70)

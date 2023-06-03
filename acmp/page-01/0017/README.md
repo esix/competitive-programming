@@ -1,1 +1,1 @@
-# Поле чудес [⬀](http://acmp.ru/index.asp?main=task&id_task=17)
+# Поле чудес [⬀](https://acmp.ru/index.asp?main=task&id_task=17)

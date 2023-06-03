@@ -1,1 +1,1 @@
-# Компьютерная сеть [⬀](http://acmp.ru/index.asp?main=task&id_task=57)
+# Компьютерная сеть [⬀](https://acmp.ru/index.asp?main=task&id_task=57)

@@ -1,1 +1,1 @@
-﻿# Произведение цифр [⬀](http://acmp.ru/index.asp?main=task&id_task=45)
+﻿# Произведение цифр [⬀](https://acmp.ru/index.asp?main=task&id_task=45)

@@ -1,1 +1,1 @@
-# Восстановление скобок [⬀](http://acmp.ru/index.asp?main=task&id_task=123)
+# Восстановление скобок [⬀](https://acmp.ru/index.asp?main=task&id_task=123)

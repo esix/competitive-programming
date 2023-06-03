@@ -1,1 +1,1 @@
-# A div B [⬀](http://acmp.ru/index.asp?main=task&id_task=145)
+# A div B [⬀](https://acmp.ru/index.asp?main=task&id_task=145)

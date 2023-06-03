@@ -1,1 +1,1 @@
-# НОД [⬀](http://acmp.ru/index.asp?main=task&id_task=148)
+# НОД [⬀](https://acmp.ru/index.asp?main=task&id_task=148)

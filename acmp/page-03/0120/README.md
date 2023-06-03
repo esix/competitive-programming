@@ -1,1 +1,1 @@
-# Минимальный путь в таблице [⬀](http://acmp.ru/index.asp?main=task&id_task=120)
+# Минимальный путь в таблице [⬀](https://acmp.ru/index.asp?main=task&id_task=120)

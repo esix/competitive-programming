@@ -1,1 +1,1 @@
-# Максимальная подпоследовательность [⬀](http://acmp.ru/index.asp?main=task&id_task=122)
+# Максимальная подпоследовательность [⬀](https://acmp.ru/index.asp?main=task&id_task=122)

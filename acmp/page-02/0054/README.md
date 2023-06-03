@@ -1,1 +1,1 @@
-# Теория игр [⬀](http://acmp.ru/index.asp?main=task&id_task=54)
+# Теория игр [⬀](https://acmp.ru/index.asp?main=task&id_task=54)
