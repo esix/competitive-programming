@@ -1062,6 +1062,7 @@ This repository contains my solutions to various competitive programming problem
 
 [3D Surface Area](hackerrank/algorithms/implementation/3d-surface-area), 
 [Absolute Permutation](hackerrank/algorithms/implementation/absolute-permutation), 
+[Almost Sorted](hackerrank/algorithms/implementation/almost-sorted), 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 

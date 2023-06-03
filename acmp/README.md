@@ -12,7 +12,7 @@
 | 0003 | Пятью пять - двадцать пять! [⬀](http://acmp.ru/index.asp?main=task&id_task=3)            | [main.pas](page-01/0003/main.pas)                                    |
 | 0004 | Игра [⬀](http://acmp.ru/index.asp?main=task&id_task=4)                                   | [main.pas](page-01/0004/main.pas)                                    |
 | 0005 | Статистика [⬀](http://acmp.ru/index.asp?main=task&id_task=5)                             | [main.pas](page-01/0005/main.pas)                                    |
-| 0006 | Шахматы [⬀](http://acmp.ru/index.asp?main=task&id_task=6)                                | [main.pas](page-01/0006/main.pas)                                    |
+| 0006 | Шахматы [⬀](https://acmp.ru/index.asp?main=task&id_task=6)                               | [main.pas](page-01/0006/main.pas)                                    |
 | 0007 | Золото племени АББА [⬀](http://acmp.ru/index.asp?main=task&id_task=7)                    | [main.pas](page-01/0007/main.pas)                                    |
 | 0008 | Арифметика [⬀](http://acmp.ru/index.asp?main=task&id_task=8)                             | [main.pas](page-01/0008/main.pas)                                    |
 | 0009 | Домашнее задание [⬀](http://acmp.ru/index.asp?main=task&id_task=9)                       | [main.pas](page-01/0009/main.pas)                                    |
