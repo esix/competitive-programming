@@ -170,7 +170,10 @@ if (root.title === 'Competitive programming') {
 
 } else {
   let solutions = treeToArray(root);
-  const makeProblemLink = (s) => s.taskUrl ? `${s.title} [⬀](${s.taskUrl})` : s.title;
+  const makeProblemLink = (s) => s.taskUrl ? 
+                s.taskId ? `${s.title} [⬀](${s.taskUrl})`
+                         : `**${s.title}** [⬀](${s.taskUrl})`
+                 : s.title;
 
   const makeSolutionLink = (s) => s.files.map(f => `[${f.replace(/^.*\//,'') || f.replace(/^.*\/^$/,'').replace(/\/$/, '')}](${f})`).join(', ');
 
