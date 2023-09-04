@@ -7,6 +7,7 @@
 | absolute-permutation           | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                               | [main.ts](implementation/absolute-permutation/main.ts)           |
 | almost-sorted                  | Almost Sorted [⬀](https://www.hackerrank.com/challenges/almost-sorted)                                             | [main.ts](implementation/almost-sorted/main.ts)                  |
 | apple-and-orange               | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                       | [main.ts](implementation/apple-and-orange/main.ts)               |
+| between-two-sets               | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                       | [main.ts](implementation/between-two-sets/main.ts)               |
 | bigger-is-greater              | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)              |
 | climbing-the-leaderboard       | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                       | [main.ts](implementation/climbing-the-leaderboard/main.ts)       |
 | encryption                     | Encryption [⬀](https://www.hackerrank.com/challenges/encryption)                                                   | [main.ts](implementation/encryption/main.ts)                     |
