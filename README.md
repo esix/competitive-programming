@@ -1072,6 +1072,7 @@ This repository contains my solutions to various competitive programming problem
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
 [Number Line Jumps](hackerrank/algorithms/implementation/kangaroo), 
+[Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 

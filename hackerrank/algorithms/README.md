@@ -15,6 +15,7 @@
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                             | [main.ts](implementation/extra-long-factorials/main.ts)           |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                                | [main.ts](implementation/grading/main.ts)                         |
 | kangaroo                        | Number Line Jumps [⬀](https://www.hackerrank.com/challenges/kangaroo)                                              | [main.ts](implementation/kangaroo/main.ts)                        |
+| larrys-array                    | Larry's Array [⬀](https://www.hackerrank.com/challenges/larrys-array)                                              | [main.ts](implementation/larrys-array/main.ts)                    |
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                             | [main.cpp](implementation/magic-square-forming/main.cpp)          |
 | matrix-rotation-algo            | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)                              | [main.ts](implementation/matrix-rotation-algo/main.ts)            |
 | non-divisible-subset            | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)                               | [main.ts](implementation/non-divisible-subset/main.ts)            |
