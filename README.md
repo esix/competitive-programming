@@ -1068,6 +1068,7 @@ This repository contains my solutions to various competitive programming problem
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
+[Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 
 [Encryption](hackerrank/algorithms/implementation/encryption), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 

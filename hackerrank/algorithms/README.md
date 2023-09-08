@@ -11,6 +11,7 @@
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)               |
 | breaking-best-and-worst-records | Breaking the Records [⬀](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)                    | [main.ts](implementation/breaking-best-and-worst-records/main.ts) |
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                       | [main.ts](implementation/climbing-the-leaderboard/main.ts)        |
+| divisible-sum-pairs             | Divisible Sum Pairs [⬀](https://www.hackerrank.com/challenges/divisible-sum-pairs)                                 | [main.ts](implementation/divisible-sum-pairs/main.ts)             |
 | encryption                      | Encryption [⬀](https://www.hackerrank.com/challenges/encryption)                                                   | [main.ts](implementation/encryption/main.ts)                      |
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                             | [main.ts](implementation/extra-long-factorials/main.ts)           |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                                | [main.ts](implementation/grading/main.ts)                         |
