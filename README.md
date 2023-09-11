@@ -1066,6 +1066,7 @@ This repository contains my solutions to various competitive programming problem
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Between Two Sets](hackerrank/algorithms/implementation/between-two-sets), 
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
+[Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
 [Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 

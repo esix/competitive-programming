@@ -9,6 +9,7 @@
 | apple-and-orange                | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                       | [main.ts](implementation/apple-and-orange/main.ts)                |
 | between-two-sets                | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                       | [main.ts](implementation/between-two-sets/main.ts)                |
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)               |
+| bon-appetit                     | Bill Division [⬀](https://www.hackerrank.com/challenges/bon-appetit)                                               | [main.ts](implementation/bon-appetit/main.ts)                     |
 | breaking-best-and-worst-records | Breaking the Records [⬀](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)                    | [main.ts](implementation/breaking-best-and-worst-records/main.ts) |
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                       | [main.ts](implementation/climbing-the-leaderboard/main.ts)        |
 | divisible-sum-pairs             | Divisible Sum Pairs [⬀](https://www.hackerrank.com/challenges/divisible-sum-pairs)                                 | [main.ts](implementation/divisible-sum-pairs/main.ts)             |
