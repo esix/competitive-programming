@@ -1077,6 +1077,7 @@ This repository contains my solutions to various competitive programming problem
 [Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
+[Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
