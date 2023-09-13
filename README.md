@@ -1069,6 +1069,7 @@ This repository contains my solutions to various competitive programming problem
 [Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
+[Day of the Programmer](hackerrank/algorithms/implementation/day-of-the-programmer), 
 [Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 
 [Encryption](hackerrank/algorithms/implementation/encryption), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
