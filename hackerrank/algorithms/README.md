@@ -25,6 +25,7 @@
 | non-divisible-subset            | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)                               | [main.ts](implementation/non-divisible-subset/main.ts)            |
 | organizing-containers-of-balls  | Organizing Containers of Balls [⬀](https://www.hackerrank.com/challenges/organizing-containers-of-balls)           | [main.ts](implementation/organizing-containers-of-balls/main.ts)  |
 | queens-attack-2                 | Queen's Attack II [⬀](https://www.hackerrank.com/challenges/queens-attack-2)                                       | [main.ts](implementation/queens-attack-2/main.ts)                 |
+| sock-merchant                   | Sales by Match [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                            | [main.ts](implementation/sock-merchant/main.ts)                   |
 | the-birthday-bar                | Subarray Division [⬀](https://www.hackerrank.com/challenges/the-birthday-bar)                                      | [main.ts](implementation/the-birthday-bar/main.ts)                |
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                                         | [main.ts](implementation/the-grid-search/main.ts)                 |
 | the-time-in-words               | The Time in Words [⬀](https://www.hackerrank.com/challenges/the-time-in-words)                                     | [main.ts](implementation/the-time-in-words/main.ts)               |

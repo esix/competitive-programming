@@ -1082,6 +1082,7 @@ This repository contains my solutions to various competitive programming problem
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
+[Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
 [The Time in Words](hackerrank/algorithms/implementation/the-time-in-words), 
