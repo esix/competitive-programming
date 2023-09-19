@@ -1073,6 +1073,7 @@ This repository contains my solutions to various competitive programming problem
 [Day of the Programmer](hackerrank/algorithms/implementation/day-of-the-programmer), 
 [Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 
 [Drawing Book](hackerrank/algorithms/implementation/drawing-book), 
+[Electronics Shop](hackerrank/algorithms/implementation/electronics-shop), 
 [Encryption](hackerrank/algorithms/implementation/encryption), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 

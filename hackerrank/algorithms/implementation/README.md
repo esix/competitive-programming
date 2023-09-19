@@ -16,6 +16,7 @@
 | day-of-the-programmer           | Day of the Programmer [⬀](https://www.hackerrank.com/challenges/day-of-the-programmer)                   | [main.ts](day-of-the-programmer/main.ts)           |
 | divisible-sum-pairs             | Divisible Sum Pairs [⬀](https://www.hackerrank.com/challenges/divisible-sum-pairs)                       | [main.ts](divisible-sum-pairs/main.ts)             |
 | drawing-book                    | Drawing Book [⬀](https://www.hackerrank.com/challenges/drawing-book)                                     | [main.ts](drawing-book/main.ts)                    |
+| electronics-shop                | Electronics Shop [⬀](https://www.hackerrank.com/challenges/electronics-shop)                             | [main.js](electronics-shop/main.js)                |
 | encryption                      | Encryption [⬀](https://www.hackerrank.com/challenges/encryption)                                         | [main.ts](encryption/main.ts)                      |
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                   | [main.ts](extra-long-factorials/main.ts)           |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                      | [main.ts](grading/main.ts)                         |
