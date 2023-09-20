@@ -11,6 +11,7 @@
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)               |
 | bon-appetit                     | Bill Division [⬀](https://www.hackerrank.com/challenges/bon-appetit)                                               | [main.ts](implementation/bon-appetit/main.ts)                     |
 | breaking-best-and-worst-records | Breaking the Records [⬀](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)                    | [main.ts](implementation/breaking-best-and-worst-records/main.ts) |
+| cats-and-a-mouse                | Cats and a Mouse [⬀](https://www.hackerrank.com/challenges/cats-and-a-mouse)                                       | [main.js](implementation/cats-and-a-mouse/main.js)                |
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                       | [main.ts](implementation/climbing-the-leaderboard/main.ts)        |
 | counting-valleys                | Counting Valleys [⬀](https://www.hackerrank.com/challenges/counting-valleys)                                       | [main.ts](implementation/counting-valleys/main.ts)                |
 | day-of-the-programmer           | Day of the Programmer [⬀](https://www.hackerrank.com/challenges/day-of-the-programmer)                             | [main.ts](implementation/day-of-the-programmer/main.ts)           |

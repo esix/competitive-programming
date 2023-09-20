@@ -1068,6 +1068,7 @@ This repository contains my solutions to various competitive programming problem
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
+[Cats and a Mouse](hackerrank/algorithms/implementation/cats-and-a-mouse), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
 [Counting Valleys](hackerrank/algorithms/implementation/counting-valleys), 
 [Day of the Programmer](hackerrank/algorithms/implementation/day-of-the-programmer), 
