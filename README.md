@@ -1085,6 +1085,7 @@ This repository contains my solutions to various competitive programming problem
 [Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
+[Picking Numbers](hackerrank/algorithms/implementation/picking-numbers), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
