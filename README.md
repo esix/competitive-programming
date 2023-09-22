@@ -1058,6 +1058,10 @@ This repository contains my solutions to various competitive programming problem
 [Number of hanging vertices 1](e-olymp/~contest-9960/S), 
 [Number of hanging vertices 2](e-olymp/~contest-9960/T)
 
+## Exercism [⬀](https://exercism.org/)
+
+[Hello World](exercism/javascript/hello-world)
+
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
 [3D Surface Area](hackerrank/algorithms/implementation/3d-surface-area), 
