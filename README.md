@@ -1090,6 +1090,7 @@ This repository contains my solutions to various competitive programming problem
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
+[The Hurdle Race](hackerrank/algorithms/implementation/the-hurdle-race), 
 [The Time in Words](hackerrank/algorithms/implementation/the-time-in-words), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
