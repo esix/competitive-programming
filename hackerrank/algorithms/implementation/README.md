@@ -15,6 +15,7 @@
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)             | [main.ts](climbing-the-leaderboard/main.ts)        |
 | counting-valleys                | Counting Valleys [⬀](https://www.hackerrank.com/challenges/counting-valleys)                             | [main.ts](counting-valleys/main.ts)                |
 | day-of-the-programmer           | Day of the Programmer [⬀](https://www.hackerrank.com/challenges/day-of-the-programmer)                   | [main.ts](day-of-the-programmer/main.ts)           |
+| designer-pdf-viewer             | Designer PDF Viewer [⬀](https://www.hackerrank.com/challenges/designer-pdf-viewer)                       | [main.ts](designer-pdf-viewer/main.ts)             |
 | divisible-sum-pairs             | Divisible Sum Pairs [⬀](https://www.hackerrank.com/challenges/divisible-sum-pairs)                       | [main.ts](divisible-sum-pairs/main.ts)             |
 | drawing-book                    | Drawing Book [⬀](https://www.hackerrank.com/challenges/drawing-book)                                     | [main.ts](drawing-book/main.ts)                    |
 | electronics-shop                | Electronics Shop [⬀](https://www.hackerrank.com/challenges/electronics-shop)                             | [main.js](electronics-shop/main.js)                |

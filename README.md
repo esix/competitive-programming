@@ -1076,6 +1076,7 @@ This repository contains my solutions to various competitive programming problem
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
 [Counting Valleys](hackerrank/algorithms/implementation/counting-valleys), 
 [Day of the Programmer](hackerrank/algorithms/implementation/day-of-the-programmer), 
+[Designer PDF Viewer](hackerrank/algorithms/implementation/designer-pdf-viewer), 
 [Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 
 [Drawing Book](hackerrank/algorithms/implementation/drawing-book), 
 [Electronics Shop](hackerrank/algorithms/implementation/electronics-shop), 
