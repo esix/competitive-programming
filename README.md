@@ -1060,7 +1060,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Exercism [⬀](https://exercism.org/)
 
-[Hello World](exercism/javascript/hello-world)
+[Hello World](exercism/javascript/hello-world), 
+[Lucian's Luscious Lasagna](exercism/javascript/lasagna)
 
 ## HackerRank [⬀](https://www.hackerrank.com/)
 
