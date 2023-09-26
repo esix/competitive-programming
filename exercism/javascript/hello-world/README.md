@@ -1,5 +1,4 @@
-# Hello World
- [⬀](https://exercism.org/tracks/javascript/exercises/hello-world)
+# Hello World [⬀](https://exercism.org/tracks/javascript/exercises/hello-world)
 
 ## Instructions
 
