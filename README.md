@@ -1098,6 +1098,7 @@ This repository contains my solutions to various competitive programming problem
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
 [The Hurdle Race](hackerrank/algorithms/implementation/the-hurdle-race), 
 [The Time in Words](hackerrank/algorithms/implementation/the-time-in-words), 
+[Utopian Tree](hackerrank/algorithms/implementation/utopian-tree), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
 [Compare the Triplets](hackerrank/algorithms/warmup/compare-the-triplets), 

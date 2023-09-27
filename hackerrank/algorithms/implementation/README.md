@@ -36,4 +36,5 @@
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                               | [main.ts](the-grid-search/main.ts)                 |
 | the-hurdle-race                 | The Hurdle Race [⬀](https://www.hackerrank.com/challenges/the-hurdle-race)                               | [main.ts](the-hurdle-race/main.ts)                 |
 | the-time-in-words               | The Time in Words [⬀](https://www.hackerrank.com/challenges/the-time-in-words)                           | [main.ts](the-time-in-words/main.ts)               |
+| utopian-tree                    | Utopian Tree [⬀](https://www.hackerrank.com/challenges/utopian-tree)                                     | [main.ts](utopian-tree/main.ts)                    |
 

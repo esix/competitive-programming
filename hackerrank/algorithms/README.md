@@ -36,6 +36,7 @@
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                                         | [main.ts](implementation/the-grid-search/main.ts)                 |
 | the-hurdle-race                 | The Hurdle Race [⬀](https://www.hackerrank.com/challenges/the-hurdle-race)                                         | [main.ts](implementation/the-hurdle-race/main.ts)                 |
 | the-time-in-words               | The Time in Words [⬀](https://www.hackerrank.com/challenges/the-time-in-words)                                     | [main.ts](implementation/the-time-in-words/main.ts)               |
+| utopian-tree                    | Utopian Tree [⬀](https://www.hackerrank.com/challenges/utopian-tree)                                               | [main.ts](implementation/utopian-tree/main.ts)                    |
 |                                 | **Warmup** [⬀](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)                 | [warmup](warmup/)                                                 |
 | a-very-big-sum                  | A very big sum [⬀](https://www.hackerrank.com/challenges/a-very-big-sum)                                           | [main.py](warmup/a-very-big-sum/main.py)                          |
 | birthday-cake-candles           | Birthday Cake Candles [⬀](https://www.hackerrank.com/challenges/birthday-cake-candles)                             | [main.ts](warmup/birthday-cake-candles/main.ts)                   |
