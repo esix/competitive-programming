@@ -6,6 +6,7 @@
 | 3d-surface-area                 | 3D Surface Area [⬀](https://www.hackerrank.com/challenges/3d-surface-area)                                         | [main.ts](implementation/3d-surface-area/main.ts)                 |
 | absolute-permutation            | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                               | [main.ts](implementation/absolute-permutation/main.ts)            |
 | almost-sorted                   | Almost Sorted [⬀](https://www.hackerrank.com/challenges/almost-sorted)                                             | [main.ts](implementation/almost-sorted/main.ts)                   |
+| angry-professor                 | Angry Professor [⬀](https://www.hackerrank.com/challenges/angry-professor)                                         | [main.ts](implementation/angry-professor/main.ts)                 |
 | apple-and-orange                | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                       | [main.ts](implementation/apple-and-orange/main.ts)                |
 | between-two-sets                | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                       | [main.ts](implementation/between-two-sets/main.ts)                |
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)               |
