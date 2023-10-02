@@ -34,6 +34,7 @@
 | picking-numbers                 | Picking Numbers [⬀](https://www.hackerrank.com/challenges/picking-numbers)                                         | [main.js](implementation/picking-numbers/main.js)                 |
 | queens-attack-2                 | Queen's Attack II [⬀](https://www.hackerrank.com/challenges/queens-attack-2)                                       | [main.ts](implementation/queens-attack-2/main.ts)                 |
 | sock-merchant                   | Sales by Match [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                            | [main.ts](implementation/sock-merchant/main.ts)                   |
+| strange-advertising             | Viral Advertising [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                         | [main.ts](implementation/strange-advertising/main.ts)             |
 | the-birthday-bar                | Subarray Division [⬀](https://www.hackerrank.com/challenges/the-birthday-bar)                                      | [main.ts](implementation/the-birthday-bar/main.ts)                |
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                                         | [main.ts](implementation/the-grid-search/main.ts)                 |
 | the-hurdle-race                 | The Hurdle Race [⬀](https://www.hackerrank.com/challenges/the-hurdle-race)                                         | [main.ts](implementation/the-hurdle-race/main.ts)                 |

@@ -1096,6 +1096,7 @@ This repository contains my solutions to various competitive programming problem
 [Picking Numbers](hackerrank/algorithms/implementation/picking-numbers), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
+[Viral Advertising](hackerrank/algorithms/implementation/strange-advertising), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
 [The Hurdle Race](hackerrank/algorithms/implementation/the-hurdle-race), 
