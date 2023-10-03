@@ -1095,6 +1095,7 @@ This repository contains my solutions to various competitive programming problem
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Picking Numbers](hackerrank/algorithms/implementation/picking-numbers), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
+[Save the Prisoner!](hackerrank/algorithms/implementation/save-the-prisoner), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Viral Advertising](hackerrank/algorithms/implementation/strange-advertising), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
