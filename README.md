@@ -1073,6 +1073,7 @@ This repository contains my solutions to various competitive programming problem
 [Beautiful Days at the Movies](hackerrank/algorithms/implementation/beautiful-days-at-the-movies), 
 [Between Two Sets](hackerrank/algorithms/implementation/between-two-sets), 
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
+[The Bomberman Game](hackerrank/algorithms/implementation/bomber-man), 
 [Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Cats and a Mouse](hackerrank/algorithms/implementation/cats-and-a-mouse), 

@@ -11,6 +11,7 @@
 | beautiful-days-at-the-movies    | Beautiful Days at the Movies [⬀](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)               | [main.ts](implementation/beautiful-days-at-the-movies/main.ts)    |
 | between-two-sets                | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                       | [main.ts](implementation/between-two-sets/main.ts)                |
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                                     | [main.ts](implementation/bigger-is-greater/main.ts)               |
+| bomber-man                      | The Bomberman Game [⬀](https://www.hackerrank.com/challenges/bomber-man)                                           | [main.js](implementation/bomber-man/main.js)                      |
 | bon-appetit                     | Bill Division [⬀](https://www.hackerrank.com/challenges/bon-appetit)                                               | [main.ts](implementation/bon-appetit/main.ts)                     |
 | breaking-best-and-worst-records | Breaking the Records [⬀](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)                    | [main.ts](implementation/breaking-best-and-worst-records/main.ts) |
 | cats-and-a-mouse                | Cats and a Mouse [⬀](https://www.hackerrank.com/challenges/cats-and-a-mouse)                                       | [main.js](implementation/cats-and-a-mouse/main.js)                |
