@@ -33,6 +33,7 @@
 | migratory-birds                 | Migratory Birds [⬀](https://www.hackerrank.com/challenges/migratory-birds)                                         | [main.ts](implementation/migratory-birds/main.ts)                 |
 | non-divisible-subset            | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)                               | [main.ts](implementation/non-divisible-subset/main.ts)            |
 | organizing-containers-of-balls  | Organizing Containers of Balls [⬀](https://www.hackerrank.com/challenges/organizing-containers-of-balls)           | [main.ts](implementation/organizing-containers-of-balls/main.ts)  |
+| permutation-equation            | Sequence Equation [⬀](https://www.hackerrank.com/challenges/permutation-equation)                                  | [main.js](implementation/permutation-equation/main.js)            |
 | picking-numbers                 | Picking Numbers [⬀](https://www.hackerrank.com/challenges/picking-numbers)                                         | [main.js](implementation/picking-numbers/main.js)                 |
 | queens-attack-2                 | Queen's Attack II [⬀](https://www.hackerrank.com/challenges/queens-attack-2)                                       | [main.ts](implementation/queens-attack-2/main.ts)                 |
 | save-the-prisoner               | Save the Prisoner! [⬀](https://www.hackerrank.com/challenges/save-the-prisoner)                                    | [main.ts](implementation/save-the-prisoner/main.ts)               |
