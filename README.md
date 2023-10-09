@@ -1088,6 +1088,7 @@ This repository contains my solutions to various competitive programming problem
 [Encryption](hackerrank/algorithms/implementation/encryption), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
+[Jumping on the Clouds: Revisited](hackerrank/algorithms/implementation/jumping-on-the-clouds-revisited), 
 [Number Line Jumps](hackerrank/algorithms/implementation/kangaroo), 
 [Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 

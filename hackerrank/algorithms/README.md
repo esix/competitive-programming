@@ -26,6 +26,7 @@
 | encryption                      | Encryption [⬀](https://www.hackerrank.com/challenges/encryption)                                                   | [main.ts](implementation/encryption/main.ts)                      |
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                             | [main.ts](implementation/extra-long-factorials/main.ts)           |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                                | [main.ts](implementation/grading/main.ts)                         |
+| jumping-on-the-clouds-revisited | Jumping on the Clouds: Revisited [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)        | [main.js](implementation/jumping-on-the-clouds-revisited/main.js) |
 | kangaroo                        | Number Line Jumps [⬀](https://www.hackerrank.com/challenges/kangaroo)                                              | [main.ts](implementation/kangaroo/main.ts)                        |
 | larrys-array                    | Larry's Array [⬀](https://www.hackerrank.com/challenges/larrys-array)                                              | [main.ts](implementation/larrys-array/main.ts)                    |
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                             | [main.cpp](implementation/magic-square-forming/main.cpp)          |
