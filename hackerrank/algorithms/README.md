@@ -7,6 +7,7 @@
 | absolute-permutation            | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                               | [main.ts](implementation/absolute-permutation/main.ts)            |
 | almost-sorted                   | Almost Sorted [⬀](https://www.hackerrank.com/challenges/almost-sorted)                                             | [main.ts](implementation/almost-sorted/main.ts)                   |
 | angry-professor                 | Angry Professor [⬀](https://www.hackerrank.com/challenges/angry-professor)                                         | [main.ts](implementation/angry-professor/main.ts)                 |
+| append-and-delete               | Append and Delete [⬀](https://www.hackerrank.com/challenges/append-and-delete)                                     | [main.js](implementation/append-and-delete/main.js)               |
 | apple-and-orange                | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                       | [main.ts](implementation/apple-and-orange/main.ts)                |
 | beautiful-days-at-the-movies    | Beautiful Days at the Movies [⬀](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)               | [main.ts](implementation/beautiful-days-at-the-movies/main.ts)    |
 | between-two-sets                | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                       | [main.ts](implementation/between-two-sets/main.ts)                |

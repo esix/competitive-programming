@@ -1069,6 +1069,7 @@ This repository contains my solutions to various competitive programming problem
 [Absolute Permutation](hackerrank/algorithms/implementation/absolute-permutation), 
 [Almost Sorted](hackerrank/algorithms/implementation/almost-sorted), 
 [Angry Professor](hackerrank/algorithms/implementation/angry-professor), 
+[Append and Delete](hackerrank/algorithms/implementation/append-and-delete), 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Beautiful Days at the Movies](hackerrank/algorithms/implementation/beautiful-days-at-the-movies), 
 [Between Two Sets](hackerrank/algorithms/implementation/between-two-sets), 
