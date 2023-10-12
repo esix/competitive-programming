@@ -40,6 +40,7 @@
 | picking-numbers                 | Picking Numbers [⬀](https://www.hackerrank.com/challenges/picking-numbers)                                  | [main.js](picking-numbers/main.js)                 |
 | queens-attack-2                 | Queen's Attack II [⬀](https://www.hackerrank.com/challenges/queens-attack-2)                                | [main.ts](queens-attack-2/main.ts)                 |
 | save-the-prisoner               | Save the Prisoner! [⬀](https://www.hackerrank.com/challenges/save-the-prisoner)                             | [main.ts](save-the-prisoner/main.ts)               |
+| sherlock-and-squares            | Sherlock and Squares [⬀](https://www.hackerrank.com/challenges/sherlock-and-squares)                        | [main.js](sherlock-and-squares/main.js)            |
 | sock-merchant                   | Sales by Match [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                     | [main.ts](sock-merchant/main.ts)                   |
 | strange-advertising             | Viral Advertising [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                  | [main.ts](strange-advertising/main.ts)             |
 | the-birthday-bar                | Subarray Division [⬀](https://www.hackerrank.com/challenges/the-birthday-bar)                               | [main.ts](the-birthday-bar/main.ts)                |
