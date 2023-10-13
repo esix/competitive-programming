@@ -31,6 +31,7 @@
 | jumping-on-the-clouds-revisited | Jumping on the Clouds: Revisited [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)        | [main.js](implementation/jumping-on-the-clouds-revisited/main.js) |
 | kangaroo                        | Number Line Jumps [⬀](https://www.hackerrank.com/challenges/kangaroo)                                              | [main.ts](implementation/kangaroo/main.ts)                        |
 | larrys-array                    | Larry's Array [⬀](https://www.hackerrank.com/challenges/larrys-array)                                              | [main.ts](implementation/larrys-array/main.ts)                    |
+| library-fine                    | Library Fine [⬀](https://www.hackerrank.com/challenges/library-fine)                                               | [main.js](implementation/library-fine/main.js)                    |
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                             | [main.cpp](implementation/magic-square-forming/main.cpp)          |
 | matrix-rotation-algo            | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)                              | [main.ts](implementation/matrix-rotation-algo/main.ts)            |
 | migratory-birds                 | Migratory Birds [⬀](https://www.hackerrank.com/challenges/migratory-birds)                                         | [main.ts](implementation/migratory-birds/main.ts)                 |

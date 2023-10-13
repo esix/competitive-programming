@@ -1093,6 +1093,7 @@ This repository contains my solutions to various competitive programming problem
 [Jumping on the Clouds: Revisited](hackerrank/algorithms/implementation/jumping-on-the-clouds-revisited), 
 [Number Line Jumps](hackerrank/algorithms/implementation/kangaroo), 
 [Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
+[Library Fine](hackerrank/algorithms/implementation/library-fine), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
