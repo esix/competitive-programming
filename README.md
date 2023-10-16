@@ -1081,6 +1081,7 @@ This repository contains my solutions to various competitive programming problem
 [Circular Array Rotation](hackerrank/algorithms/implementation/circular-array-rotation), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
 [Counting Valleys](hackerrank/algorithms/implementation/counting-valleys), 
+[Cut the sticks](hackerrank/algorithms/implementation/cut-the-sticks), 
 [Day of the Programmer](hackerrank/algorithms/implementation/day-of-the-programmer), 
 [Designer PDF Viewer](hackerrank/algorithms/implementation/designer-pdf-viewer), 
 [Divisible Sum Pairs](hackerrank/algorithms/implementation/divisible-sum-pairs), 

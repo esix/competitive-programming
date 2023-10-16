@@ -19,6 +19,7 @@
 | circular-array-rotation         | Circular Array Rotation [⬀](https://www.hackerrank.com/challenges/circular-array-rotation)                  | [main.ts](circular-array-rotation/main.ts)         |
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                | [main.ts](climbing-the-leaderboard/main.ts)        |
 | counting-valleys                | Counting Valleys [⬀](https://www.hackerrank.com/challenges/counting-valleys)                                | [main.ts](counting-valleys/main.ts)                |
+| cut-the-sticks                  | Cut the sticks [⬀](https://www.hackerrank.com/challenges/cut-the-sticks)                                    | [main.js](cut-the-sticks/main.js)                  |
 | day-of-the-programmer           | Day of the Programmer [⬀](https://www.hackerrank.com/challenges/day-of-the-programmer)                      | [main.ts](day-of-the-programmer/main.ts)           |
 | designer-pdf-viewer             | Designer PDF Viewer [⬀](https://www.hackerrank.com/challenges/designer-pdf-viewer)                          | [main.ts](designer-pdf-viewer/main.ts)             |
 | divisible-sum-pairs             | Divisible Sum Pairs [⬀](https://www.hackerrank.com/challenges/divisible-sum-pairs)                          | [main.ts](divisible-sum-pairs/main.ts)             |
