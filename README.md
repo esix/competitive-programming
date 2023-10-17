@@ -1103,6 +1103,7 @@ This repository contains my solutions to various competitive programming problem
 [Sequence Equation](hackerrank/algorithms/implementation/permutation-equation), 
 [Picking Numbers](hackerrank/algorithms/implementation/picking-numbers), 
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
+[Repeated String](hackerrank/algorithms/implementation/repeated-string), 
 [Save the Prisoner!](hackerrank/algorithms/implementation/save-the-prisoner), 
 [Sherlock and Squares](hackerrank/algorithms/implementation/sherlock-and-squares), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
