@@ -1091,6 +1091,7 @@ This repository contains my solutions to various competitive programming problem
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Find Digits](hackerrank/algorithms/implementation/find-digits), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
+[Jumping on the Clouds](hackerrank/algorithms/implementation/jumping-on-the-clouds), 
 [Jumping on the Clouds: Revisited](hackerrank/algorithms/implementation/jumping-on-the-clouds-revisited), 
 [Number Line Jumps](hackerrank/algorithms/implementation/kangaroo), 
 [Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
