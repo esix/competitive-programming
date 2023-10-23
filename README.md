@@ -190,7 +190,8 @@ This repository contains my solutions to various competitive programming problem
 ## AOJ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
 [QQ](aoj/volume-00/0000), 
-[List of Top 3 Hills](aoj/volume-00/0001)
+[List of Top 3 Hills](aoj/volume-00/0001), 
+[Digit Number](aoj/volume-00/0002)
 
 ## Codeforces [⬀](https://codeforces.com/)
 
