@@ -1094,6 +1094,7 @@ This repository contains my solutions to various competitive programming problem
 [Drawing Book](hackerrank/algorithms/implementation/drawing-book), 
 [Electronics Shop](hackerrank/algorithms/implementation/electronics-shop), 
 [Encryption](hackerrank/algorithms/implementation/encryption), 
+[Equalize the Array](hackerrank/algorithms/implementation/equality-in-a-array), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
 [Find Digits](hackerrank/algorithms/implementation/find-digits), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 

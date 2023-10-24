@@ -26,6 +26,7 @@
 | drawing-book                    | Drawing Book [⬀](https://www.hackerrank.com/challenges/drawing-book)                                               | [main.ts](implementation/drawing-book/main.ts)                    |
 | electronics-shop                | Electronics Shop [⬀](https://www.hackerrank.com/challenges/electronics-shop)                                       | [main.js](implementation/electronics-shop/main.js)                |
 | encryption                      | Encryption [⬀](https://www.hackerrank.com/challenges/encryption)                                                   | [main.ts](implementation/encryption/main.ts)                      |
+| equality-in-a-array             | Equalize the Array [⬀](https://www.hackerrank.com/challenges/equality-in-a-array)                                  | [main.js](implementation/equality-in-a-array/main.js)             |
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                             | [main.ts](implementation/extra-long-factorials/main.ts)           |
 | find-digits                     | Find Digits [⬀](https://www.hackerrank.com/challenges/find-digits)                                                 | [main.js](implementation/find-digits/main.js)                     |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                                | [main.ts](implementation/grading/main.ts)                         |
