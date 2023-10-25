@@ -191,7 +191,8 @@ This repository contains my solutions to various competitive programming problem
 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
-[Digit Number](aoj/volume-00/0002)
+[Digit Number](aoj/volume-00/0002), 
+[Is it a Right Triangle?](aoj/volume-00/0003)
 
 ## Codeforces [⬀](https://codeforces.com/)
 
