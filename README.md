@@ -1074,6 +1074,7 @@ This repository contains my solutions to various competitive programming problem
 
 [3D Surface Area](hackerrank/algorithms/implementation/3d-surface-area), 
 [Absolute Permutation](hackerrank/algorithms/implementation/absolute-permutation), 
+[ACM ICPC Team](hackerrank/algorithms/implementation/acm-icpc-team), 
 [Almost Sorted](hackerrank/algorithms/implementation/almost-sorted), 
 [Angry Professor](hackerrank/algorithms/implementation/angry-professor), 
 [Append and Delete](hackerrank/algorithms/implementation/append-and-delete), 

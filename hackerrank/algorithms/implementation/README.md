@@ -5,6 +5,7 @@
 |---------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | 3d-surface-area                 | 3D Surface Area [⬀](https://www.hackerrank.com/challenges/3d-surface-area)                                  | [main.ts](3d-surface-area/main.ts)                 |
 | absolute-permutation            | Absolute Permutation [⬀](https://www.hackerrank.com/challenges/absolute-permutation)                        | [main.ts](absolute-permutation/main.ts)            |
+| acm-icpc-team                   | ACM ICPC Team [⬀](https://www.hackerrank.com/challenges/acm-icpc-team)                                      | [main.js](acm-icpc-team/main.js)                   |
 | almost-sorted                   | Almost Sorted [⬀](https://www.hackerrank.com/challenges/almost-sorted)                                      | [main.ts](almost-sorted/main.ts)                   |
 | angry-professor                 | Angry Professor [⬀](https://www.hackerrank.com/challenges/angry-professor)                                  | [main.ts](angry-professor/main.ts)                 |
 | append-and-delete               | Append and Delete [⬀](https://www.hackerrank.com/challenges/append-and-delete)                              | [main.js](append-and-delete/main.js)               |
