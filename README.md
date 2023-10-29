@@ -199,6 +199,7 @@ This repository contains my solutions to various competitive programming problem
 [Circle in a Rectangle](aoj/itp1/2d), 
 [Print Many Hello World](aoj/itp1/3a), 
 [Print Test Cases](aoj/itp1/3b), 
+[Swapping Two Numbers](aoj/itp1/3c), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 

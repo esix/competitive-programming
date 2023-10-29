@@ -17,6 +17,7 @@ Aizu Online Judge
 | 2d   | Circle in a Rectangle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_D)  | [main.cmi](itp1/2d/main.cmi), [main.cmo](itp1/2d/main.cmo), [main.ml](itp1/2d/main.ml) |
 | 3a   | Print Many Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_A) | [main.cmi](itp1/3a/main.cmi), [main.cmo](itp1/3a/main.cmo), [main.ml](itp1/3a/main.ml) |
 | 3b   | Print Test Cases [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B)       | [main.cmi](itp1/3b/main.cmi), [main.cmo](itp1/3b/main.cmo), [main.ml](itp1/3b/main.ml) |
+| 3c   | Swapping Two Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_C)   | [main.cmi](itp1/3c/main.cmi), [main.cmo](itp1/3c/main.cmo), [main.ml](itp1/3c/main.ml) |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                 | [volume-00](volume-00/)                                                                |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                         | [main.js](volume-00/0000/main.js)                                                      |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)        | [main.cpp](volume-00/0001/main.cpp)                                                    |

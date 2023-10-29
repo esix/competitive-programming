@@ -13,4 +13,5 @@
 | 2d | Circle in a Rectangle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_2_D)  | [main.cmi](2d/main.cmi), [main.cmo](2d/main.cmo), [main.ml](2d/main.ml) |
 | 3a | Print Many Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_A) | [main.cmi](3a/main.cmi), [main.cmo](3a/main.cmo), [main.ml](3a/main.ml) |
 | 3b | Print Test Cases [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B)       | [main.cmi](3b/main.cmi), [main.cmo](3b/main.cmo), [main.ml](3b/main.ml) |
+| 3c | Swapping Two Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_C)   | [main.cmi](3c/main.cmi), [main.cmo](3c/main.cmo), [main.ml](3c/main.ml) |
 
