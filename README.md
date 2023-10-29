@@ -189,6 +189,15 @@ This repository contains my solutions to various competitive programming problem
 
 ## AOJ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
+[Hello World](aoj/itp1/1a), 
+[X Cubic](aoj/itp1/1b), 
+[Rectangle](aoj/itp1/1c), 
+[Watch](aoj/itp1/1d), 
+[Small, Large, or Equal](aoj/itp1/2a), 
+[Range](aoj/itp1/2b), 
+[Sorting Three Numbers](aoj/itp1/2c), 
+[Circle in a Rectangle](aoj/itp1/2d), 
+[Print Many Hello World](aoj/itp1/3a), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
