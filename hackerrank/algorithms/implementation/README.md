@@ -49,6 +49,7 @@
 | sherlock-and-squares            | Sherlock and Squares [⬀](https://www.hackerrank.com/challenges/sherlock-and-squares)                        | [main.js](sherlock-and-squares/main.js)            |
 | sock-merchant                   | Sales by Match [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                     | [main.ts](sock-merchant/main.ts)                   |
 | strange-advertising             | Viral Advertising [⬀](https://www.hackerrank.com/challenges/sock-merchant)                                  | [main.ts](strange-advertising/main.ts)             |
+| taum-and-bday                   | Taum and B'day [⬀](https://www.hackerrank.com/challenges/taum-and-bday)                                     | [main.js](taum-and-bday/main.js)                   |
 | the-birthday-bar                | Subarray Division [⬀](https://www.hackerrank.com/challenges/the-birthday-bar)                               | [main.ts](the-birthday-bar/main.ts)                |
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                                  | [main.ts](the-grid-search/main.ts)                 |
 | the-hurdle-race                 | The Hurdle Race [⬀](https://www.hackerrank.com/challenges/the-hurdle-race)                                  | [main.ts](the-hurdle-race/main.ts)                 |

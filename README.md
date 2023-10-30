@@ -1131,6 +1131,7 @@ This repository contains my solutions to various competitive programming problem
 [Sherlock and Squares](hackerrank/algorithms/implementation/sherlock-and-squares), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Viral Advertising](hackerrank/algorithms/implementation/strange-advertising), 
+[Taum and B'day](hackerrank/algorithms/implementation/taum-and-bday), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
 [The Hurdle Race](hackerrank/algorithms/implementation/the-hurdle-race), 
