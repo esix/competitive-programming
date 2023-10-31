@@ -11,6 +11,7 @@
 | append-and-delete               | Append and Delete [⬀](https://www.hackerrank.com/challenges/append-and-delete)                              | [main.js](append-and-delete/main.js)               |
 | apple-and-orange                | Apple and Orange [⬀](https://www.hackerrank.com/challenges/apple-and-orange)                                | [main.ts](apple-and-orange/main.ts)                |
 | beautiful-days-at-the-movies    | Beautiful Days at the Movies [⬀](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)        | [main.ts](beautiful-days-at-the-movies/main.ts)    |
+| beautiful-triplets              | Beautiful Triplets [⬀](https://www.hackerrank.com/challenges/beautiful-triplets)                            | [main.js](beautiful-triplets/main.js)              |
 | between-two-sets                | Between Two Sets [⬀](https://www.hackerrank.com/challenges/between-two-sets)                                | [main.ts](between-two-sets/main.ts)                |
 | bigger-is-greater               | Bigger is Greater [⬀](https://www.hackerrank.com/challenges/bigger-is-greater)                              | [main.ts](bigger-is-greater/main.ts)               |
 | bomber-man                      | The Bomberman Game [⬀](https://www.hackerrank.com/challenges/bomber-man)                                    | [main.js](bomber-man/main.js)                      |

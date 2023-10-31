@@ -1093,6 +1093,7 @@ This repository contains my solutions to various competitive programming problem
 [Append and Delete](hackerrank/algorithms/implementation/append-and-delete), 
 [Apple and Orange](hackerrank/algorithms/implementation/apple-and-orange), 
 [Beautiful Days at the Movies](hackerrank/algorithms/implementation/beautiful-days-at-the-movies), 
+[Beautiful Triplets](hackerrank/algorithms/implementation/beautiful-triplets), 
 [Between Two Sets](hackerrank/algorithms/implementation/between-two-sets), 
 [Bigger is Greater](hackerrank/algorithms/implementation/bigger-is-greater), 
 [The Bomberman Game](hackerrank/algorithms/implementation/bomber-man), 
