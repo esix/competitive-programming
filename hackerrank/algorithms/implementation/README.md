@@ -35,6 +35,7 @@
 | jumping-on-the-clouds           | Jumping on the Clouds [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds)                      | [main.js](jumping-on-the-clouds/main.js)           |
 | jumping-on-the-clouds-revisited | Jumping on the Clouds: Revisited [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [main.js](jumping-on-the-clouds-revisited/main.js) |
 | kangaroo                        | Number Line Jumps [⬀](https://www.hackerrank.com/challenges/kangaroo)                                       | [main.ts](kangaroo/main.ts)                        |
+| kaprekar-numbers                | Modified Kaprekar Numbers [⬀](https://www.hackerrank.com/challenges/kaprekar-numbers)                       | [main.js](kaprekar-numbers/main.js)                |
 | larrys-array                    | Larry's Array [⬀](https://www.hackerrank.com/challenges/larrys-array)                                       | [main.ts](larrys-array/main.ts)                    |
 | library-fine                    | Library Fine [⬀](https://www.hackerrank.com/challenges/library-fine)                                        | [main.js](library-fine/main.js)                    |
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                      | [main.cpp](magic-square-forming/main.cpp)          |
