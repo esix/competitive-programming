@@ -32,7 +32,7 @@
 | extra-long-factorials           | Extra Long Factorials [⬀](https://www.hackerrank.com/challenges/extra-long-factorials)                             | [main.ts](implementation/extra-long-factorials/main.ts)           |
 | find-digits                     | Find Digits [⬀](https://www.hackerrank.com/challenges/find-digits)                                                 | [main.js](implementation/find-digits/main.js)                     |
 | grading                         | Grading Students [⬀](https://www.hackerrank.com/challenges/grading)                                                | [main.ts](implementation/grading/main.ts)                         |
-| halloween-sale                  | Halloween Sale [⬀](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)                 | [main.js](implementation/halloween-sale/main.js)                  |
+| halloween-sale                  | Halloween Sale [⬀](https://www.hackerrank.com/challenges/halloween-sale)                                           | [main.js](implementation/halloween-sale/main.js)                  |
 | jumping-on-the-clouds           | Jumping on the Clouds [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds)                             | [main.js](implementation/jumping-on-the-clouds/main.js)           |
 | jumping-on-the-clouds-revisited | Jumping on the Clouds: Revisited [⬀](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)        | [main.js](implementation/jumping-on-the-clouds-revisited/main.js) |
 | kangaroo                        | Number Line Jumps [⬀](https://www.hackerrank.com/challenges/kangaroo)                                              | [main.ts](implementation/kangaroo/main.ts)                        |
@@ -42,6 +42,7 @@
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                             | [main.cpp](implementation/magic-square-forming/main.cpp)          |
 | matrix-rotation-algo            | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)                              | [main.ts](implementation/matrix-rotation-algo/main.ts)            |
 | migratory-birds                 | Migratory Birds [⬀](https://www.hackerrank.com/challenges/migratory-birds)                                         | [main.ts](implementation/migratory-birds/main.ts)                 |
+| minimum-distances               | Minimum Distances [⬀](https://www.hackerrank.com/challenges/minimum-distances)                                     | [main.js](implementation/minimum-distances/main.js)               |
 | non-divisible-subset            | Non-Divisible Subset [⬀](https://www.hackerrank.com/challenges/non-divisible-subset)                               | [main.ts](implementation/non-divisible-subset/main.ts)            |
 | organizing-containers-of-balls  | Organizing Containers of Balls [⬀](https://www.hackerrank.com/challenges/organizing-containers-of-balls)           | [main.ts](implementation/organizing-containers-of-balls/main.ts)  |
 | permutation-equation            | Sequence Equation [⬀](https://www.hackerrank.com/challenges/permutation-equation)                                  | [main.js](implementation/permutation-equation/main.js)            |

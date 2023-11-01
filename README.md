@@ -1124,6 +1124,7 @@ This repository contains my solutions to various competitive programming problem
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
+[Minimum Distances](hackerrank/algorithms/implementation/minimum-distances), 
 [Non-Divisible Subset](hackerrank/algorithms/implementation/non-divisible-subset), 
 [Organizing Containers of Balls](hackerrank/algorithms/implementation/organizing-containers-of-balls), 
 [Sequence Equation](hackerrank/algorithms/implementation/permutation-equation), 
