@@ -18,6 +18,7 @@
 | bon-appetit                     | Bill Division [⬀](https://www.hackerrank.com/challenges/bon-appetit)                                        | [main.ts](bon-appetit/main.ts)                     |
 | breaking-best-and-worst-records | Breaking the Records [⬀](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)             | [main.ts](breaking-best-and-worst-records/main.ts) |
 | cats-and-a-mouse                | Cats and a Mouse [⬀](https://www.hackerrank.com/challenges/cats-and-a-mouse)                                | [main.js](cats-and-a-mouse/main.js)                |
+| chocolate-feast                 | Chocolate Feast [⬀](https://www.hackerrank.com/challenges/chocolate-feast)                                  | [main.js](chocolate-feast/main.js)                 |
 | circular-array-rotation         | Circular Array Rotation [⬀](https://www.hackerrank.com/challenges/circular-array-rotation)                  | [main.ts](circular-array-rotation/main.ts)         |
 | climbing-the-leaderboard        | Climbing the Leaderboard [⬀](https://www.hackerrank.com/challenges/climbing-the-leaderboard)                | [main.ts](climbing-the-leaderboard/main.ts)        |
 | counting-valleys                | Counting Valleys [⬀](https://www.hackerrank.com/challenges/counting-valleys)                                | [main.ts](counting-valleys/main.ts)                |

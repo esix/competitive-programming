@@ -1100,6 +1100,7 @@ This repository contains my solutions to various competitive programming problem
 [Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Cats and a Mouse](hackerrank/algorithms/implementation/cats-and-a-mouse), 
+[Chocolate Feast](hackerrank/algorithms/implementation/chocolate-feast), 
 [Circular Array Rotation](hackerrank/algorithms/implementation/circular-array-rotation), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
 [Counting Valleys](hackerrank/algorithms/implementation/counting-valleys), 
