@@ -40,6 +40,7 @@
 | kaprekar-numbers                | Modified Kaprekar Numbers [⬀](https://www.hackerrank.com/challenges/kaprekar-numbers)                              | [main.js](implementation/kaprekar-numbers/main.js)                |
 | larrys-array                    | Larry's Array [⬀](https://www.hackerrank.com/challenges/larrys-array)                                              | [main.ts](implementation/larrys-array/main.ts)                    |
 | library-fine                    | Library Fine [⬀](https://www.hackerrank.com/challenges/library-fine)                                               | [main.js](implementation/library-fine/main.js)                    |
+|                                 | **Lisa's Workbook** [⬀](https://www.hackerrank.com/challenges/lisa-workbook)                                       | [implementation/lisa-workbook](implementation/lisa-workbook/)     |
 | magic-square-forming            | Forming a Magic Square [⬀](https://www.hackerrank.com/challenges/magic-square-forming)                             | [main.cpp](implementation/magic-square-forming/main.cpp)          |
 | matrix-rotation-algo            | Matrix Layer Rotation [⬀](https://www.hackerrank.com/challenges/matrix-rotation-algo)                              | [main.ts](implementation/matrix-rotation-algo/main.ts)            |
 | migratory-birds                 | Migratory Birds [⬀](https://www.hackerrank.com/challenges/migratory-birds)                                         | [main.ts](implementation/migratory-birds/main.ts)                 |
