@@ -19,6 +19,7 @@ Aizu Online Judge
 | 3b   | Print Test Cases [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B)       | [main.cmi](itp1/3b/main.cmi), [main.cmo](itp1/3b/main.cmo), [main.ml](itp1/3b/main.ml) |
 | 3c   | Swapping Two Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_C)   | [main.cmi](itp1/3c/main.cmi), [main.cmo](itp1/3c/main.cmo), [main.ml](itp1/3c/main.ml) |
 | 3d   | How Many Divisors? [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_D)     | [main.cmi](itp1/3d/main.cmi), [main.cmo](itp1/3d/main.cmo), [main.ml](itp1/3d/main.ml) |
+| 4a   | A / B Problem [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A)          | [main.cmi](itp1/4a/main.cmi), [main.cmo](itp1/4a/main.cmo), [main.ml](itp1/4a/main.ml) |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                 | [volume-00](volume-00/)                                                                |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                         | [main.js](volume-00/0000/main.js)                                                      |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)        | [main.cpp](volume-00/0001/main.cpp)                                                    |

@@ -15,4 +15,5 @@
 | 3b | Print Test Cases [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B)       | [main.cmi](3b/main.cmi), [main.cmo](3b/main.cmo), [main.ml](3b/main.ml) |
 | 3c | Swapping Two Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_C)   | [main.cmi](3c/main.cmi), [main.cmo](3c/main.cmo), [main.ml](3c/main.ml) |
 | 3d | How Many Divisors? [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_D)     | [main.cmi](3d/main.cmi), [main.cmo](3d/main.cmo), [main.ml](3d/main.ml) |
+| 4a | A / B Problem [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A)          | [main.cmi](4a/main.cmi), [main.cmo](4a/main.cmo), [main.ml](4a/main.ml) |
 
