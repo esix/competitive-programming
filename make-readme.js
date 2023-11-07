@@ -13,10 +13,6 @@ function loadMainReadmeFileLines() {
   return lines;
 }
 
-function isDigit(c) {
-  return '0' <= c && c <= '9';
-}
-
 function comparator(a, b) {
   const aNum = parseInt(a, 10), bNum = parseInt(b, 10);
   
@@ -37,14 +33,21 @@ function comparator(a, b) {
   return aNum - bNum;
 }
 
-
-function extractFileExtension(fileName) {
-  return fileName.match(/\.(\w+)$/) ? RegExp.$1 : '';
+function getFileNameAndExtension(fileName) {
+  const dot = fileName.lastIndexOf(".") >>> 0;
+  return [fileName.slice(0, dot), fileName.slice(dot + 1)];
 }
 
+
+const SOLUTION_FILE_NAMES = ['Main', 'main', 'solution', 'Solution'];
+const FORBIDDEN_EXTENSIONS = ['class'];
+
+
 function getSolutionFiles(dir) {
-  let solutions = fs.readdirSync(dir).filter(file => file.match(/^[Mm]ain/) || file.match(/^[Ss]olution/));   // only files name `main.ext' or 'solution.ext'
-  solutions = solutions.filter(fileName => !['class'].includes(extractFileExtension(fileName)));              // forbidden extensions
+  let solutions = fs.readdirSync(dir).filter(file => {
+    const [name, ext] = getFileNameAndExtension(file);
+    return SOLUTION_FILE_NAMES.includes(name) && !FORBIDDEN_EXTENSIONS.includes(ext);
+  });
   return solutions.sort();
 }
 
@@ -64,23 +67,50 @@ function hasSolutionSubDirs(dir) {
   }   
 }
 
+const LANGUAGE_BY_EXTENSION = {
+  'py': 'Python',
+  'cpp': 'C++',
+  'js': 'JavaScript',
+  'go': 'Go',
+  'ts': 'TypeScript',
+  'pas': 'Pascal',
+  'ml': 'OCaml',
+  'scm': 'Scheme',
+  'bas': 'Basic',
+  'java': 'Java',
+  'adb': 'Ada',
+  'sql': 'SQL',
+  'c': 'C',
+  'f95': 'Fortran',
+  'sh': 'bash',
+  'p6': 'Raku',
+}
 
-function recursiveDirWalk(dir, process) {
-  const files = fs.readdirSync(dir);
-
-  files.sort(comparator);
-    
-  for (let file of files) {
-    const fullPath = `${dir}/${file}`;
-    if (fs.lstatSync(fullPath).isDirectory()) {
-      process(fullPath);
-      recursiveDirWalk(fullPath, process);
-    }
-  }   
+function renderUsedExtensions(lines, count) {
+  lines.push('## Programming Languages')
+  lines.push('```');
+  let exts = Object.keys(count);
+  exts.sort((ext1, ext2) => count[ext2] - count[ext1]);
+  const max = count[exts[0]];
+  const maxLanguageLength = Math.max(...Object.values(LANGUAGE_BY_EXTENSION).map(l => l.length));
+ 
+  exts.forEach(ext => {
+    const n = count[ext];
+    let p = 60 * n / max;
+    let bar = '';
+    for (let i = 0; i < p; i++) bar += '█';
+    if (p - Math.floor(p) > 0.5 || bar.length === 0) bar += '▌';
+    let s = (LANGUAGE_BY_EXTENSION[ext] || ext).padEnd(maxLanguageLength + 1, ' ') + 
+            bar + 
+            ' ' + n;
+    lines.push(s);
+  });
+  lines.push('```');
+  lines.push('')
 }
 
 
-function processSolution(dir) {
+function processSolution(dir, usedExtensions) {
   if (!fs.existsSync(`${dir}/README.md`)) throw new Error('No readme in ' + dir);
 
   try {
@@ -98,6 +128,11 @@ function processSolution(dir) {
     const taskUrl = RegExp.$2 || '';
 
     let solutionFiles = getSolutionFiles(dir);
+    solutionFiles.forEach(fileName => {                             // find used extensions
+      const [name, ext] = getFileNameAndExtension(fileName);
+      if (!(ext in usedExtensions)) usedExtensions[ext] = 0;
+      usedExtensions[ext]++;
+    });
     const files =  solutionFiles.map(file => `${dir}/${file}`.replace(/\.\//, ''));
 
     let children = [];
@@ -109,7 +144,7 @@ function processSolution(dir) {
       const subdirName = `${dir}/${subdir}`;
       if (fs.lstatSync(subdirName).isDirectory()) {
         try {
-          let subsolution = processSolution(subdirName);
+          let subsolution = processSolution(subdirName, usedExtensions);
           children.push(subsolution);
         } catch (err) {
           // its ok
@@ -130,8 +165,8 @@ function processSolution(dir) {
   }
 }
 
-
-let root = processSolution('.');
+let usedExtensions = {};
+let root = processSolution('.', usedExtensions);
 
 let treeToArray = (root) => {
   let solutions = [];
@@ -156,6 +191,8 @@ if (root.title === 'Competitive programming') {
     '', 
     'This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve my programming skills.',
     ''];
+    renderUsedExtensions(newReadmeLines, usedExtensions);
+
 
   root.children.forEach(c => {
     if (!c.children.length) return;
