@@ -1,4 +1,4 @@
-# 1408. String Matching in an Array [⬀](https://leetcode.com/problems/string-matching-in-an-array/)
+# String Matching in an Array [⬀](https://leetcode.com/problems/string-matching-in-an-array/)
 
 Given an array of string `words`. Return all strings in `words` which is substring of another word in **any** order. 
 

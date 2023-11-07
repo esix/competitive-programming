@@ -1,4 +1,4 @@
-# 1629. Slowest Key [⬀](https://leetcode.com/problems/slowest-key/)
+# Slowest Key [⬀](https://leetcode.com/problems/slowest-key/)
 
 A newly designed keypad was tested, where a tester pressed a sequence 
 of `n` keys, one at a time.

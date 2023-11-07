@@ -1,4 +1,4 @@
-# 1556. Thousand Separator [⬀](https://leetcode.com/problems/thousand-separator/)
+# Thousand Separator [⬀](https://leetcode.com/problems/thousand-separator/)
 
 Given an integer `n`, add a dot (".") as the thousands separator and return it in string format.
 

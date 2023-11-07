@@ -1,4 +1,4 @@
-# [Kth Largest Element in a Stream]()
+# [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
 Design a class to find the `kᵗʰ` largest element in a stream. Note that it is the `kᵗʰ` largest element in the sorted order, not the `kᵗʰ` distinct element.
 

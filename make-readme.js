@@ -116,16 +116,19 @@ function processSolution(dir, usedExtensions) {
   try {
     let readme = fs.readFileSync(`${dir}/README.md`, 'utf8');
     readme = readme.replace(/^\uFEFF/, '');                         // bom
-    if (!readme.match(/^\# \[(.+?)\]\((.+?)\)/) &&                  // # [title](url)
-        !readme.match(/^\# (.+?) \[⬀\]\((.+?)\)/) &&                // # title [⬀](url)
-        !readme.match(/^\# (.+)\n?/)) {                
+
+    let match = readme.match(/^\# (.+?) \[⬀\]\((.+?)\)/) ||       // # title [⬀](url)
+                readme.match(/^\# \[(.+?)\]\((.+?)\)/) ||         // # [title](url)
+                readme.match(/^\# (.+)\n?/);
+        
+    if (!match) {        
         console.error('File: ', `${dir}/README.md`, 'has invalid first line in README.md');
         console.error(readme)
         throw new Error('Invalid readme');
     }
 
-    const title = RegExp.$1.replace(/[()`]/g, '');
-    const taskUrl = RegExp.$2 || '';
+    const title = match[1].replace(/[`]/g, '');
+    const taskUrl = match[2] || '';
 
     let solutionFiles = getSolutionFiles(dir);
     solutionFiles.forEach(fileName => {                             // find used extensions
