@@ -9,8 +9,8 @@ C++        ███████████████████████
 JavaScript ██████████████ 157
 Go         ██████████████ 157
 TypeScript ████▌ 42
+OCaml      ██▌ 18
 Pascal     ██ 17
-OCaml      ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
 Java       █▌ 6
@@ -223,6 +223,7 @@ Raku       █ 1
 [How Many Divisors?](aoj/itp1/3d), 
 [A / B Problem](aoj/itp1/4a), 
 [Circle](aoj/itp1/4b), 
+[Simple Calculator](aoj/itp1/4c), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 

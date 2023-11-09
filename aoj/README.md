@@ -21,6 +21,7 @@ Aizu Online Judge
 | 3d   | How Many Divisors? [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_D)     | [main.ml](itp1/3d/main.ml)          |
 | 4a   | A / B Problem [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A)          | [main.ml](itp1/4a/main.ml)          |
 | 4b   | Circle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B)                 | [main.ml](itp1/4b/main.ml)          |
+| 4c   | Simple Calculator [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_C)      | [main.ml](itp1/4c/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                 | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                         | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)        | [main.cpp](volume-00/0001/main.cpp) |

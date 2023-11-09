@@ -17,4 +17,5 @@
 | 3d | How Many Divisors? [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_D)     | [main.ml](3d/main.ml) |
 | 4a | A / B Problem [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A)          | [main.ml](4a/main.ml) |
 | 4b | Circle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B)                 | [main.ml](4b/main.ml) |
+| 4c | Simple Calculator [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_C)      | [main.ml](4c/main.ml) |
 
