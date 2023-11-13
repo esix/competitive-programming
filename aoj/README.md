@@ -23,6 +23,7 @@ Aizu Online Judge
 | 4b   | Circle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B)                 | [main.ml](itp1/4b/main.ml)          |
 | 4c   | Simple Calculator [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_C)      | [main.ml](itp1/4c/main.ml)          |
 | 4d   | Min, Max and Sum [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_D)       | [main.ml](itp1/4d/main.ml)          |
+| 5a   | Print a Rectangle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_A)      | [main.ml](itp1/5a/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                 | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                         | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)        | [main.cpp](volume-00/0001/main.cpp) |
