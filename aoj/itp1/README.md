@@ -20,4 +20,5 @@
 | 4c | Simple Calculator [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_C)      | [main.ml](4c/main.ml) |
 | 4d | Min, Max and Sum [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_D)       | [main.ml](4d/main.ml) |
 | 5a | Print a Rectangle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_A)      | [main.ml](5a/main.ml) |
+| 5b | Print a Frame [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_B)          | [main.ml](5b/main.ml) |
 
