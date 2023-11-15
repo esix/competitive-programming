@@ -9,7 +9,7 @@ C++        ███████████████████████
 JavaScript ██████████████ 157
 Go         ██████████████ 157
 TypeScript ████▌ 42
-OCaml      ██▌ 21
+OCaml      ██▌ 22
 Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
@@ -227,6 +227,7 @@ Raku       █ 1
 [Min, Max and Sum](aoj/itp1/4d), 
 [Print a Rectangle](aoj/itp1/5a), 
 [Print a Frame](aoj/itp1/5b), 
+[Print a Chessboard](aoj/itp1/5c), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
