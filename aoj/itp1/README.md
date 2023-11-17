@@ -23,4 +23,5 @@
 | 5b | Print a Frame [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_B)          | [main.ml](5b/main.ml) |
 | 5c | Print a Chessboard [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_C)     | [main.ml](5c/main.ml) |
 | 5d | Structured Programming [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_D) | [main.ml](5d/main.ml) |
+| 6a | Reversing Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_A)      | [main.ml](6a/main.ml) |
 
