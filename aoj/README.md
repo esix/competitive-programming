@@ -28,6 +28,7 @@ Aizu Online Judge
 | 5c   | Print a Chessboard [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_C)     | [main.ml](itp1/5c/main.ml)          |
 | 5d   | Structured Programming [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_D) | [main.ml](itp1/5d/main.ml)          |
 | 6a   | Reversing Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_A)      | [main.ml](itp1/6a/main.ml)          |
+| 6b   | Finding Missing Cards [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_B)  | [main.ml](itp1/6b/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                 | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                         | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)        | [main.cpp](volume-00/0001/main.cpp) |

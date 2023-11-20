@@ -9,7 +9,7 @@ C++        ███████████████████████
 JavaScript ██████████████ 157
 Go         ██████████████ 157
 TypeScript ████▌ 42
-OCaml      ███ 24
+OCaml      ███ 25
 Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
@@ -230,6 +230,7 @@ Raku       █ 1
 [Print a Chessboard](aoj/itp1/5c), 
 [Structured Programming](aoj/itp1/5d), 
 [Reversing Numbers](aoj/itp1/6a), 
+[Finding Missing Cards](aoj/itp1/6b), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
