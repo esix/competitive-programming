@@ -25,4 +25,5 @@
 | 5d | Structured Programming [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_D) | [main.ml](5d/main.ml) |
 | 6a | Reversing Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_A)      | [main.ml](6a/main.ml) |
 | 6b | Finding Missing Cards [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_B)  | [main.ml](6b/main.ml) |
+| 6c | Official House [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C)         | [main.ml](6c/main.ml) |
 
