@@ -27,4 +27,5 @@
 | 6b | Finding Missing Cards [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_B)        | [main.ml](6b/main.ml) |
 | 6c | Official House [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C)               | [main.ml](6c/main.ml) |
 | 6d | Matrix Vector Multiplication [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_D) | [main.ml](6d/main.ml) |
+| 7a | Grading [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_A)                      | [main.ml](7a/main.ml) |
 

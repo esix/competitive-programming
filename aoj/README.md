@@ -31,6 +31,7 @@ Aizu Online Judge
 | 6b   | Finding Missing Cards [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_B)        | [main.ml](itp1/6b/main.ml)          |
 | 6c   | Official House [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C)               | [main.ml](itp1/6c/main.ml)          |
 | 6d   | Matrix Vector Multiplication [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_D) | [main.ml](itp1/6d/main.ml)          |
+| 7a   | Grading [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_A)                      | [main.ml](itp1/7a/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                       | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                               | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)              | [main.cpp](volume-00/0001/main.cpp) |
