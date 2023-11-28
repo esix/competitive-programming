@@ -34,6 +34,7 @@ Aizu Online Judge
 | 7a   | Grading [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_A)                      | [main.ml](itp1/7a/main.ml)          |
 | 7b   | How many ways? [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B)               | [main.ml](itp1/7b/main.ml)          |
 | 7c   | Spreadsheet [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_C)                  | [main.ml](itp1/7c/main.ml)          |
+| 7d   | Matrix Multiplication [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_D)        | [main.ml](itp1/7d/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                       | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                               | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)              | [main.cpp](volume-00/0001/main.cpp) |

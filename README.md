@@ -9,7 +9,7 @@ C++        ███████████████████████
 JavaScript ██████████████ 157
 Go         ██████████████ 157
 TypeScript ████▌ 42
-OCaml      ███▌ 30
+OCaml      ███▌ 31
 Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
@@ -236,6 +236,7 @@ Raku       █ 1
 [Grading](aoj/itp1/7a), 
 [How many ways?](aoj/itp1/7b), 
 [Spreadsheet](aoj/itp1/7c), 
+[Matrix Multiplication](aoj/itp1/7d), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
