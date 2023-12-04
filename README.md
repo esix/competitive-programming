@@ -14,7 +14,7 @@ Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
 Java       █▌ 6
-Ada        █ 3
+Ada        █ 4
 Fortran    █ 2
 C          █ 1
 SQL        █ 1

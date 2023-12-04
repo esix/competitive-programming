@@ -40,7 +40,7 @@ function getFileNameAndExtension(fileName) {
 
 
 const SOLUTION_FILE_NAMES = ['Main', 'main', 'solution', 'Solution'];
-const FORBIDDEN_EXTENSIONS = ['class', 'cmi', 'cmo'];
+const FORBIDDEN_EXTENSIONS = ['class', 'cmi', 'cmo', 'ali', 'o', ''];
 
 
 function getSolutionFiles(dir) {
