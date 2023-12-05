@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python     ████████████████████████████████████████████████████████████ 707
 C++        █████████████████████████████████████████▌ 481
-JavaScript ██████████████ 157
+JavaScript ██████████████ 158
 Go         ██████████████ 157
 TypeScript ████▌ 42
 OCaml      ███▌ 34
@@ -14,7 +14,7 @@ Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
 Java       █▌ 6
-Ada        █ 4
+Ada        █▌ 6
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
@@ -1161,6 +1161,7 @@ Raku       █ 1
 [Modified Kaprekar Numbers](hackerrank/algorithms/implementation/kaprekar-numbers), 
 [Larry's Array](hackerrank/algorithms/implementation/larrys-array), 
 [Library Fine](hackerrank/algorithms/implementation/library-fine), 
+[Lisa's Workbook](hackerrank/algorithms/implementation/lisa-workbook), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
