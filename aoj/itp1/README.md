@@ -34,4 +34,5 @@
 | 8a | Toggling Cases [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_A)               | [main.ml](8a/main.ml) |
 | 8b | Sum of Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_B)               | [main.ml](8b/main.ml) |
 | 8c | Counting Characters [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_C)          | [main.ml](8c/main.ml) |
+| 8d | Ring [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_D)                         | [main.ml](8d/main.ml) |
 
