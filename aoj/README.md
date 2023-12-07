@@ -39,6 +39,7 @@ Aizu Online Judge
 | 8b   | Sum of Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_B)               | [main.ml](itp1/8b/main.ml)          |
 | 8c   | Counting Characters [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_C)          | [main.ml](itp1/8c/main.ml)          |
 | 8d   | Ring [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_D)                         | [main.ml](itp1/8d/main.ml)          |
+| 9a   | Finding a Word [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_9_A)               | [main.ml](itp1/9a/main.ml)          |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                       | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                               | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)              | [main.cpp](volume-00/0001/main.cpp) |
