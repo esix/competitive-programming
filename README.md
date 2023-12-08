@@ -13,8 +13,8 @@ OCaml      ████ 36
 Pascal     ██ 17
 Scheme     █▌ 10
 Basic      █▌ 9
+Ada        █▌ 7
 Java       █▌ 6
-Ada        █▌ 6
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
