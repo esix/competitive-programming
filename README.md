@@ -12,8 +12,8 @@ TypeScript ████▌ 42
 OCaml      ████ 36
 Pascal     ██ 17
 Scheme     █▌ 10
+Ada        █▌ 9
 Basic      █▌ 9
-Ada        █▌ 8
 Java       █▌ 6
 Fortran    █ 2
 C          █ 1
