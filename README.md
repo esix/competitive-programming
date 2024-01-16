@@ -14,7 +14,7 @@ Pascal     ██ 17
 Ada        █▌ 10
 Scheme     █▌ 10
 Basic      █▌ 9
-Java       █▌ 7
+Java       █▌ 8
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
@@ -1195,6 +1195,7 @@ Raku       █ 1
 [Solve me second](hackerrank/algorithms/warmup/solve-me-second), 
 [Staircase](hackerrank/algorithms/warmup/staircase), 
 [Time Conversion](hackerrank/algorithms/warmup/time-conversion), 
+[Java Stdin and Stdout I](hackerrank/java/introduction/java-stdin-and-stdout-1), 
 [Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children)
 
