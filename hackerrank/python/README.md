@@ -1,4 +1,4 @@
-# Prepare - Java [⬀](https://www.hackerrank.com/domains/python)
+# Prepare - Python [⬀](https://www.hackerrank.com/domains/python)
 
 
 
