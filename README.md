@@ -4,8 +4,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 708
-C++        █████████████████████████████████████████▌ 481
+Python     ████████████████████████████████████████████████████████████ 714
+C++        █████████████████████████████████████████ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
 TypeScript ████▌ 42
@@ -1199,7 +1199,13 @@ Raku       █ 1
 [Java Stdin and Stdout I](hackerrank/java/introduction/java-stdin-and-stdout-1), 
 [Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
-[Say "Hello, World!" With Python](hackerrank/python/introduction/py-hello-world)
+[Say "Hello, World!" With Python](hackerrank/python/introduction/py-hello-world), 
+[Python If-Else](hackerrank/python/introduction/py-if-else), 
+[Arithmetic Operators](hackerrank/python/introduction/python-arithmetic-operators), 
+[Python: Division](hackerrank/python/introduction/python-division), 
+[Loops](hackerrank/python/introduction/python-loops), 
+[Print Function](hackerrank/python/introduction/python-print), 
+[Write a function](hackerrank/python/introduction/write-a-function)
 
 ## LeetCode [⬀](https://leetcode.com/)
 
