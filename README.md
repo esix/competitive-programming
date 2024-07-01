@@ -1199,13 +1199,13 @@ Raku       █ 1
 [Java Stdin and Stdout I](hackerrank/java/introduction/java-stdin-and-stdout-1), 
 [Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
-[Say "Hello, World!" With Python](hackerrank/python/introduction/py-hello-world), 
-[Python If-Else](hackerrank/python/introduction/py-if-else), 
-[Arithmetic Operators](hackerrank/python/introduction/python-arithmetic-operators), 
-[Python: Division](hackerrank/python/introduction/python-division), 
-[Loops](hackerrank/python/introduction/python-loops), 
-[Print Function](hackerrank/python/introduction/python-print), 
-[Write a function](hackerrank/python/introduction/write-a-function)
+[Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
+[Python If-Else](hackerrank/python/py-introduction/py-if-else), 
+[Arithmetic Operators](hackerrank/python/py-introduction/python-arithmetic-operators), 
+[Python: Division](hackerrank/python/py-introduction/python-division), 
+[Loops](hackerrank/python/py-introduction/python-loops), 
+[Print Function](hackerrank/python/py-introduction/python-print), 
+[Write a function](hackerrank/python/py-introduction/write-a-function)
 
 ## LeetCode [⬀](https://leetcode.com/)
 
