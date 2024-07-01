@@ -4,6 +4,8 @@
 
 | ID                          | Problem statement                                                                           | Solution                                                       |
 |-----------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|                             | **Basic Data Types** [⬀](https://www.hackerrank.com/domains/python/py-basic-data-types)     | [py-basic-data-types](py-basic-data-types/)                    |
+| list-comprehensions         | List Comprehensions [⬀](https://www.hackerrank.com/challenges/list-comprehensions)          | [main.py](py-basic-data-types/list-comprehensions/main.py)     |
 |                             | **Introduction** [⬀](https://www.hackerrank.com/domains/python/py-introduction)             | [py-introduction](py-introduction/)                            |
 | py-hello-world              | Say "Hello, World!" With Python [⬀](https://www.hackerrank.com/challenges/py-hello-world)   | [main.py](py-introduction/py-hello-world/main.py)              |
 | py-if-else                  | Python If-Else [⬀](https://www.hackerrank.com/challenges/py-if-else)                        | [main.py](py-introduction/py-if-else/main.py)                  |
