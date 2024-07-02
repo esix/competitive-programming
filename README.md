@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 717
+Python     ████████████████████████████████████████████████████████████ 718
 C++        █████████████████████████████████████████ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
@@ -1200,6 +1200,7 @@ Raku       █ 1
 [Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
 [Find the Runner-Up Score!](hackerrank/python/py-basic-data-types/find-second-maximum-number-in-a-list), 
+[Finding the percentage](hackerrank/python/py-basic-data-types/finding-the-percentage), 
 [List Comprehensions](hackerrank/python/py-basic-data-types/list-comprehensions), 
 [Nested Lists](hackerrank/python/py-basic-data-types/nested-list), 
 [Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
