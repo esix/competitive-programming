@@ -4,8 +4,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 721
-C++        █████████████████████████████████████████ 481
+Python     ████████████████████████████████████████████████████████████ 722
+C++        ████████████████████████████████████████▌ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
 TypeScript ████ 42
@@ -1212,6 +1212,7 @@ Raku       █ 1
 [Loops](hackerrank/python/py-introduction/python-loops), 
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
+[String Split and Join](hackerrank/python/py-strings/python-string-split-and-join), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case)
 
 ## LeetCode [⬀](https://leetcode.com/)
