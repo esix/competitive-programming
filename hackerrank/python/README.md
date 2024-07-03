@@ -19,4 +19,6 @@
 | python-loops                         | Loops [⬀](https://www.hackerrank.com/challenges/python-loops)                                             | [main.py](py-introduction/python-loops/main.py)                             |
 | python-print                         | Print Function [⬀](https://www.hackerrank.com/challenges/python-print)                                    | [main.py](py-introduction/python-print/main.py)                             |
 | write-a-function                     | Write a function [⬀](https://www.hackerrank.com/challenges/write-a-function)                              | [main.py](py-introduction/write-a-function/main.py)                         |
+|                                      | **Strings** [⬀](https://www.hackerrank.com/domains/python/pystrings)                                      | [py-strings](py-strings/)                                                   |
+| swap-case                            | sWAP cASE [⬀](https://www.hackerrank.com/challenges/swap-case)                                            | [main.py](py-strings/swap-case/main.py)                                     |
 

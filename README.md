@@ -4,12 +4,12 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 720
+Python     ████████████████████████████████████████████████████████████ 721
 C++        █████████████████████████████████████████ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
 TypeScript ████ 42
-OCaml      ███ 36
+OCaml      ███▌ 36
 Pascal     ██ 17
 Ada        █▌ 10
 Scheme     █▌ 10
@@ -1211,7 +1211,8 @@ Raku       █ 1
 [Python: Division](hackerrank/python/py-introduction/python-division), 
 [Loops](hackerrank/python/py-introduction/python-loops), 
 [Print Function](hackerrank/python/py-introduction/python-print), 
-[Write a function](hackerrank/python/py-introduction/write-a-function)
+[Write a function](hackerrank/python/py-introduction/write-a-function), 
+[sWAP cASE](hackerrank/python/py-strings/swap-case)
 
 ## LeetCode [⬀](https://leetcode.com/)
 
