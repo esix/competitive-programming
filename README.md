@@ -4,12 +4,12 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 719
+Python     ████████████████████████████████████████████████████████████ 720
 C++        █████████████████████████████████████████ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
-TypeScript ████▌ 42
-OCaml      ████ 36
+TypeScript ████ 42
+OCaml      ███ 36
 Pascal     ██ 17
 Ada        █▌ 10
 Scheme     █▌ 10
@@ -1203,6 +1203,7 @@ Raku       █ 1
 [Finding the percentage](hackerrank/python/py-basic-data-types/finding-the-percentage), 
 [List Comprehensions](hackerrank/python/py-basic-data-types/list-comprehensions), 
 [Nested Lists](hackerrank/python/py-basic-data-types/nested-list), 
+[Lists](hackerrank/python/py-basic-data-types/python-lists), 
 [Tuples](hackerrank/python/py-basic-data-types/python-tuples), 
 [Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
 [Python If-Else](hackerrank/python/py-introduction/py-if-else), 
