@@ -4,10 +4,10 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 724
+Python     ████████████████████████████████████████████████████████████ 725
 C++        ████████████████████████████████████████▌ 481
 JavaScript ██████████████ 158
-Go         ██████████████ 157
+Go         █████████████▌ 157
 TypeScript ████ 42
 OCaml      ███▌ 36
 Pascal     ██ 17
@@ -1212,6 +1212,7 @@ Raku       █ 1
 [Loops](hackerrank/python/py-introduction/python-loops), 
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
+[Mutations](hackerrank/python/py-strings/python-mutations), 
 [String Split and Join](hackerrank/python/py-strings/python-string-split-and-join), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case), 
 [The Minion Game](hackerrank/python/py-strings/the-minion-game), 
