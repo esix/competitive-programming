@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 723
+Python     ████████████████████████████████████████████████████████████ 724
 C++        ████████████████████████████████████████▌ 481
 JavaScript ██████████████ 158
 Go         ██████████████ 157
@@ -1214,7 +1214,8 @@ Raku       █ 1
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
 [String Split and Join](hackerrank/python/py-strings/python-string-split-and-join), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case), 
-[The Minion Game](hackerrank/python/py-strings/the-minion-game)
+[The Minion Game](hackerrank/python/py-strings/the-minion-game), 
+[What's Your Name?](hackerrank/python/py-strings/whats-your-name)
 
 ## LeetCode [⬀](https://leetcode.com/)
 

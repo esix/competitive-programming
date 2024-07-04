@@ -23,4 +23,5 @@
 | python-string-split-and-join         | String Split and Join [⬀](https://www.hackerrank.com/challenges/python-string-split-and-join)             | [main.py](py-strings/python-string-split-and-join/main.py)                  |
 | swap-case                            | sWAP cASE [⬀](https://www.hackerrank.com/challenges/swap-case)                                            | [main.py](py-strings/swap-case/main.py)                                     |
 | the-minion-game                      | The Minion Game [⬀](https://www.hackerrank.com/challenges/the-minion-game)                                | [main.py](py-strings/the-minion-game/main.py)                               |
+| whats-your-name                      | What's Your Name? [⬀](https://www.hackerrank.com/challenges/whats-your-name)                              | [main.py](py-strings/whats-your-name/main.py)                               |
 
