@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 731
+Python     ████████████████████████████████████████████████████████████ 732
 C++        ████████████████████████████████████████ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
@@ -1212,6 +1212,7 @@ Raku       █ 1
 [Loops](hackerrank/python/py-introduction/python-loops), 
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
+[Alphabet Rangoli](hackerrank/python/py-strings/alphabet-rangoli), 
 [Capitalize!](hackerrank/python/py-strings/capitalize), 
 [Find a string](hackerrank/python/py-strings/find-a-string), 
 [Merge the Tools!](hackerrank/python/py-strings/merge-the-tools), 
