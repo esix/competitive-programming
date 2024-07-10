@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 732
+Python     ████████████████████████████████████████████████████████████ 733
 C++        ████████████████████████████████████████ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
@@ -1217,6 +1217,7 @@ Raku       █ 1
 [Find a string](hackerrank/python/py-strings/find-a-string), 
 [Merge the Tools!](hackerrank/python/py-strings/merge-the-tools), 
 [Mutations](hackerrank/python/py-strings/python-mutations), 
+[sWAP cASE](hackerrank/python/py-strings/python-string-formatting), 
 [String Split and Join](hackerrank/python/py-strings/python-string-split-and-join), 
 [String Validators](hackerrank/python/py-strings/string-validators), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case), 

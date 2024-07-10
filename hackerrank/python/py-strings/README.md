@@ -1,8 +1,5 @@
 # Strings [⬀](https://www.hackerrank.com/domains/python/pystrings)
 
-
-
-
 | ID                           | Problem statement                                                                             | Solution                                        |
 |------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------|
 | alphabet-rangoli             | Alphabet Rangoli [⬀](https://www.hackerrank.com/challenges/alphabet-rangoli)                  | [main.py](alphabet-rangoli/main.py)             |
@@ -10,6 +7,7 @@
 | find-a-string                | Find a string [⬀](https://www.hackerrank.com/challenges/find-a-string)                        | [main.py](find-a-string/main.py)                |
 | merge-the-tools              | Merge the Tools! [⬀](https://www.hackerrank.com/challenges/merge-the-tools)                   | [main.py](merge-the-tools/main.py)              |
 | python-mutations             | Mutations [⬀](https://www.hackerrank.com/challenges/python-mutations)                         | [main.py](python-mutations/main.py)             |
+| python-string-formatting     | sWAP cASE [⬀](https://www.hackerrank.com/challenges/swap-case)                                | [main.py](python-string-formatting/main.py)     |
 | python-string-split-and-join | String Split and Join [⬀](https://www.hackerrank.com/challenges/python-string-split-and-join) | [main.py](python-string-split-and-join/main.py) |
 | string-validators            | String Validators [⬀](https://www.hackerrank.com/challenges/string-validators)                | [main.py](string-validators/main.py)            |
 | swap-case                    | sWAP cASE [⬀](https://www.hackerrank.com/challenges/swap-case)                                | [main.py](swap-case/main.py)                    |
