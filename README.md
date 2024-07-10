@@ -4,9 +4,9 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 729
+Python     ████████████████████████████████████████████████████████████ 730
 C++        ████████████████████████████████████████▌ 481
-JavaScript ██████████████ 158
+JavaScript █████████████▌ 158
 Go         █████████████▌ 157
 TypeScript ████ 42
 OCaml      ███▌ 36
@@ -1219,6 +1219,7 @@ Raku       █ 1
 [String Validators](hackerrank/python/py-strings/string-validators), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case), 
 [Text Alignment](hackerrank/python/py-strings/text-alignment), 
+[Text Wrap](hackerrank/python/py-strings/text-wrap), 
 [The Minion Game](hackerrank/python/py-strings/the-minion-game), 
 [What's Your Name?](hackerrank/python/py-strings/whats-your-name)
 

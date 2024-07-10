@@ -12,6 +12,7 @@
 | string-validators            | String Validators [⬀](https://www.hackerrank.com/challenges/string-validators)                | [main.py](string-validators/main.py)            |
 | swap-case                    | sWAP cASE [⬀](https://www.hackerrank.com/challenges/swap-case)                                | [main.py](swap-case/main.py)                    |
 | text-alignment               | Text Alignment [⬀](https://www.hackerrank.com/challenges/text-alignment)                      | [main.py](text-alignment/main.py)               |
+| text-wrap                    | Text Wrap [⬀](https://www.hackerrank.com/challenges/text-wrap)                                | [main.py](text-wrap/main.py)                    |
 | the-minion-game              | The Minion Game [⬀](https://www.hackerrank.com/challenges/the-minion-game)                    | [main.py](the-minion-game/main.py)              |
 | whats-your-name              | What's Your Name? [⬀](https://www.hackerrank.com/challenges/whats-your-name)                  | [main.py](whats-your-name/main.py)              |
 
