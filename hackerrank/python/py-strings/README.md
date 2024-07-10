@@ -4,6 +4,7 @@
 |------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------|
 | alphabet-rangoli             | Alphabet Rangoli [⬀](https://www.hackerrank.com/challenges/alphabet-rangoli)                  | [main.py](alphabet-rangoli/main.py)             |
 | capitalize                   | Capitalize! [⬀](https://www.hackerrank.com/challenges/capitalize)                             | [main.py](capitalize/main.py)                   |
+| designer-door-mat            | Designer Door Mat [⬀](https://www.hackerrank.com/challenges/designer-door-mat)                | [main.py](designer-door-mat/main.py)            |
 | find-a-string                | Find a string [⬀](https://www.hackerrank.com/challenges/find-a-string)                        | [main.py](find-a-string/main.py)                |
 | merge-the-tools              | Merge the Tools! [⬀](https://www.hackerrank.com/challenges/merge-the-tools)                   | [main.py](merge-the-tools/main.py)              |
 | python-mutations             | Mutations [⬀](https://www.hackerrank.com/challenges/python-mutations)                         | [main.py](python-mutations/main.py)             |
