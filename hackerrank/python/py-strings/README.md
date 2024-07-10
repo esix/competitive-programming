@@ -5,6 +5,7 @@
 
 | ID                           | Problem statement                                                                             | Solution                                        |
 |------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------|
+| capitalize                   | Capitalize! [⬀](https://www.hackerrank.com/challenges/capitalize)                             | [main.py](capitalize/main.py)                   |
 | find-a-string                | Find a string [⬀](https://www.hackerrank.com/challenges/find-a-string)                        | [main.py](find-a-string/main.py)                |
 | merge-the-tools              | Merge the Tools! [⬀](https://www.hackerrank.com/challenges/merge-the-tools)                   | [main.py](merge-the-tools/main.py)              |
 | python-mutations             | Mutations [⬀](https://www.hackerrank.com/challenges/python-mutations)                         | [main.py](python-mutations/main.py)             |
