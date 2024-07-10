@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 728
+Python     ████████████████████████████████████████████████████████████ 729
 C++        ████████████████████████████████████████▌ 481
 JavaScript ██████████████ 158
 Go         █████████████▌ 157
@@ -1218,6 +1218,7 @@ Raku       █ 1
 [String Split and Join](hackerrank/python/py-strings/python-string-split-and-join), 
 [String Validators](hackerrank/python/py-strings/string-validators), 
 [sWAP cASE](hackerrank/python/py-strings/swap-case), 
+[Text Alignment](hackerrank/python/py-strings/text-alignment), 
 [The Minion Game](hackerrank/python/py-strings/the-minion-game), 
 [What's Your Name?](hackerrank/python/py-strings/whats-your-name)
 
