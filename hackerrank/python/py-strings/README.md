@@ -1,4 +1,4 @@
-# Strings [⬀](https://www.hackerrank.com/domains/python/pystrings)
+# Strings [⬀](https://www.hackerrank.com/domains/python/py-strings)
 
 | ID                           | Problem statement                                                                             | Solution                                        |
 |------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------|
