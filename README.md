@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 737
+Python     ████████████████████████████████████████████████████████████ 739
 C++        ████████████████████████████████████████ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
@@ -1214,6 +1214,8 @@ Raku       █ 1
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
 [No Idea!](hackerrank/python/py-sets/no-idea), 
 [Introduction to Sets](hackerrank/python/py-sets/py-introduction-to-sets), 
+[Set .add()](hackerrank/python/py-sets/py-set-add), 
+[Set .discard(), .remove() & .pop()](hackerrank/python/py-sets/py-set-discard-remove-pop), 
 [Symmetric Difference](hackerrank/python/py-sets/symmetric-difference), 
 [Alphabet Rangoli](hackerrank/python/py-strings/alphabet-rangoli), 
 [Capitalize!](hackerrank/python/py-strings/capitalize), 
