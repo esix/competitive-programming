@@ -4,8 +4,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 739
-C++        ████████████████████████████████████████ 481
+Python     ████████████████████████████████████████████████████████████ 744
+C++        ███████████████████████████████████████▌ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
 TypeScript ████ 42
@@ -1215,7 +1215,12 @@ Raku       █ 1
 [No Idea!](hackerrank/python/py-sets/no-idea), 
 [Introduction to Sets](hackerrank/python/py-sets/py-introduction-to-sets), 
 [Set .add()](hackerrank/python/py-sets/py-set-add), 
+[Set .difference() Operation](hackerrank/python/py-sets/py-set-difference-operation), 
 [Set .discard(), .remove() & .pop()](hackerrank/python/py-sets/py-set-discard-remove-pop), 
+[Set .intersection() Operation](hackerrank/python/py-sets/py-set-intersection-operation), 
+[Set Mutations](hackerrank/python/py-sets/py-set-mutations), 
+[Set .symmetric_difference() Operation](hackerrank/python/py-sets/py-set-symmetric-difference-operation), 
+[Set .union() Operation](hackerrank/python/py-sets/py-set-union), 
 [Symmetric Difference](hackerrank/python/py-sets/symmetric-difference), 
 [Alphabet Rangoli](hackerrank/python/py-strings/alphabet-rangoli), 
 [Capitalize!](hackerrank/python/py-strings/capitalize), 
