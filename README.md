@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 744
+Python     ████████████████████████████████████████████████████████████ 745
 C++        ███████████████████████████████████████▌ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
@@ -1221,6 +1221,7 @@ Raku       █ 1
 [Set Mutations](hackerrank/python/py-sets/py-set-mutations), 
 [Set .symmetric_difference() Operation](hackerrank/python/py-sets/py-set-symmetric-difference-operation), 
 [Set .union() Operation](hackerrank/python/py-sets/py-set-union), 
+[The Captain's Room](hackerrank/python/py-sets/py-the-captains-room), 
 [Symmetric Difference](hackerrank/python/py-sets/symmetric-difference), 
 [Alphabet Rangoli](hackerrank/python/py-strings/alphabet-rangoli), 
 [Capitalize!](hackerrank/python/py-strings/capitalize), 

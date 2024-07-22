@@ -12,5 +12,6 @@
 | py-set-mutations                      | Set Mutations [⬀](https://www.hackerrank.com/challenges/py-set-mutations)                                              | [main.py](py-set-mutations/main.py)                      |
 | py-set-symmetric-difference-operation | Set .symmetric_difference() Operation [⬀](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [main.py](py-set-symmetric-difference-operation/main.py) |
 | py-set-union                          | Set .union() Operation [⬀](https://www.hackerrank.com/challenges/py-set-union)                                         | [main.py](py-set-union/main.py)                          |
+| py-the-captains-room                  | The Captain's Room [⬀](https://www.hackerrank.com/challenges/py-the-captains-room)                                     | [main.py](py-the-captains-room/main.py)                  |
 | symmetric-difference                  | Symmetric Difference [⬀](https://www.hackerrank.com/challenges/symmetric-difference)                                   | [main.py](symmetric-difference/main.py)                  |
 
