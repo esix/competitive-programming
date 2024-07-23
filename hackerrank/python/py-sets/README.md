@@ -4,6 +4,7 @@
 | ID                                    | Problem statement                                                                                                      | Solution                                                 |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | no-idea                               | No Idea! [⬀](https://www.hackerrank.com/challenges/no-idea)                                                            | [main.py](no-idea/main.py)                               |
+| py-check-subset                       | Check Subset [⬀](https://www.hackerrank.com/challenges/py-check-subset)                                                | [main.py](py-check-subset/main.py)                       |
 | py-introduction-to-sets               | Introduction to Sets [⬀](https://www.hackerrank.com/challenges/py-introduction-to-sets)                                | [main.py](py-introduction-to-sets/main.py)               |
 | py-set-add                            | Set .add() [⬀](https://www.hackerrank.com/challenges/py-set-add)                                                       | [main.py](py-set-add/main.py)                            |
 | py-set-difference-operation           | Set .difference() Operation [⬀](https://www.hackerrank.com/challenges/py-set-difference-operation)                     | [main.py](py-set-difference-operation/main.py)           |
