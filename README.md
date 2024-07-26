@@ -4,10 +4,10 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 750
+Python     ████████████████████████████████████████████████████████████ 754
 C++        ███████████████████████████████████████ 481
 JavaScript █████████████▌ 158
-Go         █████████████▌ 157
+Go         █████████████ 157
 TypeScript ████ 42
 OCaml      ███▌ 36
 Pascal     ██ 17
@@ -1213,6 +1213,10 @@ Raku       █ 1
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
 [Find Angle MBC](hackerrank/python/py-math/find-angle), 
+[Polar Coordinates](hackerrank/python/py-math/polar-coordinates), 
+[Integers Come In All Sizes](hackerrank/python/py-math/python-integers-come-in-all-sizes), 
+[Mod Divmod](hackerrank/python/py-math/python-mod-divmod), 
+[Power - Mod Power](hackerrank/python/py-math/python-power-mod-power), 
 [Triangle Quest](hackerrank/python/py-math/python-quest-1), 
 [Triangle Quest 2](hackerrank/python/py-math/triangle-quest-2), 
 [No Idea!](hackerrank/python/py-sets/no-idea), 
