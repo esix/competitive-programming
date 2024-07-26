@@ -4,8 +4,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 749
-C++        ███████████████████████████████████████▌ 481
+Python     ████████████████████████████████████████████████████████████ 750
+C++        ███████████████████████████████████████ 481
 JavaScript █████████████▌ 158
 Go         █████████████▌ 157
 TypeScript ████ 42
@@ -1213,6 +1213,7 @@ Raku       █ 1
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
 [Find Angle MBC](hackerrank/python/py-math/find-angle), 
+[Triangle Quest](hackerrank/python/py-math/python-quest-1), 
 [Triangle Quest 2](hackerrank/python/py-math/triangle-quest-2), 
 [No Idea!](hackerrank/python/py-sets/no-idea), 
 [Check Strict Superset](hackerrank/python/py-sets/py-check-strict-superset), 
