@@ -1,4 +1,4 @@
-# Sets [⬀](https://www.hackerrank.com/domains/python/p-yets)
+# Sets [⬀](https://www.hackerrank.com/domains/python/py-sets)
 
 
 | ID                                    | Problem statement                                                                                                      | Solution                                                 |
