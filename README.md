@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 755
+Python     ████████████████████████████████████████████████████████████ 756
 C++        ███████████████████████████████████████ 481
 JavaScript █████████████▌ 158
 Go         █████████████ 157
@@ -1213,6 +1213,7 @@ Raku       █ 1
 [Print Function](hackerrank/python/py-introduction/python-print), 
 [Write a function](hackerrank/python/py-introduction/write-a-function), 
 [itertools.product()](hackerrank/python/py-itertools/itertools-product), 
+[Maximize It!](hackerrank/python/py-itertools/maximize-it), 
 [Find Angle MBC](hackerrank/python/py-math/find-angle), 
 [Polar Coordinates](hackerrank/python/py-math/polar-coordinates), 
 [Integers Come In All Sizes](hackerrank/python/py-math/python-integers-come-in-all-sizes), 
