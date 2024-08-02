@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 762
+Python     ████████████████████████████████████████████████████████████ 763
 C++        ██████████████████████████████████████▌ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
@@ -1206,6 +1206,7 @@ Raku       █ 1
 [Lists](hackerrank/python/py-basic-data-types/python-lists), 
 [Tuples](hackerrank/python/py-basic-data-types/python-tuples), 
 [collections.Counter()](hackerrank/python/py-collections/collections-counter), 
+[DefaultDict Tutorial](hackerrank/python/py-collections/defaultdict-tutorial), 
 [Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
 [Python If-Else](hackerrank/python/py-introduction/py-if-else), 
 [Arithmetic Operators](hackerrank/python/py-introduction/python-arithmetic-operators), 
