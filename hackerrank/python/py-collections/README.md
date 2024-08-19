@@ -5,4 +5,5 @@
 |----------------------|--------------------------------------------------------------------------------------|-----------------------------------------|
 | collections-counter  | collections.Counter() [⬀](https://www.hackerrank.com/challenges/collections-counter) | [main.py](collections-counter/main.py)  |
 | defaultdict-tutorial | DefaultDict Tutorial [⬀](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [main.py](defaultdict-tutorial/main.py) |
+| piling-up            | Piling Up! [⬀](https://www.hackerrank.com/challenges/piling-up)                      | [main.py](piling-up/main.py)            |
 
