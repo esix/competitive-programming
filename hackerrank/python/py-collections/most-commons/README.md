@@ -15,7 +15,7 @@ For example, according to the conditions described above,
 
 - A single line of input containing the string `S`.
 
-Constraints
+## Constraints
 - `3 < len(S) < 10⁴`
 - `S` has at least `3` distinct characters
 
