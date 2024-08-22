@@ -11,7 +11,7 @@ Go         █████████████ 157
 TypeScript ████ 42
 OCaml      ███▌ 36
 Pascal     ██ 17
-Ada        █▌ 10
+Ada        █▌ 11
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
