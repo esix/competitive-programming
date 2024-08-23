@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 766
+Python     ████████████████████████████████████████████████████████████ 767
 C++        ██████████████████████████████████████▌ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
@@ -1209,6 +1209,7 @@ Raku       █ 1
 [DefaultDict Tutorial](hackerrank/python/py-collections/defaultdict-tutorial), 
 [Company Logo](hackerrank/python/py-collections/most-commons), 
 [Piling Up!](hackerrank/python/py-collections/piling-up), 
+[Collections.namedtuple()](hackerrank/python/py-collections/py-collections-namedtuple), 
 [Word Order](hackerrank/python/py-collections/word-order), 
 [Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
 [Python If-Else](hackerrank/python/py-introduction/py-if-else), 
