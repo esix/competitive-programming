@@ -10,8 +10,8 @@ JavaScript █████████████ 158
 Go         █████████████ 157
 TypeScript ████ 42
 OCaml      ███▌ 36
+Ada        ██ 18
 Pascal     ██ 17
-Ada        ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
