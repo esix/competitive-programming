@@ -36,4 +36,5 @@
 | 8c | Counting Characters [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_C)          | [main.ml](8c/main.ml) |
 | 8d | Ring [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_D)                         | [main.ml](8d/main.ml) |
 | 9a | Finding a Word [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_9_A)               | [main.ml](9a/main.ml) |
+| 9b | Shuffle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_9_B)                      | [main.ml](9b/main.ml) |
 
