@@ -9,7 +9,7 @@ C++        ███████████████████████
 JavaScript █████████████ 158
 Go         █████████████ 157
 TypeScript ████ 42
-OCaml      ███▌ 38
+OCaml      ████ 39
 Ada        ██▌ 25
 Pascal     ██ 17
 Scheme     █▌ 10
@@ -244,6 +244,7 @@ Raku       █ 1
 [Finding a Word](aoj/itp1/9a), 
 [Shuffle](aoj/itp1/9b), 
 [Card Game](aoj/itp1/9c), 
+[Transformation](aoj/itp1/9d), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
