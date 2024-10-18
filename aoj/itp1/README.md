@@ -41,4 +41,5 @@
 | 9d  | Transformation [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_9_D)               | [main.ml](9d/main.ml)  |
 | 10a | Distance [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_A)                    | [main.ml](10a/main.ml) |
 | 10b | Triangle [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_B)                    | [main.ml](10b/main.ml) |
+| 10c | Standard Deviation [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_C)          | [main.ml](10c/main.ml) |
 

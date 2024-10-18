@@ -8,8 +8,8 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
+OCaml      ████ 42
 TypeScript ████ 42
-OCaml      ████ 41
 Ada        ██▌ 25
 Pascal     ██ 17
 Scheme     █▌ 10
@@ -247,6 +247,7 @@ Raku       █ 1
 [Transformation](aoj/itp1/9d), 
 [Distance](aoj/itp1/10a), 
 [Triangle](aoj/itp1/10b), 
+[Standard Deviation](aoj/itp1/10c), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
