@@ -44,4 +44,5 @@
 | 10c | Standard Deviation [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_C)          | [main.ml](10c/main.ml) |
 | 10d | Distance II [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_D)                 | [main.ml](10d/main.ml) |
 | 11a | Dice I [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_A)                      | [main.ml](11a/main.ml) |
+| 11b | Dice II [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_B)                     | [main.ml](11b/main.ml) |
 
