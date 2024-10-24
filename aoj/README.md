@@ -49,6 +49,7 @@ Aizu Online Judge
 | 10d  | Distance II [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_D)                 | [main.ml](itp1/10d/main.ml)         |
 | 11a  | Dice I [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_A)                      | [main.ml](itp1/11a/main.ml)         |
 | 11b  | Dice II [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_B)                     | [main.ml](itp1/11b/main.ml)         |
+| 11c  | Dice III [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_C)                    | [main.ml](itp1/11c/main.ml)         |
 |      | **Volume 0** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?volumeNo=0)                       | [volume-00](volume-00/)             |
 | 0000 | QQ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0000)                               | [main.js](volume-00/0000/main.js)   |
 | 0001 | List of Top 3 Hills [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0001)              | [main.cpp](volume-00/0001/main.cpp) |
