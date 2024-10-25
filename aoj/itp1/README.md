@@ -46,4 +46,5 @@
 | 11a | Dice I [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_A)                      | [main.ml](11a/main.ml) |
 | 11b | Dice II [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_B)                     | [main.ml](11b/main.ml) |
 | 11c | Dice III [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_C)                    | [main.ml](11c/main.ml) |
+| 11d | Dice IV [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_11_D)                     | [main.ml](11d/main.ml) |
 

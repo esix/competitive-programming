@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      ████▌ 46
+OCaml      ████▌ 47
 TypeScript ████ 42
 Ada        ██▌ 25
 Pascal     ██ 17
@@ -252,6 +252,7 @@ Raku       █ 1
 [Dice I](aoj/itp1/11a), 
 [Dice II](aoj/itp1/11b), 
 [Dice III](aoj/itp1/11c), 
+[Dice IV](aoj/itp1/11d), 
 [QQ](aoj/volume-00/0000), 
 [List of Top 3 Hills](aoj/volume-00/0001), 
 [Digit Number](aoj/volume-00/0002), 
