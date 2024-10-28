@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      ████▌ 47
+OCaml      ████▌ 48
 TypeScript ████ 42
 Ada        ██▌ 25
 Pascal     ██ 17
@@ -209,6 +209,7 @@ Raku       █ 1
 
 ## AOJ [⬀](https://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
+[Insertion Sort](aoj/alds1/1a), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
