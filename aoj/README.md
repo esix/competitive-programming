@@ -11,6 +11,7 @@ Aizu Online Judge
 | 1b   | Greatest Common Divisor [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_B)                  | [main.ml](alds1/1b/main.ml)         |
 | 1c   | Prime Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_C)                            | [main.ml](alds1/1c/main.ml)         |
 | 1d   | Maximum Profit [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_D)                           | [main.ml](alds1/1d/main.ml)         |
+| 2a   | Bubble Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_A)                              | [main.ml](alds1/2a/main.ml)         |
 |      | **Introduction to Programming I** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)              | [itp1](itp1/)                       |
 | 1a   | Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A)                               | [main.ml](itp1/1a/main.ml)          |
 | 1b   | X Cubic [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)                                   | [main.ml](itp1/1b/main.ml)          |
