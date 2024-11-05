@@ -8,4 +8,5 @@
 | 1c | Prime Numbers [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_C)           | [main.ml](1c/main.ml) |
 | 1d | Maximum Profit [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_D)          | [main.ml](1d/main.ml) |
 | 2a | Bubble Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_A)             | [main.ml](2a/main.ml) |
+| 2b | Selection Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_B)          | [main.ml](2b/main.ml) |
 

@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      █████ 52
+OCaml      █████ 53
 TypeScript ████ 42
 Ada        ███ 26
 Pascal     ██ 17
@@ -214,6 +214,7 @@ Raku       █ 1
 [Prime Numbers](aoj/alds1/1c), 
 [Maximum Profit](aoj/alds1/1d), 
 [Bubble Sort](aoj/alds1/2a), 
+[Selection Sort](aoj/alds1/2b), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 

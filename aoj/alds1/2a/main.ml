@@ -4,7 +4,7 @@ let print_array a =
     Printf.printf (if i = n - 1 then "%d\n" else "%d ") a.(i);
   done in
 
-  let read_and_solve n = 
+let read_and_solve n = 
   let a = Array.init n (fun idx -> Scanf.scanf "%d " (fun x -> x)) in
   let count = ref 0 in
   for i = 0 to n - 1 do
@@ -13,7 +13,7 @@ let print_array a =
         let tmp = a.(j) in 
         a.(j) <- a.(j - 1);
         a.(j - 1) <- tmp;
-        count := !count + 1;       
+        count := !count + 1;
       end
     done
   done;
