@@ -11,4 +11,5 @@
 | 2b | Selection Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_B)          | [main.ml](2b/main.ml) |
 | 2c | Stable Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_C)             | [main.ml](2c/main.ml) |
 | 2d | Shell Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_D)              | [main.ml](2d/main.ml) |
+| 3a | Stack [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_A)                   | [main.ml](3a/main.ml) |
 
