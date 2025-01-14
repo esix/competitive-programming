@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 770
+Python     ████████████████████████████████████████████████████████████ 771
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
@@ -1233,6 +1233,7 @@ Raku       █ 1
 [Collections.namedtuple()](hackerrank/python/py-collections/py-collections-namedtuple), 
 [Collections.OrderedDict()](hackerrank/python/py-collections/py-collections-ordereddict), 
 [Word Order](hackerrank/python/py-collections/word-order), 
+[Calendar Module](hackerrank/python/py-date-time/calendar-module), 
 [Time Delta](hackerrank/python/py-date-time/python-time-delta), 
 [Say "Hello, World!" With Python](hackerrank/python/py-introduction/py-hello-world), 
 [Python If-Else](hackerrank/python/py-introduction/py-if-else), 
