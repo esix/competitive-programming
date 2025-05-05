@@ -16,6 +16,7 @@ Aizu Online Judge
 | 2c   | Stable Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_C)                              | [main.ml](alds1/2c/main.ml)         |
 | 2d   | Shell Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_2_D)                               | [main.ml](alds1/2d/main.ml)         |
 | 3a   | Stack [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_A)                                    | [main.ml](alds1/3a/main.ml)         |
+| 3b   | Queue [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_B)                                    | [main.ml](alds1/3b/main.ml)         |
 |      | **Introduction to Programming I** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)              | [itp1](itp1/)                       |
 | 1a   | Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A)                               | [main.ml](itp1/1a/main.ml)          |
 | 1b   | X Cubic [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)                                   | [main.ml](itp1/1b/main.ml)          |
