@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      █████▌ 59
+OCaml      █████▌ 60
 TypeScript ████ 42
 Ada        ███ 30
 Pascal     ██ 17
@@ -221,6 +221,7 @@ Raku       █ 1
 [Queue](aoj/alds1/3b), 
 [Doubly Linked List](aoj/alds1/3c), 
 [Areas on the Cross-Section Diagram](aoj/alds1/3d), 
+[Linear Search](aoj/alds1/4a), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
