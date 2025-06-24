@@ -20,6 +20,7 @@ Aizu Online Judge
 | 3c   | Doubly Linked List [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_C)                            | [main.ml](alds1/3c/main.ml)         |
 | 3d   | Areas on the Cross-Section Diagram [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_D)            | [main.ml](alds1/3d/main.ml)         |
 | 4a   | Linear Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_A)                                 | [main.ml](alds1/4a/main.ml)         |
+| 4b   | Binary Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)                                 | [main.ml](alds1/4b/main.ml)         |
 |      | **Introduction to Programming I** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)                   | [itp1](itp1/)                       |
 | 1a   | Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A)                                    | [main.ml](itp1/1a/main.ml)          |
 | 1b   | X Cubic [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)                                        | [main.ml](itp1/1b/main.ml)          |

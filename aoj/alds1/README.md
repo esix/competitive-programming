@@ -16,4 +16,5 @@
 | 3c | Doubly Linked List [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_C)                 | [main.ml](3c/main.ml) |
 | 3d | Areas on the Cross-Section Diagram [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_D) | [main.ml](3d/main.ml) |
 | 4a | Linear Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_A)                      | [main.ml](4a/main.ml) |
+| 4b | Binary Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)                      | [main.ml](4b/main.ml) |
 
