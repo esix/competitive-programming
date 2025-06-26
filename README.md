@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      █████▌ 62
+OCaml      █████▌ 63
 TypeScript ████ 42
 Ada        ███ 30
 Pascal     ██ 17
@@ -224,6 +224,7 @@ Raku       █ 1
 [Linear Search](aoj/alds1/4a), 
 [Binary Search](aoj/alds1/4b), 
 [Dictionary](aoj/alds1/4c), 
+[Allocation](aoj/alds1/4d), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
