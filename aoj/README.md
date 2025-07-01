@@ -23,6 +23,7 @@ Aizu Online Judge
 | 4b   | Binary Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)                                 | [main.ml](alds1/4b/main.ml)         |
 | 4c   | Dictionary [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_C)                                    | [main.ml](alds1/4c/main.ml)         |
 | 4d   | Allocation [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_D)                                    | [main.ml](alds1/4d/main.ml)         |
+| 5a   | Exhaustive Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A)                             | [main.ml](alds1/5a/main.ml)         |
 |      | **Introduction to Programming I** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)                   | [itp1](itp1/)                       |
 | 1a   | Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A)                                    | [main.ml](itp1/1a/main.ml)          |
 | 1b   | X Cubic [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)                                        | [main.ml](itp1/1b/main.ml)          |

@@ -19,4 +19,5 @@
 | 4b | Binary Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B)                      | [main.ml](4b/main.ml) |
 | 4c | Dictionary [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_C)                         | [main.ml](4c/main.ml) |
 | 4d | Allocation [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_D)                         | [main.ml](4d/main.ml) |
+| 5a | Exhaustive Search [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A)                  | [main.ml](5a/main.ml) |
 
