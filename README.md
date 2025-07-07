@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      ██████ 66
+OCaml      ██████ 68
 TypeScript ████ 42
 Ada        ███ 32
 Pascal     ██ 17
@@ -228,6 +228,8 @@ Raku       █ 1
 [Exhaustive Search](aoj/alds1/5a), 
 [Merge Sort](aoj/alds1/5b), 
 [Koch Curve](aoj/alds1/5c), 
+[The Number of Inversions](aoj/alds1/5d), 
+[Counting Sort](aoj/alds1/6a), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
