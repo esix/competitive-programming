@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      ██████ 68
+OCaml      ██████ 69
 TypeScript ████ 42
 Ada        ███ 32
 Pascal     ██ 17
@@ -230,6 +230,7 @@ Raku       █ 1
 [Koch Curve](aoj/alds1/5c), 
 [The Number of Inversions](aoj/alds1/5d), 
 [Counting Sort](aoj/alds1/6a), 
+[Partition](aoj/alds1/6b), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
