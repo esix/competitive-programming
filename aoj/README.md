@@ -29,6 +29,7 @@ Aizu Online Judge
 | 5d   | The Number of Inversions [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_D)                      | [main.ml](alds1/5d/main.ml)         |
 | 6a   | Counting Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_A)                                 | [main.ml](alds1/6a/main.ml)         |
 | 6b   | Partition [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_B)                                     | [main.ml](alds1/6b/main.ml)         |
+| 6c   | Quick Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_C)                                    | [main.ml](alds1/6c/main.ml)         |
 |      | **Introduction to Programming I** [⬀](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)                   | [itp1](itp1/)                       |
 | 1a   | Hello World [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A)                                    | [main.ml](itp1/1a/main.ml)          |
 | 1b   | X Cubic [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_B)                                        | [main.ml](itp1/1b/main.ml)          |

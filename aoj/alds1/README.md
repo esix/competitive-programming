@@ -25,4 +25,5 @@
 | 5d | The Number of Inversions [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_D)           | [main.ml](5d/main.ml) |
 | 6a | Counting Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_A)                      | [main.ml](6a/main.ml) |
 | 6b | Partition [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_B)                          | [main.ml](6b/main.ml) |
+| 6c | Quick Sort [⬀](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_6_C)                         | [main.ml](6c/main.ml) |
 
