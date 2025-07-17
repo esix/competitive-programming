@@ -8,7 +8,7 @@ Python     ███████████████████████
 C++        ██████████████████████████████████████ 481
 JavaScript █████████████ 158
 Go         █████████████ 157
-OCaml      ██████ 70
+OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ███▌ 33
 Pascal     ██ 17
@@ -232,6 +232,7 @@ Raku       █ 1
 [Counting Sort](aoj/alds1/6a), 
 [Partition](aoj/alds1/6b), 
 [Quick Sort](aoj/alds1/6c), 
+[Minimum Cost Sort](aoj/alds1/6d), 
 [Hello World](aoj/itp1/1a), 
 [X Cubic](aoj/itp1/1b), 
 [Rectangle](aoj/itp1/1c), 
