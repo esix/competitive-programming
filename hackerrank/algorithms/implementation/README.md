@@ -59,6 +59,6 @@
 | the-birthday-bar                | Subarray Division [⬀](https://www.hackerrank.com/challenges/the-birthday-bar)                               | [main.ts](the-birthday-bar/main.ts)                                                          |
 | the-grid-search                 | The Grid Search [⬀](https://www.hackerrank.com/challenges/the-grid-search)                                  | [main.ts](the-grid-search/main.ts), [solution.adb](the-grid-search/solution.adb)             |
 | the-hurdle-race                 | The Hurdle Race [⬀](https://www.hackerrank.com/challenges/the-hurdle-race)                                  | [main.ts](the-hurdle-race/main.ts)                                                           |
-| the-time-in-words               | The Time in Words [⬀](https://www.hackerrank.com/challenges/the-time-in-words)                              | [main.ts](the-time-in-words/main.ts)                                                         |
+| the-time-in-words               | The Time in Words [⬀](https://www.hackerrank.com/challenges/the-time-in-words)                              | [main.ts](the-time-in-words/main.ts), [solution.adb](the-time-in-words/solution.adb)         |
 | utopian-tree                    | Utopian Tree [⬀](https://www.hackerrank.com/challenges/utopian-tree)                                        | [main.ts](utopian-tree/main.ts), [solution.adb](utopian-tree/solution.adb)                   |
 
