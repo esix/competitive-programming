@@ -10,7 +10,7 @@ JavaScript █████████████ 158
 Go         █████████████ 157
 OCaml      ██████▌ 71
 TypeScript ████ 42
-Ada        ███▌ 35
+Ada        ███▌ 36
 Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
@@ -1210,6 +1210,7 @@ Raku       █ 1
 [Queen's Attack II](hackerrank/algorithms/implementation/queens-attack-2), 
 [Repeated String](hackerrank/algorithms/implementation/repeated-string), 
 [Save the Prisoner!](hackerrank/algorithms/implementation/save-the-prisoner), 
+[Service Lane](hackerrank/algorithms/implementation/service-lane), 
 [Sherlock and Squares](hackerrank/algorithms/implementation/sherlock-and-squares), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Viral Advertising](hackerrank/algorithms/implementation/strange-advertising), 
