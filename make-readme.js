@@ -84,6 +84,7 @@ const LANGUAGE_BY_EXTENSION = {
   'f95': 'Fortran',
   'sh': 'bash',
   'p6': 'Raku',
+  'clj': 'Clojure'
 }
 
 function renderUsedExtensions(lines, count) {
