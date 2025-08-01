@@ -15,10 +15,10 @@ Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
+Clojure    █ 2
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
-Clojure    █ 1
 bash       █ 1
 Raku       █ 1
 ```
