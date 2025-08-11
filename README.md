@@ -10,7 +10,7 @@ JavaScript █████████████ 158
 Go         █████████████ 157
 OCaml      ██████▌ 71
 TypeScript ████ 42
-Ada        ███▌ 38
+Ada        ████ 39
 Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
@@ -1221,6 +1221,7 @@ Raku       █ 1
 [The Hurdle Race](hackerrank/algorithms/implementation/the-hurdle-race), 
 [The Time in Words](hackerrank/algorithms/implementation/the-time-in-words), 
 [Utopian Tree](hackerrank/algorithms/implementation/utopian-tree), 
+[Caesar Cipher](hackerrank/algorithms/strings/caesar-cipher-1), 
 [CamelCase](hackerrank/algorithms/strings/camelcase), 
 [String Function Calculation](hackerrank/algorithms/strings/string-function-calculation), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
