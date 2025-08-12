@@ -10,7 +10,7 @@ JavaScript █████████████ 158
 Go         █████████████ 157
 OCaml      ██████▌ 71
 TypeScript ████ 42
-Ada        ████ 39
+Ada        ████ 40
 Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
@@ -1223,6 +1223,7 @@ Raku       █ 1
 [Utopian Tree](hackerrank/algorithms/implementation/utopian-tree), 
 [Caesar Cipher](hackerrank/algorithms/strings/caesar-cipher-1), 
 [CamelCase](hackerrank/algorithms/strings/camelcase), 
+[Super Reduced String](hackerrank/algorithms/strings/reduced-string), 
 [String Function Calculation](hackerrank/algorithms/strings/string-function-calculation), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
