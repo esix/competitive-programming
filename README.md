@@ -15,7 +15,7 @@ Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
-Clojure    █ 5
+Clojure    █▌ 7
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
