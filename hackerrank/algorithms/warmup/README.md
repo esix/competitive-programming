@@ -10,6 +10,6 @@
 | simple-array-sum      | Simple Array Sum [⬀](https://www.hackerrank.com/challenges/simple-array-sum)           | [main.ts](simple-array-sum/main.ts), [solution.adb](simple-array-sum/solution.adb), [solution.clj](simple-array-sum/solution.clj) |
 | solve-me-first        | Solve me first [⬀](https://www.hackerrank.com/challenges/solve-me-first)               | [main.cpp](solve-me-first/main.cpp), [solution.adb](solve-me-first/solution.adb), [solution.clj](solve-me-first/solution.clj)     |
 | solve-me-second       | Solve me second [⬀](https://www.hackerrank.com/challenges/solve-me-second)             | [main.sh](solve-me-second/main.sh)                                                                                                |
-| staircase             | Staircase [⬀](https://www.hackerrank.com/challenges/staircase)                         | [main.ts](staircase/main.ts)                                                                                                      |
+| staircase             | Staircase [⬀](https://www.hackerrank.com/challenges/staircase)                         | [main.clj](staircase/main.clj), [main.ts](staircase/main.ts)                                                                      |
 | time-conversion       | Time Conversion [⬀](https://www.hackerrank.com/challenges/time-conversion)             | [main.clj](time-conversion/main.clj), [main.ts](time-conversion/main.ts)                                                          |
 

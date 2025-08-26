@@ -14,8 +14,8 @@ Ada        ████ 41
 Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
+Clojure    █▌ 9
 Basic      █▌ 9
-Clojure    █▌ 8
 Fortran    █ 2
 C          █ 1
 SQL        █ 1
