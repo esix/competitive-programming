@@ -12,9 +12,9 @@ OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
 Pascal     ██ 17
+Clojure    █▌ 10
 Scheme     █▌ 10
 Java       █▌ 9
-Clojure    █▌ 9
 Basic      █▌ 9
 Fortran    █ 2
 C          █ 1
