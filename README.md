@@ -12,7 +12,7 @@ OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
 Pascal     ██ 17
-Clojure    █▌ 11
+Clojure    █▌ 12
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
@@ -1216,6 +1216,7 @@ Raku       █ 1
 [Sherlock and Squares](hackerrank/algorithms/implementation/sherlock-and-squares), 
 [Sales by Match](hackerrank/algorithms/implementation/sock-merchant), 
 [Viral Advertising](hackerrank/algorithms/implementation/strange-advertising), 
+[Strange Counter](hackerrank/algorithms/implementation/strange-code), 
 [Taum and B'day](hackerrank/algorithms/implementation/taum-and-bday), 
 [Subarray Division](hackerrank/algorithms/implementation/the-birthday-bar), 
 [The Grid Search](hackerrank/algorithms/implementation/the-grid-search), 
