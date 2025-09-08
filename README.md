@@ -12,7 +12,7 @@ OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
 Pascal     ██ 17
-Clojure    ██ 13
+Clojure    ██ 14
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
@@ -1203,6 +1203,7 @@ Raku       █ 1
 [Library Fine](hackerrank/algorithms/implementation/library-fine), 
 [Lisa's Workbook](hackerrank/algorithms/implementation/lisa-workbook), 
 [Forming a Magic Square](hackerrank/algorithms/implementation/magic-square-forming), 
+[Manasa and Stones](hackerrank/algorithms/implementation/manasa-and-stones), 
 [Matrix Layer Rotation](hackerrank/algorithms/implementation/matrix-rotation-algo), 
 [Migratory Birds](hackerrank/algorithms/implementation/migratory-birds), 
 [Minimum Distances](hackerrank/algorithms/implementation/minimum-distances), 
