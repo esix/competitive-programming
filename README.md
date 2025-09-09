@@ -12,7 +12,7 @@ OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
 Pascal     ██ 17
-Clojure    ██ 14
+Clojure    ██ 15
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
@@ -1177,6 +1177,7 @@ Raku       █ 1
 [Bill Division](hackerrank/algorithms/implementation/bon-appetit), 
 [Breaking the Records](hackerrank/algorithms/implementation/breaking-best-and-worst-records), 
 [Cats and a Mouse](hackerrank/algorithms/implementation/cats-and-a-mouse), 
+[Cavity Map](hackerrank/algorithms/implementation/cavity-map), 
 [Chocolate Feast](hackerrank/algorithms/implementation/chocolate-feast), 
 [Circular Array Rotation](hackerrank/algorithms/implementation/circular-array-rotation), 
 [Climbing the Leaderboard](hackerrank/algorithms/implementation/climbing-the-leaderboard), 
