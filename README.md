@@ -12,7 +12,7 @@ OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
 Pascal     ██ 17
-Clojure    ██ 15
+Clojure    ██ 16
 Scheme     █▌ 10
 Java       █▌ 9
 Basic      █▌ 9
@@ -1191,6 +1191,7 @@ Raku       █ 1
 [Encryption](hackerrank/algorithms/implementation/encryption), 
 [Equalize the Array](hackerrank/algorithms/implementation/equality-in-a-array), 
 [Extra Long Factorials](hackerrank/algorithms/implementation/extra-long-factorials), 
+[Fair Rations](hackerrank/algorithms/implementation/fair-rations), 
 [Find Digits](hackerrank/algorithms/implementation/find-digits), 
 [Flatland Space Stations](hackerrank/algorithms/implementation/flatland-space-stations), 
 [Grading Students](hackerrank/algorithms/implementation/grading), 
