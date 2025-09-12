@@ -35,13 +35,10 @@ function readLine() {
 function workbook(n, k, arr) {
     let page = 1, result = 0;
     arr.forEach((count, idx) => {
-       const chapter = idx + 1;
-       let i = 1;
-       for (; i <= count; i+= k) {
+       for (let i = 1; i <= count; i+= k) {
            const minProblem = i, maxProblem = Math.min(count, i + k - 1);
            if (minProblem <= page && page <= maxProblem) {
                result++;
-               console.log('Has ')
            }
            page++;
        }
