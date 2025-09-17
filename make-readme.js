@@ -87,23 +87,58 @@ const LANGUAGE_BY_EXTENSION = {
   'clj': 'Clojure'
 }
 
-function renderUsedExtensions(lines, count) {
+const GROUPINGS = [
+  ['js', 'ts'],
+  ['c', 'cpp'],
+  ['scm', 'clj']
+]
+
+function renderUsedExtensions(lines, countByExt) {
+  let count = {};
+  for (const [ext, value] of Object.entries(countByExt)) {
+    const group = GROUPINGS.find(group => group.includes(ext));
+    let keyName;
+    if (group) {
+      keyName = group.map(ext => LANGUAGE_BY_EXTENSION[ext]).join('/');
+    } else {
+      keyName = LANGUAGE_BY_EXTENSION[ext];
+    }
+
+    if (!(keyName in count)) {
+      count[keyName] = group?.map(x => 0) ?? [0];
+    }
+
+    count[keyName][group?.indexOf(ext) ?? 0] += value;
+  }
+
   lines.push('## Programming Languages')
   lines.push('```');
   let exts = Object.keys(count);
-  exts.sort((ext1, ext2) => count[ext2] - count[ext1]);
+  const sum = (arr) => arr.reduce((acc, v) => acc+ v, 0);
+  exts.sort((ext1, ext2) => sum(count[ext2]) - sum(count[ext1]));
   const max = count[exts[0]];
-  const maxLanguageLength = Math.max(...Object.values(LANGUAGE_BY_EXTENSION).map(l => l.length));
+  const maxLanguageLength = Math.max(...Object.keys(count).map(l => l.length));
  
   exts.forEach(ext => {
-    const n = count[ext];
-    let p = 60 * n / max;
-    let bar = '';
-    for (let i = 0; i < p; i++) bar += '█';
-    if (p - Math.floor(p) > 0.5 || bar.length === 0) bar += '▌';
-    let s = (LANGUAGE_BY_EXTENSION[ext] || ext).padEnd(maxLanguageLength + 1, ' ') + 
+    const ns = count[ext];
+    let ps = ns.map(n => 60 * n / max);
+    let bar = ps.map((p, idx) => {
+      const isLast = idx === ps.length - 1;
+      const char = idx % 2 ? '▒' : '█';
+      let bar = ''.padEnd(Math.floor(p), char);
+      if (p - Math.floor(p) > 0.5 || bar.length === 0) {
+        if (char === '█') {
+          if (isLast) bar += '▌';
+          else bar += char;
+        } else {
+          bar += char;
+        }   
+      }
+      return bar;
+    }).join('');
+    let s = (ext).padEnd(maxLanguageLength + 1, ' ') + 
             bar + 
-            ' ' + n;
+            ' ' + (ns.join('/'));
     lines.push(s);
   });
   lines.push('```');
@@ -193,7 +228,7 @@ if (root.title === 'Competitive programming') {
   newReadmeLines = [
     '# Competitive programming', 
     '', 
-    'This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve my programming skills.',
+    'This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve programming skills.',
     ''];
     renderUsedExtensions(newReadmeLines, usedExtensions);
 

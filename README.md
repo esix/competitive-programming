@@ -1,26 +1,23 @@
 # Competitive programming
 
-This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve my programming skills.
+This repository contains my solutions to various competitive programming problems. I use servers like Codeforces, HackerRank, and LeetCode to practice and improve programming skills.
 
 ## Programming Languages
 ```
-Python     ████████████████████████████████████████████████████████████ 771
-C++        ██████████████████████████████████████ 481
-JavaScript █████████████ 158
-Go         █████████████ 157
-OCaml      ██████▌ 71
-TypeScript ████ 42
-Ada        ████ 41
-Clojure    ██▌ 20
-Pascal     ██ 17
-Scheme     █▌ 10
-Java       █▌ 9
-Basic      █▌ 9
-Fortran    █ 2
-C          █ 1
-SQL        █ 1
-bash       █ 1
-Raku       █ 1
+Python                ████████████████████████████████████████████████████████████ 771
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 1/481
+JavaScript/TypeScript ████████████▒▒▒ 158/42
+Go                    ████████████ 157
+OCaml                 █████▌ 71
+Ada                   ███ 41
+Scheme/Clojure        █▒▒ 10/20
+Pascal                █ 17
+Java                  ▌ 9
+Basic                 ▌ 9
+Fortran               ▌ 2
+SQL                   ▌ 1
+bash                  ▌ 1
+Raku                  ▌ 1
 ```
 
 ## acmp.ru - Школа программиста [⬀](https://acmp.ru/)
