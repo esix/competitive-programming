@@ -11,7 +11,7 @@ Go         █████████████ 157
 OCaml      ██████▌ 71
 TypeScript ████ 42
 Ada        ████ 41
-Clojure    ██ 19
+Clojure    ██▌ 20
 Pascal     ██ 17
 Scheme     █▌ 10
 Java       █▌ 9
