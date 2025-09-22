@@ -40,7 +40,7 @@ function getFileNameAndExtension(fileName) {
 
 
 const SOLUTION_FILE_NAMES = ['Main', 'main', 'solution', 'Solution'];
-const FORBIDDEN_EXTENSIONS = ['class', 'cmi', 'cmo', 'ali', 'o', ''];
+const FORBIDDEN_EXTENSIONS = ['class', 'cmi', 'cmo', 'ali', 'o', '', 'exe'];
 
 
 function getSolutionFiles(dir) {
@@ -99,9 +99,9 @@ function renderUsedExtensions(lines, countByExt) {
     const group = GROUPINGS.find(group => group.includes(ext));
     let keyName;
     if (group) {
-      keyName = group.map(ext => LANGUAGE_BY_EXTENSION[ext]).join('/');
+      keyName = group.map(ext => LANGUAGE_BY_EXTENSION[ext] ?? ext).join('/');
     } else {
-      keyName = LANGUAGE_BY_EXTENSION[ext];
+      keyName = LANGUAGE_BY_EXTENSION[ext] ?? ext;
     }
 
     if (!(keyName in count)) {
