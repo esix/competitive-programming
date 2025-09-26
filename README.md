@@ -10,7 +10,7 @@ JavaScript/TypeScript ████████████▒▒▒ 158/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
-Scheme/Clojure        █▒▒ 10/20
+Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 17
 Java                  ▌ 9
 Basic                 ▌ 9
