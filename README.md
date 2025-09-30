@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python                ████████████████████████████████████████████████████████████ 771
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 5/482
-JavaScript/TypeScript ████████████▒▒▒ 159/42
+JavaScript/TypeScript ████████████▒▒▒ 160/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
@@ -1816,4 +1816,5 @@ Raku                  ▌ 1
 ## Яндекс Контест [⬀](https://contest.yandex.ru/)
 
 [Делёж грибов](yandex/80939/A), 
-[Мамины поручения](yandex/80939/B)
+[Мамины поручения](yandex/80939/B), 
+[Кибербезопасность](yandex/80939/C)
