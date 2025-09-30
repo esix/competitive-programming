@@ -5,8 +5,8 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 5/481
-JavaScript/TypeScript ████████████▒▒▒ 158/42
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 5/482
+JavaScript/TypeScript ████████████▒▒▒ 159/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
@@ -1812,3 +1812,8 @@ Raku                  ▌ 1
 [Page Hopping](uva/volume-08/821), 
 [The Tourist Guide](uva/volume-100/10099), 
 [Foreign Exchange](uva/volume-107/10763)
+
+## Яндекс Контест [⬀](https://contest.yandex.ru/)
+
+[Делёж грибов](yandex/80939/A), 
+[Мамины поручения](yandex/80939/B)
