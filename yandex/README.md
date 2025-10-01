@@ -7,4 +7,5 @@
 | A  | Делёж грибов [⬀](https://contest.yandex.ru/contest/80939/problems/A/)                                                                                          | [main.cpp](80939/A/main.cpp) |
 | B  | Мамины поручения [⬀](https://contest.yandex.ru/contest/80939/problems/B/)                                                                                      | [main.js](80939/B/main.js)   |
 | C  | Кибербезопасность [⬀](https://contest.yandex.ru/contest/80939/problems/C/)                                                                                     | [main.js](80939/C/main.js)   |
+| D  | Отборочный контест [⬀](https://contest.yandex.ru/contest/80939/problems/D/)                                                                                    | [main.cpp](80939/D/main.cpp) |
 
