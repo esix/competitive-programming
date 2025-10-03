@@ -11,4 +11,5 @@
 | F  | Плюсы, минусы и вопросы [⬀](https://contest.yandex.ru/contest/80939/problems/F/) | [main.cpp](F/main.cpp) |
 | G  | Пять подряд [⬀](https://contest.yandex.ru/contest/80939/problems/G/)             | [main.cpp](G/main.cpp) |
 | H  | Разрезанная строка [⬀](https://contest.yandex.ru/contest/80939/problems/H/)      | [main.cpp](H/main.cpp) |
+| I  | Новые ПДД* [⬀](https://contest.yandex.ru/contest/80939/problems/I/)              | [main.js](I/main.js)   |
 
