@@ -1,0 +1,12 @@
+12 3
+abaaaaaaaaaa
+aaaa
+abaa
+aaaa
+
+12 3
+cabacaqwerty
+erty
+caba
+caqw
+
