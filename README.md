@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python                ████████████████████████████████████████████████████████████ 771
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 5/486
-JavaScript/TypeScript █████████████▒▒▒ 163/42
+JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
@@ -1824,4 +1824,6 @@ Raku                  ▌ 1
 [Пять подряд](yandex/80939/G), 
 [Разрезанная строка](yandex/80939/H), 
 [Новые ПДД*](yandex/80939/I), 
-[Листы и вью*](yandex/80939/J)
+[Листы и вью*](yandex/80939/J), 
+[Мячик на лесенке](yandex/80940/A), 
+[Поход](yandex/80940/B)
