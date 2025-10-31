@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 5/481
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9/481
 JavaScript/TypeScript ████████████▒▒▒ 158/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1240,10 +1240,14 @@ Raku                  ▌ 1
 [Solve me second](hackerrank/algorithms/warmup/solve-me-second), 
 [Staircase](hackerrank/algorithms/warmup/staircase), 
 [Time Conversion](hackerrank/algorithms/warmup/time-conversion), 
+[Conditional Statements in C](hackerrank/c/conditional-statements-in-c), 
+[For Loop in C](hackerrank/c/for-loop-in-c), 
 [Functions in C](hackerrank/c/functions-in-c), 
 ["Hello World!" in C](hackerrank/c/hello-world-c), 
 [Playing With Characters](hackerrank/c/playing-with-characters), 
+[Pointers in C](hackerrank/c/pointer-in-c), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
+[Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
 [Java If-Else](hackerrank/java/introduction/java-if-else), 
 [Java Stdin and Stdout I](hackerrank/java/introduction/java-stdin-and-stdout-1), 
 [Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
