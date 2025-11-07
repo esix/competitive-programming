@@ -1,0 +1,32 @@
+5
+List p = new List(2,4,8,16)
+p.get(4)
+List q = new List(3,9,27)
+q.add(5)
+q.get(4)
+
+3
+List a = new List(2,3,5)
+List b = a.subList(2,3)
+b.get(1)
+
+13
+List x = new List(1,2,5,14,42)
+List y = x.subList(1,4)
+List z = y.subList(2,4)
+y.set(1,7)
+x.get(1)
+z.get(1)
+z.set(2,100)
+x.get(3)
+y.get(3)
+x.add(132)
+x.set(5,43)
+x.get(5)
+y.get(4)
+
+
+
+
+
+
