@@ -11,6 +11,7 @@
 | hello-world-c                        | "Hello World!" in C [⬀](https://www.hackerrank.com/challenges/hello-world-c)                                         | [main.c](hello-world-c/main.c)                        |
 | playing-with-characters              | Playing With Characters [⬀](https://www.hackerrank.com/challenges/playing-with-characters)                           | [main.c](playing-with-characters/main.c)              |
 | pointer-in-c                         | Pointers in C [⬀](https://www.hackerrank.com/challenges/pointer-in-c)                                                | [main.c](pointer-in-c/main.c)                         |
+| printing-pattern-2                   | Printing Pattern Using Loops [⬀](https://www.hackerrank.com/challenges/printing-pattern-2)                           | [main.c](printing-pattern-2/main.c)                   |
 | sum-numbers-c                        | Sum and Difference of Two Numbers [⬀](https://www.hackerrank.com/challenges/sum-numbers-c)                           | [main.c](sum-numbers-c/main.c)                        |
 | sum-of-digits-of-a-five-digit-number | Sum of Digits of a Five Digit Number [⬀](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number) | [main.c](sum-of-digits-of-a-five-digit-number/main.c) |
 

@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11/486
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 12/486
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1248,6 +1248,7 @@ Raku                  ▌ 1
 ["Hello World!" in C](hackerrank/c/hello-world-c), 
 [Playing With Characters](hackerrank/c/playing-with-characters), 
 [Pointers in C](hackerrank/c/pointer-in-c), 
+[Printing Pattern Using Loops](hackerrank/c/printing-pattern-2), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
 [Java If-Else](hackerrank/java/introduction/java-if-else), 
