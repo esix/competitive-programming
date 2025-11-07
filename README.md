@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 10/486
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11/486
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1243,6 +1243,7 @@ Raku                  ▌ 1
 [Bitwise Operators](hackerrank/c/bitwise-operators-in-c), 
 [Conditional Statements in C](hackerrank/c/conditional-statements-in-c), 
 [For Loop in C](hackerrank/c/for-loop-in-c), 
+[Digit Frequency](hackerrank/c/frequency-of-digits-1), 
 [Functions in C](hackerrank/c/functions-in-c), 
 ["Hello World!" in C](hackerrank/c/hello-world-c), 
 [Playing With Characters](hackerrank/c/playing-with-characters), 
