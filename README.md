@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 9/486
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 10/486
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1240,6 +1240,7 @@ Raku                  ▌ 1
 [Solve me second](hackerrank/algorithms/warmup/solve-me-second), 
 [Staircase](hackerrank/algorithms/warmup/staircase), 
 [Time Conversion](hackerrank/algorithms/warmup/time-conversion), 
+[Bitwise Operators](hackerrank/c/bitwise-operators-in-c), 
 [Conditional Statements in C](hackerrank/c/conditional-statements-in-c), 
 [For Loop in C](hackerrank/c/for-loop-in-c), 
 [Functions in C](hackerrank/c/functions-in-c), 

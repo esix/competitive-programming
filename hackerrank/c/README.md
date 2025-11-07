@@ -3,6 +3,7 @@
 
 | ID                                   | Problem statement                                                                                                    | Solution                                              |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| bitwise-operators-in-c               | Bitwise Operators [⬀](https://www.hackerrank.com/challenges/bitwise-operators-in-c)                                  | [main.c](bitwise-operators-in-c/main.c)               |
 | conditional-statements-in-c          | Conditional Statements in C [⬀](https://www.hackerrank.com/challenges/conditional-statements-in-c)                   | [main.c](conditional-statements-in-c/main.c)          |
 | for-loop-in-c                        | For Loop in C [⬀](https://www.hackerrank.com/challenges/for-loop-in-c)                                               | [main.c](for-loop-in-c/main.c)                        |
 | functions-in-c                       | Functions in C [⬀](https://www.hackerrank.com/challenges/functions-in-c)                                             | [main.c](functions-in-c/main.c)                       |
