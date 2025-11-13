@@ -11,7 +11,7 @@ Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
-Pascal                █ 17
+Pascal                █ 18
 Java                  ▌ 11
 Basic                 ▌ 9
 Fortran               ▌ 2
@@ -1836,4 +1836,5 @@ Raku                  ▌ 1
 [Мячик на лесенке](yandex/80940/A), 
 [Поход](yandex/80940/B), 
 [Средний элемент](yandex/catalog/0001), 
-[Самый дешевый путь](yandex/catalog/0002)
+[Самый дешевый путь](yandex/catalog/0002), 
+[Вывести маршрут максимальной стоимости](yandex/catalog/0003)
