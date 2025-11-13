@@ -12,7 +12,7 @@ OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 17
-Java                  ▌ 10
+Java                  ▌ 11
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1835,4 +1835,5 @@ Raku                  ▌ 1
 [Листы и вью*](yandex/80939/J), 
 [Мячик на лесенке](yandex/80940/A), 
 [Поход](yandex/80940/B), 
-[Средний элемент](yandex/catalog/0001)
+[Средний элемент](yandex/catalog/0001), 
+[Самый дешевый путь](yandex/catalog/0002)

@@ -3,4 +3,5 @@
 | ID   | Problem statement                                                          | Solution                    |
 |------|----------------------------------------------------------------------------|-----------------------------|
 | 0001 | Средний элемент [⬀](https://coderun.yandex.ru/problem/median-out-of-three) | [Main.java](0001/Main.java) |
+| 0002 | Самый дешевый путь [⬀](https://coderun.yandex.ru/problem/cheapest-way)     | [Main.java](0002/Main.java) |
 

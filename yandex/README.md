@@ -19,4 +19,5 @@
 | B    | Поход [⬀](https://contest.yandex.ru/contest/80940/problems/B/)                                                                                                                                 | [main.js](80940/B/main.js)          |
 |      | **Задачи** [⬀](https://coderun.yandex.ru/catalog)                                                                                                                                              | [catalog](catalog/)                 |
 | 0001 | Средний элемент [⬀](https://coderun.yandex.ru/problem/median-out-of-three)                                                                                                                     | [Main.java](catalog/0001/Main.java) |
+| 0002 | Самый дешевый путь [⬀](https://coderun.yandex.ru/problem/cheapest-way)                                                                                                                         | [Main.java](catalog/0002/Main.java) |
 
