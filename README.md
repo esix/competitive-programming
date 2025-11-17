@@ -12,7 +12,7 @@ OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
-Java                  ▌ 11
+Java                  ▌ 12
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1252,9 +1252,10 @@ Raku                  ▌ 1
 [Printing Pattern Using Loops](hackerrank/c/printing-pattern-2), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
-[Java If-Else](hackerrank/java/introduction/java-if-else), 
-[Java Stdin and Stdout I](hackerrank/java/introduction/java-stdin-and-stdout-1), 
-[Welcome to Java!](hackerrank/java/introduction/welcome-to-java), 
+[Java If-Else](hackerrank/java/java-if-else), 
+[Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 
+[Java Stdin and Stdout II](hackerrank/java/java-stdin-stdout), 
+[Welcome to Java!](hackerrank/java/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
 [Find the Runner-Up Score!](hackerrank/python/py-basic-data-types/find-second-maximum-number-in-a-list), 
 [Finding the percentage](hackerrank/python/py-basic-data-types/finding-the-percentage), 

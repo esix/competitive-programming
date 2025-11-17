@@ -1,4 +1,4 @@
-# Welcome to Java! [⬀](https://www.hackerrank.com/challenges/welcome-to-java/problem)
+# Welcome to Java! [⬀](https://www.hackerrank.com/challenges/welcome-to-java)
 
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
@@ -26,4 +26,3 @@ You must print two lines of output:
 Hello, World.
 Hello, Java.
 ```
-

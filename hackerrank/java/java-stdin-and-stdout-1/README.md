@@ -1,4 +1,4 @@
-# Java Stdin and Stdout I [⬀](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)
+# Java Stdin and Stdout I [⬀](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)
 
 Most HackerRank challenges require you to read input from stdin (standard input) and write output to stdout (standard output).
 
@@ -51,4 +51,3 @@ There are  lines of input, and each line contains a single integer.
 100
 125
 ```
-
