@@ -12,7 +12,7 @@ OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
-Java                  █ 16
+Java                  █ 17
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1253,6 +1253,7 @@ Raku                  ▌ 1
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
+[Java End-of-file](hackerrank/java/java-end-of-file), 
 [Java If-Else](hackerrank/java/java-if-else), 
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
