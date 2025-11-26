@@ -12,7 +12,7 @@ OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
-Java                  █ 17
+Java                  █ 18
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1258,6 +1258,7 @@ Raku                  ▌ 1
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
 [Java Output Formatting](hackerrank/java/java-output-formatting), 
+[Java Static Initializer Block](hackerrank/java/java-static-initializer-block), 
 [Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 
 [Java Stdin and Stdout II](hackerrank/java/java-stdin-stdout), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 
