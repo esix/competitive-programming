@@ -11,8 +11,8 @@ Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
+Java                  █ 19
 Pascal                █ 19
-Java                  █ 18
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1255,6 +1255,7 @@ Raku                  ▌ 1
 [Java Datatypes](hackerrank/java/java-datatypes), 
 [Java End-of-file](hackerrank/java/java-end-of-file), 
 [Java If-Else](hackerrank/java/java-if-else), 
+[Java Int to String](hackerrank/java/java-int-to-string), 
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
 [Java Output Formatting](hackerrank/java/java-output-formatting), 

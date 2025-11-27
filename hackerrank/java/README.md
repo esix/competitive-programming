@@ -6,6 +6,7 @@
 | java-datatypes                | Java Datatypes [⬀](https://www.hackerrank.com/challenges/java-datatypes)                               | [Solution.java](java-datatypes/Solution.java)                |
 | java-end-of-file              | Java End-of-file [⬀](https://www.hackerrank.com/challenges/java-end-of-file)                           | [Solution.java](java-end-of-file/Solution.java)              |
 | java-if-else                  | Java If-Else [⬀](https://www.hackerrank.com/challenges/java-if-else)                                   | [Solution.java](java-if-else/Solution.java)                  |
+| java-int-to-string            | Java Int to String [⬀](https://www.hackerrank.com/challenges/java-int-to-string)                       | [Solution.java](java-int-to-string/Solution.java)            |
 | java-loops                    | Java Loops II [⬀](https://www.hackerrank.com/challenges/java-loops)                                    | [Solution.java](java-loops/Solution.java)                    |
 | java-loops-i                  | Java Loops I [⬀](https://www.hackerrank.com/challenges/java-loops-i)                                   | [Solution.java](java-loops-i/Solution.java)                  |
 | java-output-formatting        | Java Output Formatting [⬀](https://www.hackerrank.com/challenges/java-output-formatting)               | [Solution.java](java-output-formatting/Solution.java)        |
