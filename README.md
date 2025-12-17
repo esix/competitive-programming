@@ -11,7 +11,7 @@ Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
-Java                  █ 19
+Java                  █▌ 23
 Pascal                █ 19
 Basic                 ▌ 9
 Fortran               ▌ 2
@@ -1252,7 +1252,9 @@ Raku                  ▌ 1
 [Printing Pattern Using Loops](hackerrank/c/printing-pattern-2), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
+[Java Currency Formatter](hackerrank/java/java-currency-formatter), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
+[Java Date and Time](hackerrank/java/java-date-and-time), 
 [Java End-of-file](hackerrank/java/java-end-of-file), 
 [Java If-Else](hackerrank/java/java-if-else), 
 [Java Int to String](hackerrank/java/java-int-to-string), 
@@ -1262,6 +1264,8 @@ Raku                  ▌ 1
 [Java Static Initializer Block](hackerrank/java/java-static-initializer-block), 
 [Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 
 [Java Stdin and Stdout II](hackerrank/java/java-stdin-stdout), 
+[Java Strings Introduction](hackerrank/java/java-strings-introduction), 
+[Java Substring](hackerrank/java/java-substring), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
 [Find the Runner-Up Score!](hackerrank/python/py-basic-data-types/find-second-maximum-number-in-a-list), 
