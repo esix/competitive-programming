@@ -11,7 +11,7 @@ Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
 Scheme/Clojure        █▒▒ 10/21
-Java                  █▌ 23
+Java                  ██ 27
 Pascal                █ 19
 Basic                 ▌ 9
 Fortran               ▌ 2
@@ -1252,6 +1252,7 @@ Raku                  ▌ 1
 [Printing Pattern Using Loops](hackerrank/c/printing-pattern-2), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
+[Java Anagrams](hackerrank/java/java-anagrams), 
 [Java Currency Formatter](hackerrank/java/java-currency-formatter), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
 [Java Date and Time](hackerrank/java/java-date-and-time), 
@@ -1264,6 +1265,9 @@ Raku                  ▌ 1
 [Java Static Initializer Block](hackerrank/java/java-static-initializer-block), 
 [Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 
 [Java Stdin and Stdout II](hackerrank/java/java-stdin-stdout), 
+[Java Substring Comparisons](hackerrank/java/java-string-compare), 
+[Java String Reverse](hackerrank/java/java-string-reverse), 
+[Java String Tokens](hackerrank/java/java-string-tokens), 
 [Java Strings Introduction](hackerrank/java/java-strings-introduction), 
 [Java Substring](hackerrank/java/java-substring), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 
