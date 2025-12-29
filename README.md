@@ -10,8 +10,8 @@ JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 41
+Java                  ██ 31
 Scheme/Clojure        █▒▒ 10/21
-Java                  ██ 27
 Pascal                █ 19
 Basic                 ▌ 9
 Fortran               ▌ 2
@@ -1252,6 +1252,7 @@ Raku                  ▌ 1
 [Printing Pattern Using Loops](hackerrank/c/printing-pattern-2), 
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
+[Java Regex 2 - Duplicate Words](hackerrank/java/duplicate-word), 
 [Java Anagrams](hackerrank/java/java-anagrams), 
 [Java Currency Formatter](hackerrank/java/java-currency-formatter), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
@@ -1262,6 +1263,7 @@ Raku                  ▌ 1
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
 [Java Output Formatting](hackerrank/java/java-output-formatting), 
+[Java Regex](hackerrank/java/java-regex), 
 [Java Static Initializer Block](hackerrank/java/java-static-initializer-block), 
 [Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 
 [Java Stdin and Stdout II](hackerrank/java/java-stdin-stdout), 
@@ -1270,6 +1272,8 @@ Raku                  ▌ 1
 [Java String Tokens](hackerrank/java/java-string-tokens), 
 [Java Strings Introduction](hackerrank/java/java-strings-introduction), 
 [Java Substring](hackerrank/java/java-substring), 
+[Tag Content Extractor](hackerrank/java/tag-content-extractor), 
+[Valid Username Regular Expression](hackerrank/java/valid-username-checker), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 
 [Max Min](hackerrank/one-month-preparation-kit-angry-children), 
 [Find the Runner-Up Score!](hackerrank/python/py-basic-data-types/find-second-maximum-number-in-a-list), 
