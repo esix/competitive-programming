@@ -4,8 +4,8 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python                ████████████████████████████████████████████████████████████ 771
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/486
+Python                ████████████████████████████████████████████████████████████ 772
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1609,6 +1609,12 @@ Raku                  ▌ 1
 [Headshot](poj/volume-29/3869), 
 [Build Your Home](poj/volume-30/3907), 
 [Automated Telephone Exchange](poj/volume-31/4011)
+
+## random [⬀]()
+
+[001](random/001), 
+[002](random/002), 
+[Alarm Clock](random/problems-2014/A)
 
 ## Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/olimp/)
 
