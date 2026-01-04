@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python                ████████████████████████████████████████████████████████████ 772
+Python                ████████████████████████████████████████████████████████████ 773
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
@@ -1614,7 +1614,8 @@ Raku                  ▌ 1
 
 [001](random/001), 
 [002](random/002), 
-[Alarm Clock](random/problems-2014/A)
+[Alarm Clock](random/problems-2014/A), 
+[Buffcraft](random/problems-2014/B)
 
 ## Saratov State University :: Online Contester [⬀](http://acm.sgu.ru/olimp/)
 

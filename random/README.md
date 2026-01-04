@@ -8,4 +8,5 @@ Different problems somewhere on the internet
 | 002 | 002           | [main.cpp](002/main.cpp)           |
 |     | problems-2014 | [problems-2014](problems-2014/)    |
 | A   | Alarm Clock   | [main.py](problems-2014/A/main.py) |
+| B   | Buffcraft     | [main.py](problems-2014/B/main.py) |
 
