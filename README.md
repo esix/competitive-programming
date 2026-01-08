@@ -9,7 +9,7 @@ C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
-Ada                   ███ 42
+Ada                   ███ 43
 Java                  ██ 31
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
@@ -1230,6 +1230,7 @@ Raku                  ▌ 1
 [Palindrome Index](hackerrank/algorithms/strings/palindrome-index), 
 [Super Reduced String](hackerrank/algorithms/strings/reduced-string), 
 [String Function Calculation](hackerrank/algorithms/strings/string-function-calculation), 
+[Two Strings](hackerrank/algorithms/strings/two-strings), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
 [Birthday Cake Candles](hackerrank/algorithms/warmup/birthday-cake-candles), 
 [Compare the Triplets](hackerrank/algorithms/warmup/compare-the-triplets), 

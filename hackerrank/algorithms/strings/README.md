@@ -9,4 +9,5 @@
 | palindrome-index            | Palindrome Index [⬀](https://www.hackerrank.com/challenges/palindrome-index)                       | [solution.adb](palindrome-index/solution.adb)            |
 | reduced-string              | Super Reduced String [⬀](https://www.hackerrank.com/challenges/reduced-string)                     | [solution.adb](reduced-string/solution.adb)              |
 | string-function-calculation | String Function Calculation [⬀](https://www.hackerrank.com/challenges/string-function-calculation) | [solution.adb](string-function-calculation/solution.adb) |
+| two-strings                 | Two Strings [⬀](https://www.hackerrank.com/challenges/two-strings)                                 | [solution.adb](two-strings/solution.adb)                 |
 
