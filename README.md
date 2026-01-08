@@ -9,7 +9,7 @@ C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 JavaScript/TypeScript █████████████▒▒▒ 165/42
 Go                    ████████████ 157
 OCaml                 █████▌ 71
-Ada                   ███ 41
+Ada                   ███ 42
 Java                  ██ 31
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
@@ -1227,6 +1227,7 @@ Raku                  ▌ 1
 [Caesar Cipher](hackerrank/algorithms/strings/caesar-cipher-1), 
 [CamelCase](hackerrank/algorithms/strings/camelcase), 
 [Common Child](hackerrank/algorithms/strings/common-child), 
+[Palindrome Index](hackerrank/algorithms/strings/palindrome-index), 
 [Super Reduced String](hackerrank/algorithms/strings/reduced-string), 
 [String Function Calculation](hackerrank/algorithms/strings/string-function-calculation), 
 [A very big sum](hackerrank/algorithms/warmup/a-very-big-sum), 
