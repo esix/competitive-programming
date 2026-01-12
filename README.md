@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python                ████████████████████████████████████████████████████████████ 773
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
-JavaScript/TypeScript █████████████▒▒▒ 165/42
+JavaScript/TypeScript █████████████▒▒▒ 165/43
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
@@ -1460,6 +1460,7 @@ Raku                  ▌ 1
 [Cells with Odd Values in a Matrix](leetcode/1000-1999/1252), 
 [Reconstruct a 2-Row Binary Matrix](leetcode/1000-1999/1253), 
 [Shift 2D Grid](leetcode/1000-1999/1260), 
+[Minimum Time Visiting All Points](leetcode/1000-1999/1266), 
 [Deepest Leaves Sum](leetcode/1000-1999/1302), 
 [Find N Unique Integers Sum up to Zero](leetcode/1000-1999/1304), 
 [Decrypt String from Alphabet to Integer Mapping](leetcode/1000-1999/1309), 

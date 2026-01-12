@@ -21,6 +21,7 @@
 | 1252 | Cells with Odd Values in a Matrix [⬀](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                             | [main.js](1252/main.js)   |
 | 1253 | Reconstruct a 2-Row Binary Matrix [⬀](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)                                             | [main.js](1253/main.js)   |
 | 1260 | Shift 2D Grid [⬀](https://leetcode.com/problems/shift-2d-grid/)                                                                                     | [main.js](1260/main.js)   |
+| 1266 | Minimum Time Visiting All Points [⬀](https://leetcode.com/problems/minimum-time-visiting-all-points)                                                | [main.ts](1266/main.ts)   |
 | 1302 | Deepest Leaves Sum [⬀](https://leetcode.com/problems/deepest-leaves-sum/)                                                                           | [main.js](1302/main.js)   |
 | 1304 | Find N Unique Integers Sum up to Zero [⬀](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                     | [main.js](1304/main.js)   |
 | 1309 | Decrypt String from Alphabet to Integer Mapping [⬀](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)                 | [main.js](1309/main.js)   |
