@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python                ████████████████████████████████████████████████████████████ 773
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
-JavaScript/TypeScript █████████████▒▒▒ 165/43
+JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
@@ -1478,7 +1478,8 @@ Raku                  ▌ 1
 [Slowest Key](leetcode/1000-1999/1629), 
 [Create Sorted Array through Instructions](leetcode/1000-1999/1649), 
 [Design an Ordered Stream](leetcode/1000-1999/1656), 
-[Check If Two String Arrays are Equivalent](leetcode/1000-1999/1662)
+[Check If Two String Arrays are Equivalent](leetcode/1000-1999/1662), 
+[Separate Squares I](leetcode/3000-3999/3453)
 
 ## LightOJ [⬀](http://www.lightoj.com/index.php)
 

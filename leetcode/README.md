@@ -143,4 +143,6 @@ LeetCode is the best platform to help you enhance your skills, expand your knowl
 | 1649 | Create Sorted Array through Instructions [⬀](https://leetcode.com/problems/create-sorted-array-through-instructions/)                               | [main.js](1000-1999/1649/main.js)   |
 | 1656 | Design an Ordered Stream [⬀](https://leetcode.com/problems/design-an-ordered-stream/)                                                               | [main.js](1000-1999/1656/main.js)   |
 | 1662 | Check If Two String Arrays are Equivalent [⬀](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                             | [main.js](1000-1999/1662/main.js)   |
+|      | **(3000-3999)** [⬀](https://leetcode.com/problemset/)                                                                                               | [3000-3999](3000-3999/)             |
+| 3453 | Separate Squares I [⬀](https://leetcode.com/problems/separate-squares-i/)                                                                           | [main.ts](3000-3999/3453/main.ts)   |
 
