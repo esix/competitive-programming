@@ -10,7 +10,7 @@ JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
-Java                  ██ 32
+Java                  ██▌ 33
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
 Basic                 ▌ 9
@@ -1265,6 +1265,7 @@ Raku                  ▌ 1
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
 [Java Output Formatting](hackerrank/java/java-output-formatting), 
+[Java Primality Test](hackerrank/java/java-primality-test), 
 [Java Regex](hackerrank/java/java-regex), 
 [Java Static Initializer Block](hackerrank/java/java-static-initializer-block), 
 [Java Stdin and Stdout I](hackerrank/java/java-stdin-and-stdout-1), 

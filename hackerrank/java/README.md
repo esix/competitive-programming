@@ -14,6 +14,7 @@
 | java-loops                    | Java Loops II [⬀](https://www.hackerrank.com/challenges/java-loops)                                    | [Solution.java](java-loops/Solution.java)                    |
 | java-loops-i                  | Java Loops I [⬀](https://www.hackerrank.com/challenges/java-loops-i)                                   | [Solution.java](java-loops-i/Solution.java)                  |
 | java-output-formatting        | Java Output Formatting [⬀](https://www.hackerrank.com/challenges/java-output-formatting)               | [Solution.java](java-output-formatting/Solution.java)        |
+| java-primality-test           | Java Primality Test [⬀](https://www.hackerrank.com/challenges/java-primality-test)                     | [Solution.java](java-primality-test/Solution.java)           |
 | java-regex                    | Java Regex [⬀](https://www.hackerrank.com/challenges/java-regex)                                       | [Solution.java](java-regex/Solution.java)                    |
 | java-static-initializer-block | Java Static Initializer Block [⬀](https://www.hackerrank.com/challenges/java-static-initializer-block) | [Solution.java](java-static-initializer-block/Solution.java) |
 | java-stdin-and-stdout-1       | Java Stdin and Stdout I [⬀](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)             | [Solution.java](java-stdin-and-stdout-1/Solution.java)       |
