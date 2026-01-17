@@ -10,7 +10,7 @@ JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
-Java                  ██ 31
+Java                  ██ 32
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
 Basic                 ▌ 9
@@ -1274,6 +1274,7 @@ Raku                  ▌ 1
 [Java String Tokens](hackerrank/java/java-string-tokens), 
 [Java Strings Introduction](hackerrank/java/java-strings-introduction), 
 [Java Substring](hackerrank/java/java-substring), 
+[Pattern Syntax Checker](hackerrank/java/pattern-syntax-checker), 
 [Tag Content Extractor](hackerrank/java/tag-content-extractor), 
 [Valid Username Regular Expression](hackerrank/java/valid-username-checker), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 

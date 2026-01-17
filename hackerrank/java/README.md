@@ -23,6 +23,7 @@
 | java-string-tokens            | Java String Tokens [⬀](https://www.hackerrank.com/challenges/java-string-tokens)                       | [Solution.java](java-string-tokens/Solution.java)            |
 | java-strings-introduction     | Java Strings Introduction [⬀](https://www.hackerrank.com/challenges/java-strings-introduction)         | [Solution.java](java-strings-introduction/Solution.java)     |
 | java-substring                | Java Substring [⬀](https://www.hackerrank.com/challenges/java-substring)                               | [Solution.java](java-substring/Solution.java)                |
+| pattern-syntax-checker        | Pattern Syntax Checker [⬀](https://www.hackerrank.com/challenges/pattern-syntax-checker)               | [Solution.java](pattern-syntax-checker/Solution.java)        |
 | tag-content-extractor         | Tag Content Extractor [⬀](https://www.hackerrank.com/challenges/tag-content-extractor)                 | [Solution.java](tag-content-extractor/Solution.java)         |
 | valid-username-checker        | Valid Username Regular Expression [⬀](https://www.hackerrank.com/challenges/valid-username-checker)    | [Solution.java](valid-username-checker/Solution.java)        |
 | welcome-to-java               | Welcome to Java! [⬀](https://www.hackerrank.com/challenges/welcome-to-java)                            | [Solution.java](welcome-to-java/Solution.java)               |
