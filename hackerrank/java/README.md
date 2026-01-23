@@ -4,7 +4,10 @@
 | ID                            | Problem statement                                                                                      | Solution                                                     |
 |-------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | duplicate-word                | Java Regex 2 - Duplicate Words [⬀](https://www.hackerrank.com/challenges/duplicate-word)               | [Solution.java](duplicate-word/Solution.java)                |
+| java-1d-array-introduction    | Java 1D Array [⬀](https://www.hackerrank.com/challenges/java-1d-array-introduction)                    | [Solution.java](java-1d-array-introduction/Solution.java)    |
+| java-2d-array                 | Java 2D Array [⬀](https://www.hackerrank.com/challenges/java-2d-array)                                 | [Solution.java](java-2d-array/Solution.java)                 |
 | java-anagrams                 | Java Anagrams [⬀](https://www.hackerrank.com/challenges/java-anagrams)                                 | [Solution.java](java-anagrams/Solution.java)                 |
+| java-biginteger               | Java BigInteger [⬀](https://www.hackerrank.com/challenges/java-biginteger)                             | [Solution.java](java-biginteger/Solution.java)               |
 | java-currency-formatter       | Java Currency Formatter [⬀](https://www.hackerrank.com/challenges/java-currency-formatter)             | [Solution.java](java-currency-formatter/Solution.java)       |
 | java-datatypes                | Java Datatypes [⬀](https://www.hackerrank.com/challenges/java-datatypes)                               | [Solution.java](java-datatypes/Solution.java)                |
 | java-date-and-time            | Java Date and Time [⬀](https://www.hackerrank.com/challenges/java-date-and-time)                       | [Solution.java](java-date-and-time/Solution.java)            |
@@ -13,6 +16,7 @@
 | java-int-to-string            | Java Int to String [⬀](https://www.hackerrank.com/challenges/java-int-to-string)                       | [Solution.java](java-int-to-string/Solution.java)            |
 | java-loops                    | Java Loops II [⬀](https://www.hackerrank.com/challenges/java-loops)                                    | [Solution.java](java-loops/Solution.java)                    |
 | java-loops-i                  | Java Loops I [⬀](https://www.hackerrank.com/challenges/java-loops-i)                                   | [Solution.java](java-loops-i/Solution.java)                  |
+| java-negative-subarray        | Java Subarray [⬀](https://www.hackerrank.com/challenges/java-negative-subarray)                        | [Solution.java](java-negative-subarray/Solution.java)        |
 | java-output-formatting        | Java Output Formatting [⬀](https://www.hackerrank.com/challenges/java-output-formatting)               | [Solution.java](java-output-formatting/Solution.java)        |
 | java-primality-test           | Java Primality Test [⬀](https://www.hackerrank.com/challenges/java-primality-test)                     | [Solution.java](java-primality-test/Solution.java)           |
 | java-regex                    | Java Regex [⬀](https://www.hackerrank.com/challenges/java-regex)                                       | [Solution.java](java-regex/Solution.java)                    |

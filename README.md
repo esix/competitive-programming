@@ -10,7 +10,7 @@ JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
-Java                  ██▌ 33
+Java                  ██▌ 37
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
 Basic                 ▌ 9
@@ -1255,7 +1255,10 @@ Raku                  ▌ 1
 [Sum and Difference of Two Numbers](hackerrank/c/sum-numbers-c), 
 [Sum of Digits of a Five Digit Number](hackerrank/c/sum-of-digits-of-a-five-digit-number), 
 [Java Regex 2 - Duplicate Words](hackerrank/java/duplicate-word), 
+[Java 1D Array](hackerrank/java/java-1d-array-introduction), 
+[Java 2D Array](hackerrank/java/java-2d-array), 
 [Java Anagrams](hackerrank/java/java-anagrams), 
+[Java BigInteger](hackerrank/java/java-biginteger), 
 [Java Currency Formatter](hackerrank/java/java-currency-formatter), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
 [Java Date and Time](hackerrank/java/java-date-and-time), 
@@ -1264,6 +1267,7 @@ Raku                  ▌ 1
 [Java Int to String](hackerrank/java/java-int-to-string), 
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
+[Java Subarray](hackerrank/java/java-negative-subarray), 
 [Java Output Formatting](hackerrank/java/java-output-formatting), 
 [Java Primality Test](hackerrank/java/java-primality-test), 
 [Java Regex](hackerrank/java/java-regex), 
