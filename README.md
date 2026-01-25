@@ -10,7 +10,7 @@ JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
-Java                  ██▌ 37
+Java                  ███ 41
 Scheme/Clojure        █▒▒ 10/21
 Pascal                █ 19
 Basic                 ▌ 9
@@ -1258,13 +1258,16 @@ Raku                  ▌ 1
 [Java 1D Array](hackerrank/java/java-1d-array-introduction), 
 [Java 2D Array](hackerrank/java/java-2d-array), 
 [Java Anagrams](hackerrank/java/java-anagrams), 
+[Java Arraylist](hackerrank/java/java-arraylist), 
 [Java BigInteger](hackerrank/java/java-biginteger), 
 [Java Currency Formatter](hackerrank/java/java-currency-formatter), 
 [Java Datatypes](hackerrank/java/java-datatypes), 
 [Java Date and Time](hackerrank/java/java-date-and-time), 
 [Java End-of-file](hackerrank/java/java-end-of-file), 
+[Java Hashset](hackerrank/java/java-hashset), 
 [Java If-Else](hackerrank/java/java-if-else), 
 [Java Int to String](hackerrank/java/java-int-to-string), 
+[Java List](hackerrank/java/java-list), 
 [Java Loops II](hackerrank/java/java-loops), 
 [Java Loops I](hackerrank/java/java-loops-i), 
 [Java Subarray](hackerrank/java/java-negative-subarray), 
@@ -1280,6 +1283,7 @@ Raku                  ▌ 1
 [Java Strings Introduction](hackerrank/java/java-strings-introduction), 
 [Java Substring](hackerrank/java/java-substring), 
 [Pattern Syntax Checker](hackerrank/java/pattern-syntax-checker), 
+[Java Map](hackerrank/java/phone-book), 
 [Tag Content Extractor](hackerrank/java/tag-content-extractor), 
 [Valid Username Regular Expression](hackerrank/java/valid-username-checker), 
 [Welcome to Java!](hackerrank/java/welcome-to-java), 
