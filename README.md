@@ -4,7 +4,7 @@ This repository contains my solutions to various competitive programming problem
 
 ## Programming Languages
 ```
-Python                ████████████████████████████████████████████████████████████ 773
+Python                ████████████████████████████████████████████████████████████ 774
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
 JavaScript/TypeScript █████████████▒▒▒ 165/44
 Go                    ████████████ 157
@@ -344,6 +344,10 @@ Raku                  ▌ 1
 [Equi](codility/Equi), 
 [FrogJmp](codility/FrogJmp), 
 [Kalium 2015](codility/Kalium)
+
+## CodinGame [⬀](https://www.codingame.com/)
+
+[Onboarding](codingame/onboarding)
 
 ## Eolymp [⬀](http://www.eolymp.com/en/problems)
 
