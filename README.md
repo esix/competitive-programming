@@ -12,7 +12,7 @@ OCaml                 █████▌ 71
 Ada                   ███ 43
 Java                  ███ 41
 Scheme/Clojure        █▒▒ 10/21
-Pascal                █ 19
+Pascal                █▌ 20
 Basic                 ▌ 9
 Fortran               ▌ 2
 SQL                   ▌ 1
@@ -1574,6 +1574,10 @@ Raku                  ▌ 1
 [Nim Game -- who is the winner?](mipt/100), 
 [Number of solutions](mipt/201), 
 [Pete in love](mipt/202)
+
+## omegaUp [⬀](https://omegaup.com/problem/)
+
+[0 Multiplicacion basica](omegaup/772)
 
 ## Peking University Judge Online for ACM/ACPC [⬀](http://poj.org/problemlist)
 
