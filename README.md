@@ -6,7 +6,7 @@ This repository contains my solutions to various competitive programming problem
 ```
 Python                ████████████████████████████████████████████████████████████ 774
 C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/488
-JavaScript/TypeScript █████████████▒▒▒ 165/44
+JavaScript/TypeScript █████████████▒▒▒ 166/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
 Ada                   ███ 43
@@ -341,6 +341,7 @@ Raku                  ▌ 1
 
 ## Codility [⬀](https://codility.com/programmers/)
 
+[BinaryGap](codility/BinaryGap), 
 [Equi](codility/Equi), 
 [FrogJmp](codility/FrogJmp), 
 [Kalium 2015](codility/Kalium)

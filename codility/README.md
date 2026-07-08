@@ -1,20 +1,10 @@
 # Codility [⬀](https://codility.com/programmers/)
 
-Languages:
 
-- C
-- C#
-- C++
-- Java
-- JavaScript
-- Lua
-- Objective-C
-- Pascal
-- Perl
-- PHP
-- Python
-- Ruby
-- Scala
-- SQL
-- VB.NET
-- Go
+| ID        | Problem statement                                                                    | Solution                             |
+|-----------|--------------------------------------------------------------------------------------|--------------------------------------|
+| BinaryGap | BinaryGap [⬀](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) | [solution.js](BinaryGap/solution.js) |
+| Equi      | Equi [⬀](https://codility.com/c/run/demo3NSACC-RB2)                                  | [solution.js](Equi/solution.js)      |
+| FrogJmp   | FrogJmp [⬀](https://codility.com/c/run/demoM2N84K-U89)                               | [solution.js](FrogJmp/solution.js)   |
+| Kalium    | Kalium 2015 [⬀](https://codility.com/programmers/challenges/kalium2015)              | [solution.sql](Kalium/solution.sql)  |
+
