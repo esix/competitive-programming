@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 774
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/489
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/490
 JavaScript/TypeScript █████████████▒▒▒ 167/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1586,6 +1586,7 @@ Raku                  ▌ 1
 [A+B Problem](poj/volume-01/1000), 
 [Exponentiation](poj/volume-01/1001), 
 [487-3279](poj/volume-01/1002), 
+[Hangover](poj/volume-01/1003), 
 [Transmitters](poj/volume-02/1106), 
 [The Triangle](poj/volume-02/1163), 
 [The 3n + 1 problem](poj/volume-03/1207), 

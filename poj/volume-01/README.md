@@ -6,4 +6,5 @@
 | 1000 | A+B Problem [⬀](http://poj.org/problem?id=1000)    | [main.cpp](1000/main.cpp), [main.f95](1000/main.f95) |
 | 1001 | Exponentiation [⬀](http://poj.org/problem?id=1001) | [main.cpp](1001/main.cpp)                            |
 | 1002 | 487-3279 [⬀](http://poj.org/problem?id=1002)       | [main.cpp](1002/main.cpp)                            |
+| 1003 | Hangover [⬀](http://poj.org/problem?id=1003)       | [main.cpp](1003/main.cpp)                            |
 
