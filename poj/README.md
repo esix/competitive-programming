@@ -10,6 +10,7 @@
 | 1003 | Hangover [⬀](http://poj.org/problem?id=1003)                                       | [main.cpp](volume-01/1003/main.cpp)                                      |
 | 1004 | Financial Management [⬀](http://poj.org/problem?id=1004)                           | [main.cpp](volume-01/1004/main.cpp)                                      |
 | 1005 | I Think I Need a Houseboat [⬀](http://poj.org/problem?id=1005)                     | [main.cpp](volume-01/1005/main.cpp)                                      |
+| 1006 | Biorhythms [⬀](http://poj.org/problem?id=1006)                                     | [main.cpp](volume-01/1006/main.cpp)                                      |
 |      | **Volume 2** [⬀](http://poj.org/problemlist?volume=2)                              | [volume-02](volume-02/)                                                  |
 | 1106 | Transmitters [⬀](http://poj.org/problem?id=1106)                                   | [main.cpp](volume-02/1106/main.cpp)                                      |
 | 1163 | The Triangle [⬀](http://poj.org/problem?id=1163)                                   | [main.cpp](volume-02/1163/main.cpp), [main.f95](volume-02/1163/main.f95) |
