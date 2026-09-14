@@ -5,7 +5,7 @@ This repository contains my solutions to various competitive programming problem
 ## Programming Languages
 ```
 Python                ████████████████████████████████████████████████████████████ 774
-C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/493
+C/C++                 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13/494
 JavaScript/TypeScript █████████████▒▒▒ 167/44
 Go                    ████████████ 157
 OCaml                 █████▌ 71
@@ -1590,6 +1590,7 @@ Raku                  ▌ 1
 [Financial Management](poj/volume-01/1004), 
 [I Think I Need a Houseboat](poj/volume-01/1005), 
 [Biorhythms](poj/volume-01/1006), 
+[DNA Sorting](poj/volume-01/1007), 
 [Transmitters](poj/volume-02/1106), 
 [The Triangle](poj/volume-02/1163), 
 [The 3n + 1 problem](poj/volume-03/1207), 
