@@ -11,4 +11,5 @@
 | 1005 | I Think I Need a Houseboat [⬀](http://poj.org/problem?id=1005) | [main.cpp](1005/main.cpp)                            |
 | 1006 | Biorhythms [⬀](http://poj.org/problem?id=1006)                 | [main.cpp](1006/main.cpp)                            |
 | 1007 | DNA Sorting [⬀](http://poj.org/problem?id=1007)                | [main.cpp](1007/main.cpp)                            |
+| 1008 | Maya Calendar [⬀](http://poj.org/problem?id=1008)              | [main.cpp](1008/main.cpp)                            |
 
